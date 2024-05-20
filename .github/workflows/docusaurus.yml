@@ -20,15 +20,16 @@ jobs:
           node-version: 21
 
       - name: Install dependencies
-        working-directory: workingdir
+        working-directory: website
         run: yarn install --frozen-lockfile
       - name: Build website
+        working-directory: website
         run: yarn build
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build
+          path: website/build
 
   deploy:
     name: Deploy to GitHub Pages
