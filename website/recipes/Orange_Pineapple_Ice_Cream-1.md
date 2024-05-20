@@ -4,7 +4,7 @@
 
 - 2 large navel oranges
 - Fresh or canned pineapple in juice
-- [11/2]() cups whole milk
+- 1 and 1/2 cups whole milk
 - 1/2 cup half n half
 - 1/2 cup sugar
 - 4 large egg yolks
