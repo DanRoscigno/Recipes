@@ -57,7 +57,9 @@ const config = {
     ],
   ],
 
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [[ require.resolve('docusaurus-lunr-search'), {
+      maxHits: ['50'] // default is 5, need more hits
+  }]],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
