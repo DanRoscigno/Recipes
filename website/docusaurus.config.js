@@ -74,7 +74,7 @@ const config = {
             // Optional: Algolia search parameters
             searchParameters: {},
 
-            // Optional: path for search page that enabled by default (`false` to disable it)
+            // Optional: path for search page. Enabled by default (`false` to disable it)
             searchPagePath: 'search',
 
             // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
