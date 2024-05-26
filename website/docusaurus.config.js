@@ -64,7 +64,7 @@ const config = {
               cloud: {
                   indexId: process.env.ORAMA_INDEX_ID,
                   oramaCloudAPIKey: process.env.ORAMA_CLOUD_API_KEY,
-                  deploy: false, // Enables deploy while building/starting
+                  deploy: true, // Enables deploy while building/starting
               },
           },
       ],
