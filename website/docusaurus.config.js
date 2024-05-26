@@ -16,7 +16,7 @@ const config = {
   url: 'https://danroscigno.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Recipes/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -55,6 +55,19 @@ const config = {
         },
       }),
     ],
+  ],
+
+  plugins: [
+      [
+          "@orama/plugin-docusaurus-v3",
+          {
+              cloud: {
+                  indexId: process.env.ORAMA_INDEX_ID,
+                  oramaCloudAPIKey: process.env.ORAMA_CLOUD_API_KEY,
+                  deploy: false, // Enables deploy while building/starting
+              },
+          },
+      ],
   ],
 
   themeConfig:
