@@ -57,13 +57,31 @@ const config = {
     ],
   ],
 
-  plugins: [[ require.resolve('docusaurus-lunr-search'), {
-      maxHits: ['50'] // default is 5, need more hits
-  }]],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+        algolia: {
+            appId: 'R7FRLK17BE',
+
+            // Public API key: it is safe to commit it
+            apiKey: 'f502d25c73799a0d014a044bd65945d2',
+
+            indexName: 'recipes',
+
+            // Optional: see doc section below
+            contextualSearch: false,
+
+            // Optional: Algolia search parameters
+            searchParameters: {},
+
+            // Optional: path for search page. Enabled by default (`false` to disable it)
+            searchPagePath: 'search',
+
+            // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
+            insights: false,
+
+            //... other Algolia params
+    },
       // Replace with your project's social card
       navbar: {
         title: 'Recipes',
