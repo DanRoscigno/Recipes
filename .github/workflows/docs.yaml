@@ -24,11 +24,9 @@ jobs:
         run: yarn install --frozen-lockfile
       - name: Build website
         working-directory: website
-        environment:
-            ORAMA_INDEX_ID:
-                from_secret: ORAMA_INDEX_ID
-            ORAMA_CLOUD_API_KEY:
-                from_secret: ORAMA_CLOUD_API_KEY
+        env: # Or as an environment variable
+          ORAMA_INDEX_ID: ${{ secrets.ORAMA_INDEX_ID }}
+          ORAMA_CLOUD_API_KEY: ${{ secrets.ORAMA_CLOUD_API_KEY }}
         run: yarn build
 
       - name: Upload Build Artifact
