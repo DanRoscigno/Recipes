@@ -57,18 +57,7 @@ const config = {
     ],
   ],
 
-  plugins: [
-      [
-          "@orama/plugin-docusaurus-v3",
-          {
-              cloud: {
-                  indexId: process.env.ORAMA_INDEX_ID,
-                  oramaCloudAPIKey: process.env.ORAMA_CLOUD_API_KEY,
-                  deploy: true, // Enables deploy while building/starting
-              },
-          },
-      ],
-  ],
+  plugins: [require.resolve('docusaurus-lunr-search')],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
