@@ -1,0 +1,28 @@
+name: Crawl and index to Algolia
+
+on:
+  workflow_dispatch:
+
+permissions:
+  pages: write
+  contents: read
+  id-token: write
+
+jobs:
+
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Get DocSearch config
+        id: algolia_config
+        run: echo "config=$(cat algolia.json | jq -r tostring)" >> $GITHUB_OUTPUT
+
+      - name: Index to Algolia
+        uses: signcl/docsearch-scraper-action@v1.0.1
+        env:
+          APPLICATION_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+          CONFIG: ${{ steps.algolia_config.outputs.config }}
