@@ -72,10 +72,10 @@ const config = {
             contextualSearch: false,
 
             // Optional: Algolia search parameters
-            searchParameters: {},
+            searchParameters: {hitsPerPage: 1000},
 
             // Optional: path for search page. Enabled by default (`false` to disable it)
-            searchPagePath: 'search',
+            searchPagePath: false,
 
             // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
             insights: false,
