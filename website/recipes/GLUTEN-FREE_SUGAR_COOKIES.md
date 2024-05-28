@@ -1,7 +1,3 @@
----
-keywords: ['Gluten Free', 'abcdan']
----
-
 # GLUTEN-FREE SUGAR COOKIES
 
 `Cookies` `Gluten Free`
