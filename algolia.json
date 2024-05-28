@@ -19,6 +19,7 @@
     "lvl6": "article h6",
     "text": "article p, article li, article td:last-child"
   },
+  "aggregateContent": true,
   "strip_chars": " .,;:#",
   "custom_settings": {
     "separatorsToIndex": "_",
