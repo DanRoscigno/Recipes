@@ -1,6 +1,8 @@
-# Beef Brisket Dry Rub
+# Texas A and M Beef Brisket Dry Rub
 
 `Dry Rubs`
+
+> This recipe makes enough rub for four large briskets. The full recipe is for 6 cups of rub, so plan for 1 amd 1/2 cup per large brisket.
 
 2 cups of canning/pickling salt 
 
