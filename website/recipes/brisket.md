@@ -26,14 +26,21 @@ This process can be replicated as a pellet smoker or kamado style grill (indirec
 
 Prepare your smoker at 225 degrees with post oak. Other good alternatives would be mesquite, hickory or pecan. I prefer "heavy smoke" woods for this cook. Optionally you can place a pan of water in your smoker for additional moisture should you feel your smoker needs it.
 
-Note: My smoker is happy around 240 measured at the grill on the far side. The thermometer in the lid reads 280 when the grill is at 240.
+> Note: My smoker is happy around 240 measured at the grill on the far side. The thermometer in the lid reads 280 when the grill is at 240.
+>
+> When the fire starts in the the firebox there will be alot of smoke, let the smoke fade to a shimmer before closing the door to the firebox and closing the vent on the grill down low. Thick smoke tastes bad.
 
 ## Trim the brisket
 Trim hard and excess fat off the meat side of the brisket. Also, remove any “hard” pieces of fat as they will not render off during the cooking process. Trim the fat off the fat side of the brisket only leaving ¼ in fat. My brisket trim video will help guide you.
 
 ## Prepare the brisket
 Season the rub. I typically slather with mustard as a binder. Oil, mustard, pickle juice are commonly used binders should you choose to use one.
+
+> Note: I used mayo once as a binder and it was good, I also used no binder and it was good. I think going forward no binder maybe.
+
  Allow the seasoning to adhere for 15 - 20 minutes. Flip the brisket over to the fat side. Repeat the seasoning process. Season the sides as well. Allow it to adhere for 30 minutes if time allows.
+
+> Note: I apply the rub the night before and let it sit for 20 minutes on the meat side before flipping.
 
 
 ## Smoke the brisket
@@ -41,6 +48,8 @@ Smoking fat side up vs meat side up is one of the hottest debates in BBQ! As we 
 
 Leave the brisket untouched as that beautiful bark develops. Optionally you can spritz a time or two with cider vinegar or water if the brisket appears to dry out. I do not think this is needed with a fat side up brisket. That is more commonly needed when cooking a meat side up brisket.
 When the meat reaches an internal temperature of at least 175 (the bark will be set nicely by this point) it is time to wrap.
+
+> Note: Around four hours in I move the temperature probe from the grill into the meat. When the internal temp is at least 175 I will wrap the brisket in butcher paper. The temp might be around 160 degrees in the thickest part of the brisket at 4 hours.
 
 Wrapping in butcher paper will allow you to maintain your bark. Wrap the brisket in non-waxed butcher paper. Depending on the size of your brisket this could be 6 - 8 hours into the cook. However, the time is no the most important thing to be worried about. Focus on the visual look of the bark and the internal temp. I like to spritz the inside of the paper with liquid to make the paper more more pliable before I lay the brisket on it to wrap. Our brisket cook video illustrates this process. Alternatively, wrapping in aluminum foil is a bit easier to master and will deliver a juicy, delicious brisket. 
 
