@@ -2,18 +2,20 @@
 
 [19 MAY, 2021](https://www.meatchurch.com/blogs/recipes/brisket)
 
+I edited this to use the Texas A and M rub instead of the ones that Meat Church uses because I have some on hand. In the video the author suggests using the commercial bubs or just salt and pepper and maybe garlic.
+
 This is the recipe you come to Meat Church seeking. Texas brisket on an offset smoker. The Texas BBQ cooked the old school way by a Texan. Wood, fire & meat. No shortcuts, no electronics, no gimmicks. Just patience. And maybe a fair amount of cold beer....
 
 There are a lot of ways to smoke briskets. In fact you have probably seen my 275 method which I typically use for a standard sized brisket that I need to get cooked in under 10 hours. However, this recipe is a very traditional Texas style and recipe that is going to take more hours to smoke and will yield and even better brisket. 
 
 This process can be replicated as a pellet smoker or kamado style grill (indirect) brisket as well. 
 
-Meat Church Cook How To YouTube Video: https://youtu.be/Mgy7ou8bFRQ
-Meat Church Brisket Trim YouTube Video: https://youtu.be/MTc5VAgZKLE
+- Meat Church Cook How To YouTube Video: https://youtu.be/Mgy7ou8bFRQ
+- Meat Church Brisket Trim YouTube Video: https://youtu.be/MTc5VAgZKLE
 
 ## Ingredients
 
-- 1 Full packer brisket. Choice grade or higher.
+- 1 Full packer brisket. Choice grade or higher. (I used the Angus from Sam's Club, around 12 pounds.)
 - [Texas A and M brisket rub](./Beef_Brisket_Dry_Rub.md)
 
 ## Tools
@@ -23,6 +25,8 @@ Meat Church Brisket Trim YouTube Video: https://youtu.be/MTc5VAgZKLE
 ## Prepare your smoker
 
 Prepare your smoker at 225 degrees with post oak. Other good alternatives would be mesquite, hickory or pecan. I prefer "heavy smoke" woods for this cook. Optionally you can place a pan of water in your smoker for additional moisture should you feel your smoker needs it.
+
+Note: My smoker is happy around 240 measured at the grill on the far side. The thermometer in the lid reads 280 when the grill is at 240.
 
 ## Trim the brisket
 Trim hard and excess fat off the meat side of the brisket. Also, remove any “hard” pieces of fat as they will not render off during the cooking process. Trim the fat off the fat side of the brisket only leaving ¼ in fat. My brisket trim video will help guide you.
