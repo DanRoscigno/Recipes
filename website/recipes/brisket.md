@@ -54,7 +54,9 @@ When the meat reaches an internal temperature of at least 175 (the bark will be 
 Wrapping in butcher paper will allow you to maintain your bark. Wrap the brisket in non-waxed butcher paper. Depending on the size of your brisket this could be 6 - 8 hours into the cook. However, the time is no the most important thing to be worried about. Focus on the visual look of the bark and the internal temp. I like to spritz the inside of the paper with liquid to make the paper more more pliable before I lay the brisket on it to wrap. Our brisket cook video illustrates this process. Alternatively, wrapping in aluminum foil is a bit easier to master and will deliver a juicy, delicious brisket. 
 
 ## Finishing the brisket and resting
-Continue to smoke the brisket until the meat is “probe tender” in the thick part of the flat. This means when you probe it in the flat (not the point) there is no resistance. Think of sticking a toothpick in a cake. Each piece of meat is different but this will likely be around an internal temperature of 203°F. Wagyu briskets often need to be cooked to a higher internal temp close to 210 internal. 
+Continue to smoke the brisket until the meat is “probe tender” in the thick part of the flat. This means when you probe it in the flat (not the point) there is no resistance. Think of sticking a toothpick in a cake. Each piece of meat is different but this will likely be around an internal temperature of 203°F. Wagyu briskets often need to be cooked to a higher internal temp close to 210 internal.
+
+> Note: The 12 pound brisket I cooked was probe tender and 203 - 205 degrees at nine hours after cooking at about 240-ish degrees and being wrapped at 175 degrees. I left it wrapped in a dry cooler until it was time to eat (around two and a half hours).
 
 Remove the brisket from the smoker, and rest it still wrapped at ambient temperature on the counter for an hour. Resting at room\ambient temp will stop the cooking process and allow the juices in the brisket to redistribute. It will be the perfect temp to slice and eat in an hour. 
 
