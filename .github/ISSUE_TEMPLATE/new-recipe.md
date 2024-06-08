@@ -9,10 +9,67 @@ assignees: ''
 
 # Title
 
-Tags: One line, each entry in backticks, For example:
+Select tags:
 
-`Kim Acceptable` `Want to make`
+- [ ] Gluten Free
 
+- [ ] Want to make
+
+- [ ] Breads
+- [ ] Cheesecakes
+- [ ] Breakfasts
+- [ ] Camping
+- [ ] Picnic Fare
+
+- [ ] Candy
+- [ ] Cookies
+- [ ] Condiments
+- [ ] Frosting
+- [ ] Dry Rubs
+- [ ] Gifts
+- [ ] Ice Creams
+- [ ] Kid’s Delight
+- [ ] Room scent
+
+- [ ] Dog
+- [ ] Kim Acceptable
+- [ ] Preserves and Jams
+- [ ] Salad Dressings
+
+- [ ] American
+- [ ] Mediterranean Inspired
+- [ ] Australian
+- [ ] Indian Inspired
+- [ ] French Inspired
+- [ ] Asian Inspired
+- [ ] Irish/English/Scottish Inspired
+- [ ] Island Inspired
+- [ ] Italian Inspired
+- [ ] Mexican/Cuban/Latin Inspired
+- [ ] Middle Eastern/Moroccan Inspired
+
+- [ ] Salads
+- [ ] Sandwiches
+- [ ] Side dish
+- [ ] Snack
+- [ ] Soups
+
+- [ ] Spring
+- [ ] Summer
+- [ ] Fall
+- [ ] Winter
+
+- [ ] Special Meal
+- [ ] Easter
+- [ ] Thanksgiving
+- [ ] Christmas
+
+
+- [ ] Quick
+- [ ] Appetizers
+- [ ] Main Meal
+- [ ] Drinks
+- [ ] Desserts
 
 ## Discussion
 
