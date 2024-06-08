@@ -9,11 +9,10 @@ assignees: ''
 
 # Title
 
-Tags
-- one tag per line, for example
-- Kim Acceptable
-- Gluten Free
-- Want to make
+Tags: One line, each entry in backticks, For example:
+
+`Kim Acceptable` `Want to make`
+
 
 ## Discussion
 
