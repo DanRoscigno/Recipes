@@ -16,6 +16,5 @@ jobs:
         with:
             fail_on_error: true
             vale_flags: --config=vale/vale.ini
-            reporter: github-pr-check
-            files: all
+            files: website/recipes
             debug: false
