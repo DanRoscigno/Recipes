@@ -17,9 +17,8 @@ jobs:
           ls -la bin
           bin/vale --config=./vale/vale.ini \
             --no-exit \
-            --output ./vale/rdjsonl.tmpl \
-            website/recipes > out.jsonl
-          cat out.jsonl
+            website/recipes > out.txt
+          cat out.txt
 
       - name: Install reviewdog
         uses: reviewdog/action-setup@3f401fe1d58fe77e10d665ab713057375e39b887 # v1.3.0
@@ -30,4 +29,4 @@ jobs:
         env:
           REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          reviewdog -f=rdjsonl -name=Vale -reporter=github-pr-annotations -fail-on-error=true -filter-mode=nofilter -level=info < out.jsonl
+          reviewdog -name=Vale -reporter=github-pr-annotations -fail-on-error=true -filter-mode=nofilter -level=info < out.txt
