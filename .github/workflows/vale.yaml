@@ -19,6 +19,7 @@ jobs:
           bin/vale --config=./vale/vale.ini \
             --no-exit \
             --output ./vale/rdjsonl.tmpl > out.jsonl
+          cat out.jsonl
 
       - name: Install reviewdog
         uses: reviewdog/action-setup@3f401fe1d58fe77e10d665ab713057375e39b887 # v1.3.0
