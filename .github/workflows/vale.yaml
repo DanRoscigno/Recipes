@@ -10,9 +10,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: errata-ai/vale-action@reviewdog
         with:
-          files: website/recipes/
-          vale_flags: "--config=vale/vale.ini --no-exit --minAlertLevel=info"
-          filter_mode: nofilter
+          filter_mode: diff_context
+          vale_flags: "--no-exit --minAlertLevel=error"
           reporter: github-pr-review
           fail_on_error: true
         env:
