@@ -16,6 +16,6 @@ jobs:
         with:
             fail_on_error: true
             vale_flags: --config=vale/vale.ini
-            version: 3.4.2
+            version: 3.5.0
             files: all
             debug: false
