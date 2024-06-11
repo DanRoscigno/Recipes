@@ -23,9 +23,8 @@ jobs:
           # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
-          files: docs/
+          files: website/recipes/
           vale_flags: "--config=vale/vale.ini"
-          reporter: github-pr-check
           fail_on_error: true
           filter_mode: file
 
