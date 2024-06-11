@@ -14,4 +14,4 @@ jobs:
             vale_flags: --config=vale/vale.ini
             version: latest
             files: all
-            debug: true
+            debug: false
