@@ -18,3 +18,5 @@ jobs:
             vale_flags: --config=vale/vale.ini
             files: website/recipes
             debug: false
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
