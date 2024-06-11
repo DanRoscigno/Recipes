@@ -4,7 +4,7 @@
 
 Tested size: 12 servings; makes 1 1/2 quarts
 
-##### **INGREDIENTS:**
+## Ingredients
 
 - 4 medium-size ripe peaches, pitted and coarsely chopped
 - 1 cup sugar
@@ -19,7 +19,7 @@ Tested size: 12 servings; makes 1 1/2 quarts
 - 3 ounces amaretti cookies (about 26), crushed (about 1 cup)
 - 3 tablespoons finely chopped crystallized ginger
 
-##### **DIRECTIONS:**
+## Directions
 
 Combine the chopped peaches and 1/4 cup of the sugar in a large (4-quart) saucepan. Cook over medium to medium-high heat to maintain a gentle bubbling, stirring frequently with a spatula, until the fruit has mostly broken down and turned almost jammy, about 20 minutes. Use the spatula to gently mash the fruit until fairly smooth. Cool slightly.
 
