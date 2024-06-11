@@ -4,7 +4,7 @@
 
 Tested size: 12 servings; makes 1 1/2 quarts
 
-##### **INGREDIENTS:**
+## Ingredients
 
 - 4 medium-size ripe peaches, pitted and coarsely chopped
 - 1 cup sugar
@@ -19,7 +19,7 @@ Tested size: 12 servings; makes 1 1/2 quarts
 - 3 ounces amaretti cookies (about 26), crushed (about 1 cup)
 - 3 tablespoons finely chopped crystallized ginger
 
-##### **DIRECTIONS:**
+## Directions
 
 Combine the chopped peaches and 1/4 cup of the sugar in a large (4-quart) saucepan. Cook over medium to medium-high heat to maintain a gentle bubbling, stirring frequently with a spatula, until the fruit has mostly broken down and turned almost jammy, about 20 minutes. Use the spatula to gently mash the fruit until fairly smooth. Cool slightly.
 
@@ -37,4 +37,4 @@ When you are ready to churn, assemble your ice cream machine according to the ma
 
 Meanwhile, sprinkle about one-quarter of the crushed Amaretti cookies and crystallized ginger onto the bottom of your final storage container. Pack the ice cream into the storage container, alternating it with additional layers of the amaretti and ginger, ending with a layer of the add-ins on top; do not stir (to retain the layering). Press a sheet of parchment paper directly against the surface, and seal with a tight-fitting lid. Freeze in the coldest part of your freezer until firm, for at least 4 hours.
 
-***NOTE:** If you want to use the base sooner, pour the mixture into a 1-gallon resealable zip-top bag and seal. Submerge the sealed bag in an ice-water bath in a large bowl. Let stand, adding more ice as necessary, until cold, for at least 1 hour.
+***NOTE:** To use the base sooner: Pour the mixture into a 1-gallon resealable zip-top bag and seal. Submerge the sealed bag in an ice-water bath in a large bowl. Let stand, adding more ice as necessary, until cold, for at least 1 hour.
