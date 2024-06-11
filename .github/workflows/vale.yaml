@@ -11,7 +11,7 @@ jobs:
       - uses: errata-ai/vale-action@reviewdog
         with:
           filter_mode: diff_context
-          vale_flags: "--no-exit --minAlertLevel=error"
+          vale_flags: "--no-exit --minAlertLevel=error --config=vale/vale.ini"
           reporter: github-pr-review
           fail_on_error: true
         env:
