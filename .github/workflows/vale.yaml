@@ -8,6 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - uses: ruby/setup-ruby@v1
+        with:
+            ruby-version: '3.3'
+      - run: echo "/home/runner/.local/share/gem/ruby/3.3.0/bin" >> $GITHUB_PATH
       - uses: errata-ai/vale-action@reviewdog
         with:
             fail_on_error: true
