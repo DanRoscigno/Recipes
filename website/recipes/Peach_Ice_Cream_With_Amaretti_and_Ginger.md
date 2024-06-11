@@ -37,4 +37,4 @@ When you are ready to churn, assemble your ice cream machine according to the ma
 
 Meanwhile, sprinkle about one-quarter of the crushed Amaretti cookies and crystallized ginger onto the bottom of your final storage container. Pack the ice cream into the storage container, alternating it with additional layers of the amaretti and ginger, ending with a layer of the add-ins on top; do not stir (to retain the layering). Press a sheet of parchment paper directly against the surface, and seal with a tight-fitting lid. Freeze in the coldest part of your freezer until firm, for at least 4 hours.
 
-***NOTE:** If you want to use the base sooner, pour the mixture into a 1-gallon resealable zip-top bag and seal. Submerge the sealed bag in an ice-water bath in a large bowl. Let stand, adding more ice as necessary, until cold, for at least 1 hour.
+***NOTE:** To use the base sooner: Pour the mixture into a 1-gallon resealable zip-top bag and seal. Submerge the sealed bag in an ice-water bath in a large bowl. Let stand, adding more ice as necessary, until cold, for at least 1 hour.
