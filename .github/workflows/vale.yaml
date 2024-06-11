@@ -28,4 +28,4 @@ jobs:
           vale_flags: "--config=vale/vale.ini"
           reporter: github-pr-check
           fail_on_error: true
-          filter_mode: file
+          filter_mode: nofilter
