@@ -11,7 +11,7 @@ jobs:
       - uses: errata-ai/vale-action@reviewdog
         with:
             fail_on_error: true
-            vale_flags: --config=vale.ini
+            vale_flags: --config=vale/vale.ini
             version: latest
             files: all
             debug: true
