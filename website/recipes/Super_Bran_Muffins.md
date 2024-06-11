@@ -27,4 +27,4 @@ Makes ~ 3 dozen regular muffins
 - Store in frig at least 24 hours before using.
 - To make muffins: Spoon batter into greased (or paper-lined) muffin tins; bake at 375 degrees for 30 minutes.
 
-**NOTE:** Batter will keep in frig for 6 wks.
+**NOTE:** Batter will keep in frig for 6 weeks.
