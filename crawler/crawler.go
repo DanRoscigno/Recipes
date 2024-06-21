@@ -41,6 +41,9 @@ func main() {
         item := Recipe{}
         item.Content = e.Text
         item.Name = e.ChildText("h1")
+        item.Url = e.Request.URL.String()
+        //item.Url = e. <meta data-rh="true" property="og:url" content="https://danroscigno.github.io/Recipes/brisket/">
+        //document.querySelector("meta[property='og:url']").getAttribute('content')
         recipes = append(recipes, item)
 	})
 
@@ -70,10 +73,12 @@ func main() {
 
    })
 
-    	// Start the collector
+   // Get the sitemap.xml entries
    c.Visit("https://danroscigno.github.io/Recipes/sitemap.xml")
 
-    	for _, url := range knownUrls {
+   // Scrape each entry found in the sitemap. The `knownUrls` 
+   // list is built by the OnXML callback
+   for _, url := range knownUrls {
 		fmt.Println("\t", url)
         c.Visit(url)
 	}
