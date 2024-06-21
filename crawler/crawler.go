@@ -20,6 +20,9 @@ import (
 	"time"
 
 	"github.com/gocolly/colly/v2"
+
+	"github.com/algolia/algoliasearch-client-go/algoliasearch"
+	"github.com/joho/godotenv"
 )
 
 // This struct includes all of the information needed in the Algolia
@@ -31,6 +34,18 @@ type Recipe struct {
 }
 
 func main() {
+
+	// read in Algolia details
+	godotenv.Load()
+	algoliaCliAppId, envSet := os.LookupEnv("ALGOLIA_APP_ID")
+	algoliaCliApiKey, envSet := os.LookupEnv("ALGOLIA_API_KEY")
+
+	if !envSet {
+		log.Fatal("Please set the ALGOLIA_APP_ID and ALGOLIA_API_KEY environment variables")
+	}
+
+	searchClient := algoliasearch.NewClient(algoliaCliAppId, algoliaCliApiKey)
+	searchIndex := searchClient.InitIndex("recipes_crawled_golang")
 
 	// Create an array of Recipes
 	recipes := make([]Recipe, 0)
@@ -72,6 +87,13 @@ func main() {
 		item.Name = e.ChildText("h1")
 		item.Url = e.Request.URL.String()
 		recipes = append(recipes, item)
+
+		algoliaObject := make(algoliasearch.Object)
+		algoliaObject["objectID"] = item.Url
+		algoliaObject["Content"] = item.Content
+		algoliaObject["Name"] = item.Name
+
+		searchIndex.AddObject(algoliaObject)
 	})
 
 	//c.OnRequest(func(r *colly.Request) {
@@ -97,10 +119,15 @@ func main() {
 
 	// Scrape each entry found in the sitemap. The `knownUrls`
 	// list is built by the OnXML callback
-	for _, url := range knownUrls {
-		//fmt.Println("\t", url)
-		c.Visit(url)
-	}
+
+	// NOTE: temporarily commenting out to avoid a huge Algolia expense while experimenting
+	//for _, url := range knownUrls {
+	//c.Visit(url)
+	//}
+
+	// Visit only two URLs
+	c.Visit(knownUrls[2])
+	c.Visit(knownUrls[20])
 
 	js, err := json.MarshalIndent(recipes, "", "    ")
 	if err != nil {
