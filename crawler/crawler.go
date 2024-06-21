@@ -22,21 +22,14 @@ func main() {
    c.SetRequestTimeout(120 * time.Second)
    recipes := make([]Recipe, 0)
 
-    // Callbacks
-// looking for 
-//  div.theme-doc-markdown.markdown
-    // #__docusaurus_skipToContent_fallback > div > div > main > div > div > div.col.docItemCol_VOVn > div > article > div.theme-doc-markdown.markdown > h1
-    //c.OnHTML("div.theme-doc-markdown.markdown", func(e *colly.HTMLElement) {
-        //item := Recipe{}
-        //item.Name = e.Attr("h1")
-        //recipes = append(recipes, item)
-    //})
 
-   	c.OnHTML("h1", func(e *colly.HTMLElement) {
+   	c.OnHTML("article", func(e *colly.HTMLElement) {
         item := Recipe{}
-        item.Name = e.Text
+        item.Content = e.Text
+        item.Name = e.ChildText("h1")
         recipes = append(recipes, item)
 	})
+
 
    c.OnRequest(func(r *colly.Request) {
        fmt.Println("Visiting", r.URL)
