@@ -1,72 +1,68 @@
 package main
 
-import (
-	"encoding/json"
-	"flag"
-	"log"
-	"os"
-	"strconv"
-	"strings"
 
-	"github.com/gocolly/colly/v2"
+import (
+    "encoding/json"
+    "log"
+    "os"
+   "fmt"
+   "time"
+
+   "github.com/gocolly/colly"
 )
 
-type comment struct {
-	Author  string `selector:"a.hnuser"`
-	URL     string `selector:".age a[href]" attr:"href"`
-	Comment string `selector:".comment"`
-	Replies []*comment
-	depth   int
+type Recipe struct {
+   Name     string
+   Content  string
+   Url      string
 }
 
 func main() {
-	var itemID string
-	flag.StringVar(&itemID, "id", "", "hackernews post id")
-	flag.Parse()
+   c := colly.NewCollector()
+   c.SetRequestTimeout(120 * time.Second)
+   recipes := make([]Recipe, 0)
 
-	if itemID == "" {
-		log.Println("Hackernews post id required")
-		os.Exit(1)
-	}
+    // Callbacks
+// looking for 
+//  div.theme-doc-markdown.markdown
+    // #__docusaurus_skipToContent_fallback > div > div > main > div > div > div.col.docItemCol_VOVn > div > article > div.theme-doc-markdown.markdown > h1
+    //c.OnHTML("div.theme-doc-markdown.markdown", func(e *colly.HTMLElement) {
+        //item := Recipe{}
+        //item.Name = e.Attr("h1")
+        //recipes = append(recipes, item)
+    //})
 
-	comments := make([]*comment, 0)
-
-	// Instantiate default collector
-	c := colly.NewCollector()
-
-	// Extract comment
-	c.OnHTML(".comment-tree tr.athing", func(e *colly.HTMLElement) {
-		width, err := strconv.Atoi(e.ChildAttr("td.ind img", "width"))
-		if err != nil {
-			return
-		}
-		// hackernews uses 40px spacers to indent comment replies,
-		// so we have to divide the width with it to get the depth
-		// of the comment
-		depth := width / 40
-		c := &comment{
-			Replies: make([]*comment, 0),
-			depth:   depth,
-		}
-		e.Unmarshal(c)
-		c.Comment = strings.TrimSpace(c.Comment[:len(c.Comment)-5])
-		if depth == 0 {
-			comments = append(comments, c)
-			return
-		}
-		parent := comments[len(comments)-1]
-		// append comment to its parent
-		for i := 0; i < depth-1; i++ {
-			parent = parent.Replies[len(parent.Replies)-1]
-		}
-		parent.Replies = append(parent.Replies, c)
+   	c.OnHTML("h1", func(e *colly.HTMLElement) {
+        item := Recipe{}
+        item.Name = e.Text
+        recipes = append(recipes, item)
 	})
 
-	c.Visit("https://news.ycombinator.com/item?id=" + itemID)
+   c.OnRequest(func(r *colly.Request) {
+       fmt.Println("Visiting", r.URL)
+   })
 
-	enc := json.NewEncoder(os.Stdout)
-	enc.SetIndent("", "  ")
+   c.OnResponse(func(r *colly.Response) {
+       fmt.Println("Got a response from", r.Request.URL)
+   })
 
-	// Dump json to the standard output
-	enc.Encode(comments)
+   c.OnError(func(r *colly.Response, e error) {
+       fmt.Println("Got this error:", e)
+   })
+
+    c.OnScraped(func(r *colly.Response) {
+       fmt.Println("Finished", r.Request.URL)
+       js, err := json.MarshalIndent(recipes, "", "    ")
+       if err != nil {
+           log.Fatal(err)
+       }
+       fmt.Println("Writing data to file")
+       if err := os.WriteFile("recipes.json", js, 0664); err == nil {
+           fmt.Println("Data written to file successfully")
+       }
+
+   })
+
+   c.Visit("https://danroscigno.github.io/Recipes/brisket/")
 }
+
