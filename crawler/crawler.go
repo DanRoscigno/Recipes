@@ -18,7 +18,21 @@ type Recipe struct {
 }
 
 func main() {
+    	// Array containing all the known URLs in a sitemap
+	knownUrls := []string{}
+
+
+
    c := colly.NewCollector()
+
+    	// Create a callback on the XPath query searching for the URLs
+	c.OnXML("//urlset/url/loc", func(e *colly.XMLElement) {
+		knownUrls = append(knownUrls, e.Text)
+	})
+
+
+
+
    c.SetRequestTimeout(120 * time.Second)
    recipes := make([]Recipe, 0)
 
@@ -56,6 +70,12 @@ func main() {
 
    })
 
-   c.Visit("https://danroscigno.github.io/Recipes/brisket/")
+    	// Start the collector
+   c.Visit("https://danroscigno.github.io/Recipes/sitemap.xml")
+
+    	for _, url := range knownUrls {
+		fmt.Println("\t", url)
+        c.Visit(url)
+	}
 }
 
