@@ -48,27 +48,27 @@ func main() {
 	})
 
 
-   c.OnRequest(func(r *colly.Request) {
-       fmt.Println("Visiting", r.URL)
-   })
+   //c.OnRequest(func(r *colly.Request) {
+       //fmt.Println("Visiting", r.URL)
+   //})
 
-   c.OnResponse(func(r *colly.Response) {
-       fmt.Println("Got a response from", r.Request.URL)
-   })
+   //c.OnResponse(func(r *colly.Response) {
+       //fmt.Println("Got a response from", r.Request.URL)
+   //})
 
    c.OnError(func(r *colly.Response, e error) {
        fmt.Println("Got this error:", e)
    })
 
     c.OnScraped(func(r *colly.Response) {
-       fmt.Println("Finished", r.Request.URL)
+       //fmt.Println("Finished", r.Request.URL)
        js, err := json.MarshalIndent(recipes, "", "    ")
        if err != nil {
            log.Fatal(err)
        }
-       fmt.Println("Writing data to file")
+       //fmt.Println("Writing data to file")
        if err := os.WriteFile("recipes.json", js, 0664); err == nil {
-           fmt.Println("Data written to file successfully")
+           fmt.Print(".")
        }
 
    })
@@ -79,7 +79,7 @@ func main() {
    // Scrape each entry found in the sitemap. The `knownUrls` 
    // list is built by the OnXML callback
    for _, url := range knownUrls {
-		fmt.Println("\t", url)
+		//fmt.Println("\t", url)
         c.Visit(url)
 	}
 }
