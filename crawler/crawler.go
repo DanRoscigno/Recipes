@@ -28,9 +28,9 @@ import (
 // This struct includes all of the information needed in the Algolia
 // records (TO DO: Add an Algolia Object ID field)
 type Recipe struct {
-	Name    string
-	Content string
-	Url     string
+	lvl0    string
+	content string
+	url     string
 }
 
 func main() {
@@ -77,21 +77,21 @@ func main() {
 
 	// every recipe is contained inside an HTML `<article>` tag.
 	// - create a Recipe struct named `item`
-	// - assign the text of the article to `item.Content`
-	// - assign the text from the first h1 (there can only be one h1 if we follow the rules) to `item.Name`
-	// - assign the URL being scraped to item.Url
+	// - assign the text of the article to `item.content`
+	// - assign the text from the first h1 (there can only be one h1 if we follow the rules) to `item.lvl0`
+	// - assign the URL being scraped to item.url
 	// - append the struct to the Recipes array
 	c.OnHTML("article", func(e *colly.HTMLElement) {
 		item := Recipe{}
-		item.Content = e.Text
-		item.Name = e.ChildText("h1")
-		item.Url = e.Request.URL.String()
+		item.content = e.Text
+		item.lvl0 = e.ChildText("h1")
+		item.url = e.Request.URL.String()
 		recipes = append(recipes, item)
 
 		algoliaObject := make(algoliasearch.Object)
-		algoliaObject["objectID"] = item.Url
-		algoliaObject["Content"] = item.Content
-		algoliaObject["Name"] = item.Name
+		algoliaObject["objectID"] = item.url
+		algoliaObject["content"] = item.content
+		algoliaObject["lvl0"] = item.lvl0
 
 		searchIndex.AddObject(algoliaObject)
 	})

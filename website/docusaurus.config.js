@@ -66,7 +66,7 @@ const config = {
             // Public API key: it is safe to commit it
             apiKey: 'f502d25c73799a0d014a044bd65945d2',
 
-            indexName: 'recipes',
+            indexName: 'recipes_crawled_golang',
 
             // Optional: see doc section below
             contextualSearch: false,
