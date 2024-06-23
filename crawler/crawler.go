@@ -22,30 +22,42 @@ import (
 	"github.com/gocolly/colly/v2"
 
 	"github.com/algolia/algoliasearch-client-go/algoliasearch"
-	"github.com/joho/godotenv"
 )
+
+// Algolia Docsearch expects a hierarchy of `lvl0` - `lvl6`
+// I think this is generally HTML `<h1>` - `<h6>` (maybe)
+type Hierarchy struct {
+	Lvl0 string `json:"lvl0"`
+	Lvl1 string `json:"lvl1"`
+	Lvl2 string `json:"lvl2"`
+	Lvl3 string `json:"lvl3"`
+	Lvl4 string `json:"lvl4"`
+	Lvl5 string `json:"lvl5"`
+	Lvl6 string `json:"lvl6"`
+}
 
 // This struct includes all of the information needed in the Algolia
 // records (TO DO: Add an Algolia Object ID field)
 type Recipe struct {
-	lvl0    string
-	content string
-	url     string
+	ObjectID string    `json:"objectID"`
+	Levels   Hierarchy `json:"hierarchy"`
+	Content  string    `json:"content"`
+	Url      string    `json:"url"`
 }
 
 func main() {
 
 	// read in Algolia details
-	godotenv.Load()
-	algoliaCliAppId, envSet := os.LookupEnv("ALGOLIA_APP_ID")
-	algoliaCliApiKey, envSet := os.LookupEnv("ALGOLIA_API_KEY")
+	//godotenv.Load()
+	//algoliaCliAppId, envSet := os.LookupEnv("ALGOLIA_APP_ID")
+	//algoliaCliApiKey, envSet := os.LookupEnv("ALGOLIA_API_KEY")
 
-	if !envSet {
-		log.Fatal("Please set the ALGOLIA_APP_ID and ALGOLIA_API_KEY environment variables")
-	}
+	//if !envSet {
+	//	log.Fatal("Please set the ALGOLIA_APP_ID and ALGOLIA_API_KEY environment variables")
+	//}
 
-	searchClient := algoliasearch.NewClient(algoliaCliAppId, algoliaCliApiKey)
-	searchIndex := searchClient.InitIndex("recipes_crawled_golang")
+	//searchClient := algoliasearch.NewClient(algoliaCliAppId, algoliaCliApiKey)
+	//searchIndex := searchClient.InitIndex("recipes_crawled_golang")
 
 	// Create an array of Recipes
 	recipes := make([]Recipe, 0)
@@ -77,23 +89,24 @@ func main() {
 
 	// every recipe is contained inside an HTML `<article>` tag.
 	// - create a Recipe struct named `item`
-	// - assign the text of the article to `item.content`
-	// - assign the text from the first h1 (there can only be one h1 if we follow the rules) to `item.lvl0`
-	// - assign the URL being scraped to item.url
+	// - assign the text of the article to `item.Content`
+	// - assign the text from the first h1 (there can only be one h1 if we follow the rules) to `item.Name`
+	// - assign the URL being scraped to item.Url
 	// - append the struct to the Recipes array
 	c.OnHTML("article", func(e *colly.HTMLElement) {
 		item := Recipe{}
-		item.content = e.Text
-		item.lvl0 = e.ChildText("h1")
-		item.url = e.Request.URL.String()
+		item.Content = e.Text
+		item.Levels.Lvl0 = e.ChildText("h1")
+		item.Url = e.Request.URL.String()
+		item.ObjectID = e.Request.URL.String()
 		recipes = append(recipes, item)
 
 		algoliaObject := make(algoliasearch.Object)
-		algoliaObject["objectID"] = item.url
-		algoliaObject["content"] = item.content
-		algoliaObject["lvl0"] = item.lvl0
+		algoliaObject["objectID"] = item.Url
+		algoliaObject["Content"] = item.Content
+		//algoliaObject["Name"] = item.Name
 
-		searchIndex.AddObject(algoliaObject)
+		//searchIndex.AddObject(algoliaObject)
 	})
 
 	//c.OnRequest(func(r *colly.Request) {
