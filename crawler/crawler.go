@@ -20,6 +20,7 @@ import (
 	"time"
 
 	"github.com/gocolly/colly/v2"
+	"github.com/joho/godotenv"
 
 	"github.com/algolia/algoliasearch-client-go/algoliasearch"
 )
@@ -48,16 +49,16 @@ type Recipe struct {
 func main() {
 
 	// read in Algolia details
-	//godotenv.Load()
-	//algoliaCliAppId, envSet := os.LookupEnv("ALGOLIA_APP_ID")
-	//algoliaCliApiKey, envSet := os.LookupEnv("ALGOLIA_API_KEY")
+	godotenv.Load()
+	algoliaCliAppId, envSet := os.LookupEnv("ALGOLIA_APP_ID")
+	algoliaCliApiKey, envSet := os.LookupEnv("ALGOLIA_API_KEY")
 
-	//if !envSet {
-	//	log.Fatal("Please set the ALGOLIA_APP_ID and ALGOLIA_API_KEY environment variables")
-	//}
+	if !envSet {
+		log.Fatal("Please set the ALGOLIA_APP_ID and ALGOLIA_API_KEY environment variables")
+	}
 
-	//searchClient := algoliasearch.NewClient(algoliaCliAppId, algoliaCliApiKey)
-	//searchIndex := searchClient.InitIndex("recipes_crawled_golang")
+	searchClient := algoliasearch.NewClient(algoliaCliAppId, algoliaCliApiKey)
+	searchIndex := searchClient.InitIndex("recipes_crawled_golang")
 
 	// Create an array of Recipes
 	recipes := make([]Recipe, 0)
@@ -103,10 +104,11 @@ func main() {
 
 		algoliaObject := make(algoliasearch.Object)
 		algoliaObject["objectID"] = item.Url
-		algoliaObject["Content"] = item.Content
-		//algoliaObject["Name"] = item.Name
+		algoliaObject["url"] = item.Url
+		algoliaObject["content"] = item.Content
+		algoliaObject["hierarchy"] = item.Levels
 
-		//searchIndex.AddObject(algoliaObject)
+		searchIndex.AddObject(algoliaObject)
 	})
 
 	//c.OnRequest(func(r *colly.Request) {
