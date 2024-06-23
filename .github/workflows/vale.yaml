@@ -12,8 +12,8 @@ jobs:
 
       - name: Execute Vale
         run: |
-          wget -q https://github.com/errata-ai/vale/releases/download/v3.4.1/vale_3.4.1_Linux_64-bit.tar.gz
-          mkdir bin && tar -xvzf vale_3.4.1_Linux_64-bit.tar.gz -C bin
+          wget -q https://github.com/errata-ai/vale/releases/download/v3.5.0/vale_3.5.0_Linux_64-bit.tar.gz
+          mkdir bin && tar -xvzf vale_3.5.0_Linux_64-bit.tar.gz -C bin
           bin/vale --config=./vale/vale.ini \
             --no-exit \
             website/recipes
