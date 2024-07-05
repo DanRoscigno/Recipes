@@ -1,4 +1,4 @@
-# Saicylic acid topical
+# Salicylic acid topical
 
 Source: [Pharmacy Times](https://www.pharmacytimes.com/view/compounding-0310)
 Source for [reducing to 6%](https://www.medscape.com/viewarticle/495745?form=fpf)
