@@ -2,9 +2,9 @@
 
 `Salads` `Main Meal` `Want to make` `Side dish` `Kim Acceptable` `Mediterranean Inspired`
 
-Servings: 4      
+Servings: 4� 
 
-**Ingredients:**   
+**Ingredients:**
 
  2 cups blanched shelled edamame
 
@@ -28,7 +28,7 @@ Servings: 4     
 
  salt and pepper
 
-**Directions:    �**� 
+**Directions:**� 
 
 Cook edamame according to package and let cool.
 
@@ -40,4 +40,3 @@ Season with salt and pepper.
 
 Let marinate at room temperature for 30 minutes before serving.
 
-        

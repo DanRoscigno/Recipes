@@ -2,7 +2,7 @@
 
 `Main Meal` `Want to make` `Indian Inspired`
 
- **Ingredients:    �**� 
+ **Ingredients:**� 
 
  _Marinade:_
 
@@ -56,8 +56,5 @@ Add the water and bring the mixture to a boil. Then lower the heat, cover, and s
 
 Halfway through cooking the lamb, heat the remaining 1 tablespoon of oil in a small pan and gently fry the chiles for two minutes, stirring often. Pour the chiles into the curry.
 
-Once the lamb is cooked, uncover and stir in the tamarind paste. Taste and adjust the seasonings, add a little extra water, if necessary, and stir in the fresh cilantro. Serve the lamb with naan or rice.      
+Once the lamb is cooked, uncover and stir in the tamarind paste. Taste and adjust the seasonings, add a little extra water, if necessary, and stir in the fresh cilantro. Serve the lamb with naan or rice.� 
 
-                 
-
-  

@@ -2,9 +2,9 @@
 
 `Breakfasts`
 
-Servings:  -10  
+Servings: -10� 
 
-**Ingredients:�**� 
+**Ingredients:**� 
 
 2 1/4 cup seasoned croutons
 
@@ -28,6 +28,5 @@ Parsley sprigs
 
 **Directions:**
 
-Preheat oven to 325 degrees. Spread croutons in a lightly greased 9"x13" dish; set aside. Cook sausage until browned, stirring to crumble; drain well. Sprinkle sausage over croutons. Combine eggs, milk, soup, mustard and mushrooms. Mix well and pour over sausage. Cover and refrigerate at least 8 hours or overnight. Remove from refrigerator; let stand 30 minutes. Bake uncovered at 325 degrees for 50-55 minutes. Sprinkle cheese on top and bake 5 minutes or until cheese is melted. Garnish with cherry tomatoes and parsley.        
+Preheat oven to 325 degrees. Spread croutons in a lightly greased 9"x13" dish; set aside. Cook sausage until browned, stirring to crumble; drain well. Sprinkle sausage over croutons. Combine eggs, milk, soup, mustard and mushrooms. Mix well and pour over sausage. Cover and refrigerate at least 8 hours or overnight. Remove from refrigerator; let stand 30 minutes. Bake uncovered at 325 degrees for 50-55 minutes. Sprinkle cheese on top and bake 5 minutes or until cheese is melted. Garnish with cherry tomatoes and parsley.
 
-            

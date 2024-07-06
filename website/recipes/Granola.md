@@ -2,9 +2,9 @@
 
 `Breakfasts` `Gifts`
 
-Servings: ~30      
+Servings: ~30
 
-**Ingredients:  �**�  
+**Ingredients:**
 
 8 cups rolled oats
 
@@ -34,9 +34,9 @@ Servings: ~30     
 
 1 tablespoon vanilla extract
 
-2 cups raisins or sweetened dried cranberries        
+2 cups raisins or sweetened dried cranberries
 
-**Directions:  �**� 
+**Directions:**
 
 1. Preheat the oven to 325 degrees F (165 degrees C). Line two large baking sheets with parchment or aluminum foil.
 
@@ -44,6 +44,3 @@ Servings: ~30     
 
 3. Bake in the preheated oven until crispy and toasted, about 20 minutes. Stir once halfway through. Cool, then stir in the raisins or cranberries before storing in an airtight container.
 
-        
-
-        

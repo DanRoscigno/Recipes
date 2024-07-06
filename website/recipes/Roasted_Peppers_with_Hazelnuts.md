@@ -2,9 +2,9 @@
 
 `Condiments` `Side dish` `Kim Acceptable` `Italian Inspired`
 
- Servings: 12      
+ Servings: 12� 
 
-**Ingredients:�**� 
+**Ingredients:**� 
 
 _Peppers:_
 
@@ -40,6 +40,5 @@ Arrange in pinwheel pattern on platter.
 
 For Vinaigrette: Combine first 3 ingredients in small bowl. Gradually whisk in oil. Season with salt and pepper. 
 
-Pour vinaigrette over peppers. (Can be prepared 1 day ahead and refrigerated. Bring to room temperature before serving). Sprinkle with nuts and cilantro.      
+Pour vinaigrette over peppers. (Can be prepared 1 day ahead and refrigerated. Bring to room temperature before serving). Sprinkle with nuts and cilantro.
 
-        

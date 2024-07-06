@@ -2,9 +2,9 @@
 
 `Main Meal` `Picnic Fare` `Side dish` `Kim Acceptable` `French Inspired`
 
-Servings: 6 - 8      
+Servings: 6 - 8� 
 
- **Ingredients:    �**� 
+ **Ingredients:**� 
 
 1 pie shell
 
@@ -26,4 +26,3 @@ pinch of cayenne pepper
 
 Preheat oven to 425 degrees. Sprinkle grated chees over bottom of pie shell. Combine eggs, cream, salt, nutmeg, and cayenne pepper in a bowl & beat to mix well. Add spinach to custard and pour into pie shell. Bake 15 min at 425 then lower the heat to 350 degrees and bake for 30 mins. more, or until knife inserted in the center comes out clean.
 
-         

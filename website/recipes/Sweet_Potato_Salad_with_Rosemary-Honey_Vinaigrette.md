@@ -2,11 +2,11 @@
 
 `Side dish` `Kim Acceptable`
 
- Servings:  6      
+ Servings: 6
 
-**Ingredients:  �**� 
+**Ingredients:**� 
 
-4 1/2  cups  peeled, cubed sweet potato
+4 1/2� cups� peeled, cubed sweet potato
 
 2 tablespoons olive oil, divided
 
@@ -28,8 +28,7 @@ Line a 15- x 10-inch jellyroll pan with aluminum foil. Coat foil with vegetable 
 
 Toss together sweet potato and 1 tablespoon oil in pan.
 
-Bake at 450° for 35 minutes or until tender.
+Bake at 450 for 35 minutes or until tender.
 
-Whisk together remaining 1 tablespoon oil, honey, and next 5 ingredients in a large bowl. Add sweet potato; toss well. Cool.      
+Whisk together remaining 1 tablespoon oil, honey, and next 5 ingredients in a large bowl. Add sweet potato; toss well. Cool.
 
-        

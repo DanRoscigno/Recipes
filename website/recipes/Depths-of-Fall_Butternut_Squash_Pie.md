@@ -2,35 +2,34 @@
 
 `Desserts` `Thanksgiving` `Kim Acceptable` `Fall`
 
-Servings: 8      
+Servings: 8
 
-**Ingredients:  �**� 
+**Ingredients:**� 
 
- ◦1-1/4 pounds (about 2 cups) cubed (1-inch) peeled ready-to-cook butternut squash
+ - 1-1/4 pounds (about 2 cups) cubed (1-inch) peeled ready-to-cook butternut squash
 
- ◦2 ripe pears, peeled, cored and cut into 1/2-inch cubes
+ - 2 ripe pears, peeled, cored and cut into 1/2-inch cubes
 
- ◦1/2 cup moist, plump dried fruit, such as cranberries, raisins (dark or golden) or finely diced apples or pears
+ - 1/2 cup moist, plump dried fruit, such as cranberries, raisins (dark or golden) or finely diced apples or pears
 
- ◦1/2 cup (packed) light brown sugar
+ - 1/2 cup (packed) light brown sugar
 
- ◦1 teaspoon ground cinnamon
+ - 1 teaspoon ground cinnamon
 
- ◦1/4 teaspoon freshly grated nutmeg
+ - 1/4 teaspoon freshly grated nutmeg
 
- ◦Grated zest of 1/2 orange
+ - Grated zest of 1/2 orange
 
- ◦2 tablespoons fresh orange juice
+ - 2 tablespoons fresh orange juice
 
- ◦1/3 cup coarsely chopped walnuts
+ - 1/3 cup coarsely chopped walnuts
 
- ◦2 tablespoons plain dry bread crumbs
+ - 2 tablespoons plain dry bread crumbs
 
- ◦Sugar, for dusting 
+ - Sugar, for dusting 
 
-        
 
-**Directions:    �**� 
+**Directions:**� 
 
 Cook the squash in a microwave oven for 6 minutes, or until almost cooked through. (Alternatively, you can steam the squash.) Pat the squash dry and toss it into a large bowl.
 
@@ -58,4 +57,3 @@ Brush the top of the pie lightly with water and dust with a little sugar. Bake t
 
 **Storing:** This pie is really best served the day it is made. If you must keep it overnight, store it covered in the refrigerator and bring it to room temperature or warm it for a few minutes in a 350-degree-F oven before serving.
 
-         

@@ -4,7 +4,7 @@
 
 Servings: 6 dozen
 
-**Ingredients:  �**� 
+**Ingredients:**  
 
 1/2 cup chopped hazelnuts
 
@@ -30,7 +30,7 @@ Servings: 6 dozen
 
 Sifted powdered sugar
 
-**Directions: �**� 
+**Directions:**  
 
 Bake 1/2 cup chopped hazelnuts in a shallow pan at 350° for 5 to 10 minutes or until toasted. Set aside.
 
@@ -40,6 +40,5 @@ Combine flour, baking powder, and salt; add to chocolate-hazelnut mixture altern
 
 Shape dough into 1-inch balls; roll in finely chopped hazelnuts, and then in powdered sugar. Place 2 inches apart on lightly greased baking sheets.
 
-Bake at 375° for 8 to 10 minutes or until set. Remove to wire racks to cool.       
+Bake at 375 for 8 to 10 minutes or until set. Remove to wire racks to cool.  
 
-              

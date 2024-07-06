@@ -2,9 +2,9 @@
 
 `Main Meal` `Italian Inspired`
 
-Servings:  8-10       
+Servings: 8-10� 
 
-**Ingredients:   �**� 
+**Ingredients:**� 
 
 _Meatballs:_
 
@@ -54,7 +54,7 @@ Salt/pepper
 
 _Meatballs:_
 
-Mix well with your hands and form into balls. Cook on low to medium heat in vegetable oil and cover pan. Place in homemade marinara sauce.       
+Mix well with your hands and form into balls. Cook on low to medium heat in vegetable oil and cover pan. Place in homemade marinara sauce.
 
 _Sauce:_
 

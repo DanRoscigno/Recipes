@@ -2,9 +2,9 @@
 
 `Desserts` `Fall` `Winter`
 
-Servings: 16-20   
+Servings: 16-20� 
 
-**Ingredients:    �**� 
+**Ingredients:**� 
 
 2/3 cup butter
 
@@ -32,4 +32,3 @@ Servings: 16-20  
 
 Cream butter with sugar. Beat in eggs and vanilla. Sift together dry ingredients and add alternately with beer to egg mixture. Stir in sauerkraut. Put in 2 greased and floured 8 inch cake pans. Bake at 350 degrees for 40 mins or until done. 
 
-            

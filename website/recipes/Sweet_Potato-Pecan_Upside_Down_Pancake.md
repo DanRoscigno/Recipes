@@ -2,9 +2,9 @@
 
 `Breakfasts`
 
-Servings: 8      
+Servings: 8
 
-**Ingredients:    �**� 
+**Ingredients:**� 
 
 1 3/4 cups sifted cake flour
 
@@ -48,6 +48,5 @@ Sift four, 4 Tbsp sugar and next 4 ingredients into large bowl. Using electric m
 
 Using clean dry beaters, beat whites and cream of tartar to soft peaks. Add remaining 2 Tbsp sugar and beat until stiff but not dry. Gently fold 1/4 of whites into batter. Fold batter into remaining whites.
 
-Preheat oven to 375 degrees. Melt butter in 12-inch nonstick skillet over medium heat. Add pecans and cook until toasted, about 3 minutes. Stir in brown sugar. Remove from heat. Mix in cinnamon. Pour batter over pecan mixture. Bake until pancake is puffed and golden brown, about 25 minutes. Unmold and drizzle with syrup.      
+Preheat oven to 375 degrees. Melt butter in 12-inch nonstick skillet over medium heat. Add pecans and cook until toasted, about 3 minutes. Stir in brown sugar. Remove from heat. Mix in cinnamon. Pour batter over pecan mixture. Bake until pancake is puffed and golden brown, about 25 minutes. Unmold and drizzle with syrup.
 
-        

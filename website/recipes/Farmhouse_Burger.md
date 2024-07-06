@@ -2,11 +2,11 @@
 
 `Main Meal` `Picnic Fare` `Kim Acceptable` `Camping` `American`
 
-Servings: 6-8       
+Servings: 6-8
 
-**Ingredients:**  
+**Ingredients:**
 
-_Burgers:   �_� 
+_Burgers:_
 
 3 medium eggplants
 
@@ -36,6 +36,5 @@ Zucchini pickles*see recipe
 
 **Directions:**
 
-Peel and cube eggplant. Sautee until soft. Mix eggplant with cheddar cheese, bread crumbs, green onion, parsley, minced garlic, and pepper. Form patties about 3/4 inch thick. Sear on hot flat grill. Top with caramelized onions, roasted red peppers, spicy mustard, baby greens, and serve on an artisan roll with zucchini pickles.       
+Peel and cube eggplant. Sautee until soft. Mix eggplant with cheddar cheese, bread crumbs, green onion, parsley, minced garlic, and pepper. Form patties about 3/4 inch thick. Sear on hot flat grill. Top with caramelized onions, roasted red peppers, spicy mustard, baby greens, and serve on an artisan roll with zucchini pickles.� 
 
-        

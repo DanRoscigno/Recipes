@@ -2,11 +2,10 @@
 
 `Main Meal` `Picnic Fare` `Kim Acceptable` `Quick` `Island Inspired`
 
-Servings: 2  
+Servings: 2� 
 
-    
 
-**Ingredients:    �**� 
+**Ingredients:**� 
 
 2 1/2 tablespoons butter
 
@@ -14,7 +13,7 @@ Servings: 2 
 
 1/8 teaspoon cayenne pepper
 
-1  fresh lime juice
+1� fresh lime juice
 
 1 teaspoon grated lime peel
 
@@ -28,6 +27,5 @@ Servings: 2 
 
  Preheat broiler. Melt butter in heavy small skillet over medium heat. Stir in ginger and cayenne. Remove from heat. Stir in lime juice and peel. Season ginger-lime butter to taste with salt and pepper.
 
-Place shrimp in bowl. Add ginger-lime butter; toss to coat. Transfer shrimp to small rimmed baking sheet. Broil until pink and just cooked through, about 2 minutes per side. Transfer shrimp to plate; drizzle with pan juices. Sprinkle with onions. Serve with lemon wedges.        
+Place shrimp in bowl. Add ginger-lime butter; toss to coat. Transfer shrimp to small rimmed baking sheet. Broil until pink and just cooked through, about 2 minutes per side. Transfer shrimp to plate; drizzle with pan juices. Sprinkle with onions. Serve with lemon wedges.� 
 
-        

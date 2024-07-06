@@ -2,9 +2,9 @@
 
 `Gifts` `Soups` `Kim Acceptable`
 
-Servings: 10      
+Servings: 10
 
-**Ingredients:  �**� 
+**Ingredients:**
 
 _Soup:_
 
@@ -50,20 +50,19 @@ _For soup:_
 
 **Step 1**
 
-Preheat oven to 375°F. Place eggplant cut side down on oiled rimmed baking sheet. Bake until very tender, about 1 hour. Cool.
+Preheat oven to 375F. Place eggplant cut side down on oiled rimmed baking sheet. Bake until very tender, about 1 hour. Cool.
 
 ### **Step 2**
 
-Melt butter in heavy large pot over medium heat. Add onion, fennel, potato, leek, garlic and oregano; sauté 10 minutes. Add wine; cook 2 minutes. Add 7 1/2 cups stock; simmer until vegetables are tender, 15 minutes. Scoop out eggplant flesh; discard skins. Add eggplant to soup. Simmer 10 minutes. Working in batches, puree soup in blender. Return soup to pot. Mix in cream. Season with salt and pepper. (Can be made 1 day ahead; cool slightly. Cover; chill.)
+Melt butter in heavy large pot over medium heat. Add onion, fennel, potato, leek, garlic and oregano; sautÃ© 10 minutes. Add wine; cook 2 minutes. Add 7 1/2 cups stock; simmer until vegetables are tender, 15 minutes. Scoop out eggplant flesh; discard skins. Add eggplant to soup. Simmer 10 minutes. Working in batches, puree soup in blender. Return soup to pot. Mix in cream. Season with salt and pepper. (Can be made 1 day ahead; cool slightly. Cover; chill.)
 
 _For dumplings:_
 
 **Step 3**
 
-Heat oil in small skillet over medium heat. Add shallots; sauté 4 minutes. Cool. Mix in cheese, tomatoes and basil. Season filling with salt and pepper. Place wrappers on work surface. Place 2 teaspoons filling in center. Brush edges with water. Fold wrappers diagonally in half; press edges to seal. (Can be made 4 hours ahead. Place in single layer on floured baking sheet. Cover; chill.)
+Heat oil in small skillet over medium heat. Add shallots; sautÃ© 4 minutes. Cool. Mix in cheese, tomatoes and basil. Season filling with salt and pepper. Place wrappers on work surface. Place 2 teaspoons filling in center. Brush edges with water. Fold wrappers diagonally in half; press edges to seal. (Can be made 4 hours ahead. Place in single layer on floured baking sheet. Cover; chill.)
 
 ### **Step 4**
 
 Bring soup to simmer, thinning with more stock if necessary. Cook dumplings in pot of boiling salted water until tender, about 1 minute. Ladle soup into bowls. Using slotted spoon, place 2 dumplings atop soup in each bowl.
 
-   

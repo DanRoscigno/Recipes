@@ -2,9 +2,9 @@
 
 `Main Meal` `Asian Inspired`
 
-Servings: 6      
+Servings: 6� 
 
-**Ingredients:  �**� 
+**Ingredients:**� 
 
 * 2 cups fat-free, lower-sodium chicken broth
 
@@ -34,9 +34,9 @@ Servings: 6     
 
  * 3 ounces uncooked wide rice noodles
 
-**Directions:    �**� 
+**Directions:**� 
 
-   1.  Bring broth to a boil in a medium saucepan 
+1. Bring broth to a boil in a medium saucepan 
 
 over medium-high heat; stir in lemongrass, lime leaves, and galangal. Reduce heat, and simmer 5 minutes. Remove from heat; let stand 30 minutes. 
 
@@ -46,4 +46,4 @@ over medium-high heat; stir in lemongrass, lime leaves, and galangal. Reduce hea
 
 1. Cook noodles according to package directions; drain. Add noodles to coconut milk mixture. Ladle 1 cup soup into each of 6 bowls; sprinkle evenly with remaining 2 tablespoons cilantro.
 
-         
+  

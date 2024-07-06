@@ -2,9 +2,9 @@
 
 `Cheesecakes`
 
-Servings: 10      
+Servings: 10� 
 
-**Ingredients:    �**�  
+**Ingredients:**�  
 
 _CRUST:_
 
@@ -68,6 +68,5 @@ Mix all ingredients in small bowl. Pour topping over hot cheesecake. Increase ov
 
 _Glaze:_ 
 
-Bring cream to simmer in heavy saucepan over low heat. Add chocolate and stir until smooth. Cool to room temperature. Pour over top and sides of cake.      
+Bring cream to simmer in heavy saucepan over low heat. Add chocolate and stir until smooth. Cool to room temperature. Pour over top and sides of cake.� 
 
-        

@@ -2,9 +2,9 @@
 
 `Gifts` `Condiments` `Middle Eastern/Moroccan Inspired`
 
-Servings: 4 lemons      
+Servings: 4 lemons
 
-**Ingredients:�**� 
+**Ingredients:**
 
  4 medium lemons 
 
@@ -12,11 +12,9 @@ Servings: 4 lemons     
 
 1/2 cup fresh lemon juice (about 3 lemons) 
 
-        
-
 **Directions:**
 
-         Cut lemons lengthwise into quarters from the top to within 1/2 inch of bottom, without separating quarters.
+ Cut lemons lengthwise into quarters from the top to within 1/2 inch of bottom, without separating quarters.
 
  
 
@@ -30,4 +28,3 @@ Sprinkle lemons with remaining 4 tablespoons salt; cover with lid, and shake to 
 
 **Note:** Preserved lemons may have a white film; rinse under cold water prior to using. The quarters can be used with or without pulp. Lemons will darken during storage.
 
-        

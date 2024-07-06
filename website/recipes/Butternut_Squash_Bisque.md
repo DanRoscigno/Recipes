@@ -2,9 +2,9 @@
 
 `Soups` `Thanksgiving` `Kim Acceptable`
 
-Servings: 8      
+Servings: 8
 
-**Ingredients:      �**� 
+**Ingredients:**
 
 2 pounds butternut squash, pared, halved, seeded and cubed
 
@@ -26,7 +26,7 @@ salt to taste
 
 Apple slices and sprigs of rosemary for gartnish (optional).
 
-**Directions:    �**� 
+**Directions:**
 
 1) Combine the squash, apples, onion, bread, chicken broth, pepper, rosemary and marjoram in a saucepan. Bring to boiling. 
 
@@ -38,6 +38,5 @@ Apple slices and sprigs of rosemary for gartnish (optional).
 
 5) Taste and add salt if necessary.
 
-6) garnish and serve.      
+6) garnish and serve.  
 
-        

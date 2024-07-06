@@ -2,9 +2,9 @@
 
 `Breads`
 
-Servings: 6 Dozen  
+Servings: 6 Dozen� 
 
-**Ingredients:  �**�  
+**Ingredients:**�  
 
 5 tsp baking soda
 
@@ -22,8 +22,7 @@ Servings: 6 Dozen 
 
 1 quart buttermilk
 
-**Directions:  �**�    
+**Directions:**
 
-         Dissolve the baking soda in 2 cups boiling water. Set aside to cool. With your electric mixer, cream the butter and sugar. Beat in eggs. Stir remaining ingredients, except soda water, in by hand. Stir in soda water last. **Keep the batter covered in the refrigerator for weeks.** Bake in muffin pans in a 375 degree oven for 30 minutes.      
+ Dissolve the baking soda in 2 cups boiling water. Set aside to cool. With your electric mixer, cream the butter and sugar. Beat in eggs. Stir remaining ingredients, except soda water, in by hand. Stir in soda water last. **Keep the batter covered in the refrigerator for weeks.** Bake in muffin pans in a 375 degree oven for 30 minutes.
 
-            

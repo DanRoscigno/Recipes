@@ -2,9 +2,9 @@
 
 `Main Meal` `Asian Inspired`
 
-Servings: 6      
+Servings: 6
 
-**Ingredients:  �**� 
+**Ingredients:**� 
 
 3 tablespoons reduced-sodium soy sauce
 
@@ -32,7 +32,6 @@ Servings: 6     
 
 1/2 cup sliced scallion greens
 
-        
 
 **Directions:**
 
@@ -49,7 +48,3 @@ Stir the reserved orange sauce and pour it into the wok. Bring to a boil, stirri
 **Tips & Notes:**
 
  * Freezing the beef sirloin for 30 minutes makes it easier to cut into very thin slices.
-
-        
-
-           

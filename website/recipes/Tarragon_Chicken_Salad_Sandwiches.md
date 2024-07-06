@@ -2,9 +2,9 @@
 
 `Main Meal` `Sandwiches` `Picnic Fare` `Irish/English/Scottish Inspired`
 
-Servings  6    
+Servings� 6
 
-**Ingredients:    �**� 
+**Ingredients:**� 
 
 1-1/4 pounds boneless skinless chicken breasts, cooked
 
@@ -38,4 +38,3 @@ Cut chicken into 1/2-inch cubes. Combine chicken, celery, grapes and raisins in 
 
 Place 1 lettuce leaf on each bun. Divide chicken mixture evenly among buns.
 
-          

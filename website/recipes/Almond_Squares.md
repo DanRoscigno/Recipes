@@ -2,9 +2,9 @@
 
 `Desserts` `Cookies` `Italian Inspired`
 
-Servings: 10-12       
+Servings: 10-12
 
-**Ingredients:   �**� 
+**Ingredients:
 
 _Crust:_
 
@@ -30,6 +30,4 @@ _Topping:_
 
 **Directions:**
 
-Mix together well and spread on top of baked and cooled crust. Bake 15-20 mins at 350 degrees. Let cool and cut into squares.       
-
-       
+Mix together well and spread on top of baked and cooled crust. Bake 15-20 mins at 350 degrees. Let cool and cut into squares.

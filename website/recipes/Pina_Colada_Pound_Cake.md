@@ -2,9 +2,9 @@
 
 `Desserts` `Want to make` `Gifts` `Island Inspired`
 
-Servings: 16       
+Servings: 16
 
-**Ingredients:    �**�   
+**Ingredients:**
 
 Cake:
 
@@ -44,7 +44,7 @@ Thin strips lime and lemon rind
 
 **Directions:**
 
-Prepare cake: Heat oven to 325°. Grease a 12-cup Bundt pan. Lightly dust with flour; tap out excess flour.
+Prepare cake: Heat oven to 325. Grease a 12-cup Bundt pan. Lightly dust with flour; tap out excess flour.
 
 Whisk together flour, baking soda and salt in a medium-size bowl until well mixed.
 
@@ -56,8 +56,7 @@ On low speed, beat flour mixture into butter mixture in 3 additions, alternating
 
 Add coconut extract and vanilla, and beat on medium speed for 3 minutes. Pour the batter into prepared pan.
 
-Bake in 325° oven for 60 minutes or until a wooden pick inserted in the center of the cake comes out clean. Transfer pan to wire rack and cool for about 15 to 20 minutes. Turn out cake onto rack; turn right side up. Cool completely.
+Bake in 325 oven for 60 minutes or until a wooden pick inserted in the center of the cake comes out clean. Transfer pan to wire rack and cool for about 15 to 20 minutes. Turn out cake onto rack; turn right side up. Cool completely.
 
-Prepare glaze: Whisk together lime juice and confectioners' sugar in small bowl until good drizzling consistency. Drizzle over cake. Garnish with shredded coconut and lemon and lime rind OR serve with grilled pineapple with rum sauce (see recipe).    
+Prepare glaze: Whisk together lime juice and confectioners' sugar in small bowl until good drizzling consistency. Drizzle over cake. Garnish with shredded coconut and lemon and lime rind OR serve with grilled pineapple with rum sauce (see recipe).
 
-        

@@ -2,9 +2,9 @@
 
 `Side dish` `Kim Acceptable`
 
-Servings: 6      
+Servings: 6� 
 
-**Ingredients:      �**� 
+**Ingredients:**� 
 
 2 1/4 pounds kabocha squash, halved and seeded
 
@@ -24,7 +24,7 @@ Servings: 6     
 
 1/4 cup chicken stock or canned low-sodium chicken broth
 
-**Directions:    �**� 
+**Directions:**� 
 
 Preheat the oven to 350 degrees F.
 
@@ -34,6 +34,5 @@ Remove the squash from the oven, uncover, and let sit until cool enough to handl
 
 Melt the remaining 3 tablespoons butter in a medium skillet over medium-high heat. When the butter is foamy, add the shallots and cook, stirring, until soft and fragrant, 45 seconds to 1 minute. Add the apples, salt, and pepper and cook, stirring occasionally, for 3 minutes. Add the stock and cook, stirring occasionally, until the apples are very tender, 8 to 10 minutes.
 
-Remove the pan from the heat and transfer the apple mixture to a food processor with the squash. Puree the mixture on high speed until smooth. Adjust the seasoning, to taste, and serve warm.        
+Remove the pan from the heat and transfer the apple mixture to a food processor with the squash. Puree the mixture on high speed until smooth. Adjust the seasoning, to taste, and serve warm.
 
-        

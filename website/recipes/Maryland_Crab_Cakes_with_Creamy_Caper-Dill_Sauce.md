@@ -4,7 +4,7 @@
 
 Servings: 14 cakes 
 
-**Ingredients:**Â  Â  Â  
+**Ingredients:**  
 
 _Crab Cakes:_
 
@@ -40,17 +40,17 @@ Garnish: fresh dill sprigs
 
 _Creamy Caper-dill Sauce:_
 
-- Â¾ cup mayonnaiseÂ 
-- Â½ cup sour creamÂ 
-- Â¼ teaspoon grated lemon rindÂ 
-- 2 tablespoons fresh lemon juiceÂ 
-- 1 tablespoon drained capersÂ 
-- 2 teaspoons chopped fresh dillÂ 
-- 1 teaspoon Dijon mustardÂ 
-- Â¼ teaspoon saltÂ 
-- Â¼ teaspoon pepper
+- ¾ cup mayonnaise 
+- ½ cup sour cream 
+- ¼ teaspoon grated lemon rind 
+- 2 tablespoons fresh lemon juice 
+- 1 tablespoon drained capers 
+- 2 teaspoons chopped fresh dill 
+- 1 teaspoon Dijon mustard 
+- ¼ teaspoon salt 
+- ¼ teaspoon pepper
 
-**Directions:Â**  Â  
+**Directions:**
 
 1. Rinse, drain, and flake crabmeat, being careful not to break up lumps, and remove any bits of shell. Set crabmeat aside.
 
@@ -62,6 +62,3 @@ _Creamy Caper-dill Sauce:_
 
 *Regular crabmeat may be substituted for lump.
 
-Â  Â  Â  Â  
-
-Â  Â  Â  Â  Â  Â  Â  

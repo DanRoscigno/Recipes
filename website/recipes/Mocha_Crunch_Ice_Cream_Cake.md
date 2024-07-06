@@ -2,7 +2,7 @@
 
 `Desserts`
 
-**Ingredients:     �**� 
+**Ingredients:**
 
 1 1/2 cups water
 
@@ -22,13 +22,13 @@
 
 2 pints coffee ice cream
 
-**Directions:    �**� 
+**Directions:**  
 
 _For sauce:_ 
 
 Cook water, sugar and espresso in heavy medium saucepan over low heat, stirring until sugar dissolves. Add chocolate and butter. Stir until chocolate and butter are melted and sauce is smooth. Cool completely. (Sauce can be prepared 3 days ahead. Cover and refrigerate. Bring sauce to room temperature before using.)
 
-_For crust:�_� 
+_For crust:_  
 
 Oil 9-inch springform pan. Mix 2 cups crumbs and butter in medium bowl. Press firmly into bottom of prepared pan. Freeze until firm.
 
@@ -40,6 +40,5 @@ Spoon 1/2 cup sauce over ice cream and sprinkle with remaining 1 cup cookie crum
 
 Soften coffee ice cream in refrigerator until spreadable but not melted. Spread in pan. Smooth surface and freeze until firm. Spread 1/2 cup sauce over coffee ice cream. Sprinkle with Almond Roca and freeze until firm. (Can be prepared 3 days ahead. Cover tightly.)
 
-Soften cake slightly in refrigerator if necessary. Rewarm remaining sauce over low heat until lukewarm, stirring frequently. Remove pan sides. Cut cake into wedges. Serve, passing warm mocha sauce separately.        
+Soften cake slightly in refrigerator if necessary. Rewarm remaining sauce over low heat until lukewarm, stirring frequently. Remove pan sides. Cut cake into wedges. Serve, passing warm mocha sauce separately.  
 
-        

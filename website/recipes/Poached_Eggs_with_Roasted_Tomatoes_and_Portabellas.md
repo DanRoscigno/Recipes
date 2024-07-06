@@ -2,9 +2,9 @@
 
 `Breakfasts` `Kim Acceptable`
 
-Servings: 4                    
+Servings: 4
 
-**Ingredients:    �**�  
+**Ingredients:**�  
 
 4 (3-inch-wide) portabella mushroom caps, stems discarded
 
@@ -24,11 +24,9 @@ Servings: 4                   
 
 4 thin slices Fontina cheese
 
-1 tablespoon finely chopped fresh chives      
+1 tablespoon finely chopped fresh chives
 
-        
-
-**Directions:  �**� 
+**Directions:**� 
 
 Preheat broiler. Brush mushrooms and tomatoes with oil and sprinkle with salt and pepper. Arrange mushrooms, stemmed sides down, and tomato halves, cut sides up, on a broiler pan.
 
@@ -44,8 +42,6 @@ Sprinkle stemmed sides of mushrooms with balsamic vinegar, then put 1 tomato hal
 
 *Cooks' note:
 
-The eggs in this recipe are not fully cooked, which may be of concern if salmonella is a problem in your area. You can substitute pasteurized eggs (in the shell) or cook eggs until yolks are set.      
-
-        
+The eggs in this recipe are not fully cooked, which may be of concern if salmonella is a problem in your area. You can substitute pasteurized eggs (in the shell) or cook eggs until yolks are set.� 
 
 Comments: Everyone loved Christmas 2012! 

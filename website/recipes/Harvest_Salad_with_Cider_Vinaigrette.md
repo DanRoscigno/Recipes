@@ -2,11 +2,11 @@
 
 `Salads` `Side dish` `Kim Acceptable`
 
-Servings: 6       
+Servings: 6
 
-**Ingredients:�**� 
+**Ingredients:**
 
-_Salad: �_� 
+_Salad:_
 
 2 red pears, chopped
 
@@ -40,12 +40,9 @@ _Cider Vinaigrette:_
 
  * 1/3 cup olive oil
 
-  
+**Directions:**
 
-**Directions:   �**� 
+Toss together chopped pear and lemon juice in a medium bowl. Add apricots and next 4 ingredients, tossing well. Chill 1 hour or overnight.
 
-         Toss together chopped pear and lemon juice in a medium bowl. Add apricots and next 4 ingredients, tossing well. Chill 1 hour or overnight.
+Arrange spinach on individual plates; top evenly with pear mixture, and sprinkle with walnuts and cheese. Drizzle with vinaigrette.  
 
-Arrange spinach on individual plates; top evenly with pear mixture, and sprinkle with walnuts and cheese. Drizzle with vinaigrette.       
-
-        

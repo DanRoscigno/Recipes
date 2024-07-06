@@ -4,7 +4,7 @@
 
 Servings: 4-6 
 
-**Ingredients:    �**� 
+**Ingredients:**
 
 _Pound Cake:_
 
@@ -48,4 +48,3 @@ In a medium bowl, using an electric hand mixer, beat all the ingredients togethe
 
 To assemble: Spoon the citrus-cream filling on the cooled pound cake slices. Top with orange segments and serve.
 
-              

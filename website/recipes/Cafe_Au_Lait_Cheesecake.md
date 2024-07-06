@@ -2,9 +2,9 @@
 
 `Cheesecakes` `Want to make`
 
-Servings: 10   
+Servings: 10� 
 
-**Ingredients:     �**� 
+**Ingredients:**� 
 
 1 3/4 cups chocolate wafers 
 
@@ -48,4 +48,3 @@ Bake cheesecake for 20-25 minutes more or until center appears nearly set when g
 
 Loosen sides of the cheesecake from the pan.
 
-            

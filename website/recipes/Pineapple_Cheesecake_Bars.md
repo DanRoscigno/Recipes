@@ -2,9 +2,9 @@
 
 `Desserts` `Picnic Fare` `Cookies`
 
-Servings: 16-24      
+Servings: 16-24� 
 
-**Ingredients:�**�   
+**Ingredients:**
 
 _Crust:_
 
@@ -44,8 +44,7 @@ Preheat oven to 350 degrees F. Combine flour, sugar, and butter until mixture is
 
 Mix cream cheese, sugar, milk, and vanilla. Add egg and mix 3 mins. Stir in crushed pineapple and mix thoroughly. Pour over partially baked crust. Mix coconut and melted butter and sprinkle over filling. 
 
-Bake for additional 15 to 20 minutes or until batter is set and coconut is golden. Remove from oven. Let stand for 1 hour and cut into bars.       
+Bake for additional 15 to 20 minutes or until batter is set and coconut is golden. Remove from oven. Let stand for 1 hour and cut into bars.
 
-        
 
-Comments:   From Carol Terwilliger  late 70’s!
+Comments:� From Carol Terwilliger� late 70's!

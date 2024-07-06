@@ -8,33 +8,33 @@ Makes 4-6 servings
 
 1/2 cup plus 2 tablespoons extra-virgin olive oil
 
-1/2 yellow onion, finely choppedÂ 
+1/2 yellow onion, finely chopped 
 
-Kosher saltÂ 
+Kosher salt 
 
-1 tablespoon harissaÂ 
+1 tablespoon harissa 
 
-1/2 teaspoon **anchovy pasteÂ** 
+1/2 teaspoon **anchovy paste** 
 
-4 cloves garlic, mincedÂ 
+4 cloves garlic, minced 
 
-1/2 cup dry white wineÂ 
+1/2 cup dry white wine 
 
-Two 15-ounce cans chickpeas, drained and rinsedÂ 
+Two 15-ounce cans chickpeas, drained and rinsed 
 
-4 fresh thyme sprigsÂ 
+4 fresh thyme sprigs 
 
-Freshly ground black pepperÂ 
+Freshly ground black pepper 
 
-1 lemon, halvedÂ 
+1 lemon, halved 
 
-Whole-milk Greek yogurt, for servingÂ 
+Whole-milk Greek yogurt, for serving 
 
-Feta cheese, for servingÂ 
+Feta cheese, for serving 
 
-Finely chopped fresh herbs (a mix of cilantro, parsley and mint), for servingÂ 
+Finely chopped fresh herbs (a mix of cilantro, parsley and mint), for serving 
 
-Crusty bread, for servingÂ 
+Crusty bread, for serving 
 
 **Directions:**
 

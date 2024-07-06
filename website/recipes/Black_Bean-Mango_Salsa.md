@@ -2,9 +2,9 @@
 
 `Picnic Fare` `Appetizers` `Side dish` `Kim Acceptable` `Island Inspired`
 
-Servings: 8-10  
+Servings: 8-10� 
 
-**Ingredients:  �**� 
+**Ingredients:**� 
 
 1 can (15 oz.) black beans, rinsed and drained
 
@@ -28,8 +28,7 @@ Servings: 8-10 
 
 Salt and pepper
 
-**Directions:    �**� 
+**Directions:**� 
 
-         In a bowl, mix beans, mango, tomato, bell peppers, onion, jalapeño, cilantro, garlic, lime juice, and vinegar. Add salt and pepper to taste. Serve, or cover and chill up to 1 day.      
+ In a bowl, mix beans, mango, tomato, bell peppers, onion, jalapeño, cilantro, garlic, lime juice, and vinegar. Add salt and pepper to taste. Serve, or cover and chill up to 1 day.� 
 
-            

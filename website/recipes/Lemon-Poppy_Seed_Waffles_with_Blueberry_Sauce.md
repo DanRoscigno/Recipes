@@ -2,9 +2,9 @@
 
 `Breakfasts`
 
-Servings: 4      
+Servings: 4� 
 
-**Ingredients:    �**�  
+**Ingredients:**�  
 
  1 pound frozen blueberries, thawed, undrained
 
@@ -36,9 +36,7 @@ Servings: 4     
 
 1 tablespoon grated lemon peel
 
-        
-
-**Directions:      �**� 
+**Directions:**� 
 
 _For blueberry sauce:_
 
@@ -48,6 +46,5 @@ _For lemon-poppy seed waffles:_
 
 Whisk first 6 ingredients in large bowl to blend. Whisk eggs, buttermilk, melted butter and lemon peel in small bowl to blend. Add buttermilk mixture all at once to flour mixture and whisk until just blended. Let mixture stand 15 minutes.
 
-Preheat waffle iron according to manufacturer’s instructions. Spoon batter onto waffle iron. Cover and cook until golden and cooked through, about 7 minutes (cooking time will vary, depending on waffle iron). Repeat with remaining batter. Serve immediately with warm blueberry sauce.        
+Preheat waffle iron according to manufacturer’s instructions. Spoon batter onto waffle iron. Cover and cook until golden and cooked through, about 7 minutes (cooking time will vary, depending on waffle iron). Repeat with remaining batter. Serve immediately with warm blueberry sauce.
 
-        
