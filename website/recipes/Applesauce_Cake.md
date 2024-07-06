@@ -2,11 +2,11 @@
 
 `Desserts` `Picnic Fare`
 
-Servings: 16-20    
+Servings: 16-20
 
 Preheat oven to 350 degrees
 
-**Ingredients:  �**� 
+**Ingredients:**  
 
 Cream these together:
 
@@ -42,6 +42,4 @@ Add dry ingredients to creamed mixture and beat well. Slowly add:
 
 Add another 1/2 cup applesauce and stir. 
 
-Bake at 350 degrees for 45-50 mins.      
-
-        
+Bake at 350 degrees for 45-50 mins.  

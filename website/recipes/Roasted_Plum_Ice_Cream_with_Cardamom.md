@@ -18,9 +18,9 @@
 
 1/2 tsp ground cardamom 
 
-**Directions:�**�
+**Directions:** 
 
-_Roasted Plum Purée:_
+_Roasted Plum PurÃ©e:_
 
 Halve your plums, removing the pits, and place them on a baking sheet with the skin side down. Roast at 425 degrees for about 20 minutes, until they're tender and the juices are starting to spill out on to the pan. 
 
@@ -38,8 +38,8 @@ With the mixer running, slowly pour the cream mixture into the yolks until fully
 
 When you've reached 180 degrees, strain the custard through a fine mesh sieve into a medium bowl, and set that bowl into a larger one with a bit of ice and water in it to create a cooling water bath. Spin the inner bowl with one hand, while holding your spatula in the custard like a rudder to help the mixture cool evenly. 
 
-Once it has cooled significantly, stir in the plum puree (and the vanilla extract if you're using it) until fully combined and let chill for a few hours. 
+Once it has cooled significantly, stir in the plum puree (and the vanilla extract if you're using it) until fully combined and let chill for a few hours.
 
 _Ice Cream:_
 
-Churn based on your machine's instructions. I have a [Cuisinart 2 Quart ice cream maker](http://amzn.to/1JAVTm0), and this recipe filled it to the brim. If your machine is smaller, you may want to churn this in two batches, or cut the recipe by a bit! 
+Churn based on your machine's instructions. I have a [Cuisinart 2 Quart ice cream maker](http://amzn.to/1JAVTm0), and this recipe filled it to the brim. If your machine is smaller, you may want to churn this in two batches, or cut the recipe by a bit!

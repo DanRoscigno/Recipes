@@ -3,7 +3,7 @@
 `Main Meal` `American`
 
 Serves 5-6
-![Chicken and Vegetable Pot Pies with Cream Cheese Crust](http://www.epicurious.com/images/recipesmenus/2001/2001_february/104683_116.jpg)**Ingredients:  �**� 
+![Chicken and Vegetable Pot Pies with Cream Cheese Crust](http://www.epicurious.com/images/recipesmenus/2001/2001_february/104683_116.jpg)**Ingredients:**  
 
 2 1/2 cups all purpose flour
 
@@ -55,7 +55,7 @@ Serves 5-6
 
 1 egg, beaten to blend (for glaze)
 
-**Directions:  �**� 
+**Directions:**
 
 _For crust:_
 
@@ -67,12 +67,11 @@ Place all ingredients in large pot; bring to boil. Reduce heat; simmer until chi
 
 _For filling and assembly:_
 
-Heat 1 tablespoon oil in large skillet over medium heat. Add peppers and onion; cook until soft, about 6 minutes. Transfer to bowl with chicken. Heat 2 tablespoons oil in same skillet over medium-high heat. Add mushrooms; sauté until just brown, about 4 minutes. Add to bowl with chicken; mix in next 4 ingredients.
+Heat 1 tablespoon oil in large skillet over medium heat. Add peppers and onion; cook until soft, about 6 minutes. Transfer to bowl with chicken. Heat 2 tablespoons oil in same skillet over medium-high heat. Add mushrooms; sautÃ© until just brown, about 4 minutes. Add to bowl with chicken; mix in next 4 ingredients.
 
 Melt butter in large saucepan over medium heat. Add flour; whisk 2 minutes. Gradually whisk in 3 cups stock, then milk, cream and beef base; bring to boil. Season sauce with salt and pepper. Stir 3 cups sauce into chicken mixture (reserve remaining sauce for another use).
 
-Cut prepared dough crosswise into 6 equal pieces. Roll out pieces to 7-inch rounds on lightly floured surface. Divide filling among six 2-cup soufflé dishes. Cover each dish with 1 dough round. Press overhang to side of dish to adhere. (Can be made 1 day ahead. Cover; chill.)
+Cut prepared dough crosswise into 6 equal pieces. Roll out pieces to 7-inch rounds on lightly floured surface. Divide filling among six 2-cup soufflÃ© dishes. Cover each dish with 1 dough round. Press overhang to side of dish to adhere. (Can be made 1 day ahead. Cover; chill.)
 
-Preheat oven to 350°F. Brush top of each dough round with egg glaze; cut 3 slits in each for steam to escape. Bake pies until crust is golden brown and filling is heated through, about 45 minutes.        
+Preheat oven to 350 F. Brush top of each dough round with egg glaze; cut 3 slits in each for steam to escape. Bake pies until crust is golden brown and filling is heated through, about 45 minutes.
 
-        

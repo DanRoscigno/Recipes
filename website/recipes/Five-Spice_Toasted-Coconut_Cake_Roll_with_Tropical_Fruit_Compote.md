@@ -6,37 +6,37 @@
 
 ## **Ingredients**
 
-**Cake:Â** 
+**Cake:** 
 
-- Â½ cup sifted cake flourÂ 
-- Â¾ cup granulated sugar, dividedÂ 
-- Â¾ teaspoon five-spice powderÂ 
-- 6 large egg whitesÂ 
-- Â½ teaspoon cream of tartarÂ 
-- Dash of saltÂ 
-- 1 teaspoon fresh lemon juiceÂ 
-- 1 teaspoon vanilla extractÂ 
-- Â½ teaspoon coconut extractÂ 
-- â…“ cup flaked sweetened coconutÂ 
-- 2 tablespoons powdered sugarÂ 
+- ½ cup sifted cake flour 
+- ¾ cup granulated sugar, divided 
+- ¾ teaspoon five-spice powder 
+- 6 large egg whites 
+- ½ teaspoon cream of tartar 
+- Dash of salt 
+- 1 teaspoon fresh lemon juice 
+- 1 teaspoon vanilla extract 
+- ½ teaspoon coconut extract 
+- a cup flaked sweetened coconut 
+- 2 tablespoons powdered sugar 
 
-**Ice cream:** 1 pint mandarin orange with passionfruit sorbet (such as Edy's Whole Fruit Sorbet), softenedÂ 
+**Ice cream:** 1 pint mandarin orange with passionfruit sorbet (such as Edy's Whole Fruit Sorbet), softened 
 
-**Compote:Â** 
+**Compote:** 
 
-- 1 cup (1/2-inch) cubed peeled ripe mangoÂ 
-- 1 cup (1/2-inch) cubed fresh pineappleÂ 
-- 1 cup (1/2-inch) cubed peeled kiwifruitÂ 
-- 2 tablespoons brown sugarÂ 
-- 2 tablespoons dark rumÂ 
+- 1 cup (1/2-inch) cubed peeled ripe mango 
+- 1 cup (1/2-inch) cubed fresh pineapple 
+- 1 cup (1/2-inch) cubed peeled kiwifruit 
+- 2 tablespoons brown sugar 
+- 2 tablespoons dark rum 
 
-**Remaining ingredient:Â** 
+**Remaining ingredient:** 
 
-- Â¼ cup flaked sweetened coconut, toasted
+- ¼ cup flaked sweetened coconut, toasted
 
 ## **Directions**
 
-- Preheat oven to 325Â°.
+- Preheat oven to 325°.
     **Step 1**
 - To prepare cake, line the bottom of a 15 x 10-inch jelly roll pan with wax paper.
     **Step 2**
@@ -44,7 +44,7 @@
     **Step 3**
 - Place egg whites in a large bowl; beat with a mixer at high speed until foamy. Add cream of tartar and salt, and beat until soft peaks form. Add 6 tablespoons granulated sugar, 2 tablespoons at a time, beating until stiff peaks form. Beat in juice and extracts.
     **Step 4**
-- Sift 1/4 cup flour mixture over egg white mixture; fold in. Repeat procedure with remaining flour mixture, 1/4 cup at a time. Spread batter into prepared pan. Sprinkle with 1/3 cup coconut. Bake at 325Â° for 20 minutes or until cake springs back when lightly touched.
+- Sift 1/4 cup flour mixture over egg white mixture; fold in. Repeat procedure with remaining flour mixture, 1/4 cup at a time. Spread batter into prepared pan. Sprinkle with 1/3 cup coconut. Bake at 325° for 20 minutes or until cake springs back when lightly touched.
     **Step 5**
 - Place a clean dish towel over a large wire rack; dust with powdered sugar. Loosen cake from sides of pan; turn out onto towel. Carefully peel off wax paper; cool for 3 minutes. Starting at narrow end, roll up cake and towel together. Place, seam side down, on wire rack; cool cake completely. Unroll cake, and remove towel. Spread sorbet over cake, leaving a 1/2-inch border around outside edges. Reroll cake. Wrap cake in plastic wrap; freeze 1 hour or until firm.
     **Step 6**

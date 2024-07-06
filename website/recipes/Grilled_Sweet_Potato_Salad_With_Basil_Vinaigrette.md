@@ -2,9 +2,9 @@
 
 `Picnic Fare` `Side dish`
 
-Servings: 4      
+Servings: 4
 
-**Ingredients:�**� 
+**Ingredients:**
 
 4 sweet potatoes, peeled and cut into 1/2-inch slices
 
@@ -28,6 +28,5 @@ Coat both sides of sweet potato slices with cooking spray.
 
 Whisk together red wine/olive oil dressing, basil, and balsamic vinegar
 
-Grill potatoes, covered with grill lid, over medium-high heat (350° to 400°) 6 minutes on each side or until tender. Cool slightly, and cut into 1-inch cubes. Combine potatoes, bell pepper, onions, and parsley in a large bowl; toss with Basil Vinaigrette.      
+Grill potatoes, covered with grill lid, over medium-high heat (350 to 400) 6 minutes on each side or until tender. Cool slightly, and cut into 1-inch cubes. Combine potatoes, bell pepper, onions, and parsley in a large bowl; toss with Basil Vinaigrette.
 
-        

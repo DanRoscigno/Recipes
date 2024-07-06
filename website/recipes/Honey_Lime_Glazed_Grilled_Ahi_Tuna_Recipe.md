@@ -2,9 +2,8 @@
 
 `Main Meal` `Kim Acceptable` `Island Inspired`
 
-Servings: 4 main servings                  
+Servings: 4 main servings
 
-   
 
 **Ingredients:**
 
@@ -26,12 +25,11 @@ Servings: 4 main servings                 
 
 •vegetable oil, as needed for grill
 
-**Directions:    �**� 
+**Directions:**� 
 
-         In a bowl, whisk together the lime juice, olive oil, rice vinegar, garlic, and ginger. Lay the tuna fillets on a plate, season with salt and fresh ground black pepper to taste, and spoon over 1/2 of the glaze, turn to coat evenly. Let marinate for 30 minutes in the refrigerator. Add the honey to the remaining half of the glaze and mix well. 
+ In a bowl, whisk together the lime juice, olive oil, rice vinegar, garlic, and ginger. Lay the tuna fillets on a plate, season with salt and fresh ground black pepper to taste, and spoon over 1/2 of the glaze, turn to coat evenly. Let marinate for 30 minutes in the refrigerator. Add the honey to the remaining half of the glaze and mix well. 
 
 Heat an outdoor grill on high. When the grates are hot, lightly oil, and place tuna fillets on grill. Cook for about 2 minutes, and turn over, brushing the glaze over the cooked side. Grill 2 minutes more for medium-rare to medium. When fish is cooked transfer to a plate and brush the honey lime glaze over the other side of fillet. 
 
 Serve immediately with any remaining glaze. 
 
-         

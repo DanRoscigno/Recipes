@@ -4,7 +4,7 @@
 
 Servings: 4-5 
 
-**Ingredients:�**� 
+**Ingredients:**  
 
 2 eggs, set out to room temperature 
 
@@ -26,6 +26,4 @@ Servings: 4-5 
 
 **Directions:**
 
-Add all of the above, except eggs, to artichokes. Beat the 2 eggs and add to mixture. Fill pie shell, Cover with top crust, crimp, and coat with egg wash. Bake at 325 degrees for 30 mins or until lightly browned.      
-
-        
+Add all of the above, except eggs, to artichokes. Beat the 2 eggs and add to mixture. Fill pie shell, Cover with top crust, crimp, and coat with egg wash. Bake at 325 degrees for 30 mins or until lightly browned.  

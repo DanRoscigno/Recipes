@@ -2,9 +2,9 @@
 
 `Salads` `Picnic Fare` `Side dish` `Kim Acceptable`
 
-Servings: 4-6    
+Servings: 4-6
 
-**Ingredients:    �**� 
+**Ingredients:*
 
 _Dressing:_
 
@@ -32,4 +32,3 @@ _Salad:_
 
 Toss right before serving.
 
-          

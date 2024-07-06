@@ -2,7 +2,7 @@
 
 `Cookies`
 
-**Ingredients:      �**� 
+**Ingredients:**� 
 
 2 cups flour
 
@@ -26,6 +26,5 @@
 
 Cream butter and sugar till light and add eggs. Add vanilla. Mix dry ingredients and add to butter mixture. Beat till well blended. Stir in nuts. Roll dough on waxed paper into 3X5" rolls. Refrigerate 2 hours. Slice into 1/4" slices and place 1 inch apart on greased baking sheet.
 
-Bake 350 degrees for 8-10 mins. Cool rack.       
+Bake 350 degrees for 8-10 mins. Cool rack. 
 
-            

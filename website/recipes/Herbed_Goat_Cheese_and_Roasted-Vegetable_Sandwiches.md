@@ -2,9 +2,9 @@
 
 `Main Meal` `Sandwiches` `Kim Acceptable` `French Inspired`
 
-Servings: 4      
+Servings: 4� 
 
-**Ingredients:  �**�  
+**Ingredients:**�  
 
 Nonstick vegetable oil spray
 
@@ -30,12 +30,11 @@ Nonstick vegetable oil spray
 
 2 cups (packed) baby spinach leaves
 
-**Directions:  �**�  
+**Directions:**�  
 
-           Preheat oven to 400°F. Spray 2 large baking sheets with nonstick spray. Arrange zucchini, bell pepper, and eggplant on prepared baking sheets. Drizzle with 1 tablespoon oil. Sprinkle with salt and pepper. Roast 15 minutes. Turn vegetables over. Roast until tender and brown in spots, about 10 minutes longer for zucchini and 25 minutes longer for bell pepper and eggplant.
+ Preheat oven to 400�F. Spray 2 large baking sheets with nonstick spray. Arrange zucchini, bell pepper, and eggplant on prepared baking sheets. Drizzle with 1 tablespoon oil. Sprinkle with salt and pepper. Roast 15 minutes. Turn vegetables over. Roast until tender and brown in spots, about 10 minutes longer for zucchini and 25 minutes longer for bell pepper and eggplant.
 
 Whisk 1 1/2 teaspoons oregano, 1 1/2 teaspoons thyme, vinegar, and remaining 1 tablespoon oil in large bowl to blend. Add roasted vegetables and toss to coat.
 
-Mix cheese, 1 1/2 teaspoons oregano, 1 1/2 teaspoons thyme, and lemon peel in medium bowl. Place all bread slices on work surface. Spread each with cheese mixture. Top 4 bread slices with roasted vegetables, then spinach leaves. Cover with remaining bread slices, cheese side down. Cut each sandwich in half.        
+Mix cheese, 1 1/2 teaspoons oregano, 1 1/2 teaspoons thyme, and lemon peel in medium bowl. Place all bread slices on work surface. Spread each with cheese mixture. Top 4 bread slices with roasted vegetables, then spinach leaves. Cover with remaining bread slices, cheese side down. Cut each sandwich in half.� 
 
-        

@@ -2,9 +2,9 @@
 
 `Desserts` `Thanksgiving` `Fall`
 
-Servings:  8      
+Servings:� 8
 
-**Ingredients:  �**� 
+**Ingredients:**� 
 
 3 large eggs
 
@@ -28,6 +28,5 @@ Servings:  8     
 
 **Directions:**
 
-Make a pie crust and line pie pan. Pre-heat oven to 425 degrees. In large bowl beat eggs add the rest of ingredients. Pour into pie crust, line the edge of pie crust with pie shield or foil to protect from burning. Bake for 15 minutes. Reduce heat to 350 degrees and bake for 35 more minutes or middle of pie is firm. Take pie shields/foil off last 15 mins.      
+Make a pie crust and line pie pan. Pre-heat oven to 425 degrees. In large bowl beat eggs add the rest of ingredients. Pour into pie crust, line the edge of pie crust with pie shield or foil to protect from burning. Bake for 15 minutes. Reduce heat to 350 degrees and bake for 35 more minutes or middle of pie is firm. Take pie shields/foil off last 15 mins.
 
-        

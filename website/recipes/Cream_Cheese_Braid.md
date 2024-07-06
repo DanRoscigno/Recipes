@@ -2,13 +2,13 @@
 
 `Gifts` `Breads`
 
-Makes 4-12 inch loavesÂ  
+Makes 4-12 inch loaves  
 
 _*Start the night before you want to serve_
 
-**Ingredients:Â  Â  Â**  
+**Ingredients:**  
 
-_Danish:Â_  
+_Danish:_  
 
 1 cup of sour cream
 
@@ -44,7 +44,7 @@ _Glaze:_
 
 1/4 cup milk
 
-2 tsps vanilla extractÂ  Â  Â  
+2 tsps vanilla extract  
 
 **Directions:**
 
@@ -54,4 +54,3 @@ Add sour cream mixture, eggs, and flour; mix well. Cover tightly, refrigerate ov
 
 Next day, divide dough into equal parts; roll out each part on a well-floured board into a 12" X 8" rectangle. Spread 1/4 of the Cream Cheese Filling on each rectangle; roll up jellyroll fashion, beginning at long sides. Pinch edges together and fold ends under slightly, place rolls seam side down on greased baking sheets. Slit each roll at 2" intervals about 2/3 of way through dough to resemble braid. Cover, let rise till double in bulk (about 1 hour) Bake at 375 degrees for 12-15 mins. Spread glaze. 
 
-Â  Â  Â  Â  Â  Â  

@@ -2,9 +2,9 @@
 
 `Salads` `Main Meal` `Kim Acceptable`
 
-ServingsÂ  4-6Â  Â  
+Servings 4-6  
 
-**Ingredients:Â**  
+**Ingredients:**  
 
 2 pounds fresh cannallini or other bean
 
@@ -28,13 +28,13 @@ ServingsÂ  4-6Â  Â 
 
 3/4 cup olive oil
 
-Â½ teaspoon kosher salt
+½ teaspoon kosher salt
 
-Â¼ teaspoon finely ground black pepper
+¼ teaspoon finely ground black pepper
 
-**Directions:Â**  
+**Directions:**  
 
- Â  Â  Â  Â  Cook cannellini (or other type) and edamame, until just tender but with a little bite. 
+ Cook cannellini (or other type) and edamame, until just tender but with a little bite. 
 
 Remove from water and place in ice bath; set aside. 
 
@@ -46,4 +46,3 @@ Sautee onion and pepper just briefly and add to vegetables.
 
 Vinaigrette: Mix lemon juice, vinegar, salt and pepper in small bowl. In a slow stream, pour and whisk in extra virgin olive oil to emulsify. Add finely chopped mint and corriander leaves.
 
-Â  Â  Â  Â  Â  

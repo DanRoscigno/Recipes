@@ -2,9 +2,9 @@
 
 `Main Meal` `Want to make` `Sandwiches` `Picnic Fare` `American`
 
-Servings: 4       
+Servings: 4  
 
-**Ingredients:      �**� 
+**Ingredients:**  
 
 8 slices walnut levain bread, each about 1/2 inch thick
 
@@ -20,35 +20,33 @@ Servings: 4      
 
 Olive oil for drizzling 
 
-Kosher salt and freshly ground pepper, to taste      
+Kosher salt and freshly ground pepper, to taste   
 
-**Directions:      �**� 
+**Directions:**  
 
-Preheat an electric panini press on the “panini” setting.
+Preheat an electric panini press on the âpaniniâ setting.
 
 Place the bread slices on a work surface. Spread the chutney on 4 of the slices. Arrange the turkey on top, dividing evenly, and sprinkle with the cheese. Spread the mayonnaise on the remaining 4 bread slices and cover each sandwich with one of the slices, mayonnaise side down.
 
 Place 2 sandwiches on the preheated panini press and close the lid. Cook until the bread is crisp and the cheese is melted, about 4 minutes. Transfer the sandwiches to a cutting board. Repeat to cook the remaining 2 sandwiches.
 
-Put the arugula in a small bowl. Drizzle with enough olive oil to coat and season with salt and pepper. Open the sandwiches and arrange the arugula on each one. Close the sandwiches, cut in half and serve immediately.        
-
-          
+Put the arugula in a small bowl. Drizzle with enough olive oil to coat and season with salt and pepper. Open the sandwiches and arrange the arugula on each one. Close the sandwiches, cut in half and serve immediately.  
 
 **Cranberry Apricot Chutney**
 
-- 2 tablespoons vegetable oil 
-- 1 large shallot, finely chopped 
-- 1 garlic clove, minced 
-- 1/2 teaspoon ground cinnamon 
-- 1/4 teaspoon ground cloves 
-- Pinch of freshly grated nutmeg 
-- 1 pound fresh or frozen cranberries 
-- 3/4 cup dried apricots, finely chopped 
-- 3/4 cup dark brown sugar 
-- 1/4 cup apple cider vinegar 
-- 2 teaspoons fresh lemon juice 
-- Kosher salt 
-- Freshly ground pepper 
+- 2 tablespoons vegetable oil
+- 1 large shallot, finely chopped
+- 1 garlic clove, minced
+- 1/2 teaspoon ground cinnamon
+- 1/4 teaspoon ground cloves
+- Pinch of freshly grated nutmeg
+- 1 pound fresh or frozen cranberries
+- 3/4 cup dried apricots, finely chopped
+- 3/4 cup dark brown sugar
+- 1/4 cup apple cider vinegar
+- 2 teaspoons fresh lemon juice
+- Kosher salt
+- Freshly ground pepper
 
 ## **Directions**
 

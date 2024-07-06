@@ -4,7 +4,7 @@
 
 Servings: 12-15 pieces
 
-**Ingredients:    �**� 
+**Ingredients:**� 
 
 2 cups of brown sugar
 
@@ -16,12 +16,9 @@ dash of salt
 
 1 tsp vanilla extract
 
-3/4 cup or more of chopped walnuts  
+3/4 cup or more of chopped walnuts� 
 
 **Directions:**
 
 Cook until it forms a ball when added to cool water. Remove from heat, stir until it begins to thicken. Add butter, vanilla, and walnuts. Put in a butter-greased pie pan, spread and chill. Cut into small pieces as this is very rich and sweet!
 
-    
-
-              

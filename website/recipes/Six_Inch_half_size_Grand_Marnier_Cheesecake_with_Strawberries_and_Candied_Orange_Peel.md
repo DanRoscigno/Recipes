@@ -4,7 +4,7 @@
 
  
 
-**Servings:Â** ~5 small servings
+**Servings:** ~5 small servings
 
   **Ingredients**  
 

@@ -2,9 +2,9 @@
 
 `Breakfasts`
 
-Servings:Â Â  10Â  Â  Â  
+Servings: 10  
 
-**Ingredients: Â**  
+**Ingredients: **  
 
 _Pancakes:_
 
@@ -32,21 +32,19 @@ Vegetable cooking spray
 
 _Cider Sauce:_
 
-2 cups apple ciderÂ 
+2 cups apple cider 
 
-3 tablespoons light brown sugarÂ 
+3 tablespoons light brown sugar 
 
-2 tablespoons cornstarchÂ 
+2 tablespoons cornstarch 
 
-2 tablespoons lemon juiceÂ 
+2 tablespoons lemon juice 
 
-Â¼ teaspoon ground nutmegÂ 
+¼ teaspoon ground nutmeg 
 
-Â¼ teaspoon ground cinnamonÂ 
+¼ teaspoon ground cinnamon 
 
-Â¼ cup light butter
-
-Â  Â  Â  Â  
+¼ cup light butter
 
 **Directions**:
 
@@ -56,9 +54,7 @@ _Pancakes:_
 
 2. Combine ground oats, wheat flour, and next 5 ingredients in a large bowl. Whisk together buttermilk, eggs, and butter; stir into oat mixture.
 
-3. Pour 1/4 cup batter for each pancake onto a hot griddle coated with cooking spray. Cook pancakes until tops are covered with bubbles and edges look cooked; turn and cook other side. Serve with Cider Sauce.Â  Â  Â Â  
-
-Â  Â 
+3. Pour 1/4 cup batter for each pancake onto a hot griddle coated with cooking spray. Cook pancakes until tops are covered with bubbles and edges look cooked; turn and cook other side. Serve with Cider Sauce.  
 
 _Cider Sauce:_
 

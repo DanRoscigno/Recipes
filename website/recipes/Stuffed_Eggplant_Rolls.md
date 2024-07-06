@@ -2,9 +2,9 @@
 
 `Picnic Fare` `Appetizers` `Side dish` `Kim Acceptable` `Italian Inspired`
 
-Servings  6-8      
+Servings� 6-8
 
-**Ingredients:  �**� 
+**Ingredients:**� 
 
 1 Eggplant
 
@@ -30,6 +30,4 @@ Mix the ricotta cheese with herbs and let sit so flavors can meld together.
 
 Place the strip of mozzarella cheese about halfway down the sliced eggplant. Next at the smaller end of the eggplant place ricotta cheese mix, and then one each of the peppers. Roll the eggplant up from that end. 
 
-These are delicious appetizers! Thanks to Sarina for this recipe!      
-
-         
+These are delicious appetizers! Thanks to Sarina for this recipe!

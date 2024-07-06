@@ -2,11 +2,11 @@
 
 `Breads` `Fall`
 
-Servings: 6 large muffins or 12 regular sized muffinsÂ  Â  Â  
+Servings: 6 large muffins or 12 regular sized muffins  
 
-**Ingredients:Â**  
+**Ingredients:**  
 
- *Â  1 2/3Â  cupsÂ  all-purpose flour
+ * 1 2/3  cups  all-purpose flour
 
  * 1 cup sugar
 
@@ -38,6 +38,5 @@ Combine pumpkin, butter, and eggs, and add to dry ingredients, stirring just unt
 
 Combine 3 tablespoons sugar and 1 teaspoon pumpkin pie spice; sprinkle evenly over muffins.
 
-Bake at 350Â° for 20 minutes. Remove from pans immediately, and cool on wire racks.
+Bake at 350 for 20 minutes. Remove from pans immediately, and cool on wire racks.
 
-Â  Â  Â  Â  

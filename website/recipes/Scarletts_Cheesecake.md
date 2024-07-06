@@ -2,9 +2,9 @@
 
 `Cheesecakes` `Want to make`
 
-Servings:  10      
+Servings: 10
 
-**Ingredients:    �**� 
+**Ingredients:**
 
 _Crust:_
 
@@ -90,4 +90,3 @@ _Bourbon Sauce:_
 
 Melt butter in heavy small saucepan over low heat. Add sugar and stir until dissolved. Mix in cream and bourbon. Increase heat to medium and simmer 5 minutes, stirring occasionally. Serve warm (sauce will be thin). Makes about 1 cup.
 
-        

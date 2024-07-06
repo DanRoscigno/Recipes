@@ -75,7 +75,7 @@ Preheat oven to 350 degrees. Place nuts on a baking sheet. Bake until fragrant a
 
 - Once nuts are cool, place half of chopped chocolate in a deep medium-size stainless-steel bowl. Place bowl over a saucepan with 1 inch of simmering water; stir until chocolate is melted and hot. Add remaining chocolate to bowl, remove bowl from pan of water, let stand about 5 minutes, then stir until smooth.
     **Step 2**
-- Pour half the chocolate onto an inverted baking sheet; spread with a bench scraper until 1/8 inch thick or slightly thinner (chocolate should be opaque on surface). Let stand until just tacky. Hold scraper at a 45Âº angle; scrape chocolate off surface. Store curls at room temperature in an airtight container layered with parchment.
+- Pour half the chocolate onto an inverted baking sheet; spread with a bench scraper until 1/8 inch thick or slightly thinner (chocolate should be opaque on surface). Let stand until just tacky. Hold scraper at a 45º angle; scrape chocolate off surface. Store curls at room temperature in an airtight container layered with parchment.
     **Step 3**
 - While chocolate sets, add candied nuts to remaining chocolate in bowl, and stir until coated. Spread nuts on a parchment lined baking sheet, and let stand until set.
     **Step 4**

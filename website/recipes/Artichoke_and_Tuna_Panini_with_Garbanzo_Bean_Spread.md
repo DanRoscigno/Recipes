@@ -2,9 +2,9 @@
 
 `Main Meal` `Sandwiches` `Picnic Fare` `Kim Acceptable` `Mediterranean Inspired`
 
- **Servings: 6-8    �**� 
+ **Servings: 6-8**  
 
-**Ingredients:     �**�       
+**Ingredients:**
 
 _Garbanzo Bean Spread:_
 
@@ -50,6 +50,4 @@ _Garbanzo Bean Spread:_ Combine all the ingredients in a food processor. Pulse u
 
 _Panini:_ Combine the black olives, olive oil, salt, pepper, tuna, and artichokes in a bowl.
 
-Lay out the sliced baguettes. Spread the Garbanzo Bean Spread on both halves of the baguettes. Spoon the tuna mixture over the bean spread. Top with the arugula and close the sandwich. Wrap 1 end of the sandwich in parchment paper to make it easier to eat. Place the sandwiches on a platter and serve.       
-
-         
+Lay out the sliced baguettes. Spread the Garbanzo Bean Spread on both halves of the baguettes. Spoon the tuna mixture over the bean spread. Top with the arugula and close the sandwich. Wrap 1 end of the sandwich in parchment paper to make it easier to eat. Place the sandwiches on a platter and serve. 

@@ -2,9 +2,9 @@
 
 `Desserts` `Picnic Fare` `Kid’s Delight`
 
-Servings: 13       
+Servings: 13� 
 
-**Ingredients:     �**� 
+**Ingredients:**� 
 
 3 eggs at room temperature
 
@@ -44,6 +44,5 @@ Place the paper liners in the cupcake pan.
 
 Then, using a big spoon or ice cream scooper, pour the batter in the cupcake pans.
 
-Bake it for about 20 mins at 375 F       
+Bake it for about 20 mins at 375 F
 
-        

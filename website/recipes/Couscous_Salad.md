@@ -2,37 +2,37 @@
 
 `Side dish` `Kim Acceptable`
 
-**Servings**: 8-10Â  Â  Â  
+**Servings**: 8-10  
 
-**Ingredients:Â  Â  Â  Â**  
+**Ingredients:**  
 
 4 C chicken stock
 
 7T olive oil or vegetable oil
 
-Â¼ tsp each: tumeric, ground allspice, ground cloves, ground ginger
+¼ tsp each: tumeric, ground allspice, ground cloves, ground ginger
 
 2C couscous
 
-Â½ c currents/or golden raisins
+½ c currents/or golden raisins
 
-Â½ c chopped dried apricots
+½ c chopped dried apricots
 
 2 C. chopped zucchini, cored if large and unpeeled
 
-1 to 1 Â½ C. carrots chopped
+1 to 1 ½ C. carrots chopped
 
-3 Â½ T lemon juiceâ€”real
+3 ½ T lemon juiceâ€”real
 
 1/3 c. chopped onion
 
-Â½ tsp salt to taste
+½ tsp salt to taste
 
 3T each fresh chives and mint minced
 
 2 Tsp honey
 
-Â½ c toasted silvered almonds (optional)
+½ c toasted silvered almonds (optional)
 
 **Directions:**
 
@@ -40,4 +40,3 @@ Bring stock, 4 T oil and spices to a boil. Add couscous and boil over moderate h
 
 Break up couscous until each grain is separate. Add rest of ingredients including 3 T remaining oil. Taste and adjust seasoning, Chill 4 hr. If too dry add more lemon juice and olive oil. Garnish with roasted almonds.
 
-Â  Â  Â  Â  

@@ -2,7 +2,7 @@
 
 `Main Meal` `Picnic Fare` `Appetizers` `Indian Inspired`
 
-**Ingredients:**      
+**Ingredients:**
 
 2 tablespoons creamy peanut butter
 
@@ -18,16 +18,16 @@
 
 1 teaspoon hot pepper sauce
 
-6 skinless, boneless chicken breast halves - cubed    
+6 skinless, boneless chicken breast halves - cubed
 
-**Directions:    �**� 
+**Directions:**
 
-         In a mixing bowl, combine peanut butter, soy sauce, lime juice, brown sugar, curry powder, garlic and hot pepper sauce. Place the chicken breasts in the marinade and refrigerate. Let the chicken marinate at least 2 hours, overnight is best.
+ In a mixing bowl, combine peanut butter, soy sauce, lime juice, brown sugar, curry powder, garlic and hot pepper sauce. Place the chicken breasts in the marinade and refrigerate. Let the chicken marinate at least 2 hours, overnight is best.
 
 Preheat a grill to high heat.
 
-Weave the chicken onto skewers, then grill for 5 minutes per side.      
+Weave the chicken onto skewers, then grill for 5 minutes per side.
 
-        Servings       
+Servings
 
   

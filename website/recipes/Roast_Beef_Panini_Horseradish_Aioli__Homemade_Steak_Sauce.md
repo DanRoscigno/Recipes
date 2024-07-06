@@ -2,9 +2,9 @@
 
 `Main Meal` `Want to make` `Sandwiches` `Picnic Fare` `Condiments` `American`
 
-Servings:    4      
+Servings: 4� 
 
-**Ingredients:  �**� 
+**Ingredients:**� 
 
 2 French-style baguette loaves, each at least 14 inches long 
 
@@ -44,11 +44,10 @@ Makes about 3 cups (750 ml)
 
 2 small fresh organic hot chili peppers, halved, stemmed, seeded, deveined, and minced 
 
-2 sprigs fresh oregano, or 1/2 tablespoon dried oregano      
+2 sprigs fresh oregano, or 1/2 tablespoon dried oregano� 
 
- **Directions:    �**� 
+ **Directions:**� 
 
-         
 
 Preheat an electric panini press or hinged double-sided electric contact grill.
 
@@ -68,8 +67,5 @@ HOMEMADE STEAK SAUCE
 
 Combine all the ingredients in a large saucepan. Place the pan over medium heat and bring to a gentle boil, stirring frequently with a wire whisk. Reduce the heat to maintain a gentle simmer and cook until the flavors have blended and the sauce is thick, 30 to 45 minutes, whisking frequently to prevent the sauce from scorching on the bottom of the pan.
 
-Remove the pan from the heat. Place a fine-meshed wire strainer over a bowl and pour the sauce into the strainer, pressing it through with a rubber spatula. Serve hot; or let the sauce cool to room temperature and then store, covered, in the refrigerator for up to 3 to 5 days, serving it cold or gently reheated.      
+Remove the pan from the heat. Place a fine-meshed wire strainer over a bowl and pour the sauce into the strainer, pressing it through with a rubber spatula. Serve hot; or let the sauce cool to room temperature and then store, covered, in the refrigerator for up to 3 to 5 days, serving it cold or gently reheated.
 
-        
-
-        

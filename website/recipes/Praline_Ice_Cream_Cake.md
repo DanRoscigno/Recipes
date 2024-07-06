@@ -2,9 +2,9 @@
 
 `Ice Creams` `Want to make`
 
-Servings: ~20    
+Servings: ~20� 
 
-**Ingredients:    �**� 
+**Ingredients:**� 
 
 Almond Praline (recipe below)
 
@@ -26,7 +26,7 @@ fruit to garnish
 
 _Almond praline:_
 
-Combine 1 cup sugar,  1/4 cup water and  
+Combine 1 cup sugar,� 1/4 cup water and� 
 
 1/4 tsp cream of tartar, in a large skillet. 
 
@@ -44,6 +44,5 @@ Sprinkle 3/4 cup of the praline powder over the bottom of a 10 X 2 3/4 inch spri
 
 Soften the ice creams and the sherbets, one flavor at a time, in a chilled large bowl, starting with pistachio. layer each flavor of ice cream or sherbet, with 3/4 cup praline powder for each layer, topping the lemon and orange sherbets with strawberry ice cream. Freeze each layer of ice cream about 1 hour before adding praline and next flavor. Freeze layers at least 4 hours or overnight. Remove sides of springform pan. 
 
-Whip cream with sugar in a medium bowl until stiff. Spread side of all the layers, then decorate with a ring of cream pressed through a pastry bag. Sprinkle with pistachio nuts and garnish with fresh fruits.      
+Whip cream with sugar in a medium bowl until stiff. Spread side of all the layers, then decorate with a ring of cream pressed through a pastry bag. Sprinkle with pistachio nuts and garnish with fresh fruits. 
 
-          

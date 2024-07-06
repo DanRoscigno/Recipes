@@ -2,9 +2,9 @@
 
 `Main Meal` `Kim Acceptable` `Special Meal` `Irish/English/Scottish Inspired`
 
-Servings: 2       
+Servings: 2
 
-**Ingredients:    �**� 
+**Ingredients:**� 
 
 _Cornish game hens:_
 

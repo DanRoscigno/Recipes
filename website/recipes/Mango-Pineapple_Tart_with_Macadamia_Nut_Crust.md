@@ -2,9 +2,9 @@
 
 `Desserts` `Want to make` `Summer` `Island Inspired`
 
-Servings: 12       
+Servings: 12
 
-**Ingredients:�**�     
+**Ingredients:**
 
 _For crust:_
 
@@ -46,7 +46,7 @@ _Assembly:_
 
 1/4 cup apricot preserves, melted
 
-**Directions:      �**� 
+**Directions:**� 
 
 _For crust:_
 
@@ -54,7 +54,7 @@ Blend first 4 ingredients in processor until nuts are finely ground. Using on/of
 
 Roll out dough between 2 lightly floured sheets of waxed paper to 1/4-inch thickness. Peel off top sheet of paper. Invert crust into 11-inch round tart pan with removable bottom. Peel off paper; press dough into pan. Trim edges. Push crust 1/8 inch above top edge of pan. Refrigerate 1 hour.
 
-Preheat oven to 375°F. Bake crust until golden, about 25 minutes. Cool. (Can be made 1 day ahead. Wrap and store at room temperature.)
+Preheat oven to 375�F. Bake crust until golden, about 25 minutes. Cool. (Can be made 1 day ahead. Wrap and store at room temperature.)
 
  _For filling:_
 
@@ -62,6 +62,5 @@ Preheat oven to 375°F. Bake crust until golden, about 25 minutes. Cool. (Can be
 
 _For assembly:_
 
-Remove vanilla bean from filling. Whisk filling just until smooth; spread in crust. Arrange pineapple and mango slices in concentric circles atop filling. Brush fruit with preserves. (Tart can be assembled 3 hours ahead. Refrigerate.)       
+Remove vanilla bean from filling. Whisk filling just until smooth; spread in crust. Arrange pineapple and mango slices in concentric circles atop filling. Brush fruit with preserves. (Tart can be assembled 3 hours ahead. Refrigerate.)� 
 
-        

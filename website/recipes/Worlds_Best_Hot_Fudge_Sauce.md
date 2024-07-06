@@ -2,9 +2,9 @@
 
 `Condiments`
 
-Servings: 1 cup    
+Servings: 1 cup� 
 
-**Ingredients:    �**� 
+**Ingredients:**� 
 
 1/2 heavy cream
 
@@ -20,6 +20,5 @@ Dash of salt
 
 **Directions:**
 
-In 1 quart saucepan over moderate heat stir cream and butter until butter melts and cream barely comes to a boil. Stir in sugars until dissolved. Reduce heat; briskly stir in salt and cocoa. Remove from heat. Serve immediately or reheat slowly in double boiler over hot water. May store in refrigerator, us straight-sided glass jar or covered non-plastic container.        
+In 1 quart saucepan over moderate heat stir cream and butter until butter melts and cream barely comes to a boil. Stir in sugars until dissolved. Reduce heat; briskly stir in salt and cocoa. Remove from heat. Serve immediately or reheat slowly in double boiler over hot water. May store in refrigerator, us straight-sided glass jar or covered non-plastic container. 
 
-          

@@ -2,9 +2,9 @@
 
 `Salads` `Want to make` `Kim Acceptable`
 
-Servings: 4      
+Servings: 4� 
 
-**Ingredients:      �**� 
+**Ingredients:**� 
 
 1/4 Fresh Preserved Lemon 
 
@@ -34,12 +34,9 @@ Servings: 4     
 
 Mixed salad greens 
 
-**Directions:    �**� 
+**Directions:**� 
 
-         Rinse preserved lemon; remove pulp, and discard. Cut rind into 1/4-inch cubes.
+ Rinse preserved lemon; remove pulp, and discard. Cut rind into 1/4-inch cubes.
 
  Whisk together lemon juice and next 5 ingredients in a large bowl; add lemon rind, tomato, and next 5 ingredients, tossing to coat. Cover and chill 30 minutes. Serve over salad greens.
 
-        
-
-           

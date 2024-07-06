@@ -4,9 +4,9 @@
 
 Servings: 6-8 main servings 
 
-**Ingredients:Â  Â  Â**  
+**Ingredients:**  
 
-5Â  cups coarsely shredded yellow summer squash (1-1/2 pounds)
+5  cups coarsely shredded yellow summer squash (1-1/2 pounds)
 
 8 beaten eggs
 
@@ -30,9 +30,7 @@ Servings: 6-8 main servings
 
 5 sheets frozen phyllo dough, thawed
 
-Â  Â  Â  Â  
-
-**Directions:Â  Â**   
+**Directions:**   
 
 Preheat oven to 350 degree F. In a large mixing bowl combine shredded zucchini, summer squash, and salt. Let stand 15 minutes. Place mixture in colander and squeeze to drain. 
 
@@ -42,4 +40,3 @@ Cut phyllo sheets in half crosswise. Lightly brush a sheet of phyllo with some o
 
 Bake for 50 to 55 minutes or until a knife inserted near the center comes out clean. To prevent overbrowning, cover strudel with foil the last 10 minutes of baking. Let strudel stand 10 minutes before serving. 
 
-Â  Â  Â  Â  Â  

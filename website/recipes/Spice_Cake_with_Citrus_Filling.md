@@ -2,7 +2,7 @@
 
 `Desserts` `Fall`
 
-### **Ingredients:   �**� 
+## Ingredients
 
 1 cup chopped pecans
 
@@ -32,9 +32,9 @@
 
 Combine and mix:
 
-2  1/2 cups lemon curd 
+2 1/2 cups lemon curd 
 
-1 ½ cups sweetened flaked coconut 
+1 3/4 cups sweetened flaked coconut 
 
 1 tablespoon orange zest 
 
@@ -44,7 +44,7 @@ Combine and mix:
 
 2 egg whites 
 
-1 ¼ cups sugar 
+1 - ¼ cups sugar 
 
 1 tablespoon corn syrup 
 
@@ -54,7 +54,7 @@ Combine and mix:
 
 _Cake:_
 
-- Preheat oven to 350°. Bake pecans in a single layer in a shallow pan 5 to 7 minutes or until lightly toasted and fragrant, stirring halfway through. Let cool.
+- Preheat oven to 350. Bake pecans in a single layer in a shallow pan 5 to 7 minutes or until lightly toasted and fragrant, stirring halfway through. Let cool.
     **Step 1**
 - Meanwhile, beat butter at medium speed with a heavy-duty electric stand mixer until creamy. Gradually add sugar, beating until light and fluffy. Add eggs, 1 at a time, beating just until blended after each addition.
     **Step 2**
@@ -62,7 +62,7 @@ _Cake:_
     **Step 3**
 - Divide batter into 2 equal portions (about 3 1/2 cups each); stir cinnamon, allspice, cloves, and pecans into 1 portion. Pour plain batter into 2 greased and floured 9-inch round cake pans (about 1 3/4 cups batter per pan). Pour spiced batter into 2 greased and floured 9-inch round cake pans (about 2 cups batter per pan).
     **Step 4**
-- Bake at 350° for 18 to 20 minutes or until a wooden pick inserted in center comes out clean. Cool in pans on wire racks 10 minutes; remove from pans to wire racks, and cool completely (about 1 hour).
+- Bake at 350 for 18 to 20 minutes or until a wooden pick inserted in center comes out clean. Cool in pans on wire racks 10 minutes; remove from pans to wire racks, and cool completely (about 1 hour).
     **Step 5**
 - Place 1 plain cake layer on a serving plate or cake stand; spread top with 2/3 cup Filling, leaving a 1/4-inch border around edges. Top with a spice cake layer, and spread top with Filling as directed above. Repeat procedure with remaining plain cake layer and Filling. Top with remaining spice cake layer. Prepare White Icing; spread icing over top and sides of cake.
     **Step 6**

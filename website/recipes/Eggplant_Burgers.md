@@ -2,9 +2,9 @@
 
 `Main Meal` `Kim Acceptable` `Italian Inspired`
 
-Servings: 4 medium to large burgers    
+Servings: 4 medium to large burgers� 
 
-**Ingredients**:      
+**Ingredients**:� 
 
 2 teaspoons olive oil, plus more to brush on eggplant before roasting
 
@@ -16,7 +16,7 @@ Servings: 4 medium to large burgers   
 
 1/2 an eggplant (should equal about 1 cup)
 
-1/4 cup chopped fresh parsley 
+1/4 cup chopped fresh parsley�
 
 1 tablespoon pine nuts
 
@@ -32,11 +32,11 @@ Servings: 4 medium to large burgers   
 
 tomato, sliced for topping (optional)
 
-    * lettuce, for topping (optional)      
+lettuce, for topping (optional)� 
 
-**Directions:  �**� 
+**Directions:**� 
 
-        Preheat your oven to 450. Roast the eggplant by cutting it into 1/4″ slices and brushing each side with olive oil. Bake for 10 minutes on one side, then flip the slices and bake for another 5 minutes. Then remove it from the oven, turn the oven down to 400. 
+Preheat your oven to 450. Roast the eggplant by cutting it into 1/4inch slices and brushing each side with olive oil. Bake for 10 minutes on one side, then flip the slices and bake for another 5 minutes. Then remove it from the oven, turn the oven down to 400. 
 
 While the eggplant is roasting, place the diced red onion and 2 teaspoons of olive oil in a skillet and cook over medium heat for 15-20 minutes, stirring often, until the onions soften. 
 
@@ -44,4 +44,3 @@ Place the eggplant, onion, beans, bell pepper, parsley, pine nuts, garlic, sea s
 
 Pour the mixture back into a bowl, stir in the breadcrumbs, and use your hands to make four large patties. Line a baking sheet with aluminum foil and spray the foil with olive oil or nonstick cooking spray. Place the patties on the foil and bake for 45 minutes, turning once halfway through. 
 
-          

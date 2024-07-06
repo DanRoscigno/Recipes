@@ -2,9 +2,9 @@
 
 `Picnic Fare` `Side dish`
 
-Serves 10-12Â  
+Serves 10-12  
 
-**Ingredients:Â  Â**  
+**Ingredients:**  
 
 4lbs Yukon gold potatoes
 
@@ -30,8 +30,7 @@ Vinegar to taste
 
 Salt and pepper to taste
 
-**Directions:Â  Â**  
+**Directions:**  
 
- Â  Â  Â  Â  Cook potatoes whole for 30-40 mins. Until tender, drain, cool. Cut potatoes into 1â€ cubes. While still slightly warm sprinkle vinegar on cubed potatoes. Chop eggs finely. Stir the rest of the ingredients together and mix with potatoes. Add salt and pepper to taste. Garnish with paprika and pepper.Â  
+ Cook potatoes whole for 30-40 mins. Until tender, drain, cool. Cut potatoes into 1 inch cubes. While still slightly warm sprinkle vinegar on cubed potatoes. Chop eggs finely. Stir the rest of the ingredients together and mix with potatoes. Add salt and pepper to taste. Garnish with paprika and pepper.  
 
-Â  Â  Â  Â  Â  Â  

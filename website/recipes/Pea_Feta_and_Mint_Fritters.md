@@ -32,16 +32,16 @@ Make the fritters: In a large bowl, whisk the eggs with 1‚ÅÑ2 teaspoon salt, lot
 
 Over medium-high heat, add 2 to 3 tablespoons of oil to a large frying pan (nonstick makes it easier here). Once the oil is hot and shiny add two tablespoons (or a heaped small cookie scoop) of the batter, and press gently yo flatten it. Cook until it's deeply golden brown, about 2 to 3 minutes, then flip and repeat until the fritter is golden on the second side. The peas can get a little splattery if they pop, so be careful.
 
-If the fritters are getting dark right away, reduce the heat to medium.¬†
+If the fritters are getting dark right away, reduce the heat to medium.†
 
 Drain the fritters on a paper towel, and season while hot with a pinch of salt.
 
 Cook the remaining fritters, adding more oil to the pan as needed.
 
-_Make the yogurt sauce:¬_†
+_Make the yogurt sauce:_†
 
 Stir together the yogurt, the juice of half the lemon, and several pinches of salt; then taste, adding more salt and lemon if needed, to make a bright, salty sauce.
 
 Dollop the fritters with the lemon-yogurt sauce, and eat while still warm.
 
-Fritters keep well in the fridge for up to 3 days; they freeze well, too. You can defrost and retoast them on a baking sheet in a 350¬∞F (175¬∞C) oven.
+Fritters keep well in the fridge for up to 3 days; they freeze well, too. You can defrost and retoast them on a baking sheet in a 350∞F (175∞C) oven.

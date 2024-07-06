@@ -2,9 +2,9 @@
 
 `Salads` `Main Meal` `Picnic Fare` `Kim Acceptable` `Quick` `Mediterranean Inspired`
 
-Servings: 4Â  Â  Â  
+Servings: 4  
 
-**Ingredients:Â  Â  Â  Â**  
+**Ingredients:**  
 
  * 1/4 cup plus 1 tablespoon olive oil
 
@@ -32,7 +32,7 @@ Servings: 4Â  Â  Â 
 
  * 1/4 cup pomegranate seeds (from 1/2 small pomegranate)
 
-**Directions:Â  Â** 
+**Directions:** 
 
  * Heat 1/4 cup oil in a large skillet over medium heat. Add fennel; season with salt and pepper. Cook, stirring occasionally, until fennel is just tender and lightly golden, 10â€“12 minutes. Stir in lemon juice, cumin, and sugar; cook for 1 minute. Season with salt and pepper. Set aside.
 

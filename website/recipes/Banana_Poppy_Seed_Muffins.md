@@ -4,10 +4,10 @@
 
 Makes 12
 
-**Ingredients:�**�
+**Ingredients:**
 
--  2 cups all-purpose flour
--  1 1/2 Tbsp poppy seeds
+- 2 cups all-purpose flour
+- 1 1/2 Tbsp poppy seeds
 - 2 tsp. baking powder
 - 1/2 tsp. salt
 - 1 cup mashed ripe bananas (around 2 large)
@@ -20,7 +20,7 @@ Makes 12
 _Orange Glaze:_
 
 - 1 cup powdered sugar
--  2 Tbsp fresh orange juice plus more, if needed
+- 2 Tbsp fresh orange juice plus more, if needed
 - 1 tsp. freshly grated orange zest (about the zest of ½ an orange)
 - 1 tsp. vanilla
 
@@ -34,6 +34,6 @@ _Orange Glaze:_
 - Bake for 18 minutes or until a toothpick inserted in the center comes out clean. 
 - Cool slightly and drizzle with orange glaze.
 
-_Orange Glaze:�_�
+_Orange Glaze:_ 
 
 - Whisk together all ingredients until smooth and creamy. If mixture is too thick, add a little more orange juice. Drizzle over muffins.

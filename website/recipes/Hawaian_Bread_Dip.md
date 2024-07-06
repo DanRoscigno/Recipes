@@ -2,9 +2,9 @@
 
 `Picnic Fare` `Appetizers` `Island Inspired`
 
-Servings: 16-20   
+Servings: 16-20� 
 
-**Ingredients:      �**� 
+**Ingredients:**� 
 
 1 cup chopped Ham
 
@@ -22,8 +22,7 @@ Servings: 16-20  
 
 **Directions:**
 
-Mix all together and scoop out a loaf of Hawaiian bread and fill. Bake at 350 degrees for 1 hour.       
+Mix all together and scoop out a loaf of Hawaiian bread and fill. Bake at 350 degrees for 1 hour.� 
 
 Note: recipe from Connie Mayer
 
-            

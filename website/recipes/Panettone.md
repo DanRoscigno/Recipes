@@ -2,9 +2,9 @@
 
 `Gifts` `Breads` `Winter` `Italian Inspired`
 
-Servings: 1 large loaf or 2 smaller onesÂ  Â  Â  
+Servings: 1 large loaf or 2 smaller ones  
 
-**Ingredients:Â  Â**  
+**Ingredients:**  
 
 2/3 cup golden raisins
 
@@ -18,7 +18,7 @@ Servings: 1 large loaf or 2 smaller onesÂ  Â  Â 
 
 3/4 cup sugar
 
-Â¼ cup warm (110Âº to 115ÂºF) water
+¼ cup warm (110º to 115ºF) water
 
 1 tablespoon vanilla
 
@@ -42,12 +42,11 @@ Turn the dough out onto a floured work surface and knead for 5 to 10 minutes, or
 
 Butter a large bowl, place the dough in the bowl, and turn to coat. Cover with a clean cloth and let rise for 6 hours in a warm place.
 
-Butter and flour a panettone or other deep mold at least 6Â½ inches tall and 7 to 8 inches wide. (The ceramic insert to a crockpot is ideal. Or you can use two 2-pound coffee cans and make 2 smaller loaves. Panettone can also be baked in two greased and floured 6 by 6-inch clay flowerpots.)
+Butter and flour a panettone or other deep mold at least 6½ inches tall and 7 to 8 inches wide. (The ceramic insert to a crockpot is ideal. Or you can use two 2-pound coffee cans and make 2 smaller loaves. Panettone can also be baked in two greased and floured 6 by 6-inch clay flowerpots.)
 
 Punch down the dough and turn it out onto a floured surface. Flatten the dough out with your hands and sprinkle on the lemon and orange zest. In a small bowl, mix the raisins and citron with the 1 tablespoon flour, and sprinkle the mixture over the dough. Fold the dough in half, press the edges together, and knead to distribute the fruits. Continue to knead for 5 to 10 minutes or until the dough is smooth, adding additional flour if necessary. Place the dough in the mold, cover with a clean cloth, and let rise for 35 minutes in a warm place.
 
-Preheat the oven to 400ÂºF. Cut an X in the top of the bread. Bake for 5 minutes, reduce the heat to 375ÂºF, and bake for 10 minutes. Reduce the heat to 350ÂºF, and bake for 30 to 35 minutes longer, or until a skewer inserted in the center of the bread comes out clean. If the top begins to brown too much, cover the bread loosely with a piece of foil.
+Preheat the oven to 400ºF. Cut an X in the top of the bread. Bake for 5 minutes, reduce the heat to 375ºF, and bake for 10 minutes. Reduce the heat to 350ºF, and bake for 30 to 35 minutes longer, or until a skewer inserted in the center of the bread comes out clean. If the top begins to brown too much, cover the bread loosely with a piece of foil.
 
 Cool the bread on a rack for about 30 minutes before removing it from the mold.
 
-Â  Â  Â  Â  

@@ -2,9 +2,9 @@
 
 `Side dish`
 
-Servings: 6 or more       
+Servings: 6 or more
 
-**Ingredients:   �**� 
+**Ingredients:**
 
 _Potatoes:_
 
@@ -40,6 +40,5 @@ Blend these together.
 
 1/3 cup butter 
 
-Add butter when ready to spread onto potato mixture. Bake at 350 degrees for 25-30 minutes.       
+Add butter when ready to spread onto potato mixture. Bake at 350 degrees for 25-30 minutes.
 
-      
