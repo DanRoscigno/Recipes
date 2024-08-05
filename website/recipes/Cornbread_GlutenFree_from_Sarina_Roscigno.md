@@ -2,7 +2,7 @@
 
 `Breads` `Gluten Free`
 
-1.5 c sour cream, yogurt, etc (I like sour cream)
+1.5 c full-fat sour cream, yogurt, etc (I like sour cream)
 
 2 eggs
 
