@@ -3,7 +3,7 @@
 ## Ingredients
   
 - 1 ½ cups buttermilk
-- 1 cup all-purpose flour
+- 1 cup all-purpose flour or pancake mix. If using pancake mix skip the baking soda and baking powder
 - 3 Tablespoons granulated sugar
 - 1 teaspoon baking powder
 - ½ teaspoon baking soda
