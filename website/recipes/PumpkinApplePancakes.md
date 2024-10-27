@@ -15,6 +15,14 @@
 - 3 Tablespoons canned pumpkin
 - 1 cup chopped apple
 
+### Pumpkin pie spice
+
+If you do not have pumpkin pie spice make your own:
+
+- 1-1/2 teaspoons ground cinnamon
+- 1/4 teaspoon ground nutmeg
+- 1/4 teaspoon ground ginger
+- 1/8 teaspoon ground cloves
 ## Instructions
  
 Measure out the milk. Add the vinegar. Allow to sit for about 5 minutes. If you have buttermilk you can use ¾ cup of that instead. I love buttermilk but I rarely have any so I just do it this way.
