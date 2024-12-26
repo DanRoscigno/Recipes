@@ -2,19 +2,20 @@
 
 `Breakfasts`
 
-**Ingredients:**
-
-- 1 cup King Arthur Gluten Free waffle mix, and the rest of the dry ingredients listed on the box waffle recipe
-
-  > Tip
-  >
-  > You will be adding canned pumpkin, so hold off on the milk called for in the King Arthur recipe.
+## Ingredients
 
 - 1/2 cup canned pumpkin
 - 1/2 teaspoon Pumpkin Pie spice
 - Half-and-half
 - 2 tablespoons unsalted butter, melted and cooled
 - 1/2 teaspoon whiskey
+- 1 cup King Arthur Gluten Free waffle mix, and the rest of the dry ingredients listed on the box waffle recipe
+
+  > Tip
+  >
+  > You will be adding canned pumpkin, so hold off on the milk called for in the King Arthur recipe.
+
+
 
 ### Pumpkin pie spice
 
