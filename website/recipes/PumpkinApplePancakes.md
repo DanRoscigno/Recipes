@@ -22,7 +22,7 @@ If you do not have pumpkin pie spice make your own:
 - 1/4 teaspoon ground nutmeg
 - 1/4 teaspoon ground ginger
 - 1/8 teaspoon ground cloves
-- 
+ 
 ## Instructions
  
 1. Whisk buttermilk, egg, and canned pumpkin.
