@@ -1,9 +1,8 @@
-# Five-Spice Steak Bowl
-
-`Main Meal` `Quick` `Asian Inspired`
-
-Makes 2servings
-
+---
+title: "Five-Spice Steak Bowl"
+tags: ["Main Meal", "Quick", "Asian Inspired"]
+servings: "Makes 2servings"
+---
 **Ingredients:**
 
 2 thin-cut rib-eye steaks (about 1 pound)

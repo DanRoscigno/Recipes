@@ -1,7 +1,8 @@
-# Balsamic Green Bean Salad
-
-`Side dish` `Kim Acceptable` `Quick` `Mediterranean Inspired`
-
+---
+title: "Balsamic Green Bean Salad"
+tags: ["Side dish", "Kim Acceptable", "Quick", "Mediterranean Inspired"]
+servings: ""
+---
 16 servings
 
 **Ingredients:**

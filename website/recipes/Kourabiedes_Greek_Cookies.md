@@ -1,9 +1,8 @@
-# Kourabiedes (Greek Cookies)
-
-`Desserts` `Cookies`
-
- 
-
+---
+title: "Kourabiedes (Greek Cookies)"
+tags: ["Desserts", "Cookies"]
+servings: ""
+---
   Ingredients  
 
   2 1/4 Cups sifted flour

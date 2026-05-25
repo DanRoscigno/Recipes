@@ -1,9 +1,8 @@
-# Rhubarb and Blackberry Snack Cake
-
-`Desserts` `Want to make`
-
-Makes one 13 3/4 X 4 1/4 inch cake
-
+---
+title: "Rhubarb and Blackberry Snack Cake"
+tags: ["Desserts", "Want to make"]
+servings: "Makes one 13 3/4 X 4 1/4 inch cake"
+---
 ## **Ingredients**
 
 - 4 tablespoons unsalted butter, softened, plus more for pan 

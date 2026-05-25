@@ -1,7 +1,8 @@
-# Spinach & Goat Cheese Quiche with Sweet Potato Crust
-
-`Main Meal` `Want to make` `Picnic Fare` `Kim Acceptable` `Gluten Free`
-
+---
+title: "Spinach & Goat Cheese Quiche with Sweet Potato Crust"
+tags: ["Main Meal", "Want to make", "Picnic Fare", "Kim Acceptable", "Gluten Free"]
+servings: ""
+---
 ### Ingredients:
 
 - Cooking spray

@@ -1,9 +1,8 @@
-# CHICKEN AND ARUGULA MEATBALLS
-
-`Main Meal` `Appetizers` `Kim Acceptable` `Italian Inspired`
-
-Serves 6 to 8
-
+---
+title: "CHICKEN AND ARUGULA MEATBALLS"
+tags: ["Main Meal", "Appetizers", "Kim Acceptable", "Italian Inspired"]
+servings: "Serves 6 to 8"
+---
 **INGREDIENTS:**
 
     - 2 pounds ground chicken (use all white meat or a mixture of white and dark meat, which will result in a slightly moister, more richly flavored meatball)

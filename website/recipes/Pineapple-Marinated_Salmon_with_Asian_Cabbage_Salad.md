@@ -1,7 +1,8 @@
-# Pineapple-Marinated Salmon with Asian Cabbage Salad
-
-`Appetizers` `Asian Inspired`
-
+---
+title: "Pineapple-Marinated Salmon with Asian Cabbage Salad"
+tags: ["Appetizers", "Asian Inspired"]
+servings: ""
+---
  ![Pineapple-Marinated Salmon with Asian Cabbage Salad](http://www.epicurious.com/images/recipesmenus/2000/2000_december/104486_116.jpg)   Ingredients  
 
   1 46-ounce can unsweetened pineapple juice

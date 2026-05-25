@@ -1,10 +1,9 @@
-# Roast Beef Panini Horseradish Aioli & Homemade Steak Sauce
-
-`Main Meal` `Want to make` `Sandwiches` `Picnic Fare` `Condiments` `American`
-
-Servings: 4  
-
-**Ingredients:**  
+---
+title: "Roast Beef Panini Horseradish Aioli & Homemade Steak Sauce"
+tags: ["Main Meal", "Want to make", "Sandwiches", "Picnic Fare", "Condiments", "American"]
+servings: "Servings: 4ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 2 French-style baguette loaves, each at least 14 inches long 
 
@@ -44,9 +43,9 @@ Makes about 3 cups (750 ml)
 
 2 small fresh organic hot chili peppers, halved, stemmed, seeded, deveined, and minced 
 
-2 sprigs fresh oregano, or 1/2 tablespoon dried oregano  
+2 sprigs fresh oregano, or 1/2 tablespoon dried oreganoï¿½ 
 
- **Directions:**  
+ **Directions:**ï¿½ 
 
 
 Preheat an electric panini press or hinged double-sided electric contact grill.

@@ -1,9 +1,8 @@
-# Spinach-Apple Salad With Maple-Cider Vinaigrette
-
-`Salads` `Picnic Fare` `Side dish` `Kim Acceptable`
-
- 
-
+---
+title: "Spinach-Apple Salad With Maple-Cider Vinaigrette"
+tags: ["Salads", "Picnic Fare", "Side dish", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   Sugared Curried Pecans

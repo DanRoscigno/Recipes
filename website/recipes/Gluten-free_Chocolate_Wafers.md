@@ -1,9 +1,8 @@
-# Gluten-free Chocolate Wafers
-
-`Desserts` `Cookies` `Gluten Free`
-
-Makes 4-5 dozen depending on size. 
-
+---
+title: "Gluten-free Chocolate Wafers"
+tags: ["Desserts", "Cookies", "Gluten Free"]
+servings: "Makes 4-5 dozen depending on size."
+---
 _Can be eaten alone, with ice cream filling, or other filling._ 
 
 **INGREDIENTS:**

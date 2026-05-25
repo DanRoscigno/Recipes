@@ -1,7 +1,8 @@
-# Grilled Pineapple With Rum Sauce
-
-`Desserts` `Island Inspired`
-
+---
+title: "Grilled Pineapple With Rum Sauce"
+tags: ["Desserts", "Island Inspired"]
+servings: ""
+---
 **INGREDIENTS:**
 
 1 pineapple, ripe 

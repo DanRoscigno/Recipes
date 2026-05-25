@@ -1,7 +1,8 @@
-# Upstate-Style Roast Beef for Sandwiches
-
-`Main Meal` `Sandwiches` `Picnic Fare` `American`
-
+---
+title: "Upstate-Style Roast Beef for Sandwiches"
+tags: ["Main Meal", "Sandwiches", "Picnic Fare", "American"]
+servings: ""
+---
 8 servings
 
 ### **Ingredients:**

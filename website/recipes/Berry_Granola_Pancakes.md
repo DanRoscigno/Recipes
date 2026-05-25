@@ -1,9 +1,8 @@
-# Berry Granola Pancakes
-
-`Breakfasts`
-
-Makes 12-18 pancakes
-
+---
+title: "Berry Granola Pancakes"
+tags: ["Breakfasts"]
+servings: "Makes 12-18 pancakes"
+---
 **Ingredients:**
 
 - 2 cups whole wheat flour

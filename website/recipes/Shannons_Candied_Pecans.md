@@ -1,9 +1,8 @@
-# Shannon’s* Candied Pecans
-
-`Desserts` `Gifts` `Condiments`
-
-Makes 1 pound
-
+---
+title: "Shannon’s* Candied Pecans"
+tags: ["Desserts", "Gifts", "Condiments"]
+servings: "Makes 1 pound"
+---
 **Ingredients:**
 
 3 egg whites

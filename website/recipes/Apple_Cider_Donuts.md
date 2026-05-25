@@ -1,9 +1,8 @@
-# Apple Cider Donuts
-
-`Breads` `Fall`
-
- 
-
+---
+title: "Apple Cider Donuts"
+tags: ["Breads", "Fall"]
+servings: ""
+---
   Ingredients  
 
   3-1/4 to 3-3/4 cups all-purpose flour

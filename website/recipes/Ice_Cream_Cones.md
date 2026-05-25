@@ -1,7 +1,8 @@
-# Ice Cream Cones
-
-`Desserts` `Want to make`
-
+---
+title: "Ice Cream Cones"
+tags: ["Desserts", "Want to make"]
+servings: ""
+---
 **Ingredients:**
 
 - 4 tablespoons (1/2 stick) unsalted butter 

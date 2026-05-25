@@ -1,9 +1,8 @@
-# Lamb with Green Chiles
-
-`Main Meal` `Want to make` `Mexican/Cuban/Latin Inspired`
-
-Servings: 4      
-
+---
+title: "Lamb with Green Chiles"
+tags: ["Main Meal", "Want to make", "Mexican/Cuban/Latin Inspired"]
+servings: "Servings: 4"
+---
 **INGREDIENTS:**       
 
 _Marinade:_

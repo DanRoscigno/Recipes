@@ -1,9 +1,8 @@
-# Chocolate Dipped Bananas on Stick
-
-`Desserts` `Kid’s Delight`
-
-Makes 8
-
+---
+title: "Chocolate Dipped Bananas on Stick"
+tags: ["Desserts", "Kid’s Delight"]
+servings: "Makes 8"
+---
 ### **Ingredients:**
 
 4 large ripe, but firm bananas

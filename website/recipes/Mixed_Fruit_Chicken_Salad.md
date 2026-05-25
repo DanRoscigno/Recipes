@@ -1,7 +1,8 @@
-# Mixed Fruit Chicken Salad
-
-`Salads` `Main Meal` `Picnic Fare` `American`
-
+---
+title: "Mixed Fruit Chicken Salad"
+tags: ["Salads", "Main Meal", "Picnic Fare", "American"]
+servings: ""
+---
 **Yield:** Makes 7 1/2 cups, approximately 7 servings (serving size: 1 cup)
 
 ## **Ingredients**

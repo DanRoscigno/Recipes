@@ -1,7 +1,8 @@
-# Greek Chicken Burgers
-
-`Main Meal` `Want to make` `Kim Acceptable` `Mediterranean Inspired`
-
+---
+title: "Greek Chicken Burgers"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "Mediterranean Inspired"]
+servings: ""
+---
 ![Image_20240430_114828.jpeg](image/Image_20240430_114828.jpeg)
 
 Serves 4-6

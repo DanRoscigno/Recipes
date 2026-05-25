@@ -1,7 +1,8 @@
-# Cranberry Orange Cocktail
-
-`Drinks`
-
+---
+title: "Cranberry Orange Cocktail"
+tags: ["Drinks"]
+servings: ""
+---
 **Yields** 2 servings
 
 #### **Ingredients:**

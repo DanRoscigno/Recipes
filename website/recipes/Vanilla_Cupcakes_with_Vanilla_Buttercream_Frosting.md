@@ -1,7 +1,8 @@
-# Vanilla Cupcakes with Vanilla Buttercream Frosting
-
-`Desserts`
-
+---
+title: "Vanilla Cupcakes with Vanilla Buttercream Frosting"
+tags: ["Desserts"]
+servings: ""
+---
 ### INGREDIENTS
 
 _Vanilla Cupcakes_:

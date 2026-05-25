@@ -1,9 +1,8 @@
-# Bacon-Onion Jam Dip
-
-`Want to make` `Appetizers`
-
-Serves 8+ Appetizers 
-
+---
+title: "Bacon-Onion Jam Dip"
+tags: ["Want to make", "Appetizers"]
+servings: "Serves 8+ Appetizers"
+---
 **Ingredients/Directions:**
 
 _Bacon topper:_

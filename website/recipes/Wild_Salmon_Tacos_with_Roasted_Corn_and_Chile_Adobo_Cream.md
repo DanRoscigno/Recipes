@@ -1,9 +1,8 @@
-# Wild Salmon Tacos with Roasted Corn and Chile Adobo Cream
-
-`Main Meal` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
-Makes 4 servings
-
+---
+title: "Wild Salmon Tacos with Roasted Corn and Chile Adobo Cream"
+tags: ["Main Meal", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: "Makes 4 servings"
+---
 **INGREDIENTS:**
 
 _For the chile adobo cream:_

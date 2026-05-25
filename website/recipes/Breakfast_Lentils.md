@@ -1,7 +1,8 @@
-# Breakfast Lentils
-
-`Breakfasts` `Kim Acceptable` `Middle Eastern/Moroccan Inspired`
-
+---
+title: "Breakfast Lentils"
+tags: ["Breakfasts", "Kim Acceptable", "Middle Eastern/Moroccan Inspired"]
+servings: ""
+---
 Single serving
 
 **Ingredients:**

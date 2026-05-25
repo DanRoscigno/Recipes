@@ -1,7 +1,8 @@
-# Chickpea Salad With Fresh Herbs and Scallions
-
-`Salads` `Kim Acceptable`
-
+---
+title: "Chickpea Salad With Fresh Herbs and Scallions"
+tags: ["Salads", "Kim Acceptable"]
+servings: ""
+---
 **Yield:**4 to 6 servings
 
 **INGREDIENTS:**

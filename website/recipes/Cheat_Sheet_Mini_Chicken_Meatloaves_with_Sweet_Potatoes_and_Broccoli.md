@@ -1,9 +1,8 @@
-# Cheat Sheet Mini Chicken Meatloaves with Sweet Potatoes and Broccoli
-
-`Main Meal` `Kim Acceptable` `Quick` `American`
-
-Makes ~ 4 servings
-
+---
+title: "Cheat Sheet Mini Chicken Meatloaves with Sweet Potatoes and Broccoli"
+tags: ["Main Meal", "Kim Acceptable", "Quick", "American"]
+servings: "Makes ~ 4 servings"
+---
 ### **Ingredients:**
 
 _Meatloaves:_

@@ -1,9 +1,8 @@
-# Sesame Tomato Salad
-
-`Salads` `Want to make` `Picnic Fare` `Kim Acceptable` `Summer` `Spring` `Asian Inspired`
-
-Yield: 6 to 8 servings
-
+---
+title: "Sesame Tomato Salad"
+tags: ["Salads", "Want to make", "Picnic Fare", "Kim Acceptable", "Summer", "Spring", "Asian Inspired"]
+servings: "Yield: 6 to 8 servings"
+---
 **INGREDIENTS:**
 
 - ½cup extra-virgin olive oil

@@ -1,9 +1,8 @@
-# Strawberry-Rhubarb Jam
-
-`Preserves and Jams`
-
-Makes 3 1/2 cups
-
+---
+title: "Strawberry-Rhubarb Jam"
+tags: ["Preserves and Jams"]
+servings: "Makes 3 1/2 cups"
+---
 **Ingredients:**
 
 5 cups chopped rhubarb (about ten 12-inch stalks)

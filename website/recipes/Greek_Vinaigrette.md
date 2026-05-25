@@ -1,9 +1,8 @@
-# Greek Vinaigrette
-
-`Mediterranean Inspired` `Salad Dressings`
-
-Makes ~1 1/4 cups
-
+---
+title: "Greek Vinaigrette"
+tags: ["Mediterranean Inspired", "Salad Dressings"]
+servings: "Makes ~1 1/4 cups"
+---
 **Ingredients:**
 
 - ½ cup red wine vinegar 

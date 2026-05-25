@@ -1,7 +1,8 @@
-# Spatchcock Lemon Rosemary Smoked Turkey
-
-`Main Meal` `Picnic Fare` `Irish/English/Scottish Inspired`
-
+---
+title: "Spatchcock Lemon Rosemary Smoked Turkey"
+tags: ["Main Meal", "Picnic Fare", "Irish/English/Scottish Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 - 1 x 10lb (approx 5kg) whole frozen turkey

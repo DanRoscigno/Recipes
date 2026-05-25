@@ -1,9 +1,8 @@
-# Zucchini Mini Puffs
-
-`Want to make` `Breakfasts` `Picnic Fare` `Breads`
-
-Makes 24 mini muffins
-
+---
+title: "Zucchini Mini Puffs"
+tags: ["Want to make", "Breakfasts", "Picnic Fare", "Breads"]
+servings: "Makes 24 mini muffins"
+---
 **Ingredients:**
 
 - 3/4 cup flour

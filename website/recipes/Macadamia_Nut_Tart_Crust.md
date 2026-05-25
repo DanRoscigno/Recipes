@@ -1,9 +1,8 @@
-# Macadamia Nut Tart Crust
-
-`Desserts` `Want to make` `Gluten Free`
-
-Makes 2-31/2 x 121/2” shells or 12-3” tart shells.
-
+---
+title: "Macadamia Nut Tart Crust"
+tags: ["Desserts", "Want to make", "Gluten Free"]
+servings: "Makes 2-31/2 x 121/2” shells or 12-3” tart shells."
+---
 Ingredients:
 
 10 oz. Finely chopped macadamia nuts

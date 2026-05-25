@@ -1,9 +1,8 @@
-# Mini Corn Dog Muffins with Creole Mustard Sauce
-
-`Want to make` `Kid’s Delight`
-
-Makes ~ 24
-
+---
+title: "Mini Corn Dog Muffins with Creole Mustard Sauce"
+tags: ["Want to make", "Kid’s Delight"]
+servings: "Makes ~ 24"
+---
 ### **Ingredients:**
 
 ###### _Muffins:_

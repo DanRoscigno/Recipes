@@ -1,7 +1,8 @@
-# Beet Salad (Barbabeitole)
-
-`Salads` `Side dish`
-
+---
+title: "Beet Salad (Barbabeitole)"
+tags: ["Salads", "Side dish"]
+servings: ""
+---
 #### **Ingredients**
 
 - 8 golden baby beets

@@ -1,7 +1,8 @@
-# Molly Yeh’s Sprinkle Cake
-
-`Desserts` `Kid’s Delight`
-
+---
+title: "Molly Yeh’s Sprinkle Cake"
+tags: ["Desserts", "Kid’s Delight"]
+servings: ""
+---
 Yields: one 3-layer 8" cake or 24 cupcakeS
 
 **Ingredients:** 

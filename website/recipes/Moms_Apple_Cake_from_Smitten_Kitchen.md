@@ -1,7 +1,8 @@
-# Mom’s Apple Cake (Smitten Kitchen)
-
-`Desserts` `Want to make` `Gifts` `Fall`
-
+---
+title: "Mom’s Apple Cake (Smitten Kitchen)"
+tags: ["Desserts", "Want to make", "Gifts", "Fall"]
+servings: ""
+---
 ![Image_20231017_171515.png](image/Image_20231017_171515.png)
 
 **Serves 12-15**

@@ -1,9 +1,8 @@
-# Magi Olives
-
-`Want to make` `Appetizers` `Italian Inspired`
-
-Makes 5 cups
-
+---
+title: "Magi Olives"
+tags: ["Want to make", "Appetizers", "Italian Inspired"]
+servings: "Makes 5 cups"
+---
 ## **Ingredients**
 
 - 5 cups assorted pitted olives 

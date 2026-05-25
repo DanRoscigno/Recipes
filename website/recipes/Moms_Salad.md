@@ -1,7 +1,8 @@
-# Mom’s Salad*
-
-`Salads`
-
+---
+title: "Mom’s Salad*"
+tags: ["Salads"]
+servings: ""
+---
 ## **Ingredients:**
 
 2 heads romaine lettuce, thinly sliced

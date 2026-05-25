@@ -1,9 +1,8 @@
-# Sweet Potato Donuts with Maple Icing
-
-`Breads` `Fall`
-
- 
-
+---
+title: "Sweet Potato Donuts with Maple Icing"
+tags: ["Breads", "Fall"]
+servings: ""
+---
   Ingredients  
 
   3 1/2 cups all-purpose flour

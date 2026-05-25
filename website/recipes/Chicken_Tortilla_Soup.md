@@ -1,7 +1,8 @@
-# Chicken Tortilla Soup
-
-`Soups` `Kim Acceptable` `Quick` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Chicken Tortilla Soup"
+tags: ["Soups", "Kim Acceptable", "Quick", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 ### Serves 6
 
 **INGREDIENTS:**

@@ -1,9 +1,8 @@
-# Cheddar Squash Galette
-
-`Main Meal` `Want to make` `Kim Acceptable` `French Inspired`
-
-Serves 6-8
-
+---
+title: "Cheddar Squash Galette"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "French Inspired"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 _Pastry:_

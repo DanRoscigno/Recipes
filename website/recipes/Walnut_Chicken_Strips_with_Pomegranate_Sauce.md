@@ -1,9 +1,8 @@
-# Walnut Chicken Strips with Pomegranate Sauce
-
-`Appetizers` `Middle Eastern/Moroccan Inspired`
-
-Makes about 4 dozen pieces and 
-
+---
+title: "Walnut Chicken Strips with Pomegranate Sauce"
+tags: ["Appetizers", "Middle Eastern/Moroccan Inspired"]
+servings: "Makes about 4 dozen pieces and"
+---
 **Ingredients:**
 
 _For the chicken strips:_

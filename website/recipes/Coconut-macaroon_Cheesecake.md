@@ -1,7 +1,8 @@
-# Coconut-macaroon Cheesecake
-
-`Cheesecakes`
-
+---
+title: "Coconut-macaroon Cheesecake"
+tags: ["Cheesecakes"]
+servings: ""
+---
  ![Coconut-macaroon Cheesecake](http://www.bakespace.com/recipes/detail/Coconut-macaroon-Cheesecake/7656/#)   Ingredients  
 
   1-2/3 cups flaked coconut, toasted*

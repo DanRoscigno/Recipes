@@ -1,9 +1,8 @@
-# Raspberry Muffins with Crumb Topping
-
-`Breads` `Summer`
-
-Makes 18 regular sized muffins
-
+---
+title: "Raspberry Muffins with Crumb Topping"
+tags: ["Breads", "Summer"]
+servings: "Makes 18 regular sized muffins"
+---
 **Ingredients:**
 
 _For the topping:_

@@ -1,9 +1,8 @@
-# Sweet Red Pepper Hummus
-
-`Condiments` `Appetizers` `Middle Eastern/Moroccan Inspired`
-
-Makes 3 1/2 cups
-
+---
+title: "Sweet Red Pepper Hummus"
+tags: ["Condiments", "Appetizers", "Middle Eastern/Moroccan Inspired"]
+servings: "Makes 3 1/2 cups"
+---
 **Ingredients:**
 
 1 (29-ounce) can chickpeas, drained (3 cups)

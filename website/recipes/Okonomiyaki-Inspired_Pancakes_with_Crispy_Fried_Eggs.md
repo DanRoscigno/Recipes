@@ -1,9 +1,8 @@
-# Okonomiyaki-Inspired Pancakes with Crispy Fried Eggs
-
-`Want to make` `Breakfasts` `Kim Acceptable` `Asian Inspired`
-
-Serves 2-4
-
+---
+title: "Okonomiyaki-Inspired Pancakes with Crispy Fried Eggs"
+tags: ["Want to make", "Breakfasts", "Kim Acceptable", "Asian Inspired"]
+servings: "Serves 2-4"
+---
 **Ingredients:**
 
 _Okonomiyaki-Inspired Pancakes:_

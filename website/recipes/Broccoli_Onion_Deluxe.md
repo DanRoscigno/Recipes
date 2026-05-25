@@ -1,7 +1,8 @@
-# Broccoli Onion Deluxe
-
-`Side dish` `Kim Acceptable`
-
+---
+title: "Broccoli Onion Deluxe"
+tags: ["Side dish", "Kim Acceptable"]
+servings: ""
+---
 **Ingredients:**
 
 1 (10 ounce) pkg. frozen cut broccoli

@@ -1,7 +1,8 @@
-# Brown Butter Pecan Cookies
-
-`Want to make` `Picnic Fare` `Cookies`
-
+---
+title: "Brown Butter Pecan Cookies"
+tags: ["Want to make", "Picnic Fare", "Cookies"]
+servings: ""
+---
 **INGREDIENTS:**
 
  1 1/2 cups pecan halves, finely chopped

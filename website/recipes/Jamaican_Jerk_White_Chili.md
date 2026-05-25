@@ -1,9 +1,8 @@
-# Jamaican Jerk White Chili
-
-`Main Meal` `Kim Acceptable` `Island Inspired`
-
-Makes 4 servings
-
+---
+title: "Jamaican Jerk White Chili"
+tags: ["Main Meal", "Kim Acceptable", "Island Inspired"]
+servings: "Makes 4 servings"
+---
 **Ingredients:**
 
 - 1 tablespoon vegetable oil 

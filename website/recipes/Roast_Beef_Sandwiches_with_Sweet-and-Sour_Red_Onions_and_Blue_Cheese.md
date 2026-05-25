@@ -1,9 +1,8 @@
-# Roast Beef Sandwiches with Sweet-and-Sour Red Onions and Blue Cheese
-
-`Main Meal` `Sandwiches` `Picnic Fare` `American`
-
- 
-
+---
+title: "Roast Beef Sandwiches with Sweet-and-Sour Red Onions and Blue Cheese"
+tags: ["Main Meal", "Sandwiches", "Picnic Fare", "American"]
+servings: ""
+---
   Ingredients  
 
   2 cups thinly sliced red onions

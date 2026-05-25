@@ -1,9 +1,8 @@
-# Vanilla Orange Tart
-
-`Desserts` `Want to make`
-
-Makes 8-10 servings
-
+---
+title: "Vanilla Orange Tart"
+tags: ["Desserts", "Want to make"]
+servings: "Makes 8-10 servings"
+---
 ### **Ingredients:**
 
 One 11-ounce box vanilla wafers (about 80 wafers)

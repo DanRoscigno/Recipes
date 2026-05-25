@@ -1,9 +1,8 @@
-# Lemon Meringue Cupcakes
-
-`Desserts`
-
-Makes 12
-
+---
+title: "Lemon Meringue Cupcakes"
+tags: ["Desserts"]
+servings: "Makes 12"
+---
 **Ingredients:**
 
 Lemon Curd:

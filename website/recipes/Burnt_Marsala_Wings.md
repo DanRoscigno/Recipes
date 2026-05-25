@@ -1,7 +1,8 @@
-# Burnt Marsala Wings
-
-`Want to make` `Picnic Fare` `Appetizers`
-
+---
+title: "Burnt Marsala Wings"
+tags: ["Want to make", "Picnic Fare", "Appetizers"]
+servings: ""
+---
 8 SERVINGS
 
 **Ingredients:**

@@ -1,9 +1,8 @@
-# Lemon Curd
-
-`Desserts` `Condiments` `Preserves and Jams`
-
- 
-
+---
+title: "Lemon Curd"
+tags: ["Desserts", "Condiments", "Preserves and Jams"]
+servings: ""
+---
   Ingredients  
 
   5 egg yolks

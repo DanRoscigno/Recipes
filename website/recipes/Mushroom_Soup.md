@@ -1,7 +1,8 @@
-# Mushroom Soup
-
-`Soups` `Kim Acceptable` `Quick` `French Inspired`
-
+---
+title: "Mushroom Soup"
+tags: ["Soups", "Kim Acceptable", "Quick", "French Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 - 1/4 cup (½stick) butter

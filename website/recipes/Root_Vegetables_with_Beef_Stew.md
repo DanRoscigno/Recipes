@@ -1,9 +1,8 @@
-# Root Vegetables with Beef Stew
-
-`Main Meal` `American`
-
-Servings:  8-10     
-
+---
+title: "Root Vegetables with Beef Stew"
+tags: ["Main Meal", "American"]
+servings: "Servings:  8-10"
+---
 **Ingredients:**
 
 3 Tbsp olive oil

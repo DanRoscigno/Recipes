@@ -1,7 +1,8 @@
-# Rack of Lamb with Mint-Basil Pesto
-
-`Main Meal` `Picnic Fare` `Special Meal` `Mediterranean Inspired`
-
+---
+title: "Rack of Lamb with Mint-Basil Pesto"
+tags: ["Main Meal", "Picnic Fare", "Special Meal", "Mediterranean Inspired"]
+servings: ""
+---
 **Servings:** 6 
 
 **Ingredients**:

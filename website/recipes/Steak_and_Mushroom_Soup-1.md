@@ -1,7 +1,8 @@
-# Steak and Mushroom Soup
-
-`Soups`
-
+---
+title: "Steak and Mushroom Soup"
+tags: ["Soups"]
+servings: ""
+---
 Steak And Mushroom Soup
 
 hearty; great for crowds and cold days. Author's comment - I think marinating the steak improves its flavor; however, if you are rushed, you might try it without this step.

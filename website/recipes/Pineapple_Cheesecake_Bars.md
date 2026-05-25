@@ -1,9 +1,8 @@
-# Pineapple Cheesecake Bars
-
-`Desserts` `Picnic Fare` `Cookies`
-
-Servings: 16-24  
-
+---
+title: "Pineapple Cheesecake Bars"
+tags: ["Desserts", "Picnic Fare", "Cookies"]
+servings: "Servings: 16-24ï¿½"
+---
 **Ingredients:**
 
 _Crust:_
@@ -47,4 +46,4 @@ Mix cream cheese, sugar, milk, and vanilla. Add egg and mix 3 mins. Stir in crus
 Bake for additional 15 to 20 minutes or until batter is set and coconut is golden. Remove from oven. Let stand for 1 hour and cut into bars.
 
 
-Comments:  From Carol Terwilliger  late 70's!
+Comments:ï¿½ From Carol Terwilligerï¿½ late 70's!

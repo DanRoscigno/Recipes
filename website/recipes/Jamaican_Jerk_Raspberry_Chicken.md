@@ -1,9 +1,8 @@
-# Jamaican Jerk Raspberry Chicken
-
-`Main Meal` `Picnic Fare` `Island Inspired`
-
- 
-
+---
+title: "Jamaican Jerk Raspberry Chicken"
+tags: ["Main Meal", "Picnic Fare", "Island Inspired"]
+servings: ""
+---
   Ingredients  
 
   * Raspberry Glaze

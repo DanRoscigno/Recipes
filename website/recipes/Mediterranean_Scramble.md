@@ -1,7 +1,8 @@
-# Mediterranean Scramble
-
-`Breakfasts` `Kim Acceptable`
-
+---
+title: "Mediterranean Scramble"
+tags: ["Breakfasts", "Kim Acceptable"]
+servings: ""
+---
 4 SERVINGS
 
 ### **Ingredients:**

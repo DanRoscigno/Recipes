@@ -1,9 +1,8 @@
-# Salmon Kebabs with Herb Sauce
-
-`Main Meal` `Kim Acceptable` `Special Meal` `American`
-
-Makes 6 kebabs
-
+---
+title: "Salmon Kebabs with Herb Sauce"
+tags: ["Main Meal", "Kim Acceptable", "Special Meal", "American"]
+servings: "Makes 6 kebabs"
+---
 **Ingredients:**
 
 2 tablespoons extra-virgin olive oil, plus more for oiling the grill grates

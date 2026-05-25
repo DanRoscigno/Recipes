@@ -1,7 +1,8 @@
-# Spice Cake with Citrus Filling
-
-`Desserts` `Fall`
-
+---
+title: "Spice Cake with Citrus Filling"
+tags: ["Desserts", "Fall"]
+servings: ""
+---
 ## Ingredients
 
 1 cup chopped pecans

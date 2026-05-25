@@ -1,9 +1,8 @@
-# Tangy Coleslaw
-
-`Condiments` `Side dish`
-
-Makes 4-6 servings
-
+---
+title: "Tangy Coleslaw"
+tags: ["Condiments", "Side dish"]
+servings: "Makes 4-6 servings"
+---
 **Ingredients:**       
 
 _Slaw:_

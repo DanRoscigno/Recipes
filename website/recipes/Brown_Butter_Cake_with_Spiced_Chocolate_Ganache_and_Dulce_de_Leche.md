@@ -1,9 +1,8 @@
-# Brown Butter Cake with Spiced Chocolate Ganache and Dulce de Leche
-
-`Desserts` `Want to make`
-
-Makes 10-12 servings
-
+---
+title: "Brown Butter Cake with Spiced Chocolate Ganache and Dulce de Leche"
+tags: ["Desserts", "Want to make"]
+servings: "Makes 10-12 servings"
+---
 **Ingredients:**
 
 _Brown Butter Cake:_

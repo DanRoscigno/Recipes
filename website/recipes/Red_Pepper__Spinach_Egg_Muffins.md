@@ -1,9 +1,8 @@
-# Red Pepper & Spinach Egg Muffins
-
-`Breakfasts` `Kim Acceptable` `Camping`
-
-Serves 12 typical-sized muffins
-
+---
+title: "Red Pepper & Spinach Egg Muffins"
+tags: ["Breakfasts", "Kim Acceptable", "Camping"]
+servings: "Serves 12 typical-sized muffins"
+---
 ### Ingredients:
 
 - 12 eggs

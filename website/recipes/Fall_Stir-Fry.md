@@ -1,9 +1,8 @@
-# Fall Stir-Fry
-
-`Main Meal` `Quick` `Fall` `Asian Inspired`
-
-Makes 4 servings
-
+---
+title: "Fall Stir-Fry"
+tags: ["Main Meal", "Quick", "Fall", "Asian Inspired"]
+servings: "Makes 4 servings"
+---
 **Ingredients**:
 
 1 tablespoon brown sugar

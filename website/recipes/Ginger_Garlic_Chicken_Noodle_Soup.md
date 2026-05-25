@@ -1,8 +1,8 @@
-# Ginger Garlic Chicken Noodle Soup
-
-`Main Meal` `Soups` `Asian Inspired`
-
-serves 4 to 6
+---
+title: "Ginger Garlic Chicken Noodle Soup"
+tags: ["Main Meal", "Soups", "Asian Inspired"]
+servings: "serves 4 to 6"
+---
 ![Snapshot.jpg](image/Snapshot.jpg)
 
 **Ingredients:**

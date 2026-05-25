@@ -1,9 +1,8 @@
-# Raspberry Bars
-
-`Desserts` `Want to make` `Cookies` `Summer`
-
-Servings: 32 
-
+---
+title: "Raspberry Bars"
+tags: ["Desserts", "Want to make", "Cookies", "Summer"]
+servings: "Servings: 32"
+---
 **Ingredients:**      
 
 2 1/2 cups flour

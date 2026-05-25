@@ -1,7 +1,8 @@
-# Easter Bread Egg Wreath
-
-`Breads` `Spring` `Easter`
-
+---
+title: "Easter Bread Egg Wreath"
+tags: ["Breads", "Spring", "Easter"]
+servings: ""
+---
 **Ingredients:**
 
 - 1 cup milk, at room temperature

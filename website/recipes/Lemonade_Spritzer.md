@@ -1,9 +1,8 @@
-# Lemonade Spritzer
-
-`Drinks`
-
- 
-
+---
+title: "Lemonade Spritzer"
+tags: ["Drinks"]
+servings: ""
+---
   Ingredients  
 
   2 cups fresh lemon juice (about 9 lemons)

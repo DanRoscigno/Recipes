@@ -1,7 +1,8 @@
-# Sweet and Spicy Teriyaki Sauce
-
-`Condiments` `Island Inspired`
-
+---
+title: "Sweet and Spicy Teriyaki Sauce"
+tags: ["Condiments", "Island Inspired"]
+servings: ""
+---
 1/2 cup soy sauce
 
 1 teaspoon of minced ginger-garlic paste

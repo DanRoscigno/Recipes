@@ -1,9 +1,8 @@
-# Fresh Spinach Linguine
-
-`Main Meal` `Kim Acceptable` `Asian Inspired`
-
- 
-
+---
+title: "Fresh Spinach Linguine"
+tags: ["Main Meal", "Kim Acceptable", "Asian Inspired"]
+servings: ""
+---
   Ingredients  
 
   3/4 lb. fresh spinach linguine

@@ -1,10 +1,8 @@
-# Honey Lime Glazed Grilled Ahi Tuna Recipe
-
-`Main Meal` `Kim Acceptable` `Island Inspired`
-
-Servings: 4 main servings
-
-
+---
+title: "Honey Lime Glazed Grilled Ahi Tuna Recipe"
+tags: ["Main Meal", "Kim Acceptable", "Island Inspired"]
+servings: "Servings: 4 main servings"
+---
 **Ingredients:**
 
 •2 limes, juiced
@@ -25,7 +23,7 @@ Servings: 4 main servings
 
 •vegetable oil, as needed for grill
 
-**Directions:**� 
+**Directions:**� 
 
  In a bowl, whisk together the lime juice, olive oil, rice vinegar, garlic, and ginger. Lay the tuna fillets on a plate, season with salt and fresh ground black pepper to taste, and spoon over 1/2 of the glaze, turn to coat evenly. Let marinate for 30 minutes in the refrigerator. Add the honey to the remaining half of the glaze and mix well. 
 

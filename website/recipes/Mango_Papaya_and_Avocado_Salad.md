@@ -1,9 +1,8 @@
-# Mango, Papaya, and Avocado Salad
-
-`Salads` `Kim Acceptable` `Summer` `Spring` `Island Inspired`
-
-Makes 2-4 salads or cups
-
+---
+title: "Mango, Papaya, and Avocado Salad"
+tags: ["Salads", "Kim Acceptable", "Summer", "Spring", "Island Inspired"]
+servings: "Makes 2-4 salads or cups"
+---
 **Ingredients:**
 
 _Salad:_

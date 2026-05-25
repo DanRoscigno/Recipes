@@ -1,9 +1,8 @@
-# Brunswick Stew
-
-`Main Meal` `Kim Acceptable` `Summer`
-
-Serves 16
-
+---
+title: "Brunswick Stew"
+tags: ["Main Meal", "Kim Acceptable", "Summer"]
+servings: "Serves 16"
+---
 **Ingredients:** 
 
 3 4-pound whole broiler chickens

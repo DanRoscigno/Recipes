@@ -1,9 +1,8 @@
-# Lamb Bone Broth
-
-`Soups`
-
-Makes 5 cups of broth
-
+---
+title: "Lamb Bone Broth"
+tags: ["Soups"]
+servings: "Makes 5 cups of broth"
+---
 **Ingredients:**
 
 - 1 1/2 pounds lamb bones 

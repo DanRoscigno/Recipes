@@ -1,9 +1,8 @@
-# Quinoa Vegetable Salad
-
-`Salads` `Want to make` `Side dish` `Kim Acceptable`
-
-      
-
+---
+title: "Quinoa Vegetable Salad"
+tags: ["Salads", "Want to make", "Side dish", "Kim Acceptable"]
+servings: ""
+---
 **INGREDIENTS:**
 
 1 teaspoon canola oil

@@ -1,7 +1,8 @@
-# Neapolitan Cupcakes
-
-`Desserts` `Kid’s Delight`
-
+---
+title: "Neapolitan Cupcakes"
+tags: ["Desserts", "Kid’s Delight"]
+servings: ""
+---
 **INGREDIENTS**
 
 1/2 vanilla cake recipe 

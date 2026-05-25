@@ -1,9 +1,8 @@
-# Mexican Chocolate
-
-`Drinks` `Mexican/Cuban/Latin Inspired`
-
-Makes 6-8 servings
-
+---
+title: "Mexican Chocolate"
+tags: ["Drinks", "Mexican/Cuban/Latin Inspired"]
+servings: "Makes 6-8 servings"
+---
 **Ingredients:** 
 
 4 ounces unsweetened chocolate 

@@ -1,9 +1,8 @@
-# Prosciutto-Wrapped Pork Loin
-
-`Main Meal` `Quick` `Special Meal` `Italian Inspired`
-
-Serves: 6-8 people (allow ~8-10 ozs per adult)
-
+---
+title: "Prosciutto-Wrapped Pork Loin"
+tags: ["Main Meal", "Quick", "Special Meal", "Italian Inspired"]
+servings: "Serves: 6-8 people (allow ~8-10 ozs per adult)"
+---
 ### **Ingredients:**
 
 1/2 cup fresh parsley

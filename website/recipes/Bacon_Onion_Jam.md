@@ -1,7 +1,8 @@
-# Bacon Onion Jam
-
-`Condiments`
-
+---
+title: "Bacon Onion Jam"
+tags: ["Condiments"]
+servings: ""
+---
 **¾** **pound slab bacon, diced into cubes**
 
 **4** **medium-size white or Spanish onions, peeled and diced**

@@ -1,9 +1,8 @@
-# Blistered Green Beans with Spicy Chile Sauce
-
-`Side dish` `Kim Acceptable`
-
-Makes 8 servings
-
+---
+title: "Blistered Green Beans with Spicy Chile Sauce"
+tags: ["Side dish", "Kim Acceptable"]
+servings: "Makes 8 servings"
+---
 **Ingredients:**
 
 _Green Beans:_

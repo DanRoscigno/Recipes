@@ -1,9 +1,8 @@
-# Lemon Biscotti
-
-`Gifts` `Cookies` `Italian Inspired`
-
-Makes about 48 
-
+---
+title: "Lemon Biscotti"
+tags: ["Gifts", "Cookies", "Italian Inspired"]
+servings: "Makes about 48"
+---
 Ingredients:
 
 3 1/3 cups all-purpose flour 

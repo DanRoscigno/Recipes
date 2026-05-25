@@ -1,7 +1,8 @@
-# Pork, Maple, and Sage Sausage Patties
-
-`Breakfasts`
-
+---
+title: "Pork, Maple, and Sage Sausage Patties"
+tags: ["Breakfasts"]
+servings: ""
+---
 INGREDIENTS:
 
     - 1 pound pork shoulder butt, cut into 1-inch pieces

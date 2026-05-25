@@ -1,7 +1,8 @@
-# Carrot Apple Zucchini Bread
-
-`Want to make` `Picnic Fare` `Breads` `Camping`
-
+---
+title: "Carrot Apple Zucchini Bread"
+tags: ["Want to make", "Picnic Fare", "Breads", "Camping"]
+servings: ""
+---
 1 loaf with ~ 24 servings
 
 ### Ingredients:

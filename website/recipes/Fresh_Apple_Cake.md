@@ -1,9 +1,8 @@
-# Fresh Apple Cake
-
-`Desserts` `Fall`
-
-Serves 16-20
-
+---
+title: "Fresh Apple Cake"
+tags: ["Desserts", "Fall"]
+servings: "Serves 16-20"
+---
 **Ingredients:**
 
 1 1/2 cups plus 2 Tbsp softened unsalted butter, divided use

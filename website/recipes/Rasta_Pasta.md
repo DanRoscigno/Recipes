@@ -1,7 +1,8 @@
-# Rasta Pasta
-
-`Main Meal` `Drinks` `Side dish` `Kim Acceptable` `Summer` `Spring` `Island Inspired`
-
+---
+title: "Rasta Pasta"
+tags: ["Main Meal", "Drinks", "Side dish", "Kim Acceptable", "Summer", "Spring", "Island Inspired"]
+servings: ""
+---
 2 main-dish servings or 4 side servings 
 
 **Ingredients:**

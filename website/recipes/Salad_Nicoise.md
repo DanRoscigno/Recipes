@@ -1,9 +1,8 @@
-# Salad Nicoise
-
-`Salads` `Want to make` `Kim Acceptable`
-
-Serves 4-6
-
+---
+title: "Salad Nicoise"
+tags: ["Salads", "Want to make", "Kim Acceptable"]
+servings: "Serves 4-6"
+---
 ### **Ingredients:**
 
 1 pound baby red potatoes, whole or halved if bigger than bite-size

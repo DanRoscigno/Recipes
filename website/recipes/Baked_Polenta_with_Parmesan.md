@@ -1,7 +1,8 @@
-# Baked Polenta with Parmesan
-
-`Side dish` `Gluten Free` `Italian Inspired`
-
+---
+title: "Baked Polenta with Parmesan"
+tags: ["Side dish", "Gluten Free", "Italian Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 - 2 quarts water 

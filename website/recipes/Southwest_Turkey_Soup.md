@@ -1,9 +1,8 @@
-# Southwest Turkey Soup
-
-`Soups` `Thanksgiving` `Kim Acceptable`
-
-Servings: 8
-
+---
+title: "Southwest Turkey Soup"
+tags: ["Soups", "Thanksgiving", "Kim Acceptable"]
+servings: "Servings: 8"
+---
 **Ingredients:**
 
 - 2 cups shredded cooked turkey 

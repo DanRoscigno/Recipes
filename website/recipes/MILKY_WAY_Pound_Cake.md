@@ -1,9 +1,8 @@
-# MILKY WAY Pound Cake
-
-`Desserts`
-
- 
-
+---
+title: "MILKY WAY Pound Cake"
+tags: ["Desserts"]
+servings: ""
+---
   Ingredients  
 
   8 reg. or 16 fun size MILKY WAY Bars

@@ -1,9 +1,8 @@
-# Blackberry-Lime Margaritas
-
-`Drinks` `Mexican/Cuban/Latin Inspired`
-
-Makes 4 drinks
-
+---
+title: "Blackberry-Lime Margaritas"
+tags: ["Drinks", "Mexican/Cuban/Latin Inspired"]
+servings: "Makes 4 drinks"
+---
 **Special equipment:** an ice cube tray with sixteen 1-ounce wells
 
 **Ingredients:**

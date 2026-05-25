@@ -1,7 +1,8 @@
-# Sweet Potato Grain-Free Dog Biscuits
-
-`Dog`
-
+---
+title: "Sweet Potato Grain-Free Dog Biscuits"
+tags: ["Dog"]
+servings: ""
+---
 #### **INGREDIENTS:**
 
 - 1 1/2 cup coconut flour

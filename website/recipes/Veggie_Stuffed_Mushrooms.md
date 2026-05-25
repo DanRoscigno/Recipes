@@ -1,9 +1,8 @@
-# Veggie Stuffed Mushrooms
-
-`Picnic Fare` `Appetizers` `Kim Acceptable`
-
- 
-
+---
+title: "Veggie Stuffed Mushrooms"
+tags: ["Picnic Fare", "Appetizers", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   Ingredients:

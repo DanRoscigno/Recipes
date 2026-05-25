@@ -1,7 +1,8 @@
-# Stump de Noel
-
-`Desserts` `Want to make` `Christmas`
-
+---
+title: "Stump de Noel"
+tags: ["Desserts", "Want to make", "Christmas"]
+servings: ""
+---
 10-12 Servings
 
 ### **Ingredients:**

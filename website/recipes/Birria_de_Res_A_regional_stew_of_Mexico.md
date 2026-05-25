@@ -1,9 +1,8 @@
-# Birria de Res (A regional stew of Mexico)
-
-`Main Meal` `Special Meal` `Mexican/Cuban/Latin Inspired`
-
-Yield: 8 to 10 servings
-
+---
+title: "Birria de Res (A regional stew of Mexico)"
+tags: ["Main Meal", "Special Meal", "Mexican/Cuban/Latin Inspired"]
+servings: "Yield: 8 to 10 servings"
+---
 **INGREDIENTS:**
 
 - 2poblano chiles

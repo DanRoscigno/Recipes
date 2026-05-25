@@ -1,9 +1,8 @@
-# Instant Pot Cuban Style Black Beans
-
-`Main Meal` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
-Makes 6 cups
-
+---
+title: "Instant Pot Cuban Style Black Beans"
+tags: ["Main Meal", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: "Makes 6 cups"
+---
 **Ingredients:**
 
  1 pound dried black beans  _— about 2 cups, no need to soak_

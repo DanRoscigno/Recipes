@@ -1,7 +1,8 @@
-# Baked Pork Chops with Parmesan-Sage Crust
-
-`Main Meal` `Special Meal` `Italian Inspired`
-
+---
+title: "Baked Pork Chops with Parmesan-Sage Crust"
+tags: ["Main Meal", "Special Meal", "Italian Inspired"]
+servings: ""
+---
 ![Baked Pork Chops with Parmesan-Sage Crust](http://www.epicurious.com/images/recipesmenus/2001/2001_february/104711_116.jpg)
 
  Servings: 4

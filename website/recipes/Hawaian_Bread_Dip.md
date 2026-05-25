@@ -1,10 +1,9 @@
-# Hawaian Bread Dip
-
-`Picnic Fare` `Appetizers` `Island Inspired`
-
-Servings: 16-20  
-
-**Ingredients:**  
+---
+title: "Hawaian Bread Dip"
+tags: ["Picnic Fare", "Appetizers", "Island Inspired"]
+servings: "Servings: 16-20ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 1 cup chopped Ham
 
@@ -22,7 +21,7 @@ Servings: 16-20 
 
 **Directions:**
 
-Mix all together and scoop out a loaf of Hawaiian bread and fill. Bake at 350 degrees for 1 hour.  
+Mix all together and scoop out a loaf of Hawaiian bread and fill. Bake at 350 degrees for 1 hour.ï¿½ 
 
 Note: recipe from Connie Mayer
 

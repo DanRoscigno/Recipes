@@ -1,10 +1,9 @@
-# Game Hens with Flaming Cherry Sauce
-
-`Main Meal` `Kim Acceptable` `Special Meal` `Irish/English/Scottish Inspired`
-
-Servings: 2
-
-**Ingredients:**  
+---
+title: "Game Hens with Flaming Cherry Sauce"
+tags: ["Main Meal", "Kim Acceptable", "Special Meal", "Irish/English/Scottish Inspired"]
+servings: "Servings: 2"
+---
+**Ingredients:**ï¿½ 
 
 _Cornish game hens:_
 

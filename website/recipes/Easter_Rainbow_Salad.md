@@ -1,8 +1,8 @@
-# Easter Rainbow Salad
-
-`Salads` `Picnic Fare` `Kim Acceptable` `Easter` `Mediterranean Inspired`
-
-Serves ~ 8
+---
+title: "Easter Rainbow Salad"
+tags: ["Salads", "Picnic Fare", "Kim Acceptable", "Easter", "Mediterranean Inspired"]
+servings: "Serves ~ 8"
+---
 ![IMG_0573.JPG](image/IMG_0573.JPG)
 
 **Ingredients:**

@@ -1,9 +1,8 @@
-# Cherry Cobbler Muffins
-
-`Gifts` `Breads` `Summer`
-
- 
-
+---
+title: "Cherry Cobbler Muffins"
+tags: ["Gifts", "Breads", "Summer"]
+servings: ""
+---
   Ingredients  
 
   1/4 cup almonds--ground in food processor

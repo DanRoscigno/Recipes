@@ -1,9 +1,8 @@
-# Caprese Chicken with Pomegranate Glaze
-
-`Main Meal` `Picnic Fare` `Quick` `Italian Inspired`
-
-Makes ~ 4 or more servings 
-
+---
+title: "Caprese Chicken with Pomegranate Glaze"
+tags: ["Main Meal", "Picnic Fare", "Quick", "Italian Inspired"]
+servings: "Makes ~ 4 or more servings"
+---
 ### **Ingredients:**
 
 2 cups pomegranate juice

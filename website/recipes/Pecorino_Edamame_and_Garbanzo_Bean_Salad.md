@@ -1,9 +1,8 @@
-# Pecorino, Edamame, and Garbanzo Bean Salad
-
-`Salads` `Main Meal` `Picnic Fare` `Side dish` `Kim Acceptable` `Mediterranean Inspired`
-
- 
-
+---
+title: "Pecorino, Edamame, and Garbanzo Bean Salad"
+tags: ["Salads", "Main Meal", "Picnic Fare", "Side dish", "Kim Acceptable", "Mediterranean Inspired"]
+servings: ""
+---
   Ingredients  
 
   2 tbsp extra-virgin olive oil 

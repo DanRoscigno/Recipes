@@ -1,7 +1,8 @@
-# Grilled Sausage with Caramelized Onions and Apples
-
-`Main Meal` `Breakfasts` `Quick` `Fall`
-
+---
+title: "Grilled Sausage with Caramelized Onions and Apples"
+tags: ["Main Meal", "Breakfasts", "Quick", "Fall"]
+servings: ""
+---
 ![Image_20231116_090139.png](image/Image_20231116_090139.png)
 
 **Ingredients:**

@@ -1,8 +1,8 @@
-# Blackberry Pistachio Dream Bars
-
-`Desserts` `Want to make` `Kim Acceptable` `Summer` `Spring`
-
-Makes 9 squares
+---
+title: "Blackberry Pistachio Dream Bars"
+tags: ["Desserts", "Want to make", "Kim Acceptable", "Summer", "Spring"]
+servings: "Makes 9 squares"
+---
 ![Image_20240314_085144.png](image/Image_20240314_085144.png)
 
 **Ingredients:**

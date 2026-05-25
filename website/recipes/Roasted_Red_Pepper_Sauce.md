@@ -1,9 +1,8 @@
-# Roasted Red Pepper Sauce
-
-`Condiments` `Italian Inspired`
-
-Makes 1 1/2 cups
-
+---
+title: "Roasted Red Pepper Sauce"
+tags: ["Condiments", "Italian Inspired"]
+servings: "Makes 1 1/2 cups"
+---
 **Ingredients:**
 
 1 1/2 cups (about a 340-milliliter/11.5-ounce jar) roasted red peppers, drained

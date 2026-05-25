@@ -1,7 +1,8 @@
-# Zesty Quinoa Salad with Black Beans
-
-`Salads` `Main Meal` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Zesty Quinoa Salad with Black Beans"
+tags: ["Salads", "Main Meal", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 "This bright and colorful salad is a great summertime recipe (or anytime you want to feel like it's summertime). Light and citrusy, it's a whole new way to enjoy quinoa. Lime juice and cilantro give a refreshing kick, while quinoa and black beans provide tasty vegan protein. If you're not vegan, add even more protein by adding chunks of chicken or turkey. Yum!"
 
 Ingredients:

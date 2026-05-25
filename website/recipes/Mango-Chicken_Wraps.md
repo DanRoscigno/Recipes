@@ -1,9 +1,8 @@
-# Mango-Chicken Wraps
-
-`Picnic Fare` `Main Meal` `Island Inspired`
-
-Makes ~10 wraps
-
+---
+title: "Mango-Chicken Wraps"
+tags: ["Picnic Fare", "Main Meal", "Island Inspired"]
+servings: "Makes ~10 wraps"
+---
 **Ingredients:**
 
 - ⅔ cup vegetable broth 

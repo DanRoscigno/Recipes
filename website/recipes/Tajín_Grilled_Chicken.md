@@ -1,9 +1,8 @@
-# Tajín* Grilled Chicken
-
-`Want to make` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
-Yield: 4 servings
-
+---
+title: "Tajín* Grilled Chicken"
+tags: ["Want to make", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: "Yield: 4 servings"
+---
 *Tajín is a Mexican seasoning made from dried, ground red chiles, sea salt and dehydrated lime juice.
 
 **INGREDIENTS:**

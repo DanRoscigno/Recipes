@@ -1,7 +1,8 @@
-# Spicy Pirate Ribs with Lemon Mop
-
-`Main Meal` `Picnic Fare`
-
+---
+title: "Spicy Pirate Ribs with Lemon Mop"
+tags: ["Main Meal", "Picnic Fare"]
+servings: ""
+---
 Ingredients: 
 
 2 lbs. country-style spareribs with bone

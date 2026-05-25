@@ -1,9 +1,8 @@
-# Chocolate-Dipped Nougat with Dried Apricots
-
-`Desserts` `Gifts`
-
- 
-
+---
+title: "Chocolate-Dipped Nougat with Dried Apricots"
+tags: ["Desserts", "Gifts"]
+servings: ""
+---
   Ingredients  
 
   Vegetable cooking spray

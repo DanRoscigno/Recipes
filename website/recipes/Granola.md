@@ -1,9 +1,8 @@
-# Granola
-
-`Breakfasts` `Gifts`
-
-Servings: ~30
-
+---
+title: "Granola"
+tags: ["Breakfasts", "Gifts"]
+servings: "Servings: ~30"
+---
 **Ingredients:**
 
 8 cups rolled oats

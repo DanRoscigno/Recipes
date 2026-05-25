@@ -1,9 +1,8 @@
-# French Cheese Cake
-
-`Cheesecakes`
-
- 
-
+---
+title: "French Cheese Cake"
+tags: ["Cheesecakes"]
+servings: ""
+---
   Ingredients  
 
   6 8 oz. pakages cream cheese

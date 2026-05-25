@@ -1,9 +1,8 @@
-# Cherry Pistachio Biscotti
-
-`Gifts` `Picnic Fare` `Cookies` `Italian Inspired`
-
-Makes 25-30 biscotti cookies
-
+---
+title: "Cherry Pistachio Biscotti"
+tags: ["Gifts", "Picnic Fare", "Cookies", "Italian Inspired"]
+servings: "Makes 25-30 biscotti cookies"
+---
 **Ingredients:**
 
 12 tablespoons (1 1/2 sticks) unsalted butter, at room temperature

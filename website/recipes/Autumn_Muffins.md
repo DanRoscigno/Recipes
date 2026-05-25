@@ -1,9 +1,8 @@
-# Autumn Muffins
-
-`Breads` `Fall`
-
-Makes 12
-
+---
+title: "Autumn Muffins"
+tags: ["Breads", "Fall"]
+servings: "Makes 12"
+---
 **Ingredients:**
 
 - ½ cup brown sugar

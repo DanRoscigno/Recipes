@@ -1,9 +1,8 @@
-# Fresh Corn Muffins
-
-`Breads` `Summer`
-
-Makes 18-24 regular sized muffins
-
+---
+title: "Fresh Corn Muffins"
+tags: ["Breads", "Summer"]
+servings: "Makes 18-24 regular sized muffins"
+---
 **Ingredients:**
 
 2 cups white cornmeal

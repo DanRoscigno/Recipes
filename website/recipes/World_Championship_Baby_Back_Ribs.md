@@ -1,7 +1,8 @@
-# World Championship Baby Back Ribs
-
-`Main Meal` `American`
-
+---
+title: "World Championship Baby Back Ribs"
+tags: ["Main Meal", "American"]
+servings: ""
+---
 Servings 6-12
 
 **Ingredients:**

@@ -1,9 +1,8 @@
-# Lecho (Danuta Wojnar)
-
-`Main Meal` `Soups` `Kim Acceptable`
-
- 
-
+---
+title: "Lecho (Danuta Wojnar)"
+tags: ["Main Meal", "Soups", "Kim Acceptable"]
+servings: ""
+---
   **Ingredients**  
 
   1 large zucchini divided by half:

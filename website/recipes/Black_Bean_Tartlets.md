@@ -1,9 +1,8 @@
-# Black Bean Tartlets
-
-`Picnic Fare` `Appetizers` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
-Makes 32 tartlets
-
+---
+title: "Black Bean Tartlets"
+tags: ["Picnic Fare", "Appetizers", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: "Makes 32 tartlets"
+---
 **Ingredients:**
 
 _Chili-Cheese Crust:_

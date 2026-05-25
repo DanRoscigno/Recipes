@@ -1,9 +1,8 @@
-# Pear Apple Cheddar Caramelized Onion Grilled Cheese Bagel Sandwich
-
-`Want to make` `Breakfasts` `Kim Acceptable`
-
-Makes 2 Sandwiches 
-
+---
+title: "Pear Apple Cheddar Caramelized Onion Grilled Cheese Bagel Sandwich"
+tags: ["Want to make", "Breakfasts", "Kim Acceptable"]
+servings: "Makes 2 Sandwiches"
+---
 ### Ingredients:
 
 - [3 tablespoons olive oil](https://amzn.to/2REC7OB)

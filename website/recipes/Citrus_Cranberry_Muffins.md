@@ -1,10 +1,9 @@
-# Citrus Cranberry Muffins
-
-`Gifts` `Breads` `Fall`
-
-Servings: 6 jumbo or 12 regular size muffins 
-
-**Ingredients:**  
+---
+title: "Citrus Cranberry Muffins"
+tags: ["Gifts", "Breads", "Fall"]
+servings: "Servings: 6 jumbo or 12 regular size muffins"
+---
+**Ingredients:**ï¿½ 
 
 2 cups all-purpose flour
 
@@ -30,5 +29,5 @@ Either 1/4 butter (melted) or vegetable oil
 
 **Directions:**
 
-Sift flour, sugar, baking powder, salt and baking soda into a large bowl. Mix butter/veg oil, egg, orange/lemon peel, and orange/lemon juice together. Begin to stir into dry mixture, when almost all incorporated add chopped cranberries and only mix enough to get incorporated. Fill muffin pan 2/3 full. Bake at 350 degrees for about 25-35 mins depending on pan chosen and size of muffins. Make sure they are golden brown!  
+Sift flour, sugar, baking powder, salt and baking soda into a large bowl. Mix butter/veg oil, egg, orange/lemon peel, and orange/lemon juice together. Begin to stir into dry mixture, when almost all incorporated add chopped cranberries and only mix enough to get incorporated. Fill muffin pan 2/3 full. Bake at 350 degrees for about 25-35 mins depending on pan chosen and size of muffins. Make sure they are golden brown!ï¿½ 
 

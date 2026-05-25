@@ -1,9 +1,8 @@
-# CHICKEN HARVEST SALAD
-
-`Salads` `Want to make` `Fall`
-
-Makes 4 servings
-
+---
+title: "CHICKEN HARVEST SALAD"
+tags: ["Salads", "Want to make", "Fall"]
+servings: "Makes 4 servings"
+---
 **INGREDIENTS:**
 
 _Salad_

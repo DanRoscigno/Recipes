@@ -1,9 +1,8 @@
-# Vanilla or Chocolate Pudding
-
-`Desserts`
-
-Makes 6 servings
-
+---
+title: "Vanilla or Chocolate Pudding"
+tags: ["Desserts"]
+servings: "Makes 6 servings"
+---
 **Ingredients:**
 
 3/4 cup sugar 

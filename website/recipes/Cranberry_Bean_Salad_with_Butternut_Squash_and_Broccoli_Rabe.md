@@ -1,9 +1,8 @@
-# Cranberry Bean Salad with Butternut Squash and Broccoli Rabe
-
-`Salads` `Want to make` `Side dish`
-
-Serves 10-12
-
+---
+title: "Cranberry Bean Salad with Butternut Squash and Broccoli Rabe"
+tags: ["Salads", "Want to make", "Side dish"]
+servings: "Serves 10-12"
+---
 **Ingredients:**
 
 - 1 onion 

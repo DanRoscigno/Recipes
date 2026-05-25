@@ -1,9 +1,8 @@
-# Mushroom Puffs
-
-`Want to make` `Appetizers` `Kim Acceptable`
-
-MAKES about 50
-
+---
+title: "Mushroom Puffs"
+tags: ["Want to make", "Appetizers", "Kim Acceptable"]
+servings: "MAKES about 50"
+---
 ##### **Ingredients:**
 
 - **1/4 cup** unsalted butter

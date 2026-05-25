@@ -1,9 +1,8 @@
-# Chicken Noodle Soup with Tomatoes, Cumin and Cilantro
-
-`Soups` `Kim Acceptable`
-
-Servings: 4 main course servings        
-
+---
+title: "Chicken Noodle Soup with Tomatoes, Cumin and Cilantro"
+tags: ["Soups", "Kim Acceptable"]
+servings: "Servings: 4 main course servings"
+---
 **Ingredients:**      
 
 2 Tbsp Olive Oil

@@ -1,7 +1,8 @@
-# Dixie General’s Cake
-
-`Desserts` `Summer` `Spring`
-
+---
+title: "Dixie General’s Cake"
+tags: ["Desserts", "Summer", "Spring"]
+servings: ""
+---
 **Ingredients:**
 
 _Cake:_

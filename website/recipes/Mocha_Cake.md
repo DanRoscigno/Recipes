@@ -1,9 +1,8 @@
-# Mocha Cake
-
-`Desserts` `Want to make`
-
-Serves ~ 16
-
+---
+title: "Mocha Cake"
+tags: ["Desserts", "Want to make"]
+servings: "Serves ~ 16"
+---
 ## **Ingredients:**
 
 _Cake:_

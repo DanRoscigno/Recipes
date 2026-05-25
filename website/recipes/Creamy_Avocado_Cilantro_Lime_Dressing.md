@@ -1,7 +1,8 @@
-# Creamy Avocado Cilantro Lime Dressing
-
-`Mexican/Cuban/Latin Inspired` `Salad Dressings`
-
+---
+title: "Creamy Avocado Cilantro Lime Dressing"
+tags: ["Mexican/Cuban/Latin Inspired", "Salad Dressings"]
+servings: ""
+---
 ### Ingredients
 
 - 1 Avocado

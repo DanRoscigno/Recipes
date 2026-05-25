@@ -1,8 +1,8 @@
-# Roasted Squash With Turmeric-Ginger Chickpeas
-
-`Want to make` `Kim Acceptable` `Quick` `Middle Eastern/Moroccan Inspired`
-
-Serves 4
+---
+title: "Roasted Squash With Turmeric-Ginger Chickpeas"
+tags: ["Want to make", "Kim Acceptable", "Quick", "Middle Eastern/Moroccan Inspired"]
+servings: "Serves 4"
+---
 ![Image_20240414_120802.jpeg](image/Image_20240414_120802.jpeg)
 
 ---

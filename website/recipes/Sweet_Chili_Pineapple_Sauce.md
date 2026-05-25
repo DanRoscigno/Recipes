@@ -1,7 +1,8 @@
-# Sweet Chili Pineapple Sauce
-
-`Condiments` `Island Inspired`
-
+---
+title: "Sweet Chili Pineapple Sauce"
+tags: ["Condiments", "Island Inspired"]
+servings: ""
+---
 ![IMG_0601.WEBP](image/IMG_0601.WEBP)
 
 Makes about 1.5 cups

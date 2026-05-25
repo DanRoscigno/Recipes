@@ -1,7 +1,8 @@
-# Rainbow Rice Pilaf
-
-`Side dish`
-
+---
+title: "Rainbow Rice Pilaf"
+tags: ["Side dish"]
+servings: ""
+---
 **Ingredients:**
 
 2 tablespoons olive oil

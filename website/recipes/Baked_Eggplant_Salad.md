@@ -1,9 +1,8 @@
-# Baked Eggplant Salad
-
-`Salads` `Side dish` `Kim Acceptable` `Italian Inspired`
-
-Makes 4 servings
-
+---
+title: "Baked Eggplant Salad"
+tags: ["Salads", "Side dish", "Kim Acceptable", "Italian Inspired"]
+servings: "Makes 4 servings"
+---
 **Ingredients:**
 
 _Eggplant:_

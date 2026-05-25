@@ -1,9 +1,8 @@
-# Edamame and Arugula Soup
-
-`Soups` `Kim Acceptable`
-
- 
-
+---
+title: "Edamame and Arugula Soup"
+tags: ["Soups", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   1 tbsp olive oil

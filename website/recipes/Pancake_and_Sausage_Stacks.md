@@ -1,7 +1,8 @@
-# Pancake and Sausage Stacks
-
-`Breakfasts`
-
+---
+title: "Pancake and Sausage Stacks"
+tags: ["Breakfasts"]
+servings: ""
+---
 **Ingredients:**
 
 _Sausages:_

@@ -1,8 +1,9 @@
-# Potato, Leek and Fennel Soup
-
-`Soups` `Kim Acceptable`
-
-**Ingredients:**  
+---
+title: "Potato, Leek and Fennel Soup"
+tags: ["Soups", "Kim Acceptable"]
+servings: ""
+---
+**Ingredients:**ï¿½ 
 
 2 tablespoons (1/4 stick) butter
 
@@ -14,7 +15,7 @@
 
 4 -14 1/2-ounce cans low-salt chicken broth (58 ozs)
 
-2 pounds red-skinned potatoes, peeled, cut into 1/2-inch pieces (about 4 cups)  
+2 pounds red-skinned potatoes, peeled, cut into 1/2-inch pieces (about 4 cups)ï¿½ 
 
 1 Tbsp dried lemon grass
 
@@ -24,7 +25,7 @@
 
 1 Tbsp dried thyme leaves
 
-**Directions:**  
+**Directions:**ï¿½ 
 
  1. Melt butter in heavy large pot over medium-high heat. Add leeks and fennel and sautÃ© until leeks are translucent, add salt and cook about 7 minutes. Add broth, potatoes, and herbs and bring to boil. Reduce heat to medium-low. Simmer soup until potatoes are very tender, about 25 minutes. Working in batches, purÃ©e soup in blender. Return to same pot. Rewarm soup if necessary. Season with salt and pepper. Ladle soup into bowls; garnish with reserved fennel fronds and serve. 
 

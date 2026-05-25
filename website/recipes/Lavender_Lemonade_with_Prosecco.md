@@ -1,9 +1,8 @@
-# Lavender Lemonade with Prosecco
-
-`Drinks`
-
-Makes 6-8 drinks
-
+---
+title: "Lavender Lemonade with Prosecco"
+tags: ["Drinks"]
+servings: "Makes 6-8 drinks"
+---
 ### **Ingredients:**
 
 1 cup sugar

@@ -1,9 +1,8 @@
-# Olive Oil Strawberry Shortcake
-
-`Desserts` `Want to make` `Picnic Fare` `Summer` `Spring` `Mediterranean Inspired`
-
-Serves 6-8
-
+---
+title: "Olive Oil Strawberry Shortcake"
+tags: ["Desserts", "Want to make", "Picnic Fare", "Summer", "Spring", "Mediterranean Inspired"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 1 pint strawberries, stemmed and halved

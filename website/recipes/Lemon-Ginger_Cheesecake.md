@@ -1,7 +1,8 @@
-# Lemon-Ginger Cheesecake
-
-`Cheesecakes`
-
+---
+title: "Lemon-Ginger Cheesecake"
+tags: ["Cheesecakes"]
+servings: ""
+---
 ![Lemon-Ginger Cheesecake](http://www.epicurious.com/images/recipesmenus/2003/2003_june/108255_116.jpg)        Ingredients       
 
          2 cups finely ground gingersnap cookies (about 9 ounces)

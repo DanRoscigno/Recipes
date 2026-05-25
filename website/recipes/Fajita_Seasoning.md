@@ -1,7 +1,8 @@
-# Fajita Seasoning
-
-`Dry Rubs`
-
+---
+title: "Fajita Seasoning"
+tags: ["Dry Rubs"]
+servings: ""
+---
 ### **Ingredients:**
 
 2 tsp chili powder

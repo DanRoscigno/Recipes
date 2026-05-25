@@ -1,9 +1,8 @@
-# Zucchini Lime Muffins
-
-`Picnic Fare` `Breads` `Camping`
-
-Makes 12 regular and 6 jumbo sized muffins
-
+---
+title: "Zucchini Lime Muffins"
+tags: ["Picnic Fare", "Breads", "Camping"]
+servings: "Makes 12 regular and 6 jumbo sized muffins"
+---
 **Ingredients:**
 
 _Muffins:_

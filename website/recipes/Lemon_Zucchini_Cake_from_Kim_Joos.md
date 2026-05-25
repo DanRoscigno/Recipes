@@ -1,7 +1,8 @@
-# Lemon Zucchini Cake (Kim Joos)
-
-`Breads` `Summer`
-
+---
+title: "Lemon Zucchini Cake (Kim Joos)"
+tags: ["Breads", "Summer"]
+servings: ""
+---
 - 1 1/4 cup granulated sugar
 - 6 tbsp extra virgin olive oil
 - 2 eggs room temperature

@@ -1,12 +1,11 @@
-# Pumpkin Apple Muffins
+---
+title: "Pumpkin Apple Muffins"
+tags: ["Breads", "Fall"]
+servings: "Servings: 6 large muffins or 12 regular sized muffinsï¿½"
+---
+**Ingredients:**ï¿½ 
 
-`Breads` `Fall`
-
-Servings: 6 large muffins or 12 regular sized muffins  
-
-**Ingredients:**  
-
- * 1 2/3  cups  all-purpose flour
+ * 1 2/3ï¿½ cupsï¿½ all-purpose flour
 
  * 1 cup sugar
 

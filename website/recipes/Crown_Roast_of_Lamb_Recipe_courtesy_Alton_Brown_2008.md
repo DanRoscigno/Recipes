@@ -1,9 +1,8 @@
-# Crown Roast of Lamb Recipe courtesy Alton Brown, 2008
-
-`Main Meal` `Special Meal` `Irish/English/Scottish Inspired`
-
- 
-
+---
+title: "Crown Roast of Lamb Recipe courtesy Alton Brown, 2008"
+tags: ["Main Meal", "Special Meal", "Irish/English/Scottish Inspired"]
+servings: ""
+---
   Main ingredient  
 
   Lamb  

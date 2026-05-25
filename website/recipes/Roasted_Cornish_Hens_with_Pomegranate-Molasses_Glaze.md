@@ -1,9 +1,8 @@
-# Roasted Cornish Hens with Pomegranate-Molasses Glaze
-
-`Main Meal` `Kim Acceptable` `Special Meal` `Irish/English/Scottish Inspired`
-
-Makes 2 hens
-
+---
+title: "Roasted Cornish Hens with Pomegranate-Molasses Glaze"
+tags: ["Main Meal", "Kim Acceptable", "Special Meal", "Irish/English/Scottish Inspired"]
+servings: "Makes 2 hens"
+---
 **Ingredients:**
 
 - 1/3 cup pomegranate molasses 

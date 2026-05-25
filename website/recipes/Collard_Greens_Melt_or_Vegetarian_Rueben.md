@@ -1,9 +1,8 @@
-# Collard Greens Melt (Vegetarian Rueben)
-
-`Main Meal` `Want to make` `Kim Acceptable` `American`
-
-Makes 1 sandwich 
-
+---
+title: "Collard Greens Melt (Vegetarian Rueben)"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "American"]
+servings: "Makes 1 sandwich"
+---
 **Ingredients:**
 
 _Collard Greens:_

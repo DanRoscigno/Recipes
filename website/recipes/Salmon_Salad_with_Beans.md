@@ -1,9 +1,8 @@
-# Salmon Salad with Beans
-
-`Salads` `Side dish` `Kim Acceptable`
-
- 
-
+---
+title: "Salmon Salad with Beans"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   1/2 pound salmon steak (leftover grilled salmon is fine)

@@ -1,9 +1,8 @@
-# Penne with Chicken, Arugula, Roasted Tomatoes, and Feta
-
-`Salads` `Main Meal` `Side dish` `Quick` `Italian Inspired`
-
-Servings: 4
-
+---
+title: "Penne with Chicken, Arugula, Roasted Tomatoes, and Feta"
+tags: ["Salads", "Main Meal", "Side dish", "Quick", "Italian Inspired"]
+servings: "Servings: 4"
+---
 **Ingredients**:
 
 3 - 12-ounce bags cherry tomatoes

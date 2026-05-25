@@ -1,7 +1,8 @@
-# Almond Rice
-
-`Side dish`
-
+---
+title: "Almond Rice"
+tags: ["Side dish"]
+servings: ""
+---
 #### Servings: 4 
 
 #### **INGREDIENTS**

@@ -1,7 +1,8 @@
-# Susan’s Potato Salad
-
-`Picnic Fare` `Side dish`
-
+---
+title: "Susan’s Potato Salad"
+tags: ["Picnic Fare", "Side dish"]
+servings: ""
+---
 **Ingredients:**
 
 5lbs red potatoes, halved or quartered

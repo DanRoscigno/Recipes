@@ -1,7 +1,8 @@
-# Pumpkin Apple Dog Biscuits
-
-`Dog`
-
+---
+title: "Pumpkin Apple Dog Biscuits"
+tags: ["Dog"]
+servings: ""
+---
 #### **INGREDIENTS:**
 
 - 4 – 4.5 cups oatmeal plus additional

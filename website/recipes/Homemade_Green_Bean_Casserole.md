@@ -1,7 +1,8 @@
-# Homemade Green Bean Casserole
-
-`Want to make` `Thanksgiving` `Side dish` `Kim Acceptable` `American`
-
+---
+title: "Homemade Green Bean Casserole"
+tags: ["Want to make", "Thanksgiving", "Side dish", "Kim Acceptable", "American"]
+servings: ""
+---
 (From Joanna Gaines)
 ![Snapshot.jpg](image/Snapshot.jpg)
 

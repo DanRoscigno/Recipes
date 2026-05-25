@@ -1,9 +1,8 @@
-# Glazed Lemon Blueberry Muffins
-
-`Breads`
-
-Makes 6 jumbo muffins or 12 traditional sized muffins
-
+---
+title: "Glazed Lemon Blueberry Muffins"
+tags: ["Breads"]
+servings: "Makes 6 jumbo muffins or 12 traditional sized muffins"
+---
 **Ingredients:**
 
 _Muffins:_

@@ -1,9 +1,8 @@
-# Roasted Mushrooms Stuffed with Feta, Spinach and Bacon
-
-`Want to make` `Appetizers`
-
-Makes ~ 48
-
+---
+title: "Roasted Mushrooms Stuffed with Feta, Spinach and Bacon"
+tags: ["Want to make", "Appetizers"]
+servings: "Makes ~ 48"
+---
 ## INGREDIENTS
 
     - 8 ounces bacon slices

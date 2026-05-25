@@ -1,9 +1,8 @@
-# Farmers' Market Pasta Salad
-
-`Main Meal` `Side dish` `Kim Acceptable` `American`
-
-Serves 8-10
-
+---
+title: "Farmers' Market Pasta Salad"
+tags: ["Main Meal", "Side dish", "Kim Acceptable", "American"]
+servings: "Serves 8-10"
+---
 **Ingredients:**
 
 - 2 cups halved baby heirloom tomatoes

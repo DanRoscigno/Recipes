@@ -1,7 +1,8 @@
-# Double-Tomato Pasta Salad
-
-`Want to make` `Side dish` `Kim Acceptable` `Italian Inspired`
-
+---
+title: "Double-Tomato Pasta Salad"
+tags: ["Want to make", "Side dish", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
 ### Makes 4-6 serving
 
 ### INGREDIENTS:

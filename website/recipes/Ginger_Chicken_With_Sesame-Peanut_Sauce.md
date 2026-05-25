@@ -1,9 +1,8 @@
-# Ginger Chicken With Sesame-Peanut Sauce
-
-`Main Meal` `Want to make` `Kim Acceptable` `Asian Inspired` `Island Inspired`
-
-Yield: 4 to 6 servings
-
+---
+title: "Ginger Chicken With Sesame-Peanut Sauce"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "Asian Inspired", "Island Inspired"]
+servings: "Yield: 4 to 6 servings"
+---
 **INGREDIENTS:**
 
 _For the Chicken:_

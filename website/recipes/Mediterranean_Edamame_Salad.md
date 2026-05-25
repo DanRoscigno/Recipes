@@ -1,9 +1,8 @@
-# Mediterranean Edamame Salad
-
-`Salads` `Main Meal` `Want to make` `Side dish` `Kim Acceptable` `Mediterranean Inspired`
-
-Servings: 4  
-
+---
+title: "Mediterranean Edamame Salad"
+tags: ["Salads", "Main Meal", "Want to make", "Side dish", "Kim Acceptable", "Mediterranean Inspired"]
+servings: "Servings: 4ï¿½"
+---
 **Ingredients:**
 
  2 cups blanched shelled edamame
@@ -28,7 +27,7 @@ Servings: 4 
 
  salt and pepper
 
-**Directions:**  
+**Directions:**ï¿½ 
 
 Cook edamame according to package and let cool.
 

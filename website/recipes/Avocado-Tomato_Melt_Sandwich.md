@@ -1,9 +1,8 @@
-# Avocado-Tomato Melt Sandwich
-
-`Main Meal` `Sandwiches` `Kim Acceptable` `Italian Inspired`
-
- 
-
+---
+title: "Avocado-Tomato Melt Sandwich"
+tags: ["Main Meal", "Sandwiches", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
   Ingredients  
 
   Ingredients:

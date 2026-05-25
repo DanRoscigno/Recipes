@@ -1,9 +1,8 @@
-# Healthy Apple-Walnut Muffins
-
-`Gifts` `Breads` `Fall`
-
- 
-
+---
+title: "Healthy Apple-Walnut Muffins"
+tags: ["Gifts", "Breads", "Fall"]
+servings: ""
+---
   Ingredients  
 
   

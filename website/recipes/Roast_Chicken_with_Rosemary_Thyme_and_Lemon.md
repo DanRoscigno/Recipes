@@ -1,9 +1,8 @@
-# Roast Chicken with Rosemary, Thyme and Lemon
-
-`Main Meal` `French Inspired`
-
- 
-
+---
+title: "Roast Chicken with Rosemary, Thyme and Lemon"
+tags: ["Main Meal", "French Inspired"]
+servings: ""
+---
   Ingredients  
 
   1/4 c. olive oil

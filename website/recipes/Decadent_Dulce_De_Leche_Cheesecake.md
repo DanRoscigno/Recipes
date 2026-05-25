@@ -1,9 +1,8 @@
-# Decadent Dulce De Leche Cheesecake
-
-`Desserts` `Cheesecakes`
-
-Servings: 12-15                   
-
+---
+title: "Decadent Dulce De Leche Cheesecake"
+tags: ["Desserts", "Cheesecakes"]
+servings: "Servings: 12-15"
+---
 **Ingredients:**
 
  _Crust:_

@@ -1,9 +1,8 @@
-# Pumpkin Coffee Cake
-
-`Gifts` `Breads` `Fall`
-
- 
-
+---
+title: "Pumpkin Coffee Cake"
+tags: ["Gifts", "Breads", "Fall"]
+servings: ""
+---
   Ingredients  
 
   1/2 cup butter

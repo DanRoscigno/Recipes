@@ -1,9 +1,8 @@
-# Edamame and Pea Salad with Sweet Onions and Goat Cheese
-
-`Salads` `Side dish` `Kim Acceptable`
-
-Servings:    4      
-
+---
+title: "Edamame and Pea Salad with Sweet Onions and Goat Cheese"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: "Servings:    4"
+---
 **Ingredients:**
 
 ¼ C olive oil

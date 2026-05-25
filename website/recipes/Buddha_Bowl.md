@@ -1,9 +1,8 @@
-# Buddha Bowl
-
-`Main Meal` `Kim Acceptable` `Asian Inspired`
-
-Makes 4 bowls
-
+---
+title: "Buddha Bowl"
+tags: ["Main Meal", "Kim Acceptable", "Asian Inspired"]
+servings: "Makes 4 bowls"
+---
 **Ingredients:**
 
 3 cups chicken broth (I used a fresh chicken broth that I further flavored by simmering just before using with celery, carrots, onions, lemon zest, and fresh parsley. I make chicken broth ahead and then use for various dishes when needed).

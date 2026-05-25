@@ -1,7 +1,8 @@
-# Lemon Artichoke Pesto
-
-`Condiments`
-
+---
+title: "Lemon Artichoke Pesto"
+tags: ["Condiments"]
+servings: ""
+---
 Use this pesto as a dip, mixed with hummus or as a bruschetta topping.
 
 ## It also makes a flavorful topping for fish or chicken, in salads, pasta, sandwiches and more!

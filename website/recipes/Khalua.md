@@ -1,9 +1,8 @@
-# Khalua
-
-`Drinks` `Gifts` `Mexican/Cuban/Latin Inspired`
-
- 
-
+---
+title: "Khalua"
+tags: ["Drinks", "Gifts", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
   Ingredients  
 
   Step 1:

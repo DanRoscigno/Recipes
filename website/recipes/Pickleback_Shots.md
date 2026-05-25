@@ -1,9 +1,8 @@
-# Pickleback Shots
-
-`Drinks`
-
-Makes 8
-
+---
+title: "Pickleback Shots"
+tags: ["Drinks"]
+servings: "Makes 8"
+---
 ### **Ingredients:**
 
 4 thick dill pickles

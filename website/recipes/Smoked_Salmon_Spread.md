@@ -1,7 +1,8 @@
-# Smoked Salmon Spread
-
-`Want to make` `Breakfasts` `Appetizers` `Kim Acceptable`
-
+---
+title: "Smoked Salmon Spread"
+tags: ["Want to make", "Breakfasts", "Appetizers", "Kim Acceptable"]
+servings: ""
+---
 **Ingredients:**
 
 8 ounces smoked salmon, roughly chopped

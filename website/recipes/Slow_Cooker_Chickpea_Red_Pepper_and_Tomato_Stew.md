@@ -1,9 +1,8 @@
-# Slow Cooker Chickpea, Red Pepper and Tomato Stew
-
-`Main Meal` `Kim Acceptable` `Mediterranean Inspired`
-
-Makes 6-8 servings
-
+---
+title: "Slow Cooker Chickpea, Red Pepper and Tomato Stew"
+tags: ["Main Meal", "Kim Acceptable", "Mediterranean Inspired"]
+servings: "Makes 6-8 servings"
+---
 **INGREDIENTS:**
 
 - 3 (15-ounce) cans chickpeas, with liquid (or about 4 1/2 cups cooked chickpeas and 1 cup cooking liquid)

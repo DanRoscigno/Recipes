@@ -1,10 +1,9 @@
-# Depths-of-Fall Butternut Squash Pie
-
-`Desserts` `Thanksgiving` `Kim Acceptable` `Fall`
-
-Servings: 8
-
-**Ingredients:**  
+---
+title: "Depths-of-Fall Butternut Squash Pie"
+tags: ["Desserts", "Thanksgiving", "Kim Acceptable", "Fall"]
+servings: "Servings: 8"
+---
+**Ingredients:**ï¿½ 
 
  - 1-1/4 pounds (about 2 cups) cubed (1-inch) peeled ready-to-cook butternut squash
 
@@ -29,7 +28,7 @@ Servings: 8
  - Sugar, for dusting 
 
 
-**Directions:**  
+**Directions:**ï¿½ 
 
 Cook the squash in a microwave oven for 6 minutes, or until almost cooked through. (Alternatively, you can steam the squash.) Pat the squash dry and toss it into a large bowl.
 

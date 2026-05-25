@@ -1,9 +1,8 @@
-# Thai Stir-Fry Beef in Oyster Sauce
-
-`Main Meal` `Quick` `Asian Inspired`
-
-Serves: 4
-
+---
+title: "Thai Stir-Fry Beef in Oyster Sauce"
+tags: ["Main Meal", "Quick", "Asian Inspired"]
+servings: "Serves: 4"
+---
 **Ingredients:**
 
 1 pound sirloin steak

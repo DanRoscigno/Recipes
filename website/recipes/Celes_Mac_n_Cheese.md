@@ -1,7 +1,8 @@
-# Cele’s Mac n Cheese
-
-`Main Meal` `Side dish` `Kim Acceptable` `American`
-
+---
+title: "Cele’s Mac n Cheese"
+tags: ["Main Meal", "Side dish", "Kim Acceptable", "American"]
+servings: ""
+---
 ~24 oz sharp cheddar cut into 1/2” cubes
 
 8 oz provolone 

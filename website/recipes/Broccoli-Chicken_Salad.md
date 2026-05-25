@@ -1,9 +1,8 @@
-# Broccoli-Chicken Salad
-
-`Salads` `Sandwiches` `Picnic Fare` `Side dish`
-
- 
-
+---
+title: "Broccoli-Chicken Salad"
+tags: ["Salads", "Sandwiches", "Picnic Fare", "Side dish"]
+servings: ""
+---
   Ingredients  
 
   * 4 skinned and boned chicken breast halves

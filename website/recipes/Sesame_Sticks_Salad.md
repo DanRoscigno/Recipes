@@ -1,9 +1,8 @@
-# Sesame Sticks Salad
-
-`Salads` `Main Meal` `Picnic Fare` `Side dish` `Asian Inspired`
-
- 
-
+---
+title: "Sesame Sticks Salad"
+tags: ["Salads", "Main Meal", "Picnic Fare", "Side dish", "Asian Inspired"]
+servings: ""
+---
   Ingredients  
 
   Head of Romaine lettuce

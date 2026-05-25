@@ -1,9 +1,8 @@
-# Roast Loin of Pork with Sage and Onion Stuffing Balls
-
-`Main Meal` `Special Meal` `Irish/English/Scottish Inspired`
-
-Serves 6-8 
-
+---
+title: "Roast Loin of Pork with Sage and Onion Stuffing Balls"
+tags: ["Main Meal", "Special Meal", "Irish/English/Scottish Inspired"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 3 lbs. loin pork, boned and scored--rub salt well into skin

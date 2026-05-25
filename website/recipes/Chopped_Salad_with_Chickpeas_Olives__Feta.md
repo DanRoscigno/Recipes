@@ -1,7 +1,8 @@
-# Chopped Salad with Chickpeas, Olives & Feta
-
-`Salads` `Picnic Fare` `Kim Acceptable` `Mediterranean Inspired`
-
+---
+title: "Chopped Salad with Chickpeas, Olives & Feta"
+tags: ["Salads", "Picnic Fare", "Kim Acceptable", "Mediterranean Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 - 2 tablespoons extra-virgin olive oil

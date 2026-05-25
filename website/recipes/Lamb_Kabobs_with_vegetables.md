@@ -1,9 +1,8 @@
-# Lamb Kabobs with vegetables
-
-`Main Meal` `Picnic Fare` `Mediterranean Inspired`
-
-Servings: 6  
-
+---
+title: "Lamb Kabobs with vegetables"
+tags: ["Main Meal", "Picnic Fare", "Mediterranean Inspired"]
+servings: "Servings: 6ï¿½"
+---
 **Ingredients:**
 
 1/2 cup vegetable oil
@@ -32,11 +31,11 @@ Servings: 6 
 
 2 summer squash, cut in chunks
 
-1 small eggplant or 6 baby eggplant, cubed  
+1 small eggplant or 6 baby eggplant, cubedï¿½ 
 
-**Directions:**  
+**Directions:**ï¿½ 
 
- 1) Combine oil, lemon juice, oregano, marjoram, parsley, and garlic in a large deep bowl.  Stir in lamb; cover; let marinate overnight in refrigerator.
+ 1) Combine oil, lemon juice, oregano, marjoram, parsley, and garlic in a large deep bowl.ï¿½ Stir in lamb; cover; let marinate overnight in refrigerator.
 
-2) Thread lamb on 6 metal skewers.  Grill or broil 6 inches from heat for 15 minutes turning and basting frequently with marinade.  Thread vegetables on separate skewers and continue grilling lamb and vegetables turning and basting for 15 minutes longer or until vegetables are tender and meat is done.
+2) Thread lamb on 6 metal skewers.ï¿½ Grill or broil 6 inches from heat for 15 minutes turning and basting frequently with marinade.ï¿½ Thread vegetables on separate skewers and continue grilling lamb and vegetables turning and basting for 15 minutes longer or until vegetables are tender and meat is done.
 

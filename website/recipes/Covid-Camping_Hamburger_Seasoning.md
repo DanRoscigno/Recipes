@@ -1,5 +1,8 @@
-# Covid-Camping Hamburger Seasoning
-
+---
+title: "Covid-Camping Hamburger Seasoning"
+tags: []
+servings: ""
+---
 ### **Ingredients:**
 
 #### _For the dry mix:_

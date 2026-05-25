@@ -1,7 +1,8 @@
-# Ginger Ice Cream
-
-`Ice Creams`
-
+---
+title: "Ginger Ice Cream"
+tags: ["Ice Creams"]
+servings: ""
+---
 **Ingredients**       
 
 4 large egg yolks

@@ -1,9 +1,8 @@
-# Ricotta and Orange Blintzes with Strawberry Sauce
-
-`Breakfasts` `Kim Acceptable`
-
-Servings: 4  
-
+---
+title: "Ricotta and Orange Blintzes with Strawberry Sauce"
+tags: ["Breakfasts", "Kim Acceptable"]
+servings: "Servings: 4"
+---
 **Ingredients:**   
 
 _Crepe batter:_ 

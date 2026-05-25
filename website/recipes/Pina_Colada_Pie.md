@@ -1,9 +1,8 @@
-# Pina Colada Pie
-
-`Desserts` `Want to make` `Island Inspired`
-
-Serves 6-8
-
+---
+title: "Pina Colada Pie"
+tags: ["Desserts", "Want to make", "Island Inspired"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 _Crust:_

@@ -1,9 +1,8 @@
-# Chicken Cacciatore
-
-`Main Meal` `Italian Inspired`
-
-Servings: 4      
-
+---
+title: "Chicken Cacciatore"
+tags: ["Main Meal", "Italian Inspired"]
+servings: "Servings: 4"
+---
   **Ingredients:**     
 
  *  2 to 3 tablespoons olive oil

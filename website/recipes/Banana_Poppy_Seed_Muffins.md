@@ -1,9 +1,8 @@
-# Banana Poppy Seed Muffins
-
-`Breads`
-
-Makes 12
-
+---
+title: "Banana Poppy Seed Muffins"
+tags: ["Breads"]
+servings: "Makes 12"
+---
 **Ingredients:**
 
 - 2 cups all-purpose flour

@@ -1,7 +1,8 @@
-# Top Pops
-
-`Want to make` `Kid’s Delight` `Snack` `Summer`
-
+---
+title: "Top Pops"
+tags: ["Want to make", "Kid’s Delight", "Snack", "Summer"]
+servings: ""
+---
 **Ingredients:**
 
 1 apple, peeled, cored, chopped

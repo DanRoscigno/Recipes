@@ -1,9 +1,8 @@
-# Classic Chocolate Ice Cream Sandwich
-
-`Want to make` `Kid’s Delight`
-
-Makes 6
-
+---
+title: "Classic Chocolate Ice Cream Sandwich"
+tags: ["Want to make", "Kid’s Delight"]
+servings: "Makes 6"
+---
 **Ingredients:**
 
 - vegetable oil cooking spray 

@@ -1,9 +1,8 @@
-# Tahini Cinnamon Sweet Potatoes with Toasted Meringue
-
-`Side dish` `Fall`
-
-Makes 8 servings
-
+---
+title: "Tahini Cinnamon Sweet Potatoes with Toasted Meringue"
+tags: ["Side dish", "Fall"]
+servings: "Makes 8 servings"
+---
 **Ingredients:**
 
 5 sweet potatoes (about 12 ounce or 340 grams each)

@@ -1,9 +1,8 @@
-# Celia’s Grilled Mushroom Panini
-
-`Sandwiches` `Kim Acceptable`
-
-Makes 2 sandwiches
-
+---
+title: "Celia’s Grilled Mushroom Panini"
+tags: ["Sandwiches", "Kim Acceptable"]
+servings: "Makes 2 sandwiches"
+---
 **Ingredients:**
 
 Truffle spread (stonewall kitchen)

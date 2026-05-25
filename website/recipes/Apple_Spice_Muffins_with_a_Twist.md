@@ -1,9 +1,8 @@
-# Apple Spice Muffins with a Twist!
-
-`Breads` `Fall`
-
-Makes 12 muffins
-
+---
+title: "Apple Spice Muffins with a Twist!"
+tags: ["Breads", "Fall"]
+servings: "Makes 12 muffins"
+---
 **INGREDIENTS**
 
 Muffins

@@ -1,10 +1,9 @@
-# Lively Lemon Tossed Salad
-
-`Salads` `Want to make` `Kim Acceptable`
-
-Servings: 4  
-
-**Ingredients:**  
+---
+title: "Lively Lemon Tossed Salad"
+tags: ["Salads", "Want to make", "Kim Acceptable"]
+servings: "Servings: 4ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 1/4 Fresh Preserved Lemon 
 
@@ -34,7 +33,7 @@ Servings: 4 
 
 Mixed salad greens 
 
-**Directions:**  
+**Directions:**ï¿½ 
 
  Rinse preserved lemon; remove pulp, and discard. Cut rind into 1/4-inch cubes.
 

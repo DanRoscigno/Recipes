@@ -1,7 +1,8 @@
-# Greek Chicken with Lemon and Feta
-
-`Main Meal` `Kim Acceptable` `Mediterranean Inspired`
-
+---
+title: "Greek Chicken with Lemon and Feta"
+tags: ["Main Meal", "Kim Acceptable", "Mediterranean Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 Zest and juice of 1 lemon

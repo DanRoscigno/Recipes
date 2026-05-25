@@ -1,10 +1,9 @@
-# World's Best Hot Fudge Sauce
-
-`Condiments`
-
-Servings: 1 cup  
-
-**Ingredients:**  
+---
+title: "World's Best Hot Fudge Sauce"
+tags: ["Condiments"]
+servings: "Servings: 1 cupï¿½"
+---
+**Ingredients:**ï¿½ 
 
 1/2 heavy cream
 

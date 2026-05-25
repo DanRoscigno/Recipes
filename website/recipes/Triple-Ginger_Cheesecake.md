@@ -1,9 +1,8 @@
-# Triple-Ginger Cheesecake
-
-`Cheesecakes` `Want to make`
-
-Servings: 10-12
-
+---
+title: "Triple-Ginger Cheesecake"
+tags: ["Cheesecakes", "Want to make"]
+servings: "Servings: 10-12"
+---
 **Ingredients:**
 
 _For the crust:_ 

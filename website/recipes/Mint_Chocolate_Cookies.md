@@ -1,9 +1,8 @@
-# Mint Chocolate Cookies
-
-`Gifts` `Cookies`
-
-Servings: 48 cookies      
-
+---
+title: "Mint Chocolate Cookies"
+tags: ["Gifts", "Cookies"]
+servings: "Servings: 48 cookies"
+---
 **Ingredients:**
 
 1 cup butter, softened

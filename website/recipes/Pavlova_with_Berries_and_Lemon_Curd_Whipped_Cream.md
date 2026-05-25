@@ -1,7 +1,8 @@
-# Pavlova with Berries and Lemon Curd Whipped Cream
-
-`Desserts` `Want to make` `Gluten Free` `Italian Inspired`
-
+---
+title: "Pavlova with Berries and Lemon Curd Whipped Cream"
+tags: ["Desserts", "Want to make", "Gluten Free", "Italian Inspired"]
+servings: ""
+---
 ### Makes ~6 
 
 ### **Ingredients:**

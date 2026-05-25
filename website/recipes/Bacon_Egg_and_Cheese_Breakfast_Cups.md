@@ -1,9 +1,8 @@
-# Bacon Egg and Cheese Breakfast Cups
-
-`Want to make` `Breakfasts` `Camping`
-
-Makes 12 cups (One serving is two egg cups)
-
+---
+title: "Bacon Egg and Cheese Breakfast Cups"
+tags: ["Want to make", "Breakfasts", "Camping"]
+servings: "Makes 12 cups (One serving is two egg cups)"
+---
 **Ingredients:**
 
 - 6 strips of bacon

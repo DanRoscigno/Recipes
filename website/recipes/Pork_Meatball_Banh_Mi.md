@@ -1,9 +1,8 @@
-# Pork Meatball Banh Mi
-
-`Main Meal` `Asian Inspired`
-
-Makes 4 sandwiches
-
+---
+title: "Pork Meatball Banh Mi"
+tags: ["Main Meal", "Asian Inspired"]
+servings: "Makes 4 sandwiches"
+---
 **Ingredients:**
 
 _Pickled Vegetables:_

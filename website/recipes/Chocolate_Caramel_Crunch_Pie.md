@@ -1,9 +1,8 @@
-# Chocolate Caramel Crunch Pie
-
-`Desserts` `Gluten Free`
-
-Serves 8
-
+---
+title: "Chocolate Caramel Crunch Pie"
+tags: ["Desserts", "Gluten Free"]
+servings: "Serves 8"
+---
 ### **Ingredients:**
 
 9 whole graham crackers

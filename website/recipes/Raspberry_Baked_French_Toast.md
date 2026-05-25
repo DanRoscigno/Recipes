@@ -1,9 +1,8 @@
-# Raspberry Baked French Toast
-
-`Want to make` `Breakfasts`
-
-Makes 10-12 servings
-
+---
+title: "Raspberry Baked French Toast"
+tags: ["Want to make", "Breakfasts"]
+servings: "Makes 10-12 servings"
+---
 **Ingredients:**
 
 1 tablespoon unsalted butter, at room temperature

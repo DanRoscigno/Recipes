@@ -1,9 +1,8 @@
-# French Salad Dressing
-
-`Salad Dressings`
-
-Makes ~ 4 cups (2 cups in parentheses)
-
+---
+title: "French Salad Dressing"
+tags: ["Salad Dressings"]
+servings: "Makes ~ 4 cups (2 cups in parentheses)"
+---
 **Ingredients:**
 
 - 1 ½ cups vegetable oil (3/4 cup)

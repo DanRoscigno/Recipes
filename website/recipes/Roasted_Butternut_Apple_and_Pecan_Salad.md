@@ -1,9 +1,8 @@
-# Roasted Butternut, Apple, and Pecan Salad
-
-`Salads` `Side dish` `Kim Acceptable`
-
-Servings: 10
-
+---
+title: "Roasted Butternut, Apple, and Pecan Salad"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: "Servings: 10"
+---
 **Ingredients**:
 
 2 pounds peeled butternut squash, deseeded, and cubed

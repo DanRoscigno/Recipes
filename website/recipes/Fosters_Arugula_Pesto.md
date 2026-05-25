@@ -1,9 +1,8 @@
-# Foster’s Arugula Pesto
-
-`Condiments` `Italian Inspired`
-
-Makes about 1½ cups pesto
-
+---
+title: "Foster’s Arugula Pesto"
+tags: ["Condiments", "Italian Inspired"]
+servings: "Makes about 1½ cups pesto"
+---
 **Ingredients:**
 
 5 cups firmly packed arugula, washed, drained, and stems removed 

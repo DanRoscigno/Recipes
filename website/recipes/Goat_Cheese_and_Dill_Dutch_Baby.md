@@ -1,9 +1,8 @@
-# Goat Cheese and Dill Dutch Baby
-
-`Breakfasts`
-
-Yield:  6 servings
-
+---
+title: "Goat Cheese and Dill Dutch Baby"
+tags: ["Breakfasts"]
+servings: "Yield:  6 servings"
+---
 **INGREDIENTS:**
 
 - 1cup  crumbled plain goat cheese

@@ -1,9 +1,8 @@
-# Greens and Eggs
-
-`Breakfasts` `Kim Acceptable`
-
-Serves 4
-
+---
+title: "Greens and Eggs"
+tags: ["Breakfasts", "Kim Acceptable"]
+servings: "Serves 4"
+---
 **INGREDIENTS:**
 
 _FOR THE GREENS:_

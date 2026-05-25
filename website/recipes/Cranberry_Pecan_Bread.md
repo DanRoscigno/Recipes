@@ -1,7 +1,8 @@
-# Cranberry Pecan Bread
-
-`Gifts` `Breads` `Thanksgiving` `Fall`
-
+---
+title: "Cranberry Pecan Bread"
+tags: ["Gifts", "Breads", "Thanksgiving", "Fall"]
+servings: ""
+---
 ![Image_20231116_082843.png](image/Image_20231116_082843.png)
 
 Makes 1 loaf

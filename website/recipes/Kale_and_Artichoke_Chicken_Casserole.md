@@ -1,9 +1,8 @@
-# Kale and Artichoke Chicken Casserole
-
-`Main Meal` `Kim Acceptable`
-
-Serves 4
-
+---
+title: "Kale and Artichoke Chicken Casserole"
+tags: ["Main Meal", "Kim Acceptable"]
+servings: "Serves 4"
+---
 **Ingredients:**
 
 2 bunches kale, tough center stems removed, chopped into 2-inch pieces

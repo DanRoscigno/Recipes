@@ -1,7 +1,8 @@
-# Orange Pineapple Ice Cream
-
-`Ice Creams`
-
+---
+title: "Orange Pineapple Ice Cream"
+tags: ["Ice Creams"]
+servings: ""
+---
 - 2 large navel oranges
 - Fresh or canned pineapple in juice
 - 1 and 1/2 cups whole milk

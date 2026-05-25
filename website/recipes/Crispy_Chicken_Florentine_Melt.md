@@ -1,7 +1,8 @@
-# Crispy Chicken Florentine Melt
-
-`Main Meal` `Want to make` `Italian Inspired`
-
+---
+title: "Crispy Chicken Florentine Melt"
+tags: ["Main Meal", "Want to make", "Italian Inspired"]
+servings: ""
+---
 ### makes 4
 
 ### **Ingredients:**

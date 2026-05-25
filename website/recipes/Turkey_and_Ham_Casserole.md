@@ -1,9 +1,8 @@
-# Turkey and Ham Casserole
-
-`Main Meal` `American`
-
- 
-
+---
+title: "Turkey and Ham Casserole"
+tags: ["Main Meal", "American"]
+servings: ""
+---
   Ingredients  
 
   Vigo Wild Rice

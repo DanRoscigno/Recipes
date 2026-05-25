@@ -1,9 +1,8 @@
-# Roasted Carrots with Caramelized Walnut Crema and Pecorino
-
-`Want to make` `Side dish` `Kim Acceptable`
-
-Serves 4-6
-
+---
+title: "Roasted Carrots with Caramelized Walnut Crema and Pecorino"
+tags: ["Want to make", "Side dish", "Kim Acceptable"]
+servings: "Serves 4-6"
+---
 **Ingredients:**
 
 7 ounces jumbo organic carrots, peeled and cut into 1/2-inch-thick coins

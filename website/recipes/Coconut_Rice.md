@@ -1,7 +1,8 @@
-# Coconut Rice
-
-`Side dish`
-
+---
+title: "Coconut Rice"
+tags: ["Side dish"]
+servings: ""
+---
 6 Servings
 
 ## Ingredients

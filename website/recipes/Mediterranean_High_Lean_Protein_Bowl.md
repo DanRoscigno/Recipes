@@ -1,7 +1,8 @@
-# Mediterranean High Lean Protein Bowl
-
-`Salads` `Main Meal` `Want to make` `Mediterranean Inspired`
-
+---
+title: "Mediterranean High Lean Protein Bowl"
+tags: ["Salads", "Main Meal", "Want to make", "Mediterranean Inspired"]
+servings: ""
+---
 ## Ingredients:
 
 - 1-1/2 cups quinoa, uncooked, rinsed well

@@ -1,9 +1,8 @@
-# Grilled Tuna with Lemon Fettuccine
-
-`Main Meal` `Kim Acceptable` `Italian Inspired`
-
- 
-
+---
+title: "Grilled Tuna with Lemon Fettuccine"
+tags: ["Main Meal", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
   Ingredients  
 
   1 4oz. piece of Parmesan cheese cut into 2 inch pieces

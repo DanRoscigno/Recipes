@@ -1,9 +1,8 @@
-# Chunky Monkey Muffins
-
-`Breads`
-
-Makes: 12 muffins
-
+---
+title: "Chunky Monkey Muffins"
+tags: ["Breads"]
+servings: "Makes: 12 muffins"
+---
 **Ingredients:**
 
 -          2 cups all-purpose flour 

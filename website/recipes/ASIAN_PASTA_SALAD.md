@@ -1,7 +1,8 @@
-# ASIAN PASTA SALAD
-
-`Side dish` `Kim Acceptable` `Gluten Free` `Asian Inspired`
-
+---
+title: "ASIAN PASTA SALAD"
+tags: ["Side dish", "Kim Acceptable", "Gluten Free", "Asian Inspired"]
+servings: ""
+---
 ### Makes 8 servings
 
 ### Ingredients:

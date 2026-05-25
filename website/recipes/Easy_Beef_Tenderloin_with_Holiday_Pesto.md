@@ -1,7 +1,8 @@
-# Easy Beef Tenderloin with Holiday Pesto
-
-`Main Meal` `Want to make` `Winter` `Special Meal` `Italian Inspired`
-
+---
+title: "Easy Beef Tenderloin with Holiday Pesto"
+tags: ["Main Meal", "Want to make", "Winter", "Special Meal", "Italian Inspired"]
+servings: ""
+---
 24-30 servings
 
 **Ingredients:**

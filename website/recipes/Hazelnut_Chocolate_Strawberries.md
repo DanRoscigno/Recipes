@@ -1,7 +1,8 @@
-# Hazelnut Chocolate Strawberries
-
-`Desserts` `Picnic Fare`
-
+---
+title: "Hazelnut Chocolate Strawberries"
+tags: ["Desserts", "Picnic Fare"]
+servings: ""
+---
 ## **Ingredients**
 
 12 large fresh strawberries

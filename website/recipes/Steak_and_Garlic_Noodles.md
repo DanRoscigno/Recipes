@@ -1,9 +1,8 @@
-# Steak and Garlic Noodles
-
-`Main Meal` `Want to make` `Quick` `Asian Inspired`
-
-Serves 2
-
+---
+title: "Steak and Garlic Noodles"
+tags: ["Main Meal", "Want to make", "Quick", "Asian Inspired"]
+servings: "Serves 2"
+---
 **Ingredients:**
 
 _Steak:_

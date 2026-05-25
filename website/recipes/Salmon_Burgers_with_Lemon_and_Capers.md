@@ -1,9 +1,8 @@
-# Salmon Burgers with Lemon and Capers
-
-`Main Meal` `Picnic Fare` `Kim Acceptable` `American`
-
-Servings: 10 burgers  
-
+---
+title: "Salmon Burgers with Lemon and Capers"
+tags: ["Main Meal", "Picnic Fare", "Kim Acceptable", "American"]
+servings: "Servings: 10 burgers"
+---
 **Ingredients:**   
 
 5 tablespoons (or more) olive oil

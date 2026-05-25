@@ -1,9 +1,8 @@
-# Cowboy Cheese Bites
-
-`Want to make` `Appetizers`
-
-Makes ~35
-
+---
+title: "Cowboy Cheese Bites"
+tags: ["Want to make", "Appetizers"]
+servings: "Makes ~35"
+---
 ### **Ingredients:**
 
 All-purpose flour, for dusting

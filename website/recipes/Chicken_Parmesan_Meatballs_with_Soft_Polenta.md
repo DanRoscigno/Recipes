@@ -1,9 +1,8 @@
-# Chicken Parmesan Meatballs with Soft Polenta
-
-`Main Meal` `Kim Acceptable` `Italian Inspired`
-
-Serves 4
-
+---
+title: "Chicken Parmesan Meatballs with Soft Polenta"
+tags: ["Main Meal", "Kim Acceptable", "Italian Inspired"]
+servings: "Serves 4"
+---
 ## **Ingredients:**
 
 _Meatballs:_

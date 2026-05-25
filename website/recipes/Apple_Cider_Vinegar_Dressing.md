@@ -1,7 +1,8 @@
-# Apple Cider Vinegar Dressing
-
-`Fall` `Winter` `Salad Dressings`
-
+---
+title: "Apple Cider Vinegar Dressing"
+tags: ["Fall", "Winter", "Salad Dressings"]
+servings: ""
+---
 **Ingredients:**
 
 - 1 tablespoonmaple syrup

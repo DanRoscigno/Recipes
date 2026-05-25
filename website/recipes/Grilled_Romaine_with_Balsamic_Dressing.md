@@ -1,9 +1,8 @@
-# Grilled Romaine with Balsamic Dressing
-
-`Salads` `Side dish` `Kim Acceptable` `Italian Inspired`
-
-Serves 4
-
+---
+title: "Grilled Romaine with Balsamic Dressing"
+tags: ["Salads", "Side dish", "Kim Acceptable", "Italian Inspired"]
+servings: "Serves 4"
+---
 **Ingredients:**
 
 _Balsamic Dressing:_

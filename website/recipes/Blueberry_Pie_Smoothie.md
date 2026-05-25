@@ -1,9 +1,8 @@
-# Blueberry Pie Smoothie
-
-`Drinks` `Breakfasts`
-
-Serves 2
-
+---
+title: "Blueberry Pie Smoothie"
+tags: ["Drinks", "Breakfasts"]
+servings: "Serves 2"
+---
 ### **Ingredients:**
 
 - 1 c. vanilla yogurt

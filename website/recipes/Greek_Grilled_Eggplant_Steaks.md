@@ -1,9 +1,8 @@
-# Greek Grilled Eggplant Steaks
-
-`Main Meal` `Kim Acceptable` `Italian Inspired`
-
-Makes 6 servings
-
+---
+title: "Greek Grilled Eggplant Steaks"
+tags: ["Main Meal", "Kim Acceptable", "Italian Inspired"]
+servings: "Makes 6 servings"
+---
 **Ingredients:**
 
 2 eggplants

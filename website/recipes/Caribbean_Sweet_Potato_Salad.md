@@ -1,7 +1,8 @@
-# Caribbean Sweet Potato Salad
-
-`Picnic Fare` `Side dish` `Island Inspired`
-
+---
+title: "Caribbean Sweet Potato Salad"
+tags: ["Picnic Fare", "Side dish", "Island Inspired"]
+servings: ""
+---
 - 1 large russet potato, peeled and quartered
     1 large sweet potato, peeled and quartered
     1 cup corn

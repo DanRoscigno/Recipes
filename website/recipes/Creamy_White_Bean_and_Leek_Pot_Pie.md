@@ -1,7 +1,8 @@
-# Creamy White Bean and Leek Pot Pie
-
-`Main Meal` `Irish/English/Scottish Inspired`
-
+---
+title: "Creamy White Bean and Leek Pot Pie"
+tags: ["Main Meal", "Irish/English/Scottish Inspired"]
+servings: ""
+---
 8 servings or 2-4 serving meals (one can be frozen)
 
 **Ingredients:**

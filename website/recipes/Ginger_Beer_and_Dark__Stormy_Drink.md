@@ -1,7 +1,8 @@
-# Ginger Beer and Dark & Stormy Drink
-
-`Drinks`
-
+---
+title: "Ginger Beer and Dark & Stormy Drink"
+tags: ["Drinks"]
+servings: ""
+---
 1 quart water
 
 1 cup coarsely chopped ginger

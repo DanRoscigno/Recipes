@@ -1,7 +1,8 @@
-# Skillet Meatballs With Peaches, Basil and Lime
-
-`Main Meal` `Appetizers` `Quick` `Middle Eastern/Moroccan Inspired`
-
+---
+title: "Skillet Meatballs With Peaches, Basil and Lime"
+tags: ["Main Meal", "Appetizers", "Quick", "Middle Eastern/Moroccan Inspired"]
+servings: ""
+---
 ### Makes 4 servings
 
 **INGREDIENTS:**

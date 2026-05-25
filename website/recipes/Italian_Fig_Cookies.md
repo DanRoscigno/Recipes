@@ -1,9 +1,8 @@
-# Italian Fig Cookies
-
-`Cookies` `Italian Inspired`
-
- 
-
+---
+title: "Italian Fig Cookies"
+tags: ["Cookies", "Italian Inspired"]
+servings: ""
+---
   Ingredients  
 
   2 cups shortening

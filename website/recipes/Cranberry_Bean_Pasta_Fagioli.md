@@ -1,9 +1,8 @@
-# Cranberry Bean Pasta Fagioli
-
-`Want to make` `Soups` `Italian Inspired`
-
-Serves 4-6
-
+---
+title: "Cranberry Bean Pasta Fagioli"
+tags: ["Want to make", "Soups", "Italian Inspired"]
+servings: "Serves 4-6"
+---
 **Ingredients:**
 
 5 tablespoons extra-virgin olive oil, plus more for drizzling

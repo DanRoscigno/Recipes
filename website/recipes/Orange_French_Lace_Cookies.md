@@ -1,9 +1,8 @@
-# Orange French Lace Cookies
-
-`Want to make` `Cookies`
-
-Makes ~ 36 cookies
-
+---
+title: "Orange French Lace Cookies"
+tags: ["Want to make", "Cookies"]
+servings: "Makes ~ 36 cookies"
+---
 **Ingredients:**
 
 2 cups blanched sliced almonds

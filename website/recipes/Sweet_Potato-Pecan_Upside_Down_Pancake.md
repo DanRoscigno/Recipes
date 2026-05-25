@@ -1,10 +1,9 @@
-# Sweet Potato-Pecan Upside Down Pancake
-
-`Breakfasts`
-
-Servings: 8
-
-**Ingredients:**  
+---
+title: "Sweet Potato-Pecan Upside Down Pancake"
+tags: ["Breakfasts"]
+servings: "Servings: 8"
+---
+**Ingredients:**ï¿½ 
 
 1 3/4 cups sifted cake flour
 

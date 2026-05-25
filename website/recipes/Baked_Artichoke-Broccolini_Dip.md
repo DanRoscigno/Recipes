@@ -1,9 +1,8 @@
-# Baked Artichoke-Broccolini Dip
-
-`Picnic Fare` `Appetizers` `Snack`
-
-Serves 6-8
-
+---
+title: "Baked Artichoke-Broccolini Dip"
+tags: ["Picnic Fare", "Appetizers", "Snack"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 Kosher salt

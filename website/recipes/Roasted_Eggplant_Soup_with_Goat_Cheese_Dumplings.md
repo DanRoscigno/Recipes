@@ -1,9 +1,8 @@
-# Roasted Eggplant Soup with Goat Cheese Dumplings
-
-`Gifts` `Soups` `Kim Acceptable`
-
-Servings: 10
-
+---
+title: "Roasted Eggplant Soup with Goat Cheese Dumplings"
+tags: ["Gifts", "Soups", "Kim Acceptable"]
+servings: "Servings: 10"
+---
 **Ingredients:**
 
 _Soup:_

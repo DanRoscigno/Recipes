@@ -1,9 +1,8 @@
-# Smoked Pork Ribs
-
-`Main Meal` `Picnic Fare` `Summer`
-
-Serves 4
-
+---
+title: "Smoked Pork Ribs"
+tags: ["Main Meal", "Picnic Fare", "Summer"]
+servings: "Serves 4"
+---
 **Ingredients:**
 
 1 rack of pork baby-back ribs

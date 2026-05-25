@@ -1,7 +1,8 @@
-# BUTTERNUT-GOAT CHEESE-STUFFED MUSHROOMS
-
-`Picnic Fare` `Appetizers` `Kim Acceptable` `Snack` `Fall`
-
+---
+title: "BUTTERNUT-GOAT CHEESE-STUFFED MUSHROOMS"
+tags: ["Picnic Fare", "Appetizers", "Kim Acceptable", "Snack", "Fall"]
+servings: ""
+---
 INGREDIENTS:
 
     - 12 oz. butternut squash, cut into 1/2 in. cubes (about 3 cups)

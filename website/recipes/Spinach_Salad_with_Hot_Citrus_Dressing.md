@@ -1,9 +1,8 @@
-# Spinach Salad with Hot Citrus Dressing
-
-`Salads` `Kim Acceptable`
-
- 
-
+---
+title: "Spinach Salad with Hot Citrus Dressing"
+tags: ["Salads", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   2 pounds fresh spinach

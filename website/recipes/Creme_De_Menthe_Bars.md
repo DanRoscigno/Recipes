@@ -1,9 +1,8 @@
-# Creme De Menthe Bars
-
-`Desserts` `Picnic Fare` `Cookies`
-
- 
-
+---
+title: "Creme De Menthe Bars"
+tags: ["Desserts", "Picnic Fare", "Cookies"]
+servings: ""
+---
   Ingredients  
 
   Layer #1:

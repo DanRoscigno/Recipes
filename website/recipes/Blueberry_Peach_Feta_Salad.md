@@ -1,7 +1,8 @@
-# Blueberry Peach Feta Salad
-
-`Salads` `Want to make` `Kim Acceptable`
-
+---
+title: "Blueberry Peach Feta Salad"
+tags: ["Salads", "Want to make", "Kim Acceptable"]
+servings: ""
+---
 ![Image_20240430_101405.jpeg](image/Image_20240430_101405.jpeg)
 
 **Ingredients:**

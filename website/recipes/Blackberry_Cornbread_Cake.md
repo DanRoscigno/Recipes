@@ -1,7 +1,8 @@
-# Blackberry Cornbread Cake
-
-`Desserts` `Want to make` `Gluten Free` `Summer`
-
+---
+title: "Blackberry Cornbread Cake"
+tags: ["Desserts", "Want to make", "Gluten Free", "Summer"]
+servings: ""
+---
 ### Makes 6-8 servings
 
 ### **Ingredients:**

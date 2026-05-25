@@ -1,9 +1,8 @@
-# Spaghetti with Lemon, Garlic and Pecorino
-
-`Side dish` `Quick` `Italian Inspired`
-
-Makes 4 servings
-
+---
+title: "Spaghetti with Lemon, Garlic and Pecorino"
+tags: ["Side dish", "Quick", "Italian Inspired"]
+servings: "Makes 4 servings"
+---
 ### **Ingredients:**
 
 Two 8-ounce pieces Pecorino-Romano, such as Locatelli

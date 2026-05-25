@@ -1,9 +1,8 @@
-# Festive Jam-and-Cannoli Cake Roll
-
-`Desserts` `Gifts` `Italian Inspired`
-
- 
-
+---
+title: "Festive Jam-and-Cannoli Cake Roll"
+tags: ["Desserts", "Gifts", "Italian Inspired"]
+servings: ""
+---
   Ingredients  
 
   1/2 cup all-purpose flour

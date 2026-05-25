@@ -1,9 +1,8 @@
-# Beef Rendang
-
-`Main Meal` `Want to make` `Asian Inspired`
-
-Makes 4 servings
-
+---
+title: "Beef Rendang"
+tags: ["Main Meal", "Want to make", "Asian Inspired"]
+servings: "Makes 4 servings"
+---
 **INGREDIENTS:**
 
 _FOR THE PASTE:_

@@ -1,9 +1,8 @@
-# Roast Chicken with Veggies
-
-`Main Meal` `Want to make` `Kim Acceptable` `Irish/English/Scottish Inspired`
-
-Makes ~ 4 servings
-
+---
+title: "Roast Chicken with Veggies"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "Irish/English/Scottish Inspired"]
+servings: "Makes ~ 4 servings"
+---
 **Ingredients:**
 
 1 whole chicken (about 1 3/4 kilograms/3 3/4 pounds)

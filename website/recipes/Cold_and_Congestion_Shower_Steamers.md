@@ -1,7 +1,8 @@
-# Cold and Congestion Shower Steamers
-
-`Gifts` `Room scent`
-
+---
+title: "Cold and Congestion Shower Steamers"
+tags: ["Gifts", "Room scent"]
+servings: ""
+---
 **Materials:**
 
 —1 cup [baking soda](https://amzn.to/3k21Zlq)

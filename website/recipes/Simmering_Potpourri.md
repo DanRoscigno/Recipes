@@ -1,7 +1,8 @@
-# Simmering Potpourri
-
-`Room scent` `Winter`
-
+---
+title: "Simmering Potpourri"
+tags: ["Room scent", "Winter"]
+servings: ""
+---
 3-4” sticks of cinnamon 
 
 3 bay leaves

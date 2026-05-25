@@ -1,9 +1,8 @@
-# Black beans and rice with chicken and apple salsa
-
-`Main Meal` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
-Servings: 4-6
-
+---
+title: "Black beans and rice with chicken and apple salsa"
+tags: ["Main Meal", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: "Servings: 4-6"
+---
 **Ingredients:**
 
  * 1 cup chopped peeled Granny Smith apple

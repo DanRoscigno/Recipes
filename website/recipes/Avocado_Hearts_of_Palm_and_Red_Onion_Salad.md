@@ -1,7 +1,8 @@
-# Avocado, Hearts of Palm, and Red Onion Salad
-
-`Salads` `Want to make` `Side dish` `Kim Acceptable` `Summer` `Italian Inspired`
-
+---
+title: "Avocado, Hearts of Palm, and Red Onion Salad"
+tags: ["Salads", "Want to make", "Side dish", "Kim Acceptable", "Summer", "Italian Inspired"]
+servings: ""
+---
 Servings  8      
 
 **Ingredients:**

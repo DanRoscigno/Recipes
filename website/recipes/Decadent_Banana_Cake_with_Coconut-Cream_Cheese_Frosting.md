@@ -1,9 +1,8 @@
-# Decadent Banana Cake with Coconut-Cream Cheese Frosting
-
-`Desserts` `Island Inspired`
-
- 
-
+---
+title: "Decadent Banana Cake with Coconut-Cream Cheese Frosting"
+tags: ["Desserts", "Island Inspired"]
+servings: ""
+---
   Ingredients  
 
   2 1/2 cups cake flour, plus

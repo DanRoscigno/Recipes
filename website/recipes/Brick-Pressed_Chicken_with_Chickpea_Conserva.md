@@ -1,9 +1,8 @@
-# Brick-Pressed Chicken with Chickpea Conserva
-
-`Main Meal` `Kim Acceptable` `Middle Eastern/Moroccan Inspired`
-
-Serves 4
-
+---
+title: "Brick-Pressed Chicken with Chickpea Conserva"
+tags: ["Main Meal", "Kim Acceptable", "Middle Eastern/Moroccan Inspired"]
+servings: "Serves 4"
+---
 **Ingredients:**
 
 _Chicken:_

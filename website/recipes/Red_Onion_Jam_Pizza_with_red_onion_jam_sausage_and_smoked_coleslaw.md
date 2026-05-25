@@ -1,5 +1,8 @@
-# Red Onion Jam (Pizza with red onion jam, sausage, and smoked coleslaw)
-
+---
+title: "Red Onion Jam (Pizza with red onion jam, sausage, and smoked coleslaw)"
+tags: []
+servings: ""
+---
 Makes ~1 cup
 
 ## **Ingredients**

@@ -1,7 +1,8 @@
-# Middle Eastern Potato Casseole
-
-`Want to make` `Side dish` `Kim Acceptable`
-
+---
+title: "Middle Eastern Potato Casseole"
+tags: ["Want to make", "Side dish", "Kim Acceptable"]
+servings: ""
+---
 **Ingredients:**
 
 1/4 teaspoon saffron threads

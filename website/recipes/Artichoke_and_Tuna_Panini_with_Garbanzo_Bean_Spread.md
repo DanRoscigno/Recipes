@@ -1,7 +1,8 @@
-# Artichoke and Tuna Panini with Garbanzo Bean Spread
-
-`Main Meal` `Sandwiches` `Picnic Fare` `Kim Acceptable` `Mediterranean Inspired`
-
+---
+title: "Artichoke and Tuna Panini with Garbanzo Bean Spread"
+tags: ["Main Meal", "Sandwiches", "Picnic Fare", "Kim Acceptable", "Mediterranean Inspired"]
+servings: ""
+---
  **Servings: 6-8**  
 
 **Ingredients:**

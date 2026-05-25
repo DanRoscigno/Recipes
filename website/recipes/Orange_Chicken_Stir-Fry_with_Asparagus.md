@@ -1,9 +1,8 @@
-# Orange Chicken Stir-Fry with Asparagus
-
-`Main Meal` `Kim Acceptable` `Quick` `Asian Inspired`
-
-Serves 6
-
+---
+title: "Orange Chicken Stir-Fry with Asparagus"
+tags: ["Main Meal", "Kim Acceptable", "Quick", "Asian Inspired"]
+servings: "Serves 6"
+---
 **Ingredients:**
 
 - 1.5 lbs boneless skinless chicken breast/tenders, diced into 1-inch pieces

@@ -1,9 +1,8 @@
-# Scalloped Sweet Potatoes
-
-`Thanksgiving` `Side dish` `Kim Acceptable`
-
-Makes ~ 8 servings
-
+---
+title: "Scalloped Sweet Potatoes"
+tags: ["Thanksgiving", "Side dish", "Kim Acceptable"]
+servings: "Makes ~ 8 servings"
+---
 **Ingredients:**
 
 - 2 ½ pounds sweet potatoes, peeled and cut into 1/4-inch slices (about 8 cups) 

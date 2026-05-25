@@ -1,9 +1,8 @@
-# Almond Squares
-
-`Desserts` `Cookies` `Italian Inspired`
-
-Servings: 10-12
-
+---
+title: "Almond Squares"
+tags: ["Desserts", "Cookies", "Italian Inspired"]
+servings: "Servings: 10-12"
+---
 **Ingredients:
 
 _Crust:_

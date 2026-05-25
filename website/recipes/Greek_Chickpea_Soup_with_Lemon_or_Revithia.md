@@ -1,7 +1,8 @@
-# Greek Chickpea Soup with Lemon (Revithia)
-
-`Soups` `Kim Acceptable` `Mediterranean Inspired`
-
+---
+title: "Greek Chickpea Soup with Lemon (Revithia)"
+tags: ["Soups", "Kim Acceptable", "Mediterranean Inspired"]
+servings: ""
+---
 **Ingredients**:
 
 - ½ cup olive oil + extra 2 tbsps, divided

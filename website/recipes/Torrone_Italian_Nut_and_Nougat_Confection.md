@@ -1,9 +1,8 @@
-# Torrone (Italian Nut and Nougat Confection)
-
-`Want to make` `Gifts` `Candy` `Special Meal` `Italian Inspired`
-
-Serves 40: 80 1” pieces
-
+---
+title: "Torrone (Italian Nut and Nougat Confection)"
+tags: ["Want to make", "Gifts", "Candy", "Special Meal", "Italian Inspired"]
+servings: "Serves 40: 80 1” pieces"
+---
 **Ingredients:**
 
 - 2 (8x10-inch) sheets wafer paper (edible rice paper)

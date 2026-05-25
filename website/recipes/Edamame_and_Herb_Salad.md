@@ -1,9 +1,8 @@
-# Edamame and Herb Salad
-
-`Salads`
-
- 
-
+---
+title: "Edamame and Herb Salad"
+tags: ["Salads"]
+servings: ""
+---
   Directions  
 
   Prepare edamame according to package directions. Drain and rinse with cold water. Set aside to drain thoroughly.

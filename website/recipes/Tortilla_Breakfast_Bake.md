@@ -1,9 +1,8 @@
-# Tortilla Breakfast Bake
-
-`Breakfasts` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
-Serves 4
-
+---
+title: "Tortilla Breakfast Bake"
+tags: ["Breakfasts", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: "Serves 4"
+---
 **Ingredients:**
 
 1 tablespoon olive oil

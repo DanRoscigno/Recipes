@@ -1,9 +1,8 @@
-# Almond-Crusted Goat Cheese Salad with Raspberry Dressing
-
-`Salads` `Side dish` `Kim Acceptable`
-
- 
-
+---
+title: "Almond-Crusted Goat Cheese Salad with Raspberry Dressing"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   2/3 cup frozen raspberries, thawed

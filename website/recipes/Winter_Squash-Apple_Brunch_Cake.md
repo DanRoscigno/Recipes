@@ -1,10 +1,9 @@
-# Winter Squash-Apple Brunch Cake
-
-`Gifts` `Breads` `Fall` `Winter`
-
-Servings: 12-14  
-
-**Ingredients:**  
+---
+title: "Winter Squash-Apple Brunch Cake"
+tags: ["Gifts", "Breads", "Fall", "Winter"]
+servings: "Servings: 12-14ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 2 1/4 C. Flour
 
@@ -38,5 +37,5 @@ Servings: 12-14 
 
 **Directions:**
 
-Cream butter, add sugar spices and eggs. Beat until Fluffy. Stir the squash and buttermilk together. Stir flour and baking powder and soda together. Add alternatively with the squash mixture. Stir in chopped apples, raisins and walnuts. Pour into greased and floured springform pan. Toss I cup remaining apples with cinnamon and sugar. Arrange on top of the batter. Sprinkle raisins on top. Bake at 350 for 1 to 1 1/4 hours. Cool. Drizzle with powdered sugar icing. (Freezes well)  
+Cream butter, add sugar spices and eggs. Beat until Fluffy. Stir the squash and buttermilk together. Stir flour and baking powder and soda together. Add alternatively with the squash mixture. Stir in chopped apples, raisins and walnuts. Pour into greased and floured springform pan. Toss I cup remaining apples with cinnamon and sugar. Arrange on top of the batter. Sprinkle raisins on top. Bake at 350 for 1 to 1 1/4 hours. Cool. Drizzle with powdered sugar icing. (Freezes well)ï¿½ 
 

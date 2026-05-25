@@ -1,10 +1,9 @@
-# Maryland Crab Cakes with Creamy Caper-Dill Sauce
-
-`Main Meal` `Want to make` `Appetizers` `American`
-
-Servings: 14 cakes 
-
-**Ingredients:**  
+---
+title: "Maryland Crab Cakes with Creamy Caper-Dill Sauce"
+tags: ["Main Meal", "Want to make", "Appetizers", "American"]
+servings: "Servings: 14 cakes"
+---
+**Ingredients:**ï¿½ 
 
 _Crab Cakes:_
 
@@ -40,15 +39,15 @@ Garnish: fresh dill sprigs
 
 _Creamy Caper-dill Sauce:_
 
-- ¾ cup mayonnaise 
-- ½ cup sour cream 
-- ¼ teaspoon grated lemon rind 
-- 2 tablespoons fresh lemon juice 
-- 1 tablespoon drained capers 
-- 2 teaspoons chopped fresh dill 
-- 1 teaspoon Dijon mustard 
-- ¼ teaspoon salt 
-- ¼ teaspoon pepper
+- ï¿½ cup mayonnaiseï¿½
+- ï¿½ cup sour creamï¿½
+- ï¿½ teaspoon grated lemon rindï¿½
+- 2 tablespoons fresh lemon juiceï¿½
+- 1 tablespoon drained capersï¿½
+- 2 teaspoons chopped fresh dillï¿½
+- 1 teaspoon Dijon mustardï¿½
+- ï¿½ teaspoon saltï¿½
+- ï¿½ teaspoon pepper
 
 **Directions:**
 

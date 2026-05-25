@@ -1,9 +1,8 @@
-# Bloody Mary Ketchup
-
-`Want to make` `Condiments`
-
-Makes ~1 cup
-
+---
+title: "Bloody Mary Ketchup"
+tags: ["Want to make", "Condiments"]
+servings: "Makes ~1 cup"
+---
 ### **Ingredients:**
 
 1 cup ketchup

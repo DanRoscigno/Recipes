@@ -1,9 +1,8 @@
-# Lemon Drop Thumbprint Cookies
-
-`Want to make` `Cookies` `Summer`
-
-Makes ~36 cookies
-
+---
+title: "Lemon Drop Thumbprint Cookies"
+tags: ["Want to make", "Cookies", "Summer"]
+servings: "Makes ~36 cookies"
+---
 **Ingredients:**
 
 - 1 1/2 cups unsalted butter_at room temperature_

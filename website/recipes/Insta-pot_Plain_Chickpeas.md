@@ -1,7 +1,8 @@
-# Insta-pot Plain Chickpeas
-
-`Kim Acceptable`
-
+---
+title: "Insta-pot Plain Chickpeas"
+tags: ["Kim Acceptable"]
+servings: ""
+---
 6 cups of water or other liquid
 
 1 pound dried chickpeas 

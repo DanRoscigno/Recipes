@@ -1,9 +1,8 @@
-# Couscous Salad with Pistachios and Dates
-
-`Want to make` `Side dish` `Kim Acceptable` `Gluten Free` `Middle Eastern/Moroccan Inspired` `Mediterranean Inspired`
-
-Serves 6-8
-
+---
+title: "Couscous Salad with Pistachios and Dates"
+tags: ["Want to make", "Side dish", "Kim Acceptable", "Gluten Free", "Middle Eastern/Moroccan Inspired", "Mediterranean Inspired"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 6 tablespoons extra virgin olive oil, divided

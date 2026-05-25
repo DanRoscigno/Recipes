@@ -1,7 +1,8 @@
-# Vegetarian Lentil Soup
-
-`Soups` `Kim Acceptable`
-
+---
+title: "Vegetarian Lentil Soup"
+tags: ["Soups", "Kim Acceptable"]
+servings: ""
+---
 ## Ingredients
 
 - 2 cups lentils (precook for about 12 mins in ~ ~ 2 cups chicken broth in instapot).

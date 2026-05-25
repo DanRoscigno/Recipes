@@ -1,9 +1,8 @@
-# The Ultimate Dog Ice Cream
-
-`Dog`
-
-Makes 36-48 cubes
-
+---
+title: "The Ultimate Dog Ice Cream"
+tags: ["Dog"]
+servings: "Makes 36-48 cubes"
+---
 **Ingredients:**
 
 - 3-4 ripe bananas, peeled

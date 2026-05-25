@@ -1,7 +1,8 @@
-# Barbecue Baked Beans
-
-`Picnic Fare` `Side dish`
-
+---
+title: "Barbecue Baked Beans"
+tags: ["Picnic Fare", "Side dish"]
+servings: ""
+---
 6 Servings
 
 **Ingredients:**

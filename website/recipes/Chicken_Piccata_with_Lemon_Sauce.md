@@ -1,9 +1,8 @@
-# Chicken Piccata with Lemon Sauce
-
-`Main Meal` `Want to make` `Kim Acceptable` `Quick` `Italian Inspired`
-
-Serves 8
-
+---
+title: "Chicken Piccata with Lemon Sauce"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "Quick", "Italian Inspired"]
+servings: "Serves 8"
+---
 **Ingredients:**
 
 - 8 boneless skinless chicken breast halves (4 ounces each)

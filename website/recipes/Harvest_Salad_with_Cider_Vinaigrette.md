@@ -1,9 +1,8 @@
-# Harvest Salad with Cider Vinaigrette
-
-`Salads` `Side dish` `Kim Acceptable`
-
-Servings: 6
-
+---
+title: "Harvest Salad with Cider Vinaigrette"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: "Servings: 6"
+---
 **Ingredients:**
 
 _Salad:_

@@ -1,9 +1,8 @@
-# Crown Roast of Pork with Roasted Root Vegetables
-
-`Main Meal` `Want to make` `Fall` `Special Meal` `Irish/English/Scottish Inspired`
-
-Serves 8-10
-
+---
+title: "Crown Roast of Pork with Roasted Root Vegetables"
+tags: ["Main Meal", "Want to make", "Fall", "Special Meal", "Irish/English/Scottish Inspired"]
+servings: "Serves 8-10"
+---
 ### **Ingredients:**
 
 1 tablespoon light brown sugar

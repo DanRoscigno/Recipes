@@ -1,10 +1,9 @@
-# Six Inch (1/2 size) Grand Marnier Cheesecake with Strawberries and Candied Orange Peel
-
-`Cheesecakes`
-
- 
-
-**Servings:** ~5 small servings
+---
+title: "Six Inch (1/2 size) Grand Marnier Cheesecake with Strawberries and Candied Orange Peel"
+tags: ["Cheesecakes"]
+servings: ""
+---
+**Servings:**ï¿½~5 small servings
 
   **Ingredients**  
 

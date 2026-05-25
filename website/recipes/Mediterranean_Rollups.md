@@ -1,9 +1,8 @@
-# Mediterranean Rollups
-
-`Main Meal` `Picnic Fare` `Appetizers` `Kim Acceptable` `Mediterranean Inspired`
-
-Servings: 16 appetizer servings       
-
+---
+title: "Mediterranean Rollups"
+tags: ["Main Meal", "Picnic Fare", "Appetizers", "Kim Acceptable", "Mediterranean Inspired"]
+servings: "Servings: 16 appetizer servings"
+---
 **Ingredients**:   
 
 3 medium tomatoes

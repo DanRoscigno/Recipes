@@ -1,9 +1,8 @@
-# Spicy Pork Loin and Lettuce Wraps
-
-`Appetizers` `Asian Inspired`
-
-Serves 4-6
-
+---
+title: "Spicy Pork Loin and Lettuce Wraps"
+tags: ["Appetizers", "Asian Inspired"]
+servings: "Serves 4-6"
+---
 **Ingredients:**
 
 2 pieces (about 2 pounds) pork tenderloin, trimmed of silver skin

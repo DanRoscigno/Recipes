@@ -1,9 +1,8 @@
-# Orange and Raspberry  Smoothie
-
-`Drinks`
-
-Makes 2 ~15 oz drinks or more smaller drinks
-
+---
+title: "Orange and Raspberry  Smoothie"
+tags: ["Drinks"]
+servings: "Makes 2 ~15 oz drinks or more smaller drinks"
+---
 **Ingredients:**
 
 11/3 cups raspberries, frozen

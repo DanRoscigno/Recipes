@@ -1,9 +1,8 @@
-# Chicken and Carrot Cups
-
-`Main Meal` `Want to make` `Kid’s Delight`
-
-Makes 6 reg sized muffin cups or more mini muffin cups
-
+---
+title: "Chicken and Carrot Cups"
+tags: ["Main Meal", "Want to make", "Kid’s Delight"]
+servings: "Makes 6 reg sized muffin cups or more mini muffin cups"
+---
 **Ingredients:**
 
 - 1 cup grated carrot

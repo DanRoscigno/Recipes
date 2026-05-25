@@ -1,7 +1,8 @@
-# Creamy Lentil and Rice Dish: Khicheri
-
-`Want to make` `Side dish`
-
+---
+title: "Creamy Lentil and Rice Dish: Khicheri"
+tags: ["Want to make", "Side dish"]
+servings: ""
+---
 **Notes**
 
 Khicheri is made with rice and lentils. I make mine with brown rice and split green lentils, but it is normally made with white rice and can be made with just about any kind of lentil.

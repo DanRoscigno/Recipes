@@ -1,9 +1,8 @@
-# Lemon And Lavender Madeleines
-
-`Cookies` `Easter`
-
-Makes 12 Madeleines 
-
+---
+title: "Lemon And Lavender Madeleines"
+tags: ["Cookies", "Easter"]
+servings: "Makes 12 Madeleines"
+---
 ### **Ingredients:**
 
 7 tablespoons butter (plus extra for greasing pan)

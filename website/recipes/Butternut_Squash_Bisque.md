@@ -1,9 +1,8 @@
-# Butternut Squash Bisque
-
-`Soups` `Thanksgiving` `Kim Acceptable`
-
-Servings: 8
-
+---
+title: "Butternut Squash Bisque"
+tags: ["Soups", "Thanksgiving", "Kim Acceptable"]
+servings: "Servings: 8"
+---
 **Ingredients:**
 
 2 pounds butternut squash, pared, halved, seeded and cubed

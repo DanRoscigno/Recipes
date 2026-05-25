@@ -1,7 +1,8 @@
-# Roasted Baby Eggplant Tart
-
-`Main Meal` `Gifts` `Kim Acceptable` `Italian Inspired`
-
+---
+title: "Roasted Baby Eggplant Tart"
+tags: ["Main Meal", "Gifts", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
 ![Snapshot.jpg](image/Snapshot.jpg)
 
 Serves 8-10

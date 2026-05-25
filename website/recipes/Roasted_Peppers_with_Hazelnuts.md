@@ -1,10 +1,9 @@
-# Roasted Peppers with Hazelnuts
-
-`Condiments` `Side dish` `Kim Acceptable` `Italian Inspired`
-
- Servings: 12  
-
-**Ingredients:**  
+---
+title: "Roasted Peppers with Hazelnuts"
+tags: ["Condiments", "Side dish", "Kim Acceptable", "Italian Inspired"]
+servings: "Servings: 12ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 _Peppers:_
 

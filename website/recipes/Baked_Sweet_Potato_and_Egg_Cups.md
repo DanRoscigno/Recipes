@@ -1,7 +1,8 @@
-# Baked Sweet Potato and Egg Cups
-
-`Want to make` `Breakfasts` `Kim Acceptable` `Gluten Free` `Camping`
-
+---
+title: "Baked Sweet Potato and Egg Cups"
+tags: ["Want to make", "Breakfasts", "Kim Acceptable", "Gluten Free", "Camping"]
+servings: ""
+---
 ### Makes 6 
 
 ### Ingredients

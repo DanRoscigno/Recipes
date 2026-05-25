@@ -1,9 +1,8 @@
-# Potpourri Punch  (as named by Dan's sister Lisa) (also known as Cranberry Tea)
-
-`Drinks`
-
- 
-
+---
+title: "Potpourri Punch  (as named by Dan's sister Lisa) (also known as Cranberry Tea)"
+tags: ["Drinks"]
+servings: ""
+---
   Ingredients  
 
   4 1/2 cups of unsweetened pineapple juice (48 ounces)

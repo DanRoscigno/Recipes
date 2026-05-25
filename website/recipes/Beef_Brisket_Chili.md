@@ -1,7 +1,8 @@
-# Beef Brisket Chili
-
-`Main Meal` `American`
-
+---
+title: "Beef Brisket Chili"
+tags: ["Main Meal", "American"]
+servings: ""
+---
 4#  1" cubes of beef brisket after trimming 
 
 Seasoning covering all brisket (Black Pepper, Granulated Garlic, Granulated Onion, Fajita Seasoning, [Citrus Herb Rub](https://grillagrills.com/recipes/citrus-herb-salt-recipe/) (~1/8 cup high-quality, coarse kosher salt, 2 tsp rosemary, 2 tsp thyme, 2 tsp granulated garlic, 2 Limes – zested, 1 Lemon – zested). Let rest and marinate with seasoning marinate 1-2 hrs.

@@ -1,9 +1,8 @@
-# Roasted Vegetable Sandwiches
-
-`Main Meal` `Sandwiches` `Kim Acceptable` `American`
-
- 
-
+---
+title: "Roasted Vegetable Sandwiches"
+tags: ["Main Meal", "Sandwiches", "Kim Acceptable", "American"]
+servings: ""
+---
   Directions  
 
   Roasted Summer Vegetables:

@@ -1,9 +1,8 @@
-# Spring Onion Pie
-
-`Breakfasts` `Kim Acceptable`
-
-Makes ~ 6 servings
-
+---
+title: "Spring Onion Pie"
+tags: ["Breakfasts", "Kim Acceptable"]
+servings: "Makes ~ 6 servings"
+---
 **Ingredients:**
 
 - 10 thin spring onions 

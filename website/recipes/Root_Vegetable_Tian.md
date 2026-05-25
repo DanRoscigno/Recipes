@@ -1,9 +1,8 @@
-# Root Vegetable Tian
-
-`Want to make` `Thanksgiving` `Side dish` `Fall` `Special Meal`
-
-Serves 6-8
-
+---
+title: "Root Vegetable Tian"
+tags: ["Want to make", "Thanksgiving", "Side dish", "Fall", "Special Meal"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 - 1 (15.5-ounce) can chickpeas, drained, 1/4 cup liquid reserved

@@ -1,9 +1,8 @@
-# Sunny's 5-Ingredient Lemon and Cheese Peas
-
-`Want to make` `Side dish`
-
-Makes 8-12 servings
-
+---
+title: "Sunny's 5-Ingredient Lemon and Cheese Peas"
+tags: ["Want to make", "Side dish"]
+servings: "Makes 8-12 servings"
+---
 ### **Ingredients:**
 
 1/2 cup (8 tablespoons) olive oil or salted butter

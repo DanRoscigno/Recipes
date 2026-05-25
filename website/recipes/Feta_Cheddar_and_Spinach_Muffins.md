@@ -1,7 +1,8 @@
-# Feta, Cheddar, and Spinach Muffins
-
-`Want to make` `Gifts` `Breads` `Camping` `Mediterranean Inspired`
-
+---
+title: "Feta, Cheddar, and Spinach Muffins"
+tags: ["Want to make", "Gifts", "Breads", "Camping", "Mediterranean Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 2 3/8 cups **plain flour**

@@ -1,9 +1,8 @@
-# PUMPKIN SEED DRIED CRANBERRY TRAIL MIX
-
-`Breakfasts` `Gifts` `Snack` `Camping`
-
-Makes ~ 5 cups
-
+---
+title: "PUMPKIN SEED DRIED CRANBERRY TRAIL MIX"
+tags: ["Breakfasts", "Gifts", "Snack", "Camping"]
+servings: "Makes ~ 5 cups"
+---
 **INGREDIENTS:**
 
 - 2 cups raw pumpkin seeds (pepitas)

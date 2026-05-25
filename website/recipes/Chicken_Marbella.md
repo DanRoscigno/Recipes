@@ -1,9 +1,8 @@
-# Chicken Marbella
-
-`Main Meal` `Want to make` `Kim Acceptable` `Italian Inspired`
-
-Serves 4
-
+---
+title: "Chicken Marbella"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "Italian Inspired"]
+servings: "Serves 4"
+---
 ## **Ingredients:**
 
 One 4- to 5-pound chicken, cut into 8 pieces

@@ -1,9 +1,8 @@
-# Orange Pineapple Ice Cream
-
-`Ice Creams`
-
- 
-
+---
+title: "Orange Pineapple Ice Cream"
+tags: ["Ice Creams"]
+servings: ""
+---
   Ingredients  
 
   3/4 large can of good quality pineapple in juice

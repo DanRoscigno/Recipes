@@ -1,7 +1,8 @@
-# White Bean Burger With Sesame Ginger Slaw + Gochujang Yogurt Spread
-
-`Main Meal` `Picnic Fare` `Kim Acceptable` `Asian Inspired`
-
+---
+title: "White Bean Burger With Sesame Ginger Slaw + Gochujang Yogurt Spread"
+tags: ["Main Meal", "Picnic Fare", "Kim Acceptable", "Asian Inspired"]
+servings: ""
+---
  Prep Time 20 minutes
 
  Cook Time 10 minutes

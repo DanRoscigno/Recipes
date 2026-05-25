@@ -1,7 +1,8 @@
-# Glazed Roasted Chicken
-
-`Main Meal` `Kim Acceptable` `Asian Inspired`
-
+---
+title: "Glazed Roasted Chicken"
+tags: ["Main Meal", "Kim Acceptable", "Asian Inspired"]
+servings: ""
+---
  ![Glazed Roasted Chicken](http://img.timeinc.net/recipes/i/recipes/sl/03/10/roasted-chicken-sl-488638-l.jpg)   Ingredients  
 
   * 1/2 cup lite teriyaki sauce

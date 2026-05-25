@@ -1,7 +1,8 @@
-# Apple Vinaigrette
-
-`Thanksgiving` `Fall` `Salad Dressings`
-
+---
+title: "Apple Vinaigrette"
+tags: ["Thanksgiving", "Fall", "Salad Dressings"]
+servings: ""
+---
 **Ingredients:**
 
 - 1/2 cup extra virgin olive oil

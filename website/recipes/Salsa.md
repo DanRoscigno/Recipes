@@ -1,9 +1,8 @@
-# Salsa
-
-`Condiments` `Appetizers` `Mexican/Cuban/Latin Inspired`
-
- 
-
+---
+title: "Salsa"
+tags: ["Condiments", "Appetizers", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
   Ingredients  
 
   14 plum tomatoes

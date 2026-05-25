@@ -1,5 +1,8 @@
-# Hot Water Cornbread Flats
-
+---
+title: "Hot Water Cornbread Flats"
+tags: []
+servings: ""
+---
 ![IMG_0606.JPG](image/IMG_0606.JPG)
 
 Makes 4 

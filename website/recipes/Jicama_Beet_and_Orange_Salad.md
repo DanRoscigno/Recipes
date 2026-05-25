@@ -1,9 +1,8 @@
-# Jicama, Beet, and Orange Salad
-
-`Salads` `Side dish` `Kim Acceptable` `Island Inspired`
-
-Servings: 8      
-
+---
+title: "Jicama, Beet, and Orange Salad"
+tags: ["Salads", "Side dish", "Kim Acceptable", "Island Inspired"]
+servings: "Servings: 8"
+---
 **Ingredients:**
 
 4 large beets, peeled and green tops removed

@@ -1,9 +1,8 @@
-# Egg Baked in Acorn Squash
-
-`Want to make` `Breakfasts` `Fall`
-
-Serves 4
-
+---
+title: "Egg Baked in Acorn Squash"
+tags: ["Want to make", "Breakfasts", "Fall"]
+servings: "Serves 4"
+---
 **Ingredients:**
 
 1 acorn squash

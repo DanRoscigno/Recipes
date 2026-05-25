@@ -1,9 +1,8 @@
-# Lemon Vinaigrette Dressing
-
-`Salad Dressings`
-
-Makes 3/4 cup
-
+---
+title: "Lemon Vinaigrette Dressing"
+tags: ["Salad Dressings"]
+servings: "Makes 3/4 cup"
+---
 **Ingredients:**
 
 1/4 cup freshly squeezed lemon juice

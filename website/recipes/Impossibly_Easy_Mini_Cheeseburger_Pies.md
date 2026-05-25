@@ -1,9 +1,8 @@
-# Impossibly Easy Mini Cheeseburger Pies
-
-`Want to make` `Kid’s Delight`
-
-Serves 6
-
+---
+title: "Impossibly Easy Mini Cheeseburger Pies"
+tags: ["Want to make", "Kid’s Delight"]
+servings: "Serves 6"
+---
 **Ingredients:**
 
 _Burger Mixture_

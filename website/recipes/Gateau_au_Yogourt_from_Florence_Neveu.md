@@ -1,9 +1,8 @@
-# Gateau au Yogourt (Florence Neveu)
-
-`Desserts`
-
- 
-
+---
+title: "Gateau au Yogourt (Florence Neveu)"
+tags: ["Desserts"]
+servings: ""
+---
   Ingredients  
 
   3 eggs

@@ -1,7 +1,8 @@
-# French Onion Soup
-
-`Soups`
-
+---
+title: "French Onion Soup"
+tags: ["Soups"]
+servings: ""
+---
 - 4 tablespoons butter 
 - 1 teaspoon salt 
 - 2 large red onions, thinly sliced 

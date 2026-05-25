@@ -1,9 +1,8 @@
-# Lemon-Toasted Poppy Seed Cake
-
-`Desserts` `Gifts`
-
-Serves 8-10
-
+---
+title: "Lemon-Toasted Poppy Seed Cake"
+tags: ["Desserts", "Gifts"]
+servings: "Serves 8-10"
+---
 **Ingredients:**
 
 _Cake:_

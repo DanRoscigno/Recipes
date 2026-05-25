@@ -1,7 +1,8 @@
-# Italian Gravy (Tomato Sauce)
-
-`Main Meal` `Italian Inspired`
-
+---
+title: "Italian Gravy (Tomato Sauce)"
+tags: ["Main Meal", "Italian Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 1 90 ounce can Cento peeled San Marzano tomatoes

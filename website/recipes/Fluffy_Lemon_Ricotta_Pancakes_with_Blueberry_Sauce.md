@@ -1,9 +1,8 @@
-# Fluffy Lemon Ricotta Pancakes with Blueberry Sauce
-
-`Breakfasts` `Kim Acceptable`
-
-Makes 10-12 pancakes
-
+---
+title: "Fluffy Lemon Ricotta Pancakes with Blueberry Sauce"
+tags: ["Breakfasts", "Kim Acceptable"]
+servings: "Makes 10-12 pancakes"
+---
 **Ingredients:**
 
 _Blueberry Sauce:_

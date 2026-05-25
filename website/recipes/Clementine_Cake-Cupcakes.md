@@ -1,9 +1,8 @@
-# Clementine Cake/Cupcakes
-
-`Desserts` `Picnic Fare` `Gluten Free` `Summer` `Spring`
-
-Makes 1-8” cake or 12 cupcakes
-
+---
+title: "Clementine Cake/Cupcakes"
+tags: ["Desserts", "Picnic Fare", "Gluten Free", "Summer", "Spring"]
+servings: "Makes 1-8” cake or 12 cupcakes"
+---
 **Ingredients:**
 
 4 to 5 clementines (about 1 pound total weight)

@@ -1,9 +1,8 @@
-# Clementine and Cranberry Glazed Cornish Game Hens
-
-`Main Meal` `Kim Acceptable` `Special Meal` `Easter` `French Inspired`
-
-Makes 4 servings
-
+---
+title: "Clementine and Cranberry Glazed Cornish Game Hens"
+tags: ["Main Meal", "Kim Acceptable", "Special Meal", "Easter", "French Inspired"]
+servings: "Makes 4 servings"
+---
 ### **Ingredients:**
 
 1 shallot, minced

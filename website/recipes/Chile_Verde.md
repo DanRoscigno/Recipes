@@ -1,7 +1,8 @@
-# Chile Verde
-
-`Main Meal` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Chile Verde"
+tags: ["Main Meal", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 ## **INGREDIENTS**
 
 - 1 1/2 pounds tomatillo

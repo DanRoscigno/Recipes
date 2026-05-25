@@ -1,9 +1,8 @@
-# Santa Maria Grilled Tri-Tip Beef
-
-`Main Meal` `American`
-
-Servings: 9
-
+---
+title: "Santa Maria Grilled Tri-Tip Beef"
+tags: ["Main Meal", "American"]
+servings: "Servings: 9"
+---
 **Ingredients:**
 
 - 1 tablespoon salt

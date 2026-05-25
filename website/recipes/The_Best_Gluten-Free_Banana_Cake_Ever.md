@@ -1,7 +1,8 @@
-# The Best Gluten-Free Banana Cake Ever!
-
-`Desserts` `Gluten Free`
-
+---
+title: "The Best Gluten-Free Banana Cake Ever!"
+tags: ["Desserts", "Gluten Free"]
+servings: ""
+---
 ### Serves 8
 
 ### **INGREDIENTS:**

@@ -1,7 +1,8 @@
-# Goat Cheese and Herb Souffles
-
-`Main Meal` `Side dish` `Kim Acceptable` `French Inspired`
-
+---
+title: "Goat Cheese and Herb Souffles"
+tags: ["Main Meal", "Side dish", "Kim Acceptable", "French Inspired"]
+servings: ""
+---
  ![Goat Cheese and Herb Souffles](http://www.paradounyc.com/image_bank/recipes/goatsouffle.jpg)   Ingredients  
 
   7 tablespoons grated Parmesan cheese

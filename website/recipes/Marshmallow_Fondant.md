@@ -1,9 +1,8 @@
-# Marshmallow Fondant
-
-`Want to make` `Frosting`
-
-Make at least 12 hours ahead of when you need it!
-
+---
+title: "Marshmallow Fondant"
+tags: ["Want to make", "Frosting"]
+servings: "Make at least 12 hours ahead of when you need it!"
+---
 **Ingredients:** 
 
 - ¼ cup butter 

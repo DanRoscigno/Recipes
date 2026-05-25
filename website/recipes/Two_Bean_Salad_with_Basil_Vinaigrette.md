@@ -1,8 +1,8 @@
-# Two Bean Salad with Basil Vinaigrette
-
-`Salads` `Main Meal` `Want to make` `Kim Acceptable` `Italian Inspired`
-
-serves 2 as a meal, or 4 sides
+---
+title: "Two Bean Salad with Basil Vinaigrette"
+tags: ["Salads", "Main Meal", "Want to make", "Kim Acceptable", "Italian Inspired"]
+servings: "serves 2 as a meal, or 4 sides"
+---
 ![Snapshot.jpg](image/Snapshot.jpg)
 
 **Ingredients:**

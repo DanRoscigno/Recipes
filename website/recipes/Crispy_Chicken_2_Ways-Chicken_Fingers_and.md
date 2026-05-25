@@ -1,5 +1,8 @@
-# Crispy Chicken 2 Ways: Chicken Fingers and
-
+---
+title: "Crispy Chicken 2 Ways: Chicken Fingers and"
+tags: []
+servings: ""
+---
 Serves 2 children and 2 adults
 
 **Ingredients:**

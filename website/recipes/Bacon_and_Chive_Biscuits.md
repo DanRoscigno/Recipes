@@ -1,9 +1,8 @@
-# Bacon and Chive Biscuits
-
-`Breads`
-
-Makes 12 2-inch biscuits
-
+---
+title: "Bacon and Chive Biscuits"
+tags: ["Breads"]
+servings: "Makes 12 2-inch biscuits"
+---
 **Ingredients:** 
 
 1/2 lb. bacon (about 8 slices)

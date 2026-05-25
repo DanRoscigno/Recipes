@@ -1,7 +1,8 @@
-# Apple Cider and Sauteed Apple Basmati Rice
-
-`Want to make` `Side dish`
-
+---
+title: "Apple Cider and Sauteed Apple Basmati Rice"
+tags: ["Want to make", "Side dish"]
+servings: ""
+---
 ### ~ 4 servings
 
 ### **Ingredients:**

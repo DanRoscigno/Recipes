@@ -1,9 +1,8 @@
-# Orange-Cardamom Pancakes
-
-`Breakfasts`
-
-Yield: 12 pancakes (4 to 6 servings)
-
+---
+title: "Orange-Cardamom Pancakes"
+tags: ["Breakfasts"]
+servings: "Yield: 12 pancakes (4 to 6 servings)"
+---
 **Ingredients:**
 
 - 2cups all-purpose flour

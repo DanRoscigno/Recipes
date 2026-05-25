@@ -1,9 +1,8 @@
-# Cardamom Ice Cream
-
-`Ice Creams` `Want to make`
-
- 
-
+---
+title: "Cardamom Ice Cream"
+tags: ["Ice Creams", "Want to make"]
+servings: ""
+---
   Ingredients  
 
   •2 cups half and half

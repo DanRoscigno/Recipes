@@ -1,9 +1,8 @@
-# Belgian Chocolate Birthday Cake
-
-`Desserts`
-
-Serves 10
-
+---
+title: "Belgian Chocolate Birthday Cake"
+tags: ["Desserts"]
+servings: "Serves 10"
+---
 **Ingredients:**
 
 _Cake:_

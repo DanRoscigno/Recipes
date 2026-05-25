@@ -1,7 +1,8 @@
-# Fresh Peach Salad
-
-`Salads` `Picnic Fare` `Kim Acceptable`
-
+---
+title: "Fresh Peach Salad"
+tags: ["Salads", "Picnic Fare", "Kim Acceptable"]
+servings: ""
+---
 ### Makes 4-6 servings
 
 ### **Ingredients:**

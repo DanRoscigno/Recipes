@@ -1,7 +1,8 @@
-# Sweet Honey Corn muffins with Candied Sweet Potato Topping
-
-`Desserts` `Breads` `Thanksgiving` `American` `Christmas`
-
+---
+title: "Sweet Honey Corn muffins with Candied Sweet Potato Topping"
+tags: ["Desserts", "Breads", "Thanksgiving", "American", "Christmas"]
+servings: ""
+---
 ### Ingredients:
 
 - 1 cup all-purpose flour

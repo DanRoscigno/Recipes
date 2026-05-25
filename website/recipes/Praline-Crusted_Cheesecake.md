@@ -1,9 +1,8 @@
-# Praline-Crusted Cheesecake
-
-`Cheesecakes`
-
- 
-
+---
+title: "Praline-Crusted Cheesecake"
+tags: ["Cheesecakes"]
+servings: ""
+---
   Ingredients  
 
   2 cups crushed shortbread cookies (about 28 cookies)

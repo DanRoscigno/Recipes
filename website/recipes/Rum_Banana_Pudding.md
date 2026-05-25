@@ -1,10 +1,9 @@
-# Rum Banana Pudding
-
-`Desserts` `Want to make`
-
-Servings: 10-12  
-
-**Ingredients:**   
+---
+title: "Rum Banana Pudding"
+tags: ["Desserts", "Want to make"]
+servings: "Servings: 10-12ï¿½"
+---
+**Ingredients:**ï¿½  
 
 1 1/2 cups milk
 
@@ -30,7 +29,7 @@ Servings: 10-12 
 
 2 tablespoons sugar
 
-**Directions:**  
+**Directions:**ï¿½ 
 
  Preheat oven to 400 degrees. Whisk together first 5 ingredients in a large saucepan over medium-low heat; cook, whisking constantly, 6 to 8 minutes or until thickened. Remove from heat, and stir in vanilla. Let stand 5 minutes. Gently stir bananas into pudding mixture.
 
@@ -38,5 +37,5 @@ Arrange 15 vanilla wafers in a single layer on bottom of a 1 1/2-quart baking di
 
 Beat egg whites and 1/8 teaspoon cream of tartar at high speed with an electric mixer until foamy. Add 2 tablespoons sugar, 1 tablespoon at a time, beating until soft peaks form and sugar dissolves (about 1 to 2 minutes). Spread meringue evenly over top of banana mixture, sealing edges.
 
-Bake at 400 for 8 to 10 minutes or until golden brown.  
+Bake at 400 for 8 to 10 minutes or until golden brown.ï¿½ 
 

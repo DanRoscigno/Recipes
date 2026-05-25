@@ -1,9 +1,8 @@
-# Chickpea Saute with Greek Yogurt Sauce
-
-`Main Meal` `Picnic Fare` `Side dish` `Kim Acceptable` `Mediterranean Inspired`
-
- 
-
+---
+title: "Chickpea Saute with Greek Yogurt Sauce"
+tags: ["Main Meal", "Picnic Fare", "Side dish", "Kim Acceptable", "Mediterranean Inspired"]
+servings: ""
+---
   Ingredients  
 
   For the sauté:

@@ -1,10 +1,11 @@
-# Egg Nog
+---
+title: "Egg Nog"
+tags: ["Drinks"]
+servings: ""
+---
+Servings 2ï¿½ 
 
-`Drinks`
-
-Servings 2  
-
-**Ingredients:**  
+**Ingredients:**ï¿½ 
 
 4 eggs
 
@@ -18,4 +19,4 @@ fresh ground nutmeg
 
 **Directions:**
 
-In a bowl, beat eggs and yolks until light and frothy. Gradually add sugar, continuing to beat well. Warm the brandy and water in a small saucepan, but do not allow to boil. Pour a thin stream of hot liquid into beaten egg mixture, continuing to beat well. Add fresh ground nutmeg to taste. Serve in hot heatproof glasses or mugs.  
+In a bowl, beat eggs and yolks until light and frothy. Gradually add sugar, continuing to beat well. Warm the brandy and water in a small saucepan, but do not allow to boil. Pour a thin stream of hot liquid into beaten egg mixture, continuing to beat well. Add fresh ground nutmeg to taste. Serve in hot heatproof glasses or mugs.ï¿½ 

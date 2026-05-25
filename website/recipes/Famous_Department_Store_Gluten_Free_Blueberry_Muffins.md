@@ -1,9 +1,8 @@
-# Famous Department Store Gluten Free Blueberry Muffins
-
-`Gluten Free` `Breads`
-
-YIELD: 12 muffins
-
+---
+title: "Famous Department Store Gluten Free Blueberry Muffins"
+tags: ["Gluten Free", "Breads"]
+servings: "YIELD: 12 muffins"
+---
 These muffins are a clone of "The Famous Jordan Marsh Blueberry Muffins" — which were indeed famous up until the mid-1990s, when Jordan's, one of Boston's two iconic department stores (Filene's being the other) was absorbed by Macy's and effectively disappeared.
 
 These overstuffed muffins, with their signature sugary crown, were served in the Jordan Marsh dining room on the top floor of the store, where dedicated shoppers went to rest and compare purchases while sipping tea and enjoying a muffin — blueberry, of course.

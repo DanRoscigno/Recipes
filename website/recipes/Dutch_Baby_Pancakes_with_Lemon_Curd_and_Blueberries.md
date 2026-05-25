@@ -1,9 +1,8 @@
-# Dutch Baby Pancakes with Lemon Curd and Blueberries
-
-`Want to make` `Breakfasts` `Kim Acceptable`
-
-Makes 4
-
+---
+title: "Dutch Baby Pancakes with Lemon Curd and Blueberries"
+tags: ["Want to make", "Breakfasts", "Kim Acceptable"]
+servings: "Makes 4"
+---
 **Ingredients:**
 
 - 3 eggs

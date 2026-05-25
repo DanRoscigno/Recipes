@@ -1,9 +1,8 @@
-# Baja Bowl with Chicken
-
-`Main Meal` `Picnic Fare` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
-Makes 4 bowls
-
+---
+title: "Baja Bowl with Chicken"
+tags: ["Main Meal", "Picnic Fare", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: "Makes 4 bowls"
+---
 ### Ingredients:
 
 _CILANTRO LIME BROWN RICE AND QUINOA:_

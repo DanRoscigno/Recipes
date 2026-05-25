@@ -1,9 +1,8 @@
-# Mexican Sweet Corn Cake
-
-`Desserts` `Mexican/Cuban/Latin Inspired`
-
-Serves ~ 6
-
+---
+title: "Mexican Sweet Corn Cake"
+tags: ["Desserts", "Mexican/Cuban/Latin Inspired"]
+servings: "Serves ~ 6"
+---
 **Ingredients:**
 
 - ½ cup butter, softened

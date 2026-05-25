@@ -1,9 +1,8 @@
-# Healthy 10-75 Chili
-
-`Main Meal` `Mexican/Cuban/Latin Inspired`
-
-Servings: 10-12      
-
+---
+title: "Healthy 10-75 Chili"
+tags: ["Main Meal", "Mexican/Cuban/Latin Inspired"]
+servings: "Servings: 10-12"
+---
 **Ingredients:**    
 
 3 pounds of sweet Turkey sausage

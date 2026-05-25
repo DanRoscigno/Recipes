@@ -1,7 +1,8 @@
-# Breakfast Stuffed Bell Peppers (For Two)
-
-`Breakfasts`
-
+---
+title: "Breakfast Stuffed Bell Peppers (For Two)"
+tags: ["Breakfasts"]
+servings: ""
+---
 **Ingredients:**
 
 - 1/2 rounded cup shredded Cheddar cheese

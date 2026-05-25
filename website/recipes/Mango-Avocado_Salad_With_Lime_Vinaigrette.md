@@ -1,9 +1,8 @@
-# Mango-Avocado Salad With Lime Vinaigrette
-
-`Side dish` `Kim Acceptable` `Salads` `Mexican/Cuban/Latin Inspired`
-
-Yield: ~ 4 large servings or 8 to 10 small servings
-
+---
+title: "Mango-Avocado Salad With Lime Vinaigrette"
+tags: ["Side dish", "Kim Acceptable", "Salads", "Mexican/Cuban/Latin Inspired"]
+servings: "Yield: ~ 4 large servings or 8 to 10 small servings"
+---
 ## **Ingredients:**
 
 _Dressing:_

@@ -1,9 +1,8 @@
-# Chocolate Covered Cherry Cookies
-
-`Cookies`
-
-Servings: 6 dozen      
-
+---
+title: "Chocolate Covered Cherry Cookies"
+tags: ["Cookies"]
+servings: "Servings: 6 dozen"
+---
 **Ingredients:**  
 
 1 1/2 cups all-purpose flour

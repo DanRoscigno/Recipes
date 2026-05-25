@@ -1,9 +1,8 @@
-# Chicken Fingers with Apple Butter-Peanut Sauce
-
-`Appetizers` `Kim Acceptable` `Kid’s Delight` `Fall`
-
-Makes about 10 strips and 1 3/4 cups sauce
-
+---
+title: "Chicken Fingers with Apple Butter-Peanut Sauce"
+tags: ["Appetizers", "Kim Acceptable", "Kid’s Delight", "Fall"]
+servings: "Makes about 10 strips and 1 3/4 cups sauce"
+---
 **Ingredients:**
 
 _Chicken Strips:_

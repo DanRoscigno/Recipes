@@ -1,7 +1,8 @@
-# Sausage Tortellini Soup
-
-`Soups` `Kim Acceptable` `Quick` `Fall` `Winter`
-
+---
+title: "Sausage Tortellini Soup"
+tags: ["Soups", "Kim Acceptable", "Quick", "Fall", "Winter"]
+servings: ""
+---
 ![Image_20231110_163658.jpeg](image/Image_20231110_163658.jpeg)
 
 **INGREDIENTS:**

@@ -1,9 +1,8 @@
-# Gluten-Free Buttermilk Pancakes
-
-`Breakfasts` `Gluten Free`
-
-Makes ~ 5-6 medium to large pancakes
-
+---
+title: "Gluten-Free Buttermilk Pancakes"
+tags: ["Breakfasts", "Gluten Free"]
+servings: "Makes ~ 5-6 medium to large pancakes"
+---
 **Ingredients:**
 
 1 cup King Arthur GF baking mix

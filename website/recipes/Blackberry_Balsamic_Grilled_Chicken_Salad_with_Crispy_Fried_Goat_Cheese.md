@@ -1,9 +1,8 @@
-# Blackberry Balsamic Grilled Chicken Salad with Crispy Fried Goat Cheese
-
-`Salads` `Main Meal` `Kim Acceptable` `Summer`
-
-Serves 4
-
+---
+title: "Blackberry Balsamic Grilled Chicken Salad with Crispy Fried Goat Cheese"
+tags: ["Salads", "Main Meal", "Kim Acceptable", "Summer"]
+servings: "Serves 4"
+---
 **INGREDIENTS:**
 
 _For the Blackberry Balsamic Vinaigrette Dressing:_

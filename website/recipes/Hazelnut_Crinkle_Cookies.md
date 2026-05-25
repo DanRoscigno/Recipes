@@ -1,9 +1,8 @@
-# Hazelnut Crinkle Cookies
-
-`Cookies` `Italian Inspired`
-
-Servings: 6 dozen
-
+---
+title: "Hazelnut Crinkle Cookies"
+tags: ["Cookies", "Italian Inspired"]
+servings: "Servings: 6 dozen"
+---
 **Ingredients:**  
 
 1/2 cup chopped hazelnuts

@@ -1,7 +1,8 @@
-# Turkey Stock
-
-`Condiments` `Soups`
-
+---
+title: "Turkey Stock"
+tags: ["Condiments", "Soups"]
+servings: ""
+---
 **Ingredients:**
 
 15-18 lb. Turkey carcass 

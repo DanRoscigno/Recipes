@@ -1,9 +1,8 @@
-# Southern Vegetable Pie
-
-`Main Meal` `Breakfasts` `Kim Acceptable` `American`
-
-Servings: 8
-
+---
+title: "Southern Vegetable Pie"
+tags: ["Main Meal", "Breakfasts", "Kim Acceptable", "American"]
+servings: "Servings: 8"
+---
 **Ingredients:**
 
 1/4 cup olive oil

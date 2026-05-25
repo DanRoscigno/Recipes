@@ -1,7 +1,8 @@
-# Ricotta & Nutella Cake
-
-`Desserts` `Italian Inspired`
-
+---
+title: "Ricotta & Nutella Cake"
+tags: ["Desserts", "Italian Inspired"]
+servings: ""
+---
 #### **Ingredients :**
 
 1 1/2 cups all-purpose flour

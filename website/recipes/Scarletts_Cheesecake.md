@@ -1,9 +1,8 @@
-# Scarlett's Cheesecake
-
-`Cheesecakes` `Want to make`
-
-Servings: 10
-
+---
+title: "Scarlett's Cheesecake"
+tags: ["Cheesecakes", "Want to make"]
+servings: "Servings: 10"
+---
 **Ingredients:**
 
 _Crust:_

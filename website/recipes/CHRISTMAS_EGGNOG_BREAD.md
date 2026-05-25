@@ -1,9 +1,8 @@
-# CHRISTMAS EGGNOG BREAD
-
-`Gifts` `Breads` `Irish/English/Scottish Inspired` `Christmas`
-
-Makes 1 loaf
-
+---
+title: "CHRISTMAS EGGNOG BREAD"
+tags: ["Gifts", "Breads", "Irish/English/Scottish Inspired", "Christmas"]
+servings: "Makes 1 loaf"
+---
 **Ingredients:**
 
 _Wet Ingredients:_

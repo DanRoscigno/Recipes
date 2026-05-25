@@ -1,7 +1,8 @@
-# Dan’s Famous Guacamole
-
-`Condiments` `Appetizers` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Dan’s Famous Guacamole"
+tags: ["Condiments", "Appetizers", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 6 large ripe avacados, cut into small chunks

@@ -1,9 +1,8 @@
-# Lancashire Hot Pot
-
-`Main Meal` `Irish/English/Scottish Inspired`
-
-Servings: 4
-
+---
+title: "Lancashire Hot Pot"
+tags: ["Main Meal", "Irish/English/Scottish Inspired"]
+servings: "Servings: 4"
+---
 **Ingredients**      
 
 2 lbs pork or lamb cutlets

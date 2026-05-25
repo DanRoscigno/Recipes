@@ -1,9 +1,8 @@
-# Caramelized Onion and Grapefruit Salad
-
-`Salads` `Want to make` `Picnic Fare` `Side dish` `Summer` `Spring`
-
-Servings:  4 to 6 servings 
-
+---
+title: "Caramelized Onion and Grapefruit Salad"
+tags: ["Salads", "Want to make", "Picnic Fare", "Side dish", "Summer", "Spring"]
+servings: "Servings:  4 to 6 servings"
+---
 **Ingredients:**
 
 _Dressing:_

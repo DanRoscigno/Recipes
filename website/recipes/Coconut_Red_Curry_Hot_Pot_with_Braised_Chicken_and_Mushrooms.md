@@ -1,10 +1,9 @@
-# Coconut Red Curry Hot Pot with Braised Chicken and Mushrooms
-
-`Main Meal` `Asian Inspired`
-
-Servings: 6  
-
-**Ingredients:**  
+---
+title: "Coconut Red Curry Hot Pot with Braised Chicken and Mushrooms"
+tags: ["Main Meal", "Asian Inspired"]
+servings: "Servings: 6ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 * 2 cups fat-free, lower-sodium chicken broth
 
@@ -34,7 +33,7 @@ Servings: 6 
 
  * 3 ounces uncooked wide rice noodles
 
-**Directions:**  
+**Directions:**ï¿½ 
 
 1. Bring broth to a boil in a medium saucepan 
 

@@ -1,7 +1,8 @@
-# Green Beans With Ginger and Garlic
-
-`Thanksgiving` `Side dish` `Kim Acceptable`
-
+---
+title: "Green Beans With Ginger and Garlic"
+tags: ["Thanksgiving", "Side dish", "Kim Acceptable"]
+servings: ""
+---
 **Yield:**10 servings
 
 **INGREDIENTS:**

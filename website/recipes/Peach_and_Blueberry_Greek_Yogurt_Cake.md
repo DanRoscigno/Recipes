@@ -1,8 +1,8 @@
-# Peach and Blueberry Greek Yogurt Cake
-
-`Breads`
-
-Serves ~ 10
+---
+title: "Peach and Blueberry Greek Yogurt Cake"
+tags: ["Breads"]
+servings: "Serves ~ 10"
+---
 ![Image_20230822_174623.jpeg](image/Image_20230822_174623.jpeg)
 
 **Ingredients:**

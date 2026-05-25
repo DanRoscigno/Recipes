@@ -1,9 +1,8 @@
-# Beet Salad with Goat Cheese
-
-`Salads` `Side dish` `Kim Acceptable`
-
- 
-
+---
+title: "Beet Salad with Goat Cheese"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   Ingredients

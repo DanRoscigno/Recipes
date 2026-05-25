@@ -1,9 +1,8 @@
-# Avocado-Chocolate Truffles
-
-`Want to make` `Gifts` `Picnic Fare` `Candy`
-
-                 
-
+---
+title: "Avocado-Chocolate Truffles"
+tags: ["Want to make", "Gifts", "Picnic Fare", "Candy"]
+servings: ""
+---
 **Ingredients:**
 
 1/2 cup butter

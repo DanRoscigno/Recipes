@@ -1,10 +1,9 @@
-# Black Bean-Mango Salsa
-
-`Picnic Fare` `Appetizers` `Side dish` `Kim Acceptable` `Island Inspired`
-
-Servings: 8-10  
-
-**Ingredients:**  
+---
+title: "Black Bean-Mango Salsa"
+tags: ["Picnic Fare", "Appetizers", "Side dish", "Kim Acceptable", "Island Inspired"]
+servings: "Servings: 8-10ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 1 can (15 oz.) black beans, rinsed and drained
 
@@ -28,7 +27,7 @@ Servings: 8-10 
 
 Salt and pepper
 
-**Directions:**  
+**Directions:**ï¿½ 
 
- In a bowl, mix beans, mango, tomato, bell peppers, onion, jalapeÃ±o, cilantro, garlic, lime juice, and vinegar. Add salt and pepper to taste. Serve, or cover and chill up to 1 day.  
+ In a bowl, mix beans, mango, tomato, bell peppers, onion, jalapeÃ±o, cilantro, garlic, lime juice, and vinegar. Add salt and pepper to taste. Serve, or cover and chill up to 1 day.ï¿½ 
 

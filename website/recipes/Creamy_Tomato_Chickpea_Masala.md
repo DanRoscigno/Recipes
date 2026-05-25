@@ -1,9 +1,8 @@
-# Creamy Tomato Chickpea Masala
-
-`Main Meal` `Want to make` `Kim Acceptable` `Indian Inspired`
-
-Serves 4
-
+---
+title: "Creamy Tomato Chickpea Masala"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "Indian Inspired"]
+servings: "Serves 4"
+---
 3 tablespoons (45 grams) neutral oil, butter, or ghee
 
 1 large yellow onion, minced

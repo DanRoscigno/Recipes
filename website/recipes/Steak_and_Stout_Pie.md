@@ -1,9 +1,8 @@
-# Steak and Stout Pie
-
-`Main Meal` `Want to make` `Special Meal` `Irish/English/Scottish Inspired`
-
-Makes 6-8 servings
-
+---
+title: "Steak and Stout Pie"
+tags: ["Main Meal", "Want to make", "Special Meal", "Irish/English/Scottish Inspired"]
+servings: "Makes 6-8 servings"
+---
 **Ingredients:**
 
 _Filling:_

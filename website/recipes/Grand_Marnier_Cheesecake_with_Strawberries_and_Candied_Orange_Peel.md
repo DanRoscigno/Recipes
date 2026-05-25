@@ -1,9 +1,8 @@
-# Grand Marnier Cheesecake with Strawberries and Candied Orange Peel
-
-`Cheesecakes`
-
- 
-
+---
+title: "Grand Marnier Cheesecake with Strawberries and Candied Orange Peel"
+tags: ["Cheesecakes"]
+servings: ""
+---
   Ingredients  
 
   CRUST

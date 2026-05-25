@@ -1,7 +1,8 @@
-# Pork & Cider Stew with Cheese & Herb Dumplings
-
-`Main Meal` `American`
-
+---
+title: "Pork & Cider Stew with Cheese & Herb Dumplings"
+tags: ["Main Meal", "American"]
+servings: ""
+---
 **INGREDIENTS:**
 
 FOR THE STEW:

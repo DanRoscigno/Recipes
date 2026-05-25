@@ -1,7 +1,8 @@
-# Eggplant and Chickpea Tagine
-
-`Main Meal` `Want to make` `Kim Acceptable` `Middle Eastern/Moroccan Inspired`
-
+---
+title: "Eggplant and Chickpea Tagine"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "Middle Eastern/Moroccan Inspired"]
+servings: ""
+---
 ### **INGREDIENTS:**
 
 - 1extra-large eggplant (or twosmall)
@@ -25,7 +26,7 @@
 
 Garnishes: Cinnamon scented couscous, flat-leaf parsley, [olive oil](https://goto.target.com/c/2773249/81938/2092?subid1=56f42548dd56ec564339868e&subid2=https%3A%2F%2Fwww.feastingathome.com%2Feggplant-chickpea-tagine%2F&sharedid=feasting%20at%20home&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fcarapelli-100-organic-extra-virgin-olive-oil-17oz%2F-%2FA-52000954&u=https%3A%2F%2Fwww.target.com%2Fp%2Fcarapelli-100-organic-extra-virgin-olive-oil-17oz%2F-%2FA-52000954#donotlink), optional yogurt, optional [Aleppo](https://bowlandpitcher.com/collections/spices-and-condiments/products/aleppo)chili flakes
 
-**Cinnamon-Scented Couscous (serves 4)** 
+**Cinnamon-Scented Couscous (serves 4)**ï¿½
 
 - 1 3/4cup[veggie stock](https://amzn.to/30NeqsQ)
 - 1 - 2tablespoons [olive oil](https://goto.target.com/c/2773249/81938/2092?subid1=56f42548dd56ec564339868e&subid2=https%3A%2F%2Fwww.feastingathome.com%2Feggplant-chickpea-tagine%2F&sharedid=feasting%20at%20home&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fcarapelli-100-organic-extra-virgin-olive-oil-17oz%2F-%2FA-52000954&u=https%3A%2F%2Fwww.target.com%2Fp%2Fcarapelli-100-organic-extra-virgin-olive-oil-17oz%2F-%2FA-52000954#donotlink)
@@ -39,7 +40,7 @@ Garnishes: Cinnamon scented couscous, flat-leaf parsley, [olive oil](https://got
 
 **PREP EGGPLANT:**Quarter the eggplant, and cut into large chunks (1 1/2 inches at widest part). Place in a big bowl, cover with cool water just to enough to cover, and stir in the [salt](https://amzn.to/3gphtxC). Place a plate over top to keep the eggplant submerged 20 minutes. Drain and pat dry. (Don't rinse.)
 
-**Preheat the oven to 375F** 
+**Preheat the oven to 375F**ï¿½
 
 **Pan Sear:**In a large [dutch oven](https://amzn.to/3d8TFlE), or ovenproof skillet, over medium-high heat, heat 2 tablespoons oil. Working in 2 batches, brown two sides of the eggplant, until golden, then set these aside. No need to cook through.
 

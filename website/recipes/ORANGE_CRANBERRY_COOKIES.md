@@ -1,9 +1,8 @@
-# ORANGE CRANBERRY COOKIES
-
-`Want to make` `Cookies` `Fall` `Winter`
-
-Makes 45 cookies
-
+---
+title: "ORANGE CRANBERRY COOKIES"
+tags: ["Want to make", "Cookies", "Fall", "Winter"]
+servings: "Makes 45 cookies"
+---
 **INGREDIENTS:**
 
 - 1cupsalted butter,softened

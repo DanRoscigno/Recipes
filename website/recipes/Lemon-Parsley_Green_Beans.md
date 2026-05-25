@@ -1,9 +1,8 @@
-# Lemon-Parsley Green Beans
-
-`Side dish` `Kim Acceptable`
-
-Makes 4 servings
-
+---
+title: "Lemon-Parsley Green Beans"
+tags: ["Side dish", "Kim Acceptable"]
+servings: "Makes 4 servings"
+---
 **Ingredients:**
 
 - 1 pinch white sugar 

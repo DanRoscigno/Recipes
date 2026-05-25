@@ -1,2 +1,5 @@
-# Recipes
-
+---
+title: "Recipes"
+tags: []
+servings: ""
+---

@@ -1,9 +1,8 @@
-# Roasted Potato Salad with Crispy Rosemary
-
-`Picnic Fare` `Side dish`
-
-Makes 8-10 servings
-
+---
+title: "Roasted Potato Salad with Crispy Rosemary"
+tags: ["Picnic Fare", "Side dish"]
+servings: "Makes 8-10 servings"
+---
 ### **Ingredients:**
 
 2 pounds medium red bliss potatoes

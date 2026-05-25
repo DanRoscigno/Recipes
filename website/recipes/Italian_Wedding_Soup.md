@@ -1,11 +1,8 @@
-# Italian Wedding Soup
-
-`Soups` `Kim Acceptable` `Italian Inspired`
-
-Servings: 8     
-
-  
-
+---
+title: "Italian Wedding Soup"
+tags: ["Soups", "Kim Acceptable", "Italian Inspired"]
+servings: "Servings: 8"
+---
 **Ingredients:**         
 
 _For the meatballs: (see comment below)_

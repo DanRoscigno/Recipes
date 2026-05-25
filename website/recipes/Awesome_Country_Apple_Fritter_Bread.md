@@ -1,7 +1,8 @@
-# Awesome Country Apple Fritter Bread
-
-`Breads` `Fall`
-
+---
+title: "Awesome Country Apple Fritter Bread"
+tags: ["Breads", "Fall"]
+servings: ""
+---
 **INGREDIENTS:**
 
 _Brown Sugar/Cinnamon Mixture:_

@@ -1,9 +1,8 @@
-# Morrocan Lamb Burgers with Mint Yogurt Sauce
-
-`Main Meal` `Want to make` `Picnic Fare` `Appetizers` `Middle Eastern/Moroccan Inspired`
-
- 
-
+---
+title: "Morrocan Lamb Burgers with Mint Yogurt Sauce"
+tags: ["Main Meal", "Want to make", "Picnic Fare", "Appetizers", "Middle Eastern/Moroccan Inspired"]
+servings: ""
+---
   Ingredients  
 
   1 cup plain whole milk yogurt

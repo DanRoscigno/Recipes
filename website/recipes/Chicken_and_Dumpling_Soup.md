@@ -1,9 +1,8 @@
-# Chicken and Dumpling Soup
-
-`Soups` `Kim Acceptable` `Fall` `Winter`
-
-Makes 4-6 servings
-
+---
+title: "Chicken and Dumpling Soup"
+tags: ["Soups", "Kim Acceptable", "Fall", "Winter"]
+servings: "Makes 4-6 servings"
+---
 **Ingredients:**
 
 _Soup Stock:_

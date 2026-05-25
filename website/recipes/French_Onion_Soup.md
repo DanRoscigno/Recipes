@@ -1,9 +1,8 @@
-# French Onion Soup
-
-`Soups`
-
- 
-
+---
+title: "French Onion Soup"
+tags: ["Soups"]
+servings: ""
+---
   Ingredients  
 
   1/4 cup of butter

@@ -1,7 +1,8 @@
-# Fennel Soup Gratin
-
-`Soups` `Italian Inspired`
-
+---
+title: "Fennel Soup Gratin"
+tags: ["Soups", "Italian Inspired"]
+servings: ""
+---
 ## Makes 6-8 servings
 
 ## **Ingredients:**

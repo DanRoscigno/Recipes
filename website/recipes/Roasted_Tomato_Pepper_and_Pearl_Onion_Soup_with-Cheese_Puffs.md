@@ -1,7 +1,8 @@
-# Roasted Tomato, Pepper, and Pearl Onion Soup with  Cheese Puffs
-
-`Want to make` `Soups`
-
+---
+title: "Roasted Tomato, Pepper, and Pearl Onion Soup with  Cheese Puffs"
+tags: ["Want to make", "Soups"]
+servings: ""
+---
 **Ingredients:**
 
 _Soup:_

@@ -1,8 +1,8 @@
-# Caribbean Pepperpot
-
-`Soups` `Kim Acceptable` `Summer` `Island Inspired`
-
-Serves 6
+---
+title: "Caribbean Pepperpot"
+tags: ["Soups", "Kim Acceptable", "Summer", "Island Inspired"]
+servings: "Serves 6"
+---
 ![Image_20221218_114200.jpeg](image/Image_20221218_114200.jpeg)
 
 **Ingredients:**

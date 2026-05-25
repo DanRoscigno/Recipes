@@ -1,9 +1,8 @@
-# Norwegian Pancakes with Pickled Jalapeños
-
-`Breakfasts`
-
-Makes ~ 16 pancakes depending on size
-
+---
+title: "Norwegian Pancakes with Pickled Jalapeños"
+tags: ["Breakfasts"]
+servings: "Makes ~ 16 pancakes depending on size"
+---
 **Ingredients:**
 
 - 3 cups milk

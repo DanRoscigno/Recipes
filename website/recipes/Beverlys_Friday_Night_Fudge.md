@@ -1,7 +1,8 @@
-# Beverly’s Friday Night Fudge
-
-`Gifts` `Gluten Free` `Kid’s Delight` `Candy` `Camping`
-
+---
+title: "Beverly’s Friday Night Fudge"
+tags: ["Gifts", "Gluten Free", "Kid’s Delight", "Candy", "Camping"]
+servings: ""
+---
 **Ingredients:**
 
 2 cups sugar

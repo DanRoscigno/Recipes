@@ -1,7 +1,8 @@
-# Candied Grapefruit Peel
-
-`Condiments`
-
+---
+title: "Candied Grapefruit Peel"
+tags: ["Condiments"]
+servings: ""
+---
 Quarter grapefruit and remove rinds; use interiors for another purpose. Slice each rind lengthwise into strips, approximately 1/4 inch at the widest point.
 
 Cover rind with 2 inches of water in a heavy saucepan. Bring to a boil; boil for 3 minutes. Drain. Repeat 3 more times with fresh water. Drain.

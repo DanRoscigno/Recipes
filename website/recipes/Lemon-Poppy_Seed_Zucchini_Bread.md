@@ -1,9 +1,8 @@
-# Lemon-Poppy Seed Zucchini Bread
-
-`Gifts` `Breads` `Summer`
-
- 
-
+---
+title: "Lemon-Poppy Seed Zucchini Bread"
+tags: ["Gifts", "Breads", "Summer"]
+servings: ""
+---
   Ingredients  
 
   1/2 cup butter, softened 

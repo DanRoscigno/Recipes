@@ -1,8 +1,8 @@
-# Zucchini Bread Pancakes
-
-`Breakfasts` `Kim Acceptable` `Camping` `Summer`
-
-Makes 10 to 12 pancakes
+---
+title: "Zucchini Bread Pancakes"
+tags: ["Breakfasts", "Kim Acceptable", "Camping", "Summer"]
+servings: "Makes 10 to 12 pancakes"
+---
 ![Image_20230812_085139-1.png](image/Image_20230812_085139-1.png)
 
 **Ingredients:**

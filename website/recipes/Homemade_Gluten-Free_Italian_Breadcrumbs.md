@@ -1,7 +1,8 @@
-# Homemade Gluten-Free Italian Breadcrumbs
-
-`Condiments` `Gluten Free` `Italian Inspired`
-
+---
+title: "Homemade Gluten-Free Italian Breadcrumbs"
+tags: ["Condiments", "Gluten Free", "Italian Inspired"]
+servings: ""
+---
 ### Ingredients:
 
 - 10 ozs. (Food processor) ground White GF bread

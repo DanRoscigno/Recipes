@@ -1,7 +1,8 @@
-# Pineapple-Fresno Margarita
-
-`Drinks` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Pineapple-Fresno Margarita"
+tags: ["Drinks", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 ### **Ingredients:**
 
 1/2 cup crushed fresh pineapple

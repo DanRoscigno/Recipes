@@ -1,9 +1,8 @@
-# Butternut Squash and Kale Strata
-
-`Main Meal` `Want to make` `Breakfasts` `Kim Acceptable` `Middle Eastern/Moroccan Inspired` `Mediterranean Inspired`
-
-Serves 6-8
-
+---
+title: "Butternut Squash and Kale Strata"
+tags: ["Main Meal", "Want to make", "Breakfasts", "Kim Acceptable", "Middle Eastern/Moroccan Inspired", "Mediterranean Inspired"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 14 to 17.5 ounces (400 to 500 grams) diced butternut squash

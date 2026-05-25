@@ -1,10 +1,9 @@
-# Lemon Mint Mini Cupcakes
-
-`Desserts` `Picnic Fare` `Kidâ€™s Delight`
-
-Servings: 13  
-
-**Ingredients:**  
+---
+title: "Lemon Mint Mini Cupcakes"
+tags: ["Desserts", "Picnic Fare", "Kidâ€™s Delight"]
+servings: "Servings: 13ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 3 eggs at room temperature
 

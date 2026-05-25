@@ -1,10 +1,9 @@
-# Kraut and Beer Fudge Cake
-
-`Desserts` `Fall` `Winter`
-
-Servings: 16-20  
-
-**Ingredients:**  
+---
+title: "Kraut and Beer Fudge Cake"
+tags: ["Desserts", "Fall", "Winter"]
+servings: "Servings: 16-20ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 2/3 cup butter
 

@@ -1,7 +1,8 @@
-# Sweet and Spicy Jerk Shrimp
-
-`Main Meal` `Want to make` `Quick` `Island Inspired`
-
+---
+title: "Sweet and Spicy Jerk Shrimp"
+tags: ["Main Meal", "Want to make", "Quick", "Island Inspired"]
+servings: ""
+---
 Yields 4 servings
 
 **Ingredients:**

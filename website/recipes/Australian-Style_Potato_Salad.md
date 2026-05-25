@@ -1,7 +1,8 @@
-# Australian-Style Potato Salad
-
-`Kim Acceptable` `Australian`
-
+---
+title: "Australian-Style Potato Salad"
+tags: ["Kim Acceptable", "Australian"]
+servings: ""
+---
 ![Image_20240430_102106.png](image/Image_20240430_102106.png)
 
 Serves 6

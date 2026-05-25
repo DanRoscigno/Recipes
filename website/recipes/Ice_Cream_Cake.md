@@ -1,9 +1,8 @@
-# Ice Cream Cake
-
-`Desserts`
-
- 
-
+---
+title: "Ice Cream Cake"
+tags: ["Desserts"]
+servings: ""
+---
   Ingredients  
 
   2 pints of any chocolate type of ice cream

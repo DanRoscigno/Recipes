@@ -1,9 +1,8 @@
-# Pan-Seared Chicken With Harissa, Dates and Citrus
-
-`Main Meal` `Want to make` `Kim Acceptable` `Middle Eastern/Moroccan Inspired`
-
-Yield: 4 servings
-
+---
+title: "Pan-Seared Chicken With Harissa, Dates and Citrus"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "Middle Eastern/Moroccan Inspired"]
+servings: "Yield: 4 servings"
+---
 **INGREDIENTS:**
 
 - 1 to 2navel oranges

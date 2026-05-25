@@ -1,7 +1,8 @@
-# Delicata Squash Salad With Chickpeas and Apple
-
-`Salads` `Main Meal` `Thanksgiving` `Kim Acceptable` `Fall`
-
+---
+title: "Delicata Squash Salad With Chickpeas and Apple"
+tags: ["Salads", "Main Meal", "Thanksgiving", "Kim Acceptable", "Fall"]
+servings: ""
+---
 ![Image_20231125_111911.png](image/Image_20231125_111911.png)
 
 Serves 4-6

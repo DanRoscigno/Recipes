@@ -1,9 +1,8 @@
-# The Spicy Maiden
-
-`Drinks`
-
-Makes 1 drink
-
+---
+title: "The Spicy Maiden"
+tags: ["Drinks"]
+servings: "Makes 1 drink"
+---
 **Ingredients:**
 
 - 1 oz Spiced Rum

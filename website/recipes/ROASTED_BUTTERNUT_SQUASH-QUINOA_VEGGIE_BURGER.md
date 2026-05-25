@@ -1,9 +1,8 @@
-# ROASTED BUTTERNUT SQUASH-QUINOA VEGGIE BURGER
-
-`Main Meal` `Want to make` `Picnic Fare` `Kim Acceptable` `American`
-
-Makes 6 burgers
-
+---
+title: "ROASTED BUTTERNUT SQUASH-QUINOA VEGGIE BURGER"
+tags: ["Main Meal", "Want to make", "Picnic Fare", "Kim Acceptable", "American"]
+servings: "Makes 6 burgers"
+---
 **INGREDIENTS:**
 
 _Burgers:_

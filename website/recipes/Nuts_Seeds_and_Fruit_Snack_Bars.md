@@ -1,7 +1,8 @@
-# Nuts, Seeds and Fruit Snack Bars
-
-`Want to make` `Breakfasts` `Snack` `Camping`
-
+---
+title: "Nuts, Seeds and Fruit Snack Bars"
+tags: ["Want to make", "Breakfasts", "Snack", "Camping"]
+servings: ""
+---
 **Ingredients:**
 
 - 3/8 cup dried apricots (2.5 oz)

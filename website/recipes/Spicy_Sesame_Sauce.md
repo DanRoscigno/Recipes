@@ -1,7 +1,8 @@
-# Spicy Sesame Sauce
-
-`Condiments` `Asian Inspired`
-
+---
+title: "Spicy Sesame Sauce"
+tags: ["Condiments", "Asian Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 2 limes, juiced

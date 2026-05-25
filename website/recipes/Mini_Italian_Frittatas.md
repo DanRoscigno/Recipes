@@ -1,9 +1,8 @@
-# Mini Italian Frittatas
-
-`Want to make` `Breakfasts` `Italian Inspired`
-
-Makes 12
-
+---
+title: "Mini Italian Frittatas"
+tags: ["Want to make", "Breakfasts", "Italian Inspired"]
+servings: "Makes 12"
+---
 **Ingredients:**
 
 2 tablespoons good olive oil, plus extra for greasing the pans

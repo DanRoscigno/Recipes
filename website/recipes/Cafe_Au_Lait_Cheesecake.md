@@ -1,10 +1,9 @@
-# Cafe Au Lait Cheesecake
-
-`Cheesecakes` `Want to make`
-
-Servings: 10  
-
-**Ingredients:**  
+---
+title: "Cafe Au Lait Cheesecake"
+tags: ["Cheesecakes", "Want to make"]
+servings: "Servings: 10ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 1 3/4 cups chocolate wafers 
 

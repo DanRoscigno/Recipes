@@ -1,9 +1,8 @@
-# Cornmeal Pancakes
-
-`Breakfasts` `Gluten Free`
-
-Yield: 3 servings.
-
+---
+title: "Cornmeal Pancakes"
+tags: ["Breakfasts", "Gluten Free"]
+servings: "Yield: 3 servings."
+---
 **INGREDIENTS:**
 
 2/3 cups  all-purpose flour (can use GF)

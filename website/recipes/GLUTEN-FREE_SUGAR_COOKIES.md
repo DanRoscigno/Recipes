@@ -1,7 +1,8 @@
-# GLUTEN-FREE SUGAR COOKIES
-
-`Cookies` `Gluten Free`
-
+---
+title: "GLUTEN-FREE SUGAR COOKIES"
+tags: ["Cookies", "Gluten Free"]
+servings: ""
+---
 ### Ingredients:
 
 - 1 cup sugar

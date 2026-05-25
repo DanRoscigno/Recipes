@@ -1,7 +1,8 @@
-# Chicken and Broccoli Twice-Baked Spaghetti Squash
-
-`Main Meal` `Kim Acceptable` `American`
-
+---
+title: "Chicken and Broccoli Twice-Baked Spaghetti Squash"
+tags: ["Main Meal", "Kim Acceptable", "American"]
+servings: ""
+---
 2 servings
 
 **Ingredients:**

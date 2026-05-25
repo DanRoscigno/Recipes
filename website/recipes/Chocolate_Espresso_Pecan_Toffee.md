@@ -1,9 +1,8 @@
-# Chocolate Espresso Pecan Toffee
-
-`Want to make` `Gifts` `Candy`
-
-Serves 12
-
+---
+title: "Chocolate Espresso Pecan Toffee"
+tags: ["Want to make", "Gifts", "Candy"]
+servings: "Serves 12"
+---
 **Ingredients:**
 
 - 1 1/4 (2 1/2 sticks) cups unsalted butter

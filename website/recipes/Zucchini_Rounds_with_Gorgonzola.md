@@ -1,8 +1,8 @@
-# Zucchini Rounds with Gorgonzola
-
-`Want to make` `Appetizers` `Kim Acceptable` `Italian Inspired`
-
-Serves 40
+---
+title: "Zucchini Rounds with Gorgonzola"
+tags: ["Want to make", "Appetizers", "Kim Acceptable", "Italian Inspired"]
+servings: "Serves 40"
+---
 ![IMG_0553.HEIC](image/IMG_0553.HEIC)
 
 **Ingredients:**

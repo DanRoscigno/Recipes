@@ -1,9 +1,8 @@
-# Sweet Potato Cornbread Dressing
-
-`Thanksgiving` `Side dish` `Fall`
-
-Makes  8 servings
-
+---
+title: "Sweet Potato Cornbread Dressing"
+tags: ["Thanksgiving", "Side dish", "Fall"]
+servings: "Makes  8 servings"
+---
 **Ingredients:**
 
 _Cornbread:_

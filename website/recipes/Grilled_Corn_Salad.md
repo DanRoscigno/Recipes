@@ -1,9 +1,8 @@
-# Grilled Corn Salad
-
-`Picnic Fare` `Side dish` `Kim Acceptable` `Summer` `Spring`
-
-Makes about 4 cups
-
+---
+title: "Grilled Corn Salad"
+tags: ["Picnic Fare", "Side dish", "Kim Acceptable", "Summer", "Spring"]
+servings: "Makes about 4 cups"
+---
 **Ingredients:**
 
 - **4**ears corn, shucked and [grilled](https://www.delish.com/cooking/recipe-ideas/a19637515/best-grilled-corn-on-the-cob-recipe/)

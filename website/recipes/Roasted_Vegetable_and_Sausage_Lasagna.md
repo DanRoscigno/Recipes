@@ -1,9 +1,8 @@
-# Roasted Vegetable and Sausage Lasagna
-
-`Main Meal` `Kim Acceptable` `Italian Inspired`
-
-Makes 8-10 servings
-
+---
+title: "Roasted Vegetable and Sausage Lasagna"
+tags: ["Main Meal", "Kim Acceptable", "Italian Inspired"]
+servings: "Makes 8-10 servings"
+---
 ### **Ingredients:**
 
 2 zucchini, sliced lengthwise into 1/4-inch planks

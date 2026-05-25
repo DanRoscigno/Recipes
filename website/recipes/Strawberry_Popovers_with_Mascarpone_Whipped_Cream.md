@@ -1,9 +1,8 @@
-# Strawberry Popovers with Mascarpone Whipped Cream
-
-`Breads` `Summer` `Italian Inspired` `Want to make` `Breakfasts` `Special Meal`
-
-Makes 12 popovers.
-
+---
+title: "Strawberry Popovers with Mascarpone Whipped Cream"
+tags: ["Breads", "Summer", "Italian Inspired", "Want to make", "Breakfasts", "Special Meal"]
+servings: "Makes 12 popovers."
+---
 **Ingredients:**
 
 _Strawberry Popovers:_

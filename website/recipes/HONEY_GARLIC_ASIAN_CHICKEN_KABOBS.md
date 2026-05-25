@@ -1,9 +1,8 @@
-# HONEY GARLIC ASIAN CHICKEN KABOBS
-
-`Want to make` `Kim Acceptable` `Quick` `Asian Inspired`
-
-Serves 6
-
+---
+title: "HONEY GARLIC ASIAN CHICKEN KABOBS"
+tags: ["Want to make", "Kim Acceptable", "Quick", "Asian Inspired"]
+servings: "Serves 6"
+---
 INGREDIENTS:
 
 - **¼** **cup** oyster sauce

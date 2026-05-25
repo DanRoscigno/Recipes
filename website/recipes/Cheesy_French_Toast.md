@@ -1,9 +1,8 @@
-# Cheesy French Toast
-
-`Want to make` `Breakfasts`
-
-Serves 4
-
+---
+title: "Cheesy French Toast"
+tags: ["Want to make", "Breakfasts"]
+servings: "Serves 4"
+---
 **Ingredients:**
 
 6 eggs

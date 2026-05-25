@@ -1,9 +1,8 @@
-# Rosé Cooler
-
-`Drinks` `Picnic Fare` `Summer`
-
-Makes one drink
-
+---
+title: "Rosé Cooler"
+tags: ["Drinks", "Picnic Fare", "Summer"]
+servings: "Makes one drink"
+---
 **INGREDIENTS:**
 
 - 4 ounces dry to demi-sec rosé

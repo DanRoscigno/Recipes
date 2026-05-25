@@ -1,10 +1,11 @@
-# Bean Salad with Mint
+---
+title: "Bean Salad with Mint"
+tags: ["Salads", "Main Meal", "Kim Acceptable"]
+servings: ""
+---
+Servings 4-6ï¿½ 
 
-`Salads` `Main Meal` `Kim Acceptable`
-
-Servings 4-6  
-
-**Ingredients:**  
+**Ingredients:**ï¿½ 
 
 2 pounds fresh cannallini or other bean
 
@@ -28,11 +29,11 @@ Servings 4-6 
 
 3/4 cup olive oil
 
-½ teaspoon kosher salt
+ï¿½ teaspoon kosher salt
 
-¼ teaspoon finely ground black pepper
+ï¿½ teaspoon finely ground black pepper
 
-**Directions:**  
+**Directions:**ï¿½ 
 
  Cook cannellini (or other type) and edamame, until just tender but with a little bite. 
 

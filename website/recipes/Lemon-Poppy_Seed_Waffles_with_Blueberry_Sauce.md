@@ -1,10 +1,9 @@
-# Lemon-Poppy Seed Waffles with Blueberry Sauce
-
-`Breakfasts`
-
-Servings: 4  
-
-**Ingredients:**   
+---
+title: "Lemon-Poppy Seed Waffles with Blueberry Sauce"
+tags: ["Breakfasts"]
+servings: "Servings: 4ï¿½"
+---
+**Ingredients:**ï¿½  
 
  1 pound frozen blueberries, thawed, undrained
 
@@ -36,7 +35,7 @@ Servings: 4 
 
 1 tablespoon grated lemon peel
 
-**Directions:**  
+**Directions:**ï¿½ 
 
 _For blueberry sauce:_
 

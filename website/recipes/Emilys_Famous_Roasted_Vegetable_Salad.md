@@ -1,9 +1,8 @@
-# Emily's Famous Roasted Vegetable Salad
-
-`Salads` `Side dish` `Kim Acceptable`
-
- 
-
+---
+title: "Emily's Famous Roasted Vegetable Salad"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   1 eggplant - quartered lengthwise, and sliced into 1/2 inch pieces

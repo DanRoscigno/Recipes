@@ -1,7 +1,8 @@
-# Sesame Ginger Dressing
-
-`Asian Inspired` `Salad Dressings`
-
+---
+title: "Sesame Ginger Dressing"
+tags: ["Asian Inspired", "Salad Dressings"]
+servings: ""
+---
 ### Ingredients
 
 2 tablespoons toasted sesame oil

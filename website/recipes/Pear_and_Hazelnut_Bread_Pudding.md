@@ -1,7 +1,8 @@
-# Pear and Hazelnut Bread Pudding
-
-`Desserts` `Want to make`
-
+---
+title: "Pear and Hazelnut Bread Pudding"
+tags: ["Desserts", "Want to make"]
+servings: ""
+---
 **Ingredients:**
 
 2/3 of a large loaf of Challah bread cubed

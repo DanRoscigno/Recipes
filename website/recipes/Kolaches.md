@@ -1,7 +1,8 @@
-# Kolaches
-
-`Want to make` `Gifts` `Breads`
-
+---
+title: "Kolaches"
+tags: ["Want to make", "Gifts", "Breads"]
+servings: ""
+---
 ## **Ingredients:**
 
 2 packages (1/4 ounce each) active dry yeast

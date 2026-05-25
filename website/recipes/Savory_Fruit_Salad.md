@@ -1,9 +1,8 @@
-# Savory Fruit Salad
-
-`Salads` `Kim Acceptable` `Summer` `Spring`
-
-Yield: 6 to 8 servings
-
+---
+title: "Savory Fruit Salad"
+tags: ["Salads", "Kim Acceptable", "Summer", "Spring"]
+servings: "Yield: 6 to 8 servings"
+---
 **INGREDIENTS:**
 
 - 10cups chopped ripe fruit (such as a mixture of berries, plums, peaches and melon)

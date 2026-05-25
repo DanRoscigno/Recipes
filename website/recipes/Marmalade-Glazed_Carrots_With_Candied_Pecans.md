@@ -1,7 +1,8 @@
-# Marmalade-Glazed Carrots With Candied Pecans
-
-`Side dish` `Kim Acceptable`
-
+---
+title: "Marmalade-Glazed Carrots With Candied Pecans"
+tags: ["Side dish", "Kim Acceptable"]
+servings: ""
+---
 6-8 Servings
 
 **Ingredients:**

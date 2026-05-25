@@ -1,9 +1,8 @@
-# Chocolate Banana Cream Pie
-
-`Desserts` `Want to make` `Gluten Free`
-
-Makes 8-10 servings 
-
+---
+title: "Chocolate Banana Cream Pie"
+tags: ["Desserts", "Want to make", "Gluten Free"]
+servings: "Makes 8-10 servings"
+---
 **Ingredients:**
 
 _For the crust:_

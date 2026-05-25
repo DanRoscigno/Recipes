@@ -1,9 +1,8 @@
-# Feta Cheese Apple And Spiced Pecan Salad
-
-`Salads` `Side dish` `Kim Acceptable`
-
- 
-
+---
+title: "Feta Cheese Apple And Spiced Pecan Salad"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   1 head Boston lettuce, torn

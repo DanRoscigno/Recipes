@@ -1,9 +1,8 @@
-# Sesame Salad
-
-`Salads` `Picnic Fare` `Side dish` `Asian Inspired`
-
- 
-
+---
+title: "Sesame Salad"
+tags: ["Salads", "Picnic Fare", "Side dish", "Asian Inspired"]
+servings: ""
+---
   Ingredients  
 
   Head of Romaine lettuce

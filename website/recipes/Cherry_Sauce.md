@@ -1,9 +1,8 @@
-# Cherry Sauce
-
-`Want to make` `Gifts` `Condiments`
-
-Makes ~ 1 1/4 cups
-
+---
+title: "Cherry Sauce"
+tags: ["Want to make", "Gifts", "Condiments"]
+servings: "Makes ~ 1 1/4 cups"
+---
 ### Ingredients:
 
 - 2 Cups of frozen sweet cherries pitted about 280g

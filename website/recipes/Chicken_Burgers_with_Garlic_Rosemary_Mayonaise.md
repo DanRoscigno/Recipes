@@ -1,9 +1,8 @@
-# Chicken Burgers with Garlic Rosemary Mayonaise
-
-`Main Meal` `Picnic Fare` `Kim Acceptable` `Italian Inspired`
-
- 
-
+---
+title: "Chicken Burgers with Garlic Rosemary Mayonaise"
+tags: ["Main Meal", "Picnic Fare", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
   Ingredients  
 
   Ingredients

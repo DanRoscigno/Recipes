@@ -1,9 +1,8 @@
-# Greek Lemon Chicken and Orzo Casserole
-
-`Main Meal` `Kim Acceptable` `Mediterranean Inspired`
-
-Serves 6-8
-
+---
+title: "Greek Lemon Chicken and Orzo Casserole"
+tags: ["Main Meal", "Kim Acceptable", "Mediterranean Inspired"]
+servings: "Serves 6-8"
+---
 _Orzo:_
 
 3 cups chicken stock

@@ -1,7 +1,8 @@
-# Crunchy Cinnamon-Sugar Chick Peas
-
-`Want to make` `Picnic Fare` `Appetizers` `Kim Acceptable` `Snack` `Camping`
-
+---
+title: "Crunchy Cinnamon-Sugar Chick Peas"
+tags: ["Want to make", "Picnic Fare", "Appetizers", "Kim Acceptable", "Snack", "Camping"]
+servings: ""
+---
 **Ingredients:**
 
 - 1 15- oz can of chickpeas

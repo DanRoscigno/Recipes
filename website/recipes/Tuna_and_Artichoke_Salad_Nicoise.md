@@ -1,9 +1,8 @@
-# Tuna and Artichoke Salad Nicoise
-
-`Salads` `Main Meal` `Picnic Fare` `Kim Acceptable` `Italian Inspired`
-
- 
-
+---
+title: "Tuna and Artichoke Salad Nicoise"
+tags: ["Salads", "Main Meal", "Picnic Fare", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
   Ingredients  
 
   350 gm baby green beans, topped

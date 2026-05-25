@@ -1,7 +1,8 @@
-# Gluten-free Banana Coconut Muffins
-
-`Gluten Free` `Breads`
-
+---
+title: "Gluten-free Banana Coconut Muffins"
+tags: ["Gluten Free", "Breads"]
+servings: ""
+---
 **Ingredients:**
 
 - 2 1/4 cups All-Purpose Gluten Free Flour

@@ -1,9 +1,8 @@
-# Spicy Fried Chicken Sandwich
-
-`Main Meal` `American`
-
-Makes 4 sandwiches
-
+---
+title: "Spicy Fried Chicken Sandwich"
+tags: ["Main Meal", "American"]
+servings: "Makes 4 sandwiches"
+---
 **Ingredients:**
 
 _Chicken & Marinade_

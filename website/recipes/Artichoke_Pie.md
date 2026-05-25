@@ -1,9 +1,8 @@
-# Artichoke Pie
-
-`Main Meal` `Picnic Fare` `Side dish` `Kim Acceptable` `Italian Inspired`
-
-Servings: 4-5 
-
+---
+title: "Artichoke Pie"
+tags: ["Main Meal", "Picnic Fare", "Side dish", "Kim Acceptable", "Italian Inspired"]
+servings: "Servings: 4-5"
+---
 **Ingredients:**  
 
 2 eggs, set out to room temperature 

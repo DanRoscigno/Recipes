@@ -1,9 +1,8 @@
-# Spinach Artichoke Stuffed Portobellos
-
-`Main Meal` `Want to make` `Kim Acceptable` `Mediterranean Inspired`
-
-Makes 6
-
+---
+title: "Spinach Artichoke Stuffed Portobellos"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "Mediterranean Inspired"]
+servings: "Makes 6"
+---
 **Ingredients:**
 
 - 6 large portobello mushroom caps

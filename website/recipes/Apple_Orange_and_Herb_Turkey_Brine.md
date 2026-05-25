@@ -1,7 +1,8 @@
-# Apple, Orange, and Herb Turkey Brine
-
-`Want to make` `Thanksgiving` `Fall`
-
+---
+title: "Apple, Orange, and Herb Turkey Brine"
+tags: ["Want to make", "Thanksgiving", "Fall"]
+servings: ""
+---
 **Ingredients:**
 
 2 gallons cold water 

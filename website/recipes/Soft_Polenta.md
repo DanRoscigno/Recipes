@@ -1,7 +1,8 @@
-# Soft Polenta
-
-`Side dish` `Kim Acceptable` `Gluten Free` `Italian Inspired`
-
+---
+title: "Soft Polenta"
+tags: ["Side dish", "Kim Acceptable", "Gluten Free", "Italian Inspired"]
+servings: ""
+---
 4 servings
 
 ## **Ingredients:**

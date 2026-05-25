@@ -1,9 +1,8 @@
-# Pork Tenderloin with Bacon-Onion Jam
-
-`Main Meal` `Want to make` `American`
-
-Makes 4 servings
-
+---
+title: "Pork Tenderloin with Bacon-Onion Jam"
+tags: ["Main Meal", "Want to make", "American"]
+servings: "Makes 4 servings"
+---
 ### **Ingredients:**
 
 ###### Bacon-Onion Jam:

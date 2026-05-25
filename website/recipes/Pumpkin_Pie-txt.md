@@ -1,10 +1,9 @@
-# Pumpkin Pie. txt
-
-`Desserts` `Thanksgiving` `Fall`
-
-Servings:  8
-
-**Ingredients:**  
+---
+title: "Pumpkin Pie. txt"
+tags: ["Desserts", "Thanksgiving", "Fall"]
+servings: "Servings:ï¿½ 8"
+---
+**Ingredients:**ï¿½ 
 
 3 large eggs
 

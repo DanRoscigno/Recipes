@@ -1,9 +1,8 @@
-# Zucchini Bread Pancakes
-
-`Breakfasts` `Camping`
-
-Makes 10 to 12 pancakes
-
+---
+title: "Zucchini Bread Pancakes"
+tags: ["Breakfasts", "Camping"]
+servings: "Makes 10 to 12 pancakes"
+---
 **Ingredients:**
 
 2 large eggs

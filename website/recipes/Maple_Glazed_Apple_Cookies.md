@@ -1,9 +1,8 @@
-# Maple Glazed Apple Cookies
-
-`Gifts` `Cookies` `Fall`
-
- 
-
+---
+title: "Maple Glazed Apple Cookies"
+tags: ["Gifts", "Cookies", "Fall"]
+servings: ""
+---
   Ingredients  
 
   ½ c butter

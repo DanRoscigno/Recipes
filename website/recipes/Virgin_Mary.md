@@ -1,9 +1,8 @@
-# Virgin Mary
-
-`Drinks`
-
-Makes 4 drinks
-
+---
+title: "Virgin Mary"
+tags: ["Drinks"]
+servings: "Makes 4 drinks"
+---
 **Ingredients:**
 
 3 stalks celery, including leaves, plus extra for serving

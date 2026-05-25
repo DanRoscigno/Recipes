@@ -1,7 +1,8 @@
-# Fennel and Apple Slaw
-
-`Salads` `Side dish` `Summer`
-
+---
+title: "Fennel and Apple Slaw"
+tags: ["Salads", "Side dish", "Summer"]
+servings: ""
+---
 **Ingredients:**
 
 1/4 cup extra-virgin olive oil

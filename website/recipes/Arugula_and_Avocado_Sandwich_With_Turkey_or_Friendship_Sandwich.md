@@ -1,9 +1,8 @@
-# Arugula and Avocado Sandwich With Turkey (Friendship Sandwich)
-
-`Want to make` `Sandwiches` `Picnic Fare` `Thanksgiving` `Kim Acceptable`
-
-Makes 2 Sandwiches
-
+---
+title: "Arugula and Avocado Sandwich With Turkey (Friendship Sandwich)"
+tags: ["Want to make", "Sandwiches", "Picnic Fare", "Thanksgiving", "Kim Acceptable"]
+servings: "Makes 2 Sandwiches"
+---
 **Ingredients :**
 
 4 thin slices Jewish rye bread, semolina bread or 2 thin and crusty sandwich rolls, split 

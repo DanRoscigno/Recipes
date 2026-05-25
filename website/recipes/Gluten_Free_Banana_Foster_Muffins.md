@@ -1,7 +1,8 @@
-# Gluten Free Banana Foster Muffins
-
-`Gluten Free` `Breads`
-
+---
+title: "Gluten Free Banana Foster Muffins"
+tags: ["Gluten Free", "Breads"]
+servings: ""
+---
 **Ingredients:**
 
 _Muffins:_

@@ -1,8 +1,8 @@
-# Buttermilk Bourbon Cheesecake Layer Cake
-
-`Desserts` `Want to make` `Thanksgiving` `Fall` `Special Meal`
-
-Makes 1 9” three-layer cake
+---
+title: "Buttermilk Bourbon Cheesecake Layer Cake"
+tags: ["Desserts", "Want to make", "Thanksgiving", "Fall", "Special Meal"]
+servings: "Makes 1 9” three-layer cake"
+---
 ![Image_20231116_090322.png](image/Image_20231116_090322.png)
 
 **Ingredients:**

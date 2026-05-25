@@ -1,9 +1,8 @@
-# Veal Bundles with Mozzarella and prosciutto (Involtini di Vitello)
-
-`Main Meal` `Want to make` `Quick` `Special Meal` `Italian Inspired`
-
-Serves 4
-
+---
+title: "Veal Bundles with Mozzarella and prosciutto (Involtini di Vitello)"
+tags: ["Main Meal", "Want to make", "Quick", "Special Meal", "Italian Inspired"]
+servings: "Serves 4"
+---
 Ingredients:
 
 4 veal scallops

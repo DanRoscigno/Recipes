@@ -1,9 +1,8 @@
-# Fresh Apple Cake
-
-`Desserts` `Picnic Fare`
-
- 
-
+---
+title: "Fresh Apple Cake"
+tags: ["Desserts", "Picnic Fare"]
+servings: ""
+---
   Ingredients  
 
   5 small apples chopped

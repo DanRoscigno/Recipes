@@ -1,7 +1,8 @@
-# Black Bean-Sweet Potato Burgers
-
-`Main Meal` `Kim Acceptable` `Mexican/Cuban/Latin Inspired` `Island Inspired`
-
+---
+title: "Black Bean-Sweet Potato Burgers"
+tags: ["Main Meal", "Kim Acceptable", "Mexican/Cuban/Latin Inspired", "Island Inspired"]
+servings: ""
+---
 ## **Ingredients**
 
 Ingredient Checklist

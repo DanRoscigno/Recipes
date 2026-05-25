@@ -1,9 +1,8 @@
-# Stout Beer Cheese Dip Recipe
-
-`Appetizers` `Irish/English/Scottish Inspired` `Kim Acceptable`
-
-Serves 8
-
+---
+title: "Stout Beer Cheese Dip Recipe"
+tags: ["Appetizers", "Irish/English/Scottish Inspired", "Kim Acceptable"]
+servings: "Serves 8"
+---
 **Ingredients:**
 
 - 1/2 c. sharp white cheddar, _divided_

@@ -1,9 +1,8 @@
-# Hawaiian Turkey Burgers
-
-`Main Meal` `Picnic Fare` `Quick` `Island Inspired`
-
-Servings: 4       
-
+---
+title: "Hawaiian Turkey Burgers"
+tags: ["Main Meal", "Picnic Fare", "Quick", "Island Inspired"]
+servings: "Servings: 4"
+---
 **Ingredients:**      
 
 1    pound ground turkey

@@ -1,9 +1,8 @@
-# Gluten-Free Quick & Easy Banana Bread
-
-`Breads` `Gluten Free`
-
-YIELD: 1 loaf, about 16 slices.
-
+---
+title: "Gluten-Free Quick & Easy Banana Bread"
+tags: ["Breads", "Gluten Free"]
+servings: "YIELD: 1 loaf, about 16 slices."
+---
 This gluten-free banana bread is just as good as the traditional version: sweet and moist. It's perfect as is, or with a smear of cream cheese.
 
 **Note: Please read and follow the recipe carefully; it calls for our gluten-free all-purpose baking mix, NOT our gluten-free multi-purpose flour.**

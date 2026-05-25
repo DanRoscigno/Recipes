@@ -1,5 +1,6 @@
-# Gazelle’s Horns
-
-`Want to make` `Cookies`
-
+---
+title: "Gazelle’s Horns"
+tags: ["Want to make", "Cookies"]
+servings: ""
+---
 ![IMG_0075.HEIC](image/IMG_0075.HEIC)

@@ -1,9 +1,8 @@
-# Fish and Chips
-
-`Main Meal` `Irish/English/Scottish Inspired`
-
- 
-
+---
+title: "Fish and Chips"
+tags: ["Main Meal", "Irish/English/Scottish Inspired"]
+servings: ""
+---
   Ingredients  
 
   3 ounces of plain flour

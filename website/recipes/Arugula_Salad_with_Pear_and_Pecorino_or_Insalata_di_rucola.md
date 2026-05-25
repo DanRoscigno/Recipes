@@ -1,9 +1,8 @@
-# Arugula Salad with Pear and Pecorino (Insalata di rucola)
-
-`Salads` `Want to make` `Picnic Fare` `Quick` `Fall` `Italian Inspired`
-
-Serves 4-6
-
+---
+title: "Arugula Salad with Pear and Pecorino (Insalata di rucola)"
+tags: ["Salads", "Want to make", "Picnic Fare", "Quick", "Fall", "Italian Inspired"]
+servings: "Serves 4-6"
+---
 **Ingredients:**
 
 1 1/2 Tablespoons sherry vinegar or red wine vinegar 

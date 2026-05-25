@@ -1,9 +1,8 @@
-# Dolester Miles’ Coconut Pecan Cake
-
-`Desserts` `Want to make`
-
-Serves 12-14
-
+---
+title: "Dolester Miles’ Coconut Pecan Cake"
+tags: ["Desserts", "Want to make"]
+servings: "Serves 12-14"
+---
 #### **Ingredients:**
 
 _FOR THE CAKE:_

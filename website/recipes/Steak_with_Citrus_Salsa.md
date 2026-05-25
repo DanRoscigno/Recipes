@@ -1,7 +1,8 @@
-# Steak with Citrus Salsa
-
-`Main Meal` `Picnic Fare` `Asian Inspired`
-
+---
+title: "Steak with Citrus Salsa"
+tags: ["Main Meal", "Picnic Fare", "Asian Inspired"]
+servings: ""
+---
 ## **Ingredients**
 
 - 1/2 cup soy sauce

@@ -1,7 +1,8 @@
-# Classic Margarita
-
-`Drinks` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Classic Margarita"
+tags: ["Drinks", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 1 lime wedge

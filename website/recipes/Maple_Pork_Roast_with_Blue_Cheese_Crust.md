@@ -1,9 +1,8 @@
-# Maple Pork Roast with Blue Cheese Crust
-
-`Main Meal` `Want to make` `Fall` `Winter` `Special Meal` `American`
-
-Makes 6 servings
-
+---
+title: "Maple Pork Roast with Blue Cheese Crust"
+tags: ["Main Meal", "Want to make", "Fall", "Winter", "Special Meal", "American"]
+servings: "Makes 6 servings"
+---
 **Ingredients:**
 
 _Pork:_

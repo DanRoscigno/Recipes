@@ -1,9 +1,8 @@
-# Edamame Salad
-
-`Salads` `Quick`
-
-Makes ~ 8 servings
-
+---
+title: "Edamame Salad"
+tags: ["Salads", "Quick"]
+servings: "Makes ~ 8 servings"
+---
 **Ingredients:**
 
 - 12 ounces shelled edamame (about 2 1/3 cups)

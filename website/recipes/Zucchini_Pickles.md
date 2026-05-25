@@ -1,9 +1,8 @@
-# Zucchini Pickles
-
-`Condiments` `Camping`
-
-Makes 2 pint jars or one quart jar
-
+---
+title: "Zucchini Pickles"
+tags: ["Condiments", "Camping"]
+servings: "Makes 2 pint jars or one quart jar"
+---
 ### **INGREDIENTS:**
 
 - 1 pound zucchini (about 3 medium or 2 large)

@@ -1,10 +1,9 @@
-# Spinach Quiche
-
-`Main Meal` `Picnic Fare` `Side dish` `Kim Acceptable` `French Inspired`
-
-Servings: 6 - 8  
-
- **Ingredients:**  
+---
+title: "Spinach Quiche"
+tags: ["Main Meal", "Picnic Fare", "Side dish", "Kim Acceptable", "French Inspired"]
+servings: "Servings: 6 - 8ï¿½"
+---
+ **Ingredients:**ï¿½ 
 
 1 pie shell
 

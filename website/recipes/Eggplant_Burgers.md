@@ -1,10 +1,9 @@
-# Eggplant Burgers
-
-`Main Meal` `Kim Acceptable` `Italian Inspired`
-
-Servings: 4 medium to large burgers  
-
-**Ingredients**:  
+---
+title: "Eggplant Burgers"
+tags: ["Main Meal", "Kim Acceptable", "Italian Inspired"]
+servings: "Servings: 4 medium to large burgersï¿½"
+---
+**Ingredients**:ï¿½ 
 
 2 teaspoons olive oil, plus more to brush on eggplant before roasting
 
@@ -16,7 +15,7 @@ Servings: 4 medium to large burgers 
 
 1/2 an eggplant (should equal about 1 cup)
 
-1/4 cup chopped fresh parsley 
+1/4 cup chopped fresh parsleyï¿½
 
 1 tablespoon pine nuts
 
@@ -32,9 +31,9 @@ Servings: 4 medium to large burgers 
 
 tomato, sliced for topping (optional)
 
-lettuce, for topping (optional)  
+lettuce, for topping (optional)ï¿½ 
 
-**Directions:**  
+**Directions:**ï¿½ 
 
 Preheat your oven to 450. Roast the eggplant by cutting it into 1/4inch slices and brushing each side with olive oil. Bake for 10 minutes on one side, then flip the slices and bake for another 5 minutes. Then remove it from the oven, turn the oven down to 400. 
 

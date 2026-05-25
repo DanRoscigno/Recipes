@@ -1,7 +1,8 @@
-# Prime Rib
-
-`Main Meal` `Want to make` `Special Meal` `Irish/English/Scottish Inspired`
-
+---
+title: "Prime Rib"
+tags: ["Main Meal", "Want to make", "Special Meal", "Irish/English/Scottish Inspired"]
+servings: ""
+---
 **INGREDIENTS :**
 
 1 (4 pound) prime rib roast

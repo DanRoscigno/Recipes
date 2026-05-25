@@ -1,7 +1,8 @@
-# Satay Chicken
-
-`Main Meal` `Picnic Fare` `Appetizers` `Indian Inspired`
-
+---
+title: "Satay Chicken"
+tags: ["Main Meal", "Picnic Fare", "Appetizers", "Indian Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 2 tablespoons creamy peanut butter

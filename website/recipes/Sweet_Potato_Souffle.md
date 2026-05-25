@@ -1,9 +1,8 @@
-# Sweet Potato Souffle
-
-`Side dish`
-
-Servings: 6 or more
-
+---
+title: "Sweet Potato Souffle"
+tags: ["Side dish"]
+servings: "Servings: 6 or more"
+---
 **Ingredients:**
 
 _Potatoes:_

@@ -1,9 +1,8 @@
-# Sicilian Eggplant Relish
-
-`Picnic Fare` `Condiments` `Appetizers` `Kim Acceptable` `Gluten Free` `Italian Inspired`
-
-Makes 5-6 cups (_might want to half this recipe_)
-
+---
+title: "Sicilian Eggplant Relish"
+tags: ["Picnic Fare", "Condiments", "Appetizers", "Kim Acceptable", "Gluten Free", "Italian Inspired"]
+servings: "Makes 5-6 cups (_might want to half this recipe_)"
+---
 **Ingredients:**
 
 6 Tbsp olive oil, preferably EV

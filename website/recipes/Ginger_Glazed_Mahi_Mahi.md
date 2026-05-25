@@ -1,7 +1,8 @@
-# Ginger Glazed Mahi Mahi
-
-`Main Meal` `Quick` `Asian Inspired`
-
+---
+title: "Ginger Glazed Mahi Mahi"
+tags: ["Main Meal", "Quick", "Asian Inspired"]
+servings: ""
+---
 **Servings:** 4      
 
 **Ingredients:**

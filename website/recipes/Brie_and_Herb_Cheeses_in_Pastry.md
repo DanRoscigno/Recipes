@@ -1,9 +1,8 @@
-# Brie and Herb Cheeses in Pastry
-
-`Gifts` `Picnic Fare` `Appetizers` `Winter`
-
- 
-
+---
+title: "Brie and Herb Cheeses in Pastry"
+tags: ["Gifts", "Picnic Fare", "Appetizers", "Winter"]
+servings: ""
+---
   Ingredients  
 
   1 (10"x9") sheet frozen puff pastry, thawed

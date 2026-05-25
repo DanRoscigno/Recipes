@@ -1,7 +1,8 @@
-# Honey Granola
-
-`Breakfasts`
-
+---
+title: "Honey Granola"
+tags: ["Breakfasts"]
+servings: ""
+---
 12 servings
 
 **Ingredients:**

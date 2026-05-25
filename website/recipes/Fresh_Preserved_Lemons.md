@@ -1,9 +1,8 @@
-# Fresh Preserved Lemons
-
-`Gifts` `Condiments` `Middle Eastern/Moroccan Inspired`
-
-Servings: 4 lemons
-
+---
+title: "Fresh Preserved Lemons"
+tags: ["Gifts", "Condiments", "Middle Eastern/Moroccan Inspired"]
+servings: "Servings: 4 lemons"
+---
 **Ingredients:**
 
  4 medium lemons 

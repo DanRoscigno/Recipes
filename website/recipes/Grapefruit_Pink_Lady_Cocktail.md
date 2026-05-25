@@ -1,7 +1,8 @@
-# Grapefruit Pink Lady Cocktail
-
-`Drinks`
-
+---
+title: "Grapefruit Pink Lady Cocktail"
+tags: ["Drinks"]
+servings: ""
+---
 **Ingredients:**
 
 1/2 cup plus 1 ounce sugar

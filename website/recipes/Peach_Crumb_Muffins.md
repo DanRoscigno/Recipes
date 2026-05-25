@@ -1,7 +1,8 @@
-# Peach Crumb Muffins
-
-`Want to make` `Breads` `American`
-
+---
+title: "Peach Crumb Muffins"
+tags: ["Want to make", "Breads", "American"]
+servings: ""
+---
 ![Snapshot.jpg](image/Snapshot.jpg)
 
 **Ingredients:**

@@ -1,9 +1,8 @@
-# Cucumber Ranch Dressing
-
-`Salad Dressings`
-
-Makes ~ 1 2/3 cups of dressing
-
+---
+title: "Cucumber Ranch Dressing"
+tags: ["Salad Dressings"]
+servings: "Makes ~ 1 2/3 cups of dressing"
+---
 **Ingredients:**
 
 - 1 cup mayonnaise

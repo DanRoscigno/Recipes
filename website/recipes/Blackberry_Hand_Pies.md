@@ -1,9 +1,8 @@
-# Blackberry Hand Pies
-
-`Desserts` `Want to make` `Picnic Fare` `Kid’s Delight` `Summer`
-
-Makes 8 hand-pies
-
+---
+title: "Blackberry Hand Pies"
+tags: ["Desserts", "Want to make", "Picnic Fare", "Kid’s Delight", "Summer"]
+servings: "Makes 8 hand-pies"
+---
 ### **Ingredients:**
 
 2 cups blackberries, fresh or frozen

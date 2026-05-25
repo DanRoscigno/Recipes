@@ -1,9 +1,8 @@
-# Gluten-free Ebelskivers
-
-`Breakfasts` `Gluten Free`
-
-Makes 18-24 
-
+---
+title: "Gluten-free Ebelskivers"
+tags: ["Breakfasts", "Gluten Free"]
+servings: "Makes 18-24"
+---
 **Ingredients:**
 
 - 1 cup gluten-free flour blend (be sure it includes xantham gum)

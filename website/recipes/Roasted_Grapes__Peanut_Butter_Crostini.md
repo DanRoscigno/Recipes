@@ -1,7 +1,8 @@
-# Roasted Grapes & Peanut* Butter Crostini
-
-`Want to make` `Appetizers` `Kid’s Delight` `Snack`
-
+---
+title: "Roasted Grapes & Peanut* Butter Crostini"
+tags: ["Want to make", "Appetizers", "Kid’s Delight", "Snack"]
+servings: ""
+---
 ~15 servings
 
 **Ingredients:**

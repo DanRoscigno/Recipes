@@ -1,9 +1,8 @@
-# Creamy Root Vegetable Stew with Gruyère Crostini
-
-`Main Meal` `Want to make` `Picnic Fare` `Appetizers` `French Inspired`
-
-Servings: 4      
-
+---
+title: "Creamy Root Vegetable Stew with Gruyère Crostini"
+tags: ["Main Meal", "Want to make", "Picnic Fare", "Appetizers", "French Inspired"]
+servings: "Servings: 4"
+---
 **Ingredients:**       
 
  * 1 tablespoon olive oil

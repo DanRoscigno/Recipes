@@ -1,9 +1,8 @@
-# Hash Brown Crusted Veggie Casserole
-
-`Breakfasts`
-
-Serves 4-6
-
+---
+title: "Hash Brown Crusted Veggie Casserole"
+tags: ["Breakfasts"]
+servings: "Serves 4-6"
+---
 **Ingredients:**
 
 3 cups (about 10 ounces) frozen hash browns, thawed

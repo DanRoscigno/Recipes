@@ -1,9 +1,8 @@
-# Gourmet Chicken Salad
-
-`Main Meal` `Sandwiches` `Picnic Fare` `Quick` `American`
-
-Makes ~ 6 servings
-
+---
+title: "Gourmet Chicken Salad"
+tags: ["Main Meal", "Sandwiches", "Picnic Fare", "Quick", "American"]
+servings: "Makes ~ 6 servings"
+---
 **Ingredients:**
 
 3 chicken breasts, cooked, and cut into cubes

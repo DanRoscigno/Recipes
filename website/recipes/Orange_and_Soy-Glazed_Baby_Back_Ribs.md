@@ -1,10 +1,9 @@
-# Orange and Soy-Glazed Baby Back Ribs
-
-`Main Meal` `Picnic Fare` `Asian Inspired`
-
-Servings: 4-6  
-
-**Ingredients:**  
+---
+title: "Orange and Soy-Glazed Baby Back Ribs"
+tags: ["Main Meal", "Picnic Fare", "Asian Inspired"]
+servings: "Servings: 4-6ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 * 3 1/2 pounds baby back pork ribs, cut between bones into individual ribs (18-20 ribs)
 
@@ -26,7 +25,7 @@ Servings: 4-6 
 
  * Zest from 1 lemon and 1 lime
 
-**Directions:**  
+**Directions:**ï¿½ 
 
  Place ribs, 1/2 cup soy sauce, 3 minced garlic cloves, 2 teaspoons cumin seeds, and 1 teaspoon red pepper flakes in a large pot; add water to cover completely. Bring to a boil and immediately reduce to a simmer. Cover with lid ajar; cook until ribs are tender, about 2 hours. Drain ribs; set aside for 10 minutes.
 

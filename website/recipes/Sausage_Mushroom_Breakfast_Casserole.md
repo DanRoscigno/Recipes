@@ -1,10 +1,9 @@
-# Sausage Mushroom Breakfast Casserole
-
-`Breakfasts`
-
-Servings: -10  
-
-**Ingredients:**  
+---
+title: "Sausage Mushroom Breakfast Casserole"
+tags: ["Breakfasts"]
+servings: "Servings: -10ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 2 1/4 cup seasoned croutons
 

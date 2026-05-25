@@ -1,7 +1,8 @@
-# Lemon Orzo Chicken Soup
-
-`Soups` `Kim Acceptable`
-
+---
+title: "Lemon Orzo Chicken Soup"
+tags: ["Soups", "Kim Acceptable"]
+servings: ""
+---
 **Ingredients:**
 
 1 lb boneless, skinless chicken breasts

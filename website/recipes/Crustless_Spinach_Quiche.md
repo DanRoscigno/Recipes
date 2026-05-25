@@ -1,9 +1,8 @@
-# Crustless Spinach Quiche
-
-`Main Meal` `Breakfasts` `Picnic Fare` `Kim Acceptable` `Gluten Free` `French Inspired`
-
-Serves 6
-
+---
+title: "Crustless Spinach Quiche"
+tags: ["Main Meal", "Breakfasts", "Picnic Fare", "Kim Acceptable", "Gluten Free", "French Inspired"]
+servings: "Serves 6"
+---
 **Ingredients:**
 
 - 1 cup chopped onion

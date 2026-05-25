@@ -1,7 +1,8 @@
-# Thai Pineapple Peanut Satay Chicken
-
-`Main Meal` `Kim Acceptable` `Camping` `Summer` `Spring` `Asian Inspired`
-
+---
+title: "Thai Pineapple Peanut Satay Chicken"
+tags: ["Main Meal", "Kim Acceptable", "Camping", "Summer", "Spring", "Asian Inspired"]
+servings: ""
+---
 ### Serves 6
 
 ### Ingredients:

@@ -1,9 +1,8 @@
-# Cranberry-Apricot Chutney
-
-`Thanksgiving` `Preserves and Jams`
-
- 
-
+---
+title: "Cranberry-Apricot Chutney"
+tags: ["Thanksgiving", "Preserves and Jams"]
+servings: ""
+---
   Ingredients  
 
   1/4 cup diced dried apricots

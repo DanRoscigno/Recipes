@@ -1,7 +1,8 @@
-# “OMG, These Are Great” Oatmeal Cookies
-
-`Picnic Fare` `Cookies`
-
+---
+title: "“OMG, These Are Great” Oatmeal Cookies"
+tags: ["Picnic Fare", "Cookies"]
+servings: ""
+---
 Ingredients
 
 1. 1 cup butter, at room temp

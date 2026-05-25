@@ -1,7 +1,8 @@
-# Italian Meatloaf
-
-`Main Meal` `Quick` `American`
-
+---
+title: "Italian Meatloaf"
+tags: ["Main Meal", "Quick", "American"]
+servings: ""
+---
 ## **Ingredients**
 
 - 1 egg, beaten

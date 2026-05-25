@@ -1,7 +1,8 @@
-# Candied *Citrus Peel
-
-`Condiments`
-
+---
+title: "Candied *Citrus Peel"
+tags: ["Condiments"]
+servings: ""
+---
 **Ingredients:**
 
 - 3 lemons (or *orange or grapefruit)

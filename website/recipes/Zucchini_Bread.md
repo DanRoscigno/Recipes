@@ -1,9 +1,8 @@
-# Zucchini Bread
-
-`Gifts` `Breads` `Summer`
-
- 
-
+---
+title: "Zucchini Bread"
+tags: ["Gifts", "Breads", "Summer"]
+servings: ""
+---
   Ingredients  
 
   2 cups shredded zucchini with skins on

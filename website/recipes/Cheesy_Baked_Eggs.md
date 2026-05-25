@@ -1,9 +1,8 @@
-# Cheesy Baked Eggs
-
-`Want to make` `Breakfasts` `Kim Acceptable`
-
-Serves 8-10
-
+---
+title: "Cheesy Baked Eggs"
+tags: ["Want to make", "Breakfasts", "Kim Acceptable"]
+servings: "Serves 8-10"
+---
 **Ingredients:**
 
 4 tablespoons unsalted butter, at room temperature

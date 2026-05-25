@@ -1,7 +1,8 @@
-# Mediterranean Salad
-
-`Salads` `Main Meal` `Side dish`
-
+---
+title: "Mediterranean Salad"
+tags: ["Salads", "Main Meal", "Side dish"]
+servings: ""
+---
 **Ingredients:**
 
 - 1 large eggplant, thinly sliced (no more than 1/4 inch in thickness)

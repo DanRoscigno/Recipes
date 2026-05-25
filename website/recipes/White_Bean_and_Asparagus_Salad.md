@@ -1,7 +1,8 @@
-# White Bean and Asparagus Salad
-
-`Salads` `Main Meal` `Kim Acceptable` `Italian Inspired`
-
+---
+title: "White Bean and Asparagus Salad"
+tags: ["Salads", "Main Meal", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
 ## ~6 servings
 
 ## **Ingredients**

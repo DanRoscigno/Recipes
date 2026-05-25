@@ -1,9 +1,8 @@
-# Italian Plum Tart
-
-`Desserts` `Want to make` `Picnic Fare` `Italian Inspired`
-
-Serves 8
-
+---
+title: "Italian Plum Tart"
+tags: ["Desserts", "Want to make", "Picnic Fare", "Italian Inspired"]
+servings: "Serves 8"
+---
 **Ingredients:**
 
 - 1 ¼ cups all-purpose flour

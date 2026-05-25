@@ -1,8 +1,8 @@
-# Chicken and Vegetable Pot Pies with Cream Cheese Crust
-
-`Main Meal` `American`
-
-Serves 5-6
+---
+title: "Chicken and Vegetable Pot Pies with Cream Cheese Crust"
+tags: ["Main Meal", "American"]
+servings: "Serves 5-6"
+---
 ![Chicken and Vegetable Pot Pies with Cream Cheese Crust](http://www.epicurious.com/images/recipesmenus/2001/2001_february/104683_116.jpg)**Ingredients:**  
 
 2 1/2 cups all purpose flour

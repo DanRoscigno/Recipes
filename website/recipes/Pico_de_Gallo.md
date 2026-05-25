@@ -1,9 +1,8 @@
-# Pico de Gallo
-
-`Condiments` `Mexican/Cuban/Latin Inspired`
-
-Servings: 12
-
+---
+title: "Pico de Gallo"
+tags: ["Condiments", "Mexican/Cuban/Latin Inspired"]
+servings: "Servings: 12"
+---
 **Ingredients:**
 
 - 6 roma (plum) tomatoes, diced 

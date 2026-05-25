@@ -1,9 +1,8 @@
-# Cranberry-Orange Cake with Orange Buttercream Frosting
-
-`Desserts` `Fall` `Winter`
-
-Serves 12
-
+---
+title: "Cranberry-Orange Cake with Orange Buttercream Frosting"
+tags: ["Desserts", "Fall", "Winter"]
+servings: "Serves 12"
+---
 **Ingredients:**
 
 _Cranberry-Orange Cake:_

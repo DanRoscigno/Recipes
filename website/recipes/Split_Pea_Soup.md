@@ -1,9 +1,8 @@
-# Split Pea Soup
-
-`Soups`
-
-Servings: 6 people (2 quarts)      
-
+---
+title: "Split Pea Soup"
+tags: ["Soups"]
+servings: "Servings: 6 people (2 quarts)"
+---
 **Ingredients:**
 
 1 lb (2 1/4 cups) green split peas

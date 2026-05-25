@@ -1,7 +1,8 @@
-# ALMOND JOY COOKIES
-
-`Gifts` `Cookies`
-
+---
+title: "ALMOND JOY COOKIES"
+tags: ["Gifts", "Cookies"]
+servings: ""
+---
 **Ingredients:**
 
 1/4 cup unsalted butter, softened

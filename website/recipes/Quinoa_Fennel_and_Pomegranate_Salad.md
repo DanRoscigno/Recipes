@@ -1,10 +1,9 @@
-# Quinoa, Fennel, and Pomegranate Salad
-
-`Salads` `Main Meal` `Picnic Fare` `Kim Acceptable` `Quick` `Mediterranean Inspired`
-
-Servings: 4  
-
-**Ingredients:**  
+---
+title: "Quinoa, Fennel, and Pomegranate Salad"
+tags: ["Salads", "Main Meal", "Picnic Fare", "Kim Acceptable", "Quick", "Mediterranean Inspired"]
+servings: "Servings: 4ï¿½"
+---
+**Ingredients:**ï¿½ 
 
  * 1/4 cup plus 1 tablespoon olive oil
 
@@ -32,7 +31,7 @@ Servings: 4 
 
  * 1/4 cup pomegranate seeds (from 1/2 small pomegranate)
 
-**Directions:** 
+**Directions:**ï¿½
 
  * Heat 1/4 cup oil in a large skillet over medium heat. Add fennel; season with salt and pepper. Cook, stirring occasionally, until fennel is just tender and lightly golden, 10â€“12 minutes. Stir in lemon juice, cumin, and sugar; cook for 1 minute. Season with salt and pepper. Set aside.
 

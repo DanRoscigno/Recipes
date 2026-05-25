@@ -1,9 +1,8 @@
-# Turkey Panini with Gorgonzola Cheese and Cranberry-Apricot Chutney
-
-`Main Meal` `Want to make` `Sandwiches` `Picnic Fare` `American`
-
-Servings: 4  
-
+---
+title: "Turkey Panini with Gorgonzola Cheese and Cranberry-Apricot Chutney"
+tags: ["Main Meal", "Want to make", "Sandwiches", "Picnic Fare", "American"]
+servings: "Servings: 4"
+---
 **Ingredients:**  
 
 8 slices walnut levain bread, each about 1/2 inch thick

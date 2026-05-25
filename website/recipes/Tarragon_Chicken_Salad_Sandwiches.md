@@ -1,10 +1,11 @@
-# Tarragon Chicken Salad Sandwiches
+---
+title: "Tarragon Chicken Salad Sandwiches"
+tags: ["Main Meal", "Sandwiches", "Picnic Fare", "Irish/English/Scottish Inspired"]
+servings: ""
+---
+Servingsï¿½ 6
 
-`Main Meal` `Sandwiches` `Picnic Fare` `Irish/English/Scottish Inspired`
-
-Servings  6
-
-**Ingredients:**  
+**Ingredients:**ï¿½ 
 
 1-1/4 pounds boneless skinless chicken breasts, cooked
 

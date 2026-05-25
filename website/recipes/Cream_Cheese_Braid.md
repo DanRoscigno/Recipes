@@ -1,14 +1,13 @@
-# Cream Cheese Braid
-
-`Gifts` `Breads`
-
-Makes 4-12 inch loaves  
-
+---
+title: "Cream Cheese Braid"
+tags: ["Gifts", "Breads"]
+servings: "Makes 4-12 inch loavesï¿½"
+---
 _*Start the night before you want to serve_
 
-**Ingredients:**  
+**Ingredients:**ï¿½ 
 
-_Danish:_  
+_Danish:_ï¿½ 
 
 1 cup of sour cream
 
@@ -44,7 +43,7 @@ _Glaze:_
 
 1/4 cup milk
 
-2 tsps vanilla extract  
+2 tsps vanilla extractï¿½ 
 
 **Directions:**
 

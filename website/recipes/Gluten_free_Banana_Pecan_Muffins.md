@@ -1,7 +1,8 @@
-# Gluten free Banana Pecan Muffins
-
-`Breads` `Gluten Free`
-
+---
+title: "Gluten free Banana Pecan Muffins"
+tags: ["Breads", "Gluten Free"]
+servings: ""
+---
 1 3/4 cups (206g) King Arthur Gluten-Free Measure for Measure Flour
 
 2 teaspoons baking powder

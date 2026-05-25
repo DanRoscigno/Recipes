@@ -1,5 +1,8 @@
-# TEXAS BRISKET - ON AN OFFSET SMOKER
-
+---
+title: "TEXAS BRISKET - ON AN OFFSET SMOKER"
+tags: []
+servings: ""
+---
 Author is Meat Church [19 MAY, 2021](https://www.meatchurch.com/blogs/recipes/brisket)
 
 I edited this to use the Texas A and M rub instead of the ones that Meat Church uses because I have some on hand. In the video the author suggests using the commercial bubs or just salt and pepper and maybe garlic.

@@ -1,7 +1,8 @@
-# Pistachio Greek Honey Cake
-
-`Desserts` `Want to make` `Picnic Fare` `Special Meal` `Mediterranean Inspired`
-
+---
+title: "Pistachio Greek Honey Cake"
+tags: ["Desserts", "Want to make", "Picnic Fare", "Special Meal", "Mediterranean Inspired"]
+servings: ""
+---
 **Requires 3+ hours prep** 
 
 Serves 8-10

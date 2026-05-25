@@ -1,7 +1,8 @@
-# Black Pepper Beef and Celery Stir Fry
-
-`Main Meal` `Quick` `Asian Inspired`
-
+---
+title: "Black Pepper Beef and Celery Stir Fry"
+tags: ["Main Meal", "Quick", "Asian Inspired"]
+servings: ""
+---
 4 SERVINGS
 
 **Ingredients:**

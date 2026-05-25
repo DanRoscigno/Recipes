@@ -1,9 +1,8 @@
-# Upside-Down Rhubarb Cake
-
-`Desserts` `Breads`
-
-Servings:  8-10  
-
+---
+title: "Upside-Down Rhubarb Cake"
+tags: ["Desserts", "Breads"]
+servings: "Servings:  8-10"
+---
 **Ingredients:**     
 
 3 cups Rhubarb, (cut into 1 inch pieces)

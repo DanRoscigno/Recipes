@@ -1,9 +1,8 @@
-# Crunchy Manchego Fig Straws
-
-`Want to make` `Appetizers` `Kim Acceptable` `Italian Inspired`
-
-Makes ~ 24 straws
-
+---
+title: "Crunchy Manchego Fig Straws"
+tags: ["Want to make", "Appetizers", "Kim Acceptable", "Italian Inspired"]
+servings: "Makes ~ 24 straws"
+---
 ### **Ingredients:**
 
 All-purpose flour, for dusting

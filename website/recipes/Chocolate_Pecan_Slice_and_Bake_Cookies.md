@@ -1,5 +1,8 @@
-# Chocolate Pecan Slice and Bake Cookies
-
+---
+title: "Chocolate Pecan Slice and Bake Cookies"
+tags: []
+servings: ""
+---
 Makes 4 dozen (dough can be frozen up to 3 months)
 
 **Ingredients:**

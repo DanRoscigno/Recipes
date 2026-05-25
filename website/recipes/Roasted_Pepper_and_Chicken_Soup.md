@@ -1,9 +1,8 @@
-# Roasted Pepper and Chicken Soup
-
-`Soups` `Kim Acceptable` `Winter`
-
-Serves 8-10 (~10 1/2 cups)
-
+---
+title: "Roasted Pepper and Chicken Soup"
+tags: ["Soups", "Kim Acceptable", "Winter"]
+servings: "Serves 8-10 (~10 1/2 cups)"
+---
 **Ingredients:**
 
 4 large sweet red pepper

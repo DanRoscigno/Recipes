@@ -1,9 +1,8 @@
-# Pickle Schnitzel: Pickle-Brined Pork Chops with Sweet and Spicy Peppers
-
-`Main Meal`
-
-Makes 4 servings
-
+---
+title: "Pickle Schnitzel: Pickle-Brined Pork Chops with Sweet and Spicy Peppers"
+tags: ["Main Meal"]
+servings: "Makes 4 servings"
+---
 ### **Ingredients:**
 
 1 cup dill pickle juice (preferably leftover from a jar of pickles)

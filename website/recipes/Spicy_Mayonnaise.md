@@ -1,7 +1,8 @@
-# Spicy Mayonnaise
-
-`Condiments`
-
+---
+title: "Spicy Mayonnaise"
+tags: ["Condiments"]
+servings: ""
+---
 **Ingredients:**
 
 - 1 cup mayonnaise 

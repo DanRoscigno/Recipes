@@ -1,7 +1,8 @@
-# Blueberry Cupcakes
-
-`Desserts` `Kid’s Delight`
-
+---
+title: "Blueberry Cupcakes"
+tags: ["Desserts", "Kid’s Delight"]
+servings: ""
+---
 ### INGREDIENTS
 
 Sift together:

@@ -1,7 +1,8 @@
-# Banana Peel Cake with Brown Sugar Frosting
-
-`Desserts` `Picnic Fare`
-
+---
+title: "Banana Peel Cake with Brown Sugar Frosting"
+tags: ["Desserts", "Picnic Fare"]
+servings: ""
+---
 From Cooking with Scraps" by Lindsay-Jean Hard 
 
 Makes one 2 layer 8” cake

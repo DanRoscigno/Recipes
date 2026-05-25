@@ -1,9 +1,8 @@
-# Sticky Apricot Drumsticks
-
-`Main Meal` `Picnic Fare` `Appetizers` `American`
-
-Serves: 4 dinner and 6-8 appetizer 
-
+---
+title: "Sticky Apricot Drumsticks"
+tags: ["Main Meal", "Picnic Fare", "Appetizers", "American"]
+servings: "Serves: 4 dinner and 6-8 appetizer"
+---
 ### **Ingredients:**
 
 12 chicken drumsticks (about 2 1/4 pounds)

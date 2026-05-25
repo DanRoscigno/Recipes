@@ -1,9 +1,8 @@
-# Anise Cookies
-
-`Cookies` `Italian Inspired` `Easter`
-
-Makes about 36 cookies
-
+---
+title: "Anise Cookies"
+tags: ["Cookies", "Italian Inspired", "Easter"]
+servings: "Makes about 36 cookies"
+---
 **Ingredients:**
 
 3 eggs

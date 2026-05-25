@@ -1,7 +1,8 @@
-# Long-life Salad
-
-`Salads` `Kim Acceptable`
-
+---
+title: "Long-life Salad"
+tags: ["Salads", "Kim Acceptable"]
+servings: ""
+---
 **Ingredients:**
 
 _Salad:_

@@ -1,9 +1,8 @@
-# A Fall Salad of Corn, Cherry Tomatoes and Oven Roasted Green Onions
-
-`Salads` `Side dish` `Kim Acceptable`
-
-Makes ~ 8 servings
-
+---
+title: "A Fall Salad of Corn, Cherry Tomatoes and Oven Roasted Green Onions"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: "Makes ~ 8 servings"
+---
 **INGREDIENTS:**
 
     - 3 tablespoons white wine vinegar

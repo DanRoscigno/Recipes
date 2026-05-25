@@ -1,7 +1,8 @@
-# Bizcotela Vestida
-
-`Cookies` `Mexican/Cuban/Latin Inspired` `Easter`
-
+---
+title: "Bizcotela Vestida"
+tags: ["Cookies", "Mexican/Cuban/Latin Inspired", "Easter"]
+servings: ""
+---
 L(Dulce de Leche Flower Sugar Cookie Sandwich)
 
 Makes ~ 30 cookies

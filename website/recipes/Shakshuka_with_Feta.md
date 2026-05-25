@@ -1,7 +1,8 @@
-# Shakshuka with Feta
-
-`Breakfasts` `Kim Acceptable` `Middle Eastern/Moroccan Inspired`
-
+---
+title: "Shakshuka with Feta"
+tags: ["Breakfasts", "Kim Acceptable", "Middle Eastern/Moroccan Inspired"]
+servings: ""
+---
 ### Makes ~ 8 servings
 
 ### **Ingredients:**

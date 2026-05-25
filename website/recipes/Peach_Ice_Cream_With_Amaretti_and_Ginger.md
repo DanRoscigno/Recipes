@@ -1,7 +1,8 @@
-# Peach Ice Cream With Amaretti and Ginger
-
-`Ice Creams` `Want to make` `Italian Inspired`
-
+---
+title: "Peach Ice Cream With Amaretti and Ginger"
+tags: ["Ice Creams", "Want to make", "Italian Inspired"]
+servings: ""
+---
 Tested size: 12 servings; makes 1 1/2 quarts
 
 ## Ingredients

@@ -1,7 +1,8 @@
-# Toasted Coconut Shortbread
-
-`Want to make` `Cookies`
-
+---
+title: "Toasted Coconut Shortbread"
+tags: ["Want to make", "Cookies"]
+servings: ""
+---
 **Ingredients:**
 
 - 1/2 cup plus 2 tablespoons shredded coconut 

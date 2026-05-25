@@ -1,9 +1,8 @@
-# Meg’s Meatloaf
-
-`Main Meal` `Fall` `Winter` `American`
-
-Serves 8
-
+---
+title: "Meg’s Meatloaf"
+tags: ["Main Meal", "Fall", "Winter", "American"]
+servings: "Serves 8"
+---
 **Ingredients:**
 
 _Meatloaf:_

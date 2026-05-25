@@ -1,7 +1,8 @@
-# Peach Fluff Frosting
-
-`Picnic Fare` `Frosting`
-
+---
+title: "Peach Fluff Frosting"
+tags: ["Picnic Fare", "Frosting"]
+servings: ""
+---
  **Ingredients:**       
 
 1 small box peach jello

@@ -1,7 +1,8 @@
-# Freds’ Chicken Salad With Balsamic Dressing
-
-`Salads` `Main Meal` `Picnic Fare` `Side dish` `Kim Acceptable` `Italian Inspired`
-
+---
+title: "Freds’ Chicken Salad With Balsamic Dressing"
+tags: ["Salads", "Main Meal", "Picnic Fare", "Side dish", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
 4 main-course servings, or 6 appetizer servings
 ![Image_20220717_054402.jpeg](image/Image_20220717_054402.jpeg)
 

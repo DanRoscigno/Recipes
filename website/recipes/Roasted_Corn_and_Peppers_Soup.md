@@ -1,7 +1,8 @@
-# Roasted Corn and Peppers Soup
-
-`Soups` `Kim Acceptable` `Quick` `Summer` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Roasted Corn and Peppers Soup"
+tags: ["Soups", "Kim Acceptable", "Quick", "Summer", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 6-8 medium ears of fresh corn

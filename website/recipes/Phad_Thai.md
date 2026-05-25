@@ -1,9 +1,8 @@
-# Phad Thai
-
-`Main Meal` `Asian Inspired`
-
- 
-
+---
+title: "Phad Thai"
+tags: ["Main Meal", "Asian Inspired"]
+servings: ""
+---
   Ingredients  
 
   1-ounce tamarind paste

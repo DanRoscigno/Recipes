@@ -1,7 +1,8 @@
-# Homemade Sloppy Joes
-
-`Main Meal` `Kid’s Delight` `American`
-
+---
+title: "Homemade Sloppy Joes"
+tags: ["Main Meal", "Kid’s Delight", "American"]
+servings: ""
+---
 ### **Ingredients**
 
 2 1/2 pounds ground beef

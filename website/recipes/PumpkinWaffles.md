@@ -1,7 +1,8 @@
-# Pumpkin waffles
-
-`Breakfasts`
-
+---
+title: "Pumpkin waffles"
+tags: ["Breakfasts"]
+servings: ""
+---
 ## Ingredients
 
 - 1/2 cup canned pumpkin

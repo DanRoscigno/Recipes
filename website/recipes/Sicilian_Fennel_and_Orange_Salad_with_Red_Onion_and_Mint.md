@@ -1,9 +1,8 @@
-# Sicilian Fennel and Orange Salad with Red Onion and Mint
-
-`Salads` `Kim Acceptable`
-
- 
-
+---
+title: "Sicilian Fennel and Orange Salad with Red Onion and Mint"
+tags: ["Salads", "Kim Acceptable"]
+servings: ""
+---
   Directions  
 
   Cut peel and pith from oranges. Cut betweeen membranes to release segments. Toss orange segments, fennel, onion, mint, and oil in large bowl to coat. Season salad generously to taste with salt and pepper. Transfer salad to platter. Garnish with olives and serve immediately.  

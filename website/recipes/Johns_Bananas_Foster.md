@@ -1,9 +1,8 @@
-# John's Bananas Foster
-
-`Desserts`
-
- 
-
+---
+title: "John's Bananas Foster"
+tags: ["Desserts"]
+servings: ""
+---
   Ingredients  
 
   4 medium-size ripe bananas

@@ -1,7 +1,8 @@
-# Torta di Mele  Moist Apple Cake
-
-`Desserts` `Italian Inspired`
-
+---
+title: "Torta di Mele  Moist Apple Cake"
+tags: ["Desserts", "Italian Inspired"]
+servings: ""
+---
 **Ingredients**      
 
 5 apples

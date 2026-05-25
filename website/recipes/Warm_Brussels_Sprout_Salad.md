@@ -1,7 +1,8 @@
-# Warm Brussels Sprout Salad
-
-`Salads` `Want to make` `Side dish`
-
+---
+title: "Warm Brussels Sprout Salad"
+tags: ["Salads", "Want to make", "Side dish"]
+servings: ""
+---
 ### Makes ~ 4 servings
 
 ### **Ingredients:**

@@ -1,9 +1,8 @@
-# Avocado Breakfast Bowl
-
-`Breakfasts`
-
-Serves 2
-
+---
+title: "Avocado Breakfast Bowl"
+tags: ["Breakfasts"]
+servings: "Serves 2"
+---
 **Ingredients:**
 
 - ½ cup water 

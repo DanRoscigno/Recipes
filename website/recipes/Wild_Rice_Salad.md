@@ -1,7 +1,8 @@
-# Wild Rice Salad
-
-`Salads` `Side dish` `Kim Acceptable`
-
+---
+title: "Wild Rice Salad"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: ""
+---
 ### Makes 4-6 servings
 
 ### **Ingredients:**

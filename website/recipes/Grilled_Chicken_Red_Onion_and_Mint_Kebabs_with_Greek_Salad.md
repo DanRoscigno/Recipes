@@ -1,7 +1,8 @@
-# Grilled Chicken, Red Onion, and Mint Kebabs with Greek Salad
-
-`Main Meal` `Picnic Fare` `Mediterranean Inspired`
-
+---
+title: "Grilled Chicken, Red Onion, and Mint Kebabs with Greek Salad"
+tags: ["Main Meal", "Picnic Fare", "Mediterranean Inspired"]
+servings: ""
+---
  ![Grilled Chicken, Red Onion, and Mint Kebabs with Greek Salad](http://www.epicurious.com/images/recipesmenus/2001/2001_july/105308_116.jpg)   Ingredients  
 
   1 1/2 pounds skinless boneless chicken breast halves, cut into 1-inch pieces

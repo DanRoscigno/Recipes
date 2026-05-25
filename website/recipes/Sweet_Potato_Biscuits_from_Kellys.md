@@ -1,9 +1,8 @@
-# Sweet Potato Biscuits from Kelly's
-
-`Breakfasts` `Breads`
-
- 
-
+---
+title: "Sweet Potato Biscuits from Kelly's"
+tags: ["Breakfasts", "Breads"]
+servings: ""
+---
   Ingredients  
 
   1 lb. cooked sweet potatoes (steamed or boiled)

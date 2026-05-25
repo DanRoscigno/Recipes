@@ -1,7 +1,8 @@
-# Pomegranate Punch
-
-`Drinks` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Pomegranate Punch"
+tags: ["Drinks", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 10-12 servings 
 
 ### **Ingredients:**

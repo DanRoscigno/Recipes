@@ -1,7 +1,8 @@
-# Spring Chili with Greens
-
-`Main Meal` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Spring Chili with Greens"
+tags: ["Main Meal", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 4 - 6 SERVINGS
 
 **Ingredients:**

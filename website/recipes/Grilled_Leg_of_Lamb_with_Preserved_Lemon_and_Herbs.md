@@ -1,7 +1,8 @@
-# Grilled Leg of Lamb with Preserved Lemon and Herbs
-
-`Main Meal` `Special Meal` `Mediterranean Inspired`
-
+---
+title: "Grilled Leg of Lamb with Preserved Lemon and Herbs"
+tags: ["Main Meal", "Special Meal", "Mediterranean Inspired"]
+servings: ""
+---
 ## Ingredients
 
 Ingredient Checkli11preserved lemon, rinsed1 preserved 1 preserved lemon

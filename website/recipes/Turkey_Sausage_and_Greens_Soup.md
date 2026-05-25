@@ -1,7 +1,8 @@
-# Turkey Sausage and Greens Soup
-
-`Soups` `Kim Acceptable`
-
+---
+title: "Turkey Sausage and Greens Soup"
+tags: ["Soups", "Kim Acceptable"]
+servings: ""
+---
  **Ingredients:**       
 
  4 Turkey Sausage links (spicy or mild) (Trader Joes has some wonderful precooked chicken or turkey sausage

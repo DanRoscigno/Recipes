@@ -1,9 +1,8 @@
-# Creamy Whipped Brie with Cranberry Salsa
-
-`Gifts` `Picnic Fare` `Appetizers` `Kim Acceptable`
-
-Servings: 8-10       
-
+---
+title: "Creamy Whipped Brie with Cranberry Salsa"
+tags: ["Gifts", "Picnic Fare", "Appetizers", "Kim Acceptable"]
+servings: "Servings: 8-10"
+---
 **Ingredients:**
 
 _Cranberry Salsa:_

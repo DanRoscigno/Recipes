@@ -1,9 +1,8 @@
-# Fudgy Flourless Chocolate-Pecan Cookies Recipe
-
-`Want to make` `Picnic Fare` `Cookies` `Gluten Free`
-
-Makes ~ 20 cookies
-
+---
+title: "Fudgy Flourless Chocolate-Pecan Cookies Recipe"
+tags: ["Want to make", "Picnic Fare", "Cookies", "Gluten Free"]
+servings: "Makes ~ 20 cookies"
+---
 **Ingredients:**
 
 - 3cups powdered sugar

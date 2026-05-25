@@ -1,9 +1,8 @@
-# Grilled Sweet Potato Salad With Basil Vinaigrette
-
-`Picnic Fare` `Side dish`
-
-Servings: 4
-
+---
+title: "Grilled Sweet Potato Salad With Basil Vinaigrette"
+tags: ["Picnic Fare", "Side dish"]
+servings: "Servings: 4"
+---
 **Ingredients:**
 
 4 sweet potatoes, peeled and cut into 1/2-inch slices

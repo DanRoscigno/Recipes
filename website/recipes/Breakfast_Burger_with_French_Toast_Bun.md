@@ -1,9 +1,8 @@
-# Breakfast Burger with French Toast Bun
-
-`Breakfasts`
-
-Serves 4
-
+---
+title: "Breakfast Burger with French Toast Bun"
+tags: ["Breakfasts"]
+servings: "Serves 4"
+---
 **Ingredients:**
 
 _Maple Hot Butter:_

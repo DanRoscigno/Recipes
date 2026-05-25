@@ -1,7 +1,8 @@
-# Sparkling Cherry Lime Soda
-
-`Drinks` `Kid’s Delight`
-
+---
+title: "Sparkling Cherry Lime Soda"
+tags: ["Drinks", "Kid’s Delight"]
+servings: ""
+---
 ### **Ingredients:**
 
 1 cup sugar

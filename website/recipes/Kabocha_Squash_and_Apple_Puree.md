@@ -1,10 +1,9 @@
-# Kabocha Squash and Apple Puree
-
-`Side dish` `Kim Acceptable`
-
-Servings: 6  
-
-**Ingredients:**  
+---
+title: "Kabocha Squash and Apple Puree"
+tags: ["Side dish", "Kim Acceptable"]
+servings: "Servings: 6ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 2 1/4 pounds kabocha squash, halved and seeded
 
@@ -24,7 +23,7 @@ Servings: 6 
 
 1/4 cup chicken stock or canned low-sodium chicken broth
 
-**Directions:**  
+**Directions:**ï¿½ 
 
 Preheat the oven to 350 degrees F.
 

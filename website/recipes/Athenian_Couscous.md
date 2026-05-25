@@ -1,7 +1,8 @@
-# Athenian Couscous
-
-`Salads` `Side dish` `Kim Acceptable`
-
+---
+title: "Athenian Couscous"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: ""
+---
 ## Ingredients
 
 3 3/4 cups low-salt chicken broth

@@ -1,9 +1,8 @@
-# Greek feta bowtie salad
-
-`Salads` `Main Meal` `Picnic Fare` `Kim Acceptable` `Mediterranean Inspired`
-
- 
-
+---
+title: "Greek feta bowtie salad"
+tags: ["Salads", "Main Meal", "Picnic Fare", "Kim Acceptable", "Mediterranean Inspired"]
+servings: ""
+---
   Ingredients  
 
   1/2 pound dry bowties

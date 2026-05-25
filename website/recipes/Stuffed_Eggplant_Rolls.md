@@ -1,10 +1,11 @@
-# Stuffed Eggplant Rolls
+---
+title: "Stuffed Eggplant Rolls"
+tags: ["Picnic Fare", "Appetizers", "Side dish", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
+Servingsï¿½ 6-8
 
-`Picnic Fare` `Appetizers` `Side dish` `Kim Acceptable` `Italian Inspired`
-
-Servings  6-8
-
-**Ingredients:**  
+**Ingredients:**ï¿½ 
 
 1 Eggplant
 

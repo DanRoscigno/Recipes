@@ -1,9 +1,8 @@
-# Avocado & Black Bean Salad
-
-`Salads` `Main Meal` `Kim Acceptable` `Island Inspired`
-
-Makes 4 servings
-
+---
+title: "Avocado & Black Bean Salad"
+tags: ["Salads", "Main Meal", "Kim Acceptable", "Island Inspired"]
+servings: "Makes 4 servings"
+---
 **Ingredients:**
 
 - 3 medium-large avocados, diced

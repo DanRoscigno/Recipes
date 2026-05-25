@@ -1,9 +1,8 @@
-# Penne with Sausage and Greens
-
-`Main Meal` `Side dish` `Kim Acceptable` `Italian Inspired`
-
-Serves 2
-
+---
+title: "Penne with Sausage and Greens"
+tags: ["Main Meal", "Side dish", "Kim Acceptable", "Italian Inspired"]
+servings: "Serves 2"
+---
 **Ingredients:**
 
 Kosher salt

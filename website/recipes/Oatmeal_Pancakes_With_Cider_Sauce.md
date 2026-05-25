@@ -1,10 +1,9 @@
-# Oatmeal Pancakes With Cider Sauce
-
-`Breakfasts`
-
-Servings: 10  
-
-**Ingredients: **  
+---
+title: "Oatmeal Pancakes With Cider Sauce"
+tags: ["Breakfasts"]
+servings: "Servings: 10ï¿½"
+---
+**Ingredients: **ï¿½ 
 
 _Pancakes:_
 
@@ -32,19 +31,19 @@ Vegetable cooking spray
 
 _Cider Sauce:_
 
-2 cups apple cider 
+2 cups apple ciderï¿½
 
-3 tablespoons light brown sugar 
+3 tablespoons light brown sugarï¿½
 
-2 tablespoons cornstarch 
+2 tablespoons cornstarchï¿½
 
-2 tablespoons lemon juice 
+2 tablespoons lemon juiceï¿½
 
-¼ teaspoon ground nutmeg 
+ï¿½ teaspoon ground nutmegï¿½
 
-¼ teaspoon ground cinnamon 
+ï¿½ teaspoon ground cinnamonï¿½
 
-¼ cup light butter
+ï¿½ cup light butter
 
 **Directions**:
 
@@ -54,7 +53,7 @@ _Pancakes:_
 
 2. Combine ground oats, wheat flour, and next 5 ingredients in a large bowl. Whisk together buttermilk, eggs, and butter; stir into oat mixture.
 
-3. Pour 1/4 cup batter for each pancake onto a hot griddle coated with cooking spray. Cook pancakes until tops are covered with bubbles and edges look cooked; turn and cook other side. Serve with Cider Sauce.  
+3. Pour 1/4 cup batter for each pancake onto a hot griddle coated with cooking spray. Cook pancakes until tops are covered with bubbles and edges look cooked; turn and cook other side. Serve with Cider Sauce.ï¿½ 
 
 _Cider Sauce:_
 

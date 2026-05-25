@@ -1,7 +1,8 @@
-# Lechon Asado (Cuban Pork Roast)
-
-`Want to make` `Special Meal` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Lechon Asado (Cuban Pork Roast)"
+tags: ["Want to make", "Special Meal", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 ### Serves 8
 
 ### Ingredients:

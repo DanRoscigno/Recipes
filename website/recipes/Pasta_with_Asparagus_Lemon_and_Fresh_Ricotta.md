@@ -1,9 +1,8 @@
-# Pasta with Asparagus, Lemon and Fresh Ricotta
-
-`Main Meal` `Kim Acceptable` `Quick` `Gluten Free` `Italian Inspired`
-
-Makes ~ 4 large servings
-
+---
+title: "Pasta with Asparagus, Lemon and Fresh Ricotta"
+tags: ["Main Meal", "Kim Acceptable", "Quick", "Gluten Free", "Italian Inspired"]
+servings: "Makes ~ 4 large servings"
+---
 ### **Ingredients:**
 
 One 1-pound bunch asparagus, tough ends trimmed and reserved, spears sliced on a bias into 2-inch pieces

@@ -1,9 +1,8 @@
-# Lemon Ricotta Cookies
-
-`Want to make` `Cookies` `Italian Inspired`
-
-Makes ~ 42 cookies (dough can be frozen for future batches)
-
+---
+title: "Lemon Ricotta Cookies"
+tags: ["Want to make", "Cookies", "Italian Inspired"]
+servings: "Makes ~ 42 cookies (dough can be frozen for future batches)"
+---
 **Ingredients:**
 
 2 1/2 cups all-purpose flour

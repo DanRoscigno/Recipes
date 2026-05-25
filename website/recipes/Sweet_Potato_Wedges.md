@@ -1,5 +1,8 @@
-# Sweet Potato Wedges
-
+---
+title: "Sweet Potato Wedges"
+tags: []
+servings: ""
+---
 Serves 4
 
 **Ingredients:**

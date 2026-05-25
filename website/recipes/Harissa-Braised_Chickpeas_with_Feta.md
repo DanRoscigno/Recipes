@@ -1,40 +1,39 @@
-# Harissa-Braised Chickpeas with Feta
-
-`Main Meal` `Kim Acceptable` `Quick` `Middle Eastern/Moroccan Inspired`
-
-Makes 4-6 servings
-
+---
+title: "Harissa-Braised Chickpeas with Feta"
+tags: ["Main Meal", "Kim Acceptable", "Quick", "Middle Eastern/Moroccan Inspired"]
+servings: "Makes 4-6 servings"
+---
 **Ingredients:**
 
 1/2 cup plus 2 tablespoons extra-virgin olive oil
 
-1/2 yellow onion, finely chopped 
+1/2 yellow onion, finely choppedï¿½
 
-Kosher salt 
+Kosher saltï¿½
 
-1 tablespoon harissa 
+1 tablespoon harissaï¿½
 
-1/2 teaspoon **anchovy paste** 
+1/2 teaspoon **anchovy paste**ï¿½
 
-4 cloves garlic, minced 
+4 cloves garlic, mincedï¿½
 
-1/2 cup dry white wine 
+1/2 cup dry white wineï¿½
 
-Two 15-ounce cans chickpeas, drained and rinsed 
+Two 15-ounce cans chickpeas, drained and rinsedï¿½
 
-4 fresh thyme sprigs 
+4 fresh thyme sprigsï¿½
 
-Freshly ground black pepper 
+Freshly ground black pepperï¿½
 
-1 lemon, halved 
+1 lemon, halvedï¿½
 
-Whole-milk Greek yogurt, for serving 
+Whole-milk Greek yogurt, for servingï¿½
 
-Feta cheese, for serving 
+Feta cheese, for servingï¿½
 
-Finely chopped fresh herbs (a mix of cilantro, parsley and mint), for serving 
+Finely chopped fresh herbs (a mix of cilantro, parsley and mint), for servingï¿½
 
-Crusty bread, for serving 
+Crusty bread, for servingï¿½
 
 **Directions:**
 

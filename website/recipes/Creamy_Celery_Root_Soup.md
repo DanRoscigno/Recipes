@@ -1,9 +1,8 @@
-# Creamy Celery Root Soup
-
-`Soups`
-
-Serves 6
-
+---
+title: "Creamy Celery Root Soup"
+tags: ["Soups"]
+servings: "Serves 6"
+---
 **Ingredients:**
 
 3 tablespoons extra-virgin olive oil, plus more for drizzling

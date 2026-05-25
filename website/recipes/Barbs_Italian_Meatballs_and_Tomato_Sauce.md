@@ -1,10 +1,9 @@
-# Barb's* Italian Meatballs and Tomato Sauce
-
-`Main Meal` `Italian Inspired`
-
-Servings: 8-10  
-
-**Ingredients:**  
+---
+title: "Barb's* Italian Meatballs and Tomato Sauce"
+tags: ["Main Meal", "Italian Inspired"]
+servings: "Servings: 8-10ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 _Meatballs:_
 

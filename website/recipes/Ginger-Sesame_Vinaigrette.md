@@ -1,9 +1,8 @@
-# Ginger-Sesame Vinaigrette
-
-`Salad Dressings`
-
-Makes ~ 3 cups
-
+---
+title: "Ginger-Sesame Vinaigrette"
+tags: ["Salad Dressings"]
+servings: "Makes ~ 3 cups"
+---
 **Ingredients:** 
 
 Grated zest and juice of 1 orange

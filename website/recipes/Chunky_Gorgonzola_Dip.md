@@ -1,9 +1,8 @@
-# Chunky Gorgonzola Dip
-
-`Picnic Fare` `Appetizers` `Kim Acceptable` `Fall`
-
-Makes 2 cups of dip
-
+---
+title: "Chunky Gorgonzola Dip"
+tags: ["Picnic Fare", "Appetizers", "Kim Acceptable", "Fall"]
+servings: "Makes 2 cups of dip"
+---
 **Ingredients:**
 
 - 1 (8-ounce) carton mascarpone cheese (1 cup) 

@@ -1,9 +1,8 @@
-# Sinfully Chocolate Cafe
-
-`Desserts` `Drinks` `Gifts` `Italian Inspired`
-
- 
-
+---
+title: "Sinfully Chocolate Cafe"
+tags: ["Desserts", "Drinks", "Gifts", "Italian Inspired"]
+servings: ""
+---
   Ingredients  
 
   1 square semi-sweet chocolate

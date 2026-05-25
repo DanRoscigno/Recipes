@@ -1,9 +1,8 @@
-# Jerk Pork Tenderloin with Blueberry Salsa
-
-`Main Meal` `Quick` `Island Inspired`
-
-Makes 4 servings
-
+---
+title: "Jerk Pork Tenderloin with Blueberry Salsa"
+tags: ["Main Meal", "Quick", "Island Inspired"]
+servings: "Makes 4 servings"
+---
 ## **Ingredients**
 
 - 1 (2-lb.) package pork tenderloins 

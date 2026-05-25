@@ -1,7 +1,8 @@
-# Lima Bean Soup
-
-`Soups` `Kim Acceptable`
-
+---
+title: "Lima Bean Soup"
+tags: ["Soups", "Kim Acceptable"]
+servings: ""
+---
 ## **Ingredients**
 
 A total of 43.5 ounces of chicken broth (split between amount used to cook beans and then added to broth and directly added to broth).

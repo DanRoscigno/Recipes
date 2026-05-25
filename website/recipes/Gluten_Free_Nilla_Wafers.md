@@ -1,9 +1,8 @@
-# Gluten Free "Nilla Wafers" | Nabisco-Style
-
-`Cookies` `Gluten Free`
-
-Makes ~ 36 cookies or pie/cheesecake crust
-
+---
+title: "Gluten Free \"Nilla Wafers\" | Nabisco-Style"
+tags: ["Cookies", "Gluten Free"]
+servings: "Makes ~ 36 cookies or pie/cheesecake crust"
+---
 **Ingredients:**
 
 - 1 ⅓ cups all purpose gluten free flour blend

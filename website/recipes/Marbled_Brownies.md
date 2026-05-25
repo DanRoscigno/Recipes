@@ -1,9 +1,8 @@
-# Marbled Brownies
-
-`Desserts` `Picnic Fare` `Cookies`
-
- 
-
+---
+title: "Marbled Brownies"
+tags: ["Desserts", "Picnic Fare", "Cookies"]
+servings: ""
+---
   Ingredients  
 
   1 pkg cream cheese

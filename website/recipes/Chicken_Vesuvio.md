@@ -1,9 +1,8 @@
-# Chicken Vesuvio
-
-`Main Meal` `Want to make` `Kim Acceptable` `Italian Inspired`
-
-Makes 4-6 servings
-
+---
+title: "Chicken Vesuvio"
+tags: ["Main Meal", "Want to make", "Kim Acceptable", "Italian Inspired"]
+servings: "Makes 4-6 servings"
+---
 **Ingredients:**
 
 1/2 cup granulated sugar

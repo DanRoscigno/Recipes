@@ -1,9 +1,8 @@
-# Butternut Squash and Kale Risotto
-
-`Main Meal` `Side dish` `Kim Acceptable` `Gluten Free` `Italian Inspired`
-
-Serves ~ 8 side or 3-4 main dish servings
-
+---
+title: "Butternut Squash and Kale Risotto"
+tags: ["Main Meal", "Side dish", "Kim Acceptable", "Gluten Free", "Italian Inspired"]
+servings: "Serves ~ 8 side or 3-4 main dish servings"
+---
 **Ingredients:**
 
 _Butternut Squash and Kale:_

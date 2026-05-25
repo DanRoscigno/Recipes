@@ -1,7 +1,8 @@
-# Toasted Spice Rub Almonds
-
-`Gifts` `Picnic Fare` `Appetizers`
-
+---
+title: "Toasted Spice Rub Almonds"
+tags: ["Gifts", "Picnic Fare", "Appetizers"]
+servings: ""
+---
  **Ingredients:**       
 
  *  1 pound shelled almonds, preferably unsalted

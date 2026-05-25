@@ -1,9 +1,8 @@
-# Lemon Rice Cake
-
-`Desserts` `Gluten Free` `Summer` `Spring` `Italian Inspired` `Easter`
-
-Serves 8
-
+---
+title: "Lemon Rice Cake"
+tags: ["Desserts", "Gluten Free", "Summer", "Spring", "Italian Inspired", "Easter"]
+servings: "Serves 8"
+---
 **Ingredients:**
 
 Unsalted butter, melted, and fine dried GF breadcrumbs, to coat a 8-to 9” springform pan 

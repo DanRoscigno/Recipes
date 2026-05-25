@@ -1,7 +1,8 @@
-# Mascarpone Cheese from Scratch
-
-`Condiments` `Italian Inspired`
-
+---
+title: "Mascarpone Cheese from Scratch"
+tags: ["Condiments", "Italian Inspired"]
+servings: ""
+---
 Prep time: 30 minutesCook time: 15 minutesTotal time: 45 mins
 
 **Ingredients**

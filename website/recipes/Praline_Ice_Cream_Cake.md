@@ -1,10 +1,9 @@
-# Praline Ice Cream Cake
-
-`Ice Creams` `Want to make`
-
-Servings: ~20  
-
-**Ingredients:**  
+---
+title: "Praline Ice Cream Cake"
+tags: ["Ice Creams", "Want to make"]
+servings: "Servings: ~20ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 Almond Praline (recipe below)
 
@@ -26,7 +25,7 @@ fruit to garnish
 
 _Almond praline:_
 
-Combine 1 cup sugar,  1/4 cup water and  
+Combine 1 cup sugar,ï¿½ 1/4 cup water andï¿½ 
 
 1/4 tsp cream of tartar, in a large skillet. 
 

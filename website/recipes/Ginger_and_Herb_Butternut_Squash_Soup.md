@@ -1,9 +1,8 @@
-# Ginger and Herb Butternut Squash Soup
-
-`Soups` `Thanksgiving` `Kim Acceptable` `Quick` `Fall`
-
-Serves 6
-
+---
+title: "Ginger and Herb Butternut Squash Soup"
+tags: ["Soups", "Thanksgiving", "Kim Acceptable", "Quick", "Fall"]
+servings: "Serves 6"
+---
 **Ingredients:**
 
 - 2 tablespoons **[extra-virgin olive oil](https://goto.target.com/c/2773249/81938/2092?subid1=5c62da580a04d93936608c49&subid2=https%3A%2F%2Fwww.loveandlemons.com%2Fbutternut-squash-soup%2F%3Ffbclid%3DIwAR3_x5R4_0mGQ9FFld13oPlm4aJEdz_14jlnr5Hj9ANI5Z1dR2FOZpTdBUs_aem_AZE9sXKF6e4jTWcy2jx5x7XxDCjfsr3do62gk6e7MElyXfM0LRmyYB1GoDOXdgOM0Mo&sharedid=Love%20and%20Lemons&subid3=https%3A%2F%2Fwww.target.com%2Fp%2Fcalifornia-olive-ranch-100-ca-extra-virgin-olive-oil-25-4-fl-oz%2F-%2FA-79399467%3Faflt%3Dcse&u=https%3A%2F%2Fwww.target.com%2Fp%2Fcalifornia-olive-ranch-100-ca-extra-virgin-olive-oil-25-4-fl-oz%2F-%2FA-79399467%3Faflt%3Dcse#donotlink)**

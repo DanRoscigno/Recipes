@@ -1,9 +1,8 @@
-# Apple Cheese Ball
-
-`Appetizers` `Fall`
-
- 
-
+---
+title: "Apple Cheese Ball"
+tags: ["Appetizers", "Fall"]
+servings: ""
+---
   Ingredients  
 
   8 ounces white Cheddar cheese, shredded*

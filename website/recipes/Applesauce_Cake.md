@@ -1,9 +1,8 @@
-# Applesauce Cake
-
-`Desserts` `Picnic Fare`
-
-Servings: 16-20
-
+---
+title: "Applesauce Cake"
+tags: ["Desserts", "Picnic Fare"]
+servings: "Servings: 16-20"
+---
 Preheat oven to 350 degrees
 
 **Ingredients:**  

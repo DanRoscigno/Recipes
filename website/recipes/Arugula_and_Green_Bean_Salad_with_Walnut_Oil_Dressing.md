@@ -1,7 +1,8 @@
-# Arugula and Green Bean Salad with Walnut Oil Dressing
-
-`Salads` `Side dish` `Kim Acceptable`
-
+---
+title: "Arugula and Green Bean Salad with Walnut Oil Dressing"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: ""
+---
 **Servings: 6**  
 
 **Ingredients**:  

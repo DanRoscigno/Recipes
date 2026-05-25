@@ -1,9 +1,8 @@
-# Lemon-Basil Butter Cookies
-
-`Picnic Fare` `Cookies` `Summer` `Italian Inspired`
-
-Makes ~ 6 1/2 dozen cookies
-
+---
+title: "Lemon-Basil Butter Cookies"
+tags: ["Picnic Fare", "Cookies", "Summer", "Italian Inspired"]
+servings: "Makes ~ 6 1/2 dozen cookies"
+---
 ## **Ingredients**
 
 - 1 cup fresh lemon-basil leaves or fresh sweet basil leaves

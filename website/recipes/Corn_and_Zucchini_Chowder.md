@@ -1,7 +1,8 @@
-# Corn and Zucchini Chowder
-
-`Want to make` `Soups` `Kim Acceptable` `Summer` `American`
-
+---
+title: "Corn and Zucchini Chowder"
+tags: ["Want to make", "Soups", "Kim Acceptable", "Summer", "American"]
+servings: ""
+---
 ![Image_20240430_100900.jpeg](image/Image_20240430_100900.jpeg)
 
 Serves 6

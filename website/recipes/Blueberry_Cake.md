@@ -1,9 +1,8 @@
-# Blueberry Cake
-
-`Desserts`
-
- 
-
+---
+title: "Blueberry Cake"
+tags: ["Desserts"]
+servings: ""
+---
   Ingredients  
 
   Sift together, then set aside:

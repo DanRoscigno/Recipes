@@ -1,7 +1,8 @@
-# Chicken, Quinoa and Sweet Potato Casserole
-
-`Main Meal` `American`
-
+---
+title: "Chicken, Quinoa and Sweet Potato Casserole"
+tags: ["Main Meal", "American"]
+servings: ""
+---
 ## **Ingredients**
 
 Ingredient Checklist

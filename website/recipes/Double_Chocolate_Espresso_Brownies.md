@@ -1,9 +1,8 @@
-# Double Chocolate Espresso Brownies
-
-`Desserts` `Mexican/Cuban/Latin Inspired` `Italian Inspired`
-
-Makes 4 dozen
-
+---
+title: "Double Chocolate Espresso Brownies"
+tags: ["Desserts", "Mexican/Cuban/Latin Inspired", "Italian Inspired"]
+servings: "Makes 4 dozen"
+---
 **Ingredients:**
 
 - 1-1/4 cups all-purpose flour

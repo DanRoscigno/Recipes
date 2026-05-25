@@ -1,9 +1,8 @@
-# Apple Butter
-
-`Preserves and Jams`
-
-Makes 3 pints
-
+---
+title: "Apple Butter"
+tags: ["Preserves and Jams"]
+servings: "Makes 3 pints"
+---
 **Ingredients:**
 
 - 4 pounds good cooking apples (we use Granny Smith or Gravenstein)

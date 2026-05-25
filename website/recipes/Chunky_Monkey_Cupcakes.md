@@ -1,9 +1,8 @@
-# Chunky Monkey Cupcakes
-
-`Desserts`
-
-Makes: 12 cupcakes 
-
+---
+title: "Chunky Monkey Cupcakes"
+tags: ["Desserts"]
+servings: "Makes: 12 cupcakes"
+---
 **Ingredients:**
 
 _Cupcakes:_

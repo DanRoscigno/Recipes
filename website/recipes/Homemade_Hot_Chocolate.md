@@ -1,7 +1,8 @@
-# Homemade Hot Chocolate
-
-`Drinks` `Winter`
-
+---
+title: "Homemade Hot Chocolate"
+tags: ["Drinks", "Winter"]
+servings: ""
+---
 **INGREDIENTS:**
 
 - 2 tablespoons  [sugar](https://www.food.com/about/sugar-139)or 2 tablespoons  [Splenda sugar substitute](https://www.food.com/about/artificial-sweetener-516)

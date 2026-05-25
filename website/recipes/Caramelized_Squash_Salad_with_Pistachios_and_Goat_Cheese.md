@@ -1,7 +1,8 @@
-# Caramelized Squash Salad with Pistachios and Goat Cheese
-
-`Salads` `Side dish`
-
+---
+title: "Caramelized Squash Salad with Pistachios and Goat Cheese"
+tags: ["Salads", "Side dish"]
+servings: ""
+---
 Prep: 20 mins
 
 Marinate: 1 hr to 4 hrs

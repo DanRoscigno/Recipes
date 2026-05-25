@@ -1,9 +1,8 @@
-# Coconut Rocher
-
-`Gifts` `Candy`
-
- 
-
+---
+title: "Coconut Rocher"
+tags: ["Gifts", "Candy"]
+servings: ""
+---
   Ingredients  
 
   1/4 ripe mango peeled, pitted

@@ -1,7 +1,8 @@
-# Ruby Roasted Beet Soup
-
-`Soups` `Kim Acceptable`
-
+---
+title: "Ruby Roasted Beet Soup"
+tags: ["Soups", "Kim Acceptable"]
+servings: ""
+---
 **Ingredients:**
 
 1 pound (about 3) beets, roasted, peeled and sliced

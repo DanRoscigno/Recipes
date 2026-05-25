@@ -1,9 +1,8 @@
-# Grilled Salmon with Citrus Salsa Verde
-
-`Salads` `Main Meal` `Picnic Fare` `Kim Acceptable` `Island Inspired`
-
- 
-
+---
+title: "Grilled Salmon with Citrus Salsa Verde"
+tags: ["Salads", "Main Meal", "Picnic Fare", "Kim Acceptable", "Island Inspired"]
+servings: ""
+---
   Ingredients  
 
   2 large oranges

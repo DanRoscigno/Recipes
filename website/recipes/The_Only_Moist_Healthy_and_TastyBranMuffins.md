@@ -1,10 +1,9 @@
-# The Only Moist, Healthy, and Tasty Bran Muffins!
-
-`Breads`
-
-Servings: 6 Dozen  
-
-**Ingredients:**   
+---
+title: "The Only Moist, Healthy, and Tasty Bran Muffins!"
+tags: ["Breads"]
+servings: "Servings: 6 Dozenï¿½"
+---
+**Ingredients:**ï¿½  
 
 5 tsp baking soda
 

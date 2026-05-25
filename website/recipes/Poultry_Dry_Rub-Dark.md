@@ -1,9 +1,8 @@
-# Poultry Dry Rub- Dark
-
-`Dry Rubs`
-
- 
-
+---
+title: "Poultry Dry Rub- Dark"
+tags: ["Dry Rubs"]
+servings: ""
+---
   Ingredients  
 
   Mix these ingredients and store in an airtight container in a cool, dark place: 

@@ -1,9 +1,8 @@
-# Flank Steak with Herb Sauce and Three Cheese Waffle Hash Browns
-
-`Main Meal` `American`
-
-Makes 4 servings
-
+---
+title: "Flank Steak with Herb Sauce and Three Cheese Waffle Hash Browns"
+tags: ["Main Meal", "American"]
+servings: "Makes 4 servings"
+---
 **Ingredients:**
 
 _Herb Sauce:_

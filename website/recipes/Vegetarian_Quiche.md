@@ -1,9 +1,8 @@
-# Vegetarian Quiche
-
-`Main Meal` `Kim Acceptable` `French Inspired`
-
- 
-
+---
+title: "Vegetarian Quiche"
+tags: ["Main Meal", "Kim Acceptable", "French Inspired"]
+servings: ""
+---
   Ingredients  
 
   Prepared pie dough

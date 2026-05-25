@@ -1,7 +1,8 @@
-# Salsa Verde
-
-`Want to make` `Condiments` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Salsa Verde"
+tags: ["Want to make", "Condiments", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 **INGREDIENTS:**
 
 6 large tomatillos, husks removed, rinsed

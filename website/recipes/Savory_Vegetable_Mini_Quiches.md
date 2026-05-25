@@ -1,9 +1,8 @@
-# Savory Vegetable Mini Quiches
-
-`Main Meal` `Picnic Fare` `Appetizers` `Kim Acceptable` `French Inspired`
-
-Servings: 24      
-
+---
+title: "Savory Vegetable Mini Quiches"
+tags: ["Main Meal", "Picnic Fare", "Appetizers", "Kim Acceptable", "French Inspired"]
+servings: "Servings: 24"
+---
 **Ingredients:** 
 
 1 package (15 ounces) refrigerated pie crusts (2 crusts) 

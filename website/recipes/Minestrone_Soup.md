@@ -1,7 +1,8 @@
-# Minestrone Soup
-
-`Soups` `Kim Acceptable` `Italian Inspired`
-
+---
+title: "Minestrone Soup"
+tags: ["Soups", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 - 1/4 cup extra virgin olive oil.

@@ -1,9 +1,8 @@
-# Caramel Spiced Pear Butter
-
-`Gifts` `Preserves and Jams`
-
- 
-
+---
+title: "Caramel Spiced Pear Butter"
+tags: ["Gifts", "Preserves and Jams"]
+servings: ""
+---
   Ingredients  
 
   * 15 bartlett pears

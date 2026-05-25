@@ -1,9 +1,8 @@
-# Cheese and Broccoli Soup
-
-`Soups` `Kim Acceptable`
-
- 
-
+---
+title: "Cheese and Broccoli Soup"
+tags: ["Soups", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   3 Tbsp butter

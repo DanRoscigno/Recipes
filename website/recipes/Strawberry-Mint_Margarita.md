@@ -1,9 +1,8 @@
-# Strawberry-Mint Margarita
-
-`Drinks` `Mexican/Cuban/Latin Inspired`
-
-Makes ~14 or more margaritas 
-
+---
+title: "Strawberry-Mint Margarita"
+tags: ["Drinks", "Mexican/Cuban/Latin Inspired"]
+servings: "Makes ~14 or more margaritas"
+---
 ### **Ingredients:**
 
 _Margarita Base:_

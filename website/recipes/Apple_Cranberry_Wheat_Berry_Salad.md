@@ -1,9 +1,8 @@
-# Apple Cranberry Wheat Berry Salad
-
-`Salads` `Want to make` `Side dish`
-
-Servings: 4
-
+---
+title: "Apple Cranberry Wheat Berry Salad"
+tags: ["Salads", "Want to make", "Side dish"]
+servings: "Servings: 4"
+---
 **Ingredients:**
 
 - 1 cup uncooked wheat berries, rinsed

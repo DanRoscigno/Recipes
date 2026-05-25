@@ -1,9 +1,8 @@
-# Wild Rice and Tomato Soup
-
-`Soups` `Kim Acceptable` `Italian Inspired`
-
- 
-
+---
+title: "Wild Rice and Tomato Soup"
+tags: ["Soups", "Kim Acceptable", "Italian Inspired"]
+servings: ""
+---
   Ingredients  
 
   5 T. olive oil 

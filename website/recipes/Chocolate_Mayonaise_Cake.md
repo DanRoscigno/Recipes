@@ -1,7 +1,8 @@
-# Chocolate Mayonaise Cake
-
-`Desserts` `Picnic Fare`
-
+---
+title: "Chocolate Mayonaise Cake"
+tags: ["Desserts", "Picnic Fare"]
+servings: ""
+---
 Servings ~15
 
 **Ingredients:**

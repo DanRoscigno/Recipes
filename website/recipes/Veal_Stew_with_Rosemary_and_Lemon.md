@@ -1,9 +1,8 @@
-# Veal Stew with Rosemary and Lemon
-
-`Main Meal` `Special Meal` `Italian Inspired`
-
-Serves: 6
-
+---
+title: "Veal Stew with Rosemary and Lemon"
+tags: ["Main Meal", "Special Meal", "Italian Inspired"]
+servings: "Serves: 6"
+---
 **Ingredients:**
 
 - 3 tablespoons pure olive oil 

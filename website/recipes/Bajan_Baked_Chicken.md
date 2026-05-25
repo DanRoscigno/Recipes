@@ -1,9 +1,8 @@
-# Bajan Baked Chicken
-
-`Main Meal` `Kim Acceptable` `Island Inspired`
-
-Makes 4 servings
-
+---
+title: "Bajan Baked Chicken"
+tags: ["Main Meal", "Kim Acceptable", "Island Inspired"]
+servings: "Makes 4 servings"
+---
 **Ingredients:**
 
 10 green onions

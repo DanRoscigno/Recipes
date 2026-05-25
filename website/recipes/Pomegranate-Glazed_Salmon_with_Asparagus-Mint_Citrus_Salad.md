@@ -1,9 +1,8 @@
-# Pomegranate-Glazed Salmon with Asparagus-Mint Citrus Salad
-
-`Main Meal` `Kim Acceptable` `Special Meal` `American`
-
-Makes 4 servings
-
+---
+title: "Pomegranate-Glazed Salmon with Asparagus-Mint Citrus Salad"
+tags: ["Main Meal", "Kim Acceptable", "Special Meal", "American"]
+servings: "Makes 4 servings"
+---
 ### **Ingredients:**
 
 1 pound asparagus

@@ -1,9 +1,8 @@
-# Potato Peel Broth
-
-`Soups`
-
-Makes about 6 quarts of broth
-
+---
+title: "Potato Peel Broth"
+tags: ["Soups"]
+servings: "Makes about 6 quarts of broth"
+---
 **Ingredients:**
 
 Peels from 6-7 large potatoes**, about ¼ inch thick

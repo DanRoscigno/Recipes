@@ -1,9 +1,8 @@
-# Persian Noodle Soup
-
-`Main Meal` `Soups` `Kim Acceptable` `Middle Eastern/Moroccan Inspired`
-
-Serves 6
-
+---
+title: "Persian Noodle Soup"
+tags: ["Main Meal", "Soups", "Kim Acceptable", "Middle Eastern/Moroccan Inspired"]
+servings: "Serves 6"
+---
 **Ingredients:**
 
 2 tablespoons olive oil

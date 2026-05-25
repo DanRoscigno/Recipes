@@ -1,8 +1,9 @@
-# Walnut/Pecan Refrigerator Cookies
-
-`Cookies`
-
-**Ingredients:**  
+---
+title: "Walnut/Pecan Refrigerator Cookies"
+tags: ["Cookies"]
+servings: ""
+---
+**Ingredients:**ï¿½ 
 
 2 cups flour
 

@@ -1,7 +1,8 @@
-# Moo Goo Gai Pan II
-
-`Main Meal` `Kim Acceptable` `Quick` `Asian Inspired`
-
+---
+title: "Moo Goo Gai Pan II"
+tags: ["Main Meal", "Kim Acceptable", "Quick", "Asian Inspired"]
+servings: ""
+---
 4 Servings
 
 **Ingredients:**

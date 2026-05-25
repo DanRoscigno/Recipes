@@ -1,9 +1,8 @@
-# Summer Fruit Salad
-
-`Salads` `Want to make` `Appetizers` `Side dish` `Kim Acceptable` `Summer`
-
-Makes 8 to 10 small appetizer servings. Serve in short cocktail glasses!
-
+---
+title: "Summer Fruit Salad"
+tags: ["Salads", "Want to make", "Appetizers", "Side dish", "Kim Acceptable", "Summer"]
+servings: "Makes 8 to 10 small appetizer servings. Serve in short cocktail glasses!"
+---
 ## **Ingredients**
 
 - ½ cup bottled poppy seed dressing 

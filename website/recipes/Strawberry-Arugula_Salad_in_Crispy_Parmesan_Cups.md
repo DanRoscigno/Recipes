@@ -1,9 +1,8 @@
-# Strawberry-Arugula Salad in Crispy Parmesan Cups
-
-`Want to make` `Appetizers` `Side dish` `Summer` `Spring` `Italian Inspired`
-
-Serves 6
-
+---
+title: "Strawberry-Arugula Salad in Crispy Parmesan Cups"
+tags: ["Want to make", "Appetizers", "Side dish", "Summer", "Spring", "Italian Inspired"]
+servings: "Serves 6"
+---
 **Ingredients:**
 
 Nonstick cooking spray

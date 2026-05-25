@@ -1,9 +1,8 @@
-# Shrimp and Papaya Salad with Orange-Herb Vinaigrette
-
-`Salads` `Side dish` `Kim Acceptable` `Summer` `Spring` `Island Inspired`
-
-Servings: 4                
-
+---
+title: "Shrimp and Papaya Salad with Orange-Herb Vinaigrette"
+tags: ["Salads", "Side dish", "Kim Acceptable", "Summer", "Spring", "Island Inspired"]
+servings: "Servings: 4"
+---
 **Ingredients**:   
 
 _Salad:_

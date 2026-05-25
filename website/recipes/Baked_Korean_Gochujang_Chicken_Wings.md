@@ -1,9 +1,8 @@
-# Baked Korean Gochujang Chicken Wings
-
-`Main Meal` `Asian Inspired`
-
-Servings: 6-12 
-
+---
+title: "Baked Korean Gochujang Chicken Wings"
+tags: ["Main Meal", "Asian Inspired"]
+servings: "Servings: 6-12"
+---
 ### Ingredients
 
 - 4.5 pounds chicken wing sections

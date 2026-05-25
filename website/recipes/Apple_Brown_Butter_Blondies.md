@@ -1,9 +1,8 @@
-# Apple Brown Butter Blondies
-
-`Desserts` `Want to make` `Fall`
-
-Makes 16 brownies
-
+---
+title: "Apple Brown Butter Blondies"
+tags: ["Desserts", "Want to make", "Fall"]
+servings: "Makes 16 brownies"
+---
 **Ingredients:**
 
 Nonstick cooking spray, for the baking pan

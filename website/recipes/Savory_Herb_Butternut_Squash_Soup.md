@@ -1,7 +1,8 @@
-# Savory Herb Butternut Squash Soup
-
-`Gifts` `Soups` `Thanksgiving` `Fall` `Winter`
-
+---
+title: "Savory Herb Butternut Squash Soup"
+tags: ["Gifts", "Soups", "Thanksgiving", "Fall", "Winter"]
+servings: ""
+---
 **Ingredients:**
 
 _Broth:_

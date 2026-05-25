@@ -1,9 +1,8 @@
-# Turkey Paillard Sandwich
-
-`Main Meal` `Sandwiches` `Italian Inspired`
-
- 
-
+---
+title: "Turkey Paillard Sandwich"
+tags: ["Main Meal", "Sandwiches", "Italian Inspired"]
+servings: ""
+---
   Ingredients  
 
   * 1/2 boneless turkey breast (1 3/4 pounds)

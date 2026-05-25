@@ -1,7 +1,8 @@
-# Blistered Grapes with Honey and Ricotta
-
-`Want to make` `Breakfasts` `Kim Acceptable`
-
+---
+title: "Blistered Grapes with Honey and Ricotta"
+tags: ["Want to make", "Breakfasts", "Kim Acceptable"]
+servings: ""
+---
 4-6 Servings
 
 **Ingredients:**

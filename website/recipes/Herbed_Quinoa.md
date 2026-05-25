@@ -1,9 +1,8 @@
-# Herbed Quinoa
-
-`Side dish`
-
- 
-
+---
+title: "Herbed Quinoa"
+tags: ["Side dish"]
+servings: ""
+---
   Ingredients  
 
   2 3/4 cups low-sodium chicken stock

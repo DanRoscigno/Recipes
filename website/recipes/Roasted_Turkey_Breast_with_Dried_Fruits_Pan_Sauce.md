@@ -1,9 +1,8 @@
-# Roasted Turkey Breast with Dried Fruits Pan Sauce
-
-`Want to make` `Kim Acceptable` `Fall` `Winter`
-
-Makes 6 servings
-
+---
+title: "Roasted Turkey Breast with Dried Fruits Pan Sauce"
+tags: ["Want to make", "Kim Acceptable", "Fall", "Winter"]
+servings: "Makes 6 servings"
+---
 **Ingredients:**
 
 1 skin-on boneless turkey breast, about 4 pounds

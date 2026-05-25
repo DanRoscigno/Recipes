@@ -1,7 +1,8 @@
-# Flourless Chocolate Cake with Cafe de Olla Ganache
-
-`Desserts` `Want to make` `Gluten Free`
-
+---
+title: "Flourless Chocolate Cake with Cafe de Olla Ganache"
+tags: ["Desserts", "Want to make", "Gluten Free"]
+servings: ""
+---
 8 SERVINGS
 
 **Ingredients:**

@@ -1,7 +1,8 @@
-# Buttermilk Fudge Sauce
-
-`Condiments`
-
+---
+title: "Buttermilk Fudge Sauce"
+tags: ["Condiments"]
+servings: ""
+---
 **Ingredients:**
 
 - 3/4 cup sugar

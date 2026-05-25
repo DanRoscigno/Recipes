@@ -1,9 +1,8 @@
-# Mini Cherry Pies with Homemade Cherry Filling
-
-`Desserts` `Want to make` `Picnic Fare`
-
-Servings: 24 mini pies       
-
+---
+title: "Mini Cherry Pies with Homemade Cherry Filling"
+tags: ["Desserts", "Want to make", "Picnic Fare"]
+servings: "Servings: 24 mini pies"
+---
 **Ingredients:**    
 
 _Pie Crust_: 

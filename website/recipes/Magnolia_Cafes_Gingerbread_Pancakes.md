@@ -1,9 +1,8 @@
-# Magnolia Cafe's Gingerbread Pancakes
-
-`Breakfasts`
-
-Makes 8-10 large pancakes
-
+---
+title: "Magnolia Cafe's Gingerbread Pancakes"
+tags: ["Breakfasts"]
+servings: "Makes 8-10 large pancakes"
+---
 ### **Ingredients:**
 
 3 eggs

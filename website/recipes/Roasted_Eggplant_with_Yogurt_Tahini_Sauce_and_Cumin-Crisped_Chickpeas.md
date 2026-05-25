@@ -1,9 +1,8 @@
-# Roasted Eggplant with Yogurt Tahini Sauce and Cumin-Crisped Chickpeas
-
-`Main Meal` `Kim Acceptable` `Quick` `Mediterranean Inspired`
-
-Makes 4-6 servings
-
+---
+title: "Roasted Eggplant with Yogurt Tahini Sauce and Cumin-Crisped Chickpeas"
+tags: ["Main Meal", "Kim Acceptable", "Quick", "Mediterranean Inspired"]
+servings: "Makes 4-6 servings"
+---
 **Ingredients:**
 
 1 1/4 cups* (from a 15 oz. Can) cooked chickpeas, drained, patted dry on paper towels (*_I used a 29 oz can of chickpeas because I love them and just adjust their oil and seasonings accordingly_)

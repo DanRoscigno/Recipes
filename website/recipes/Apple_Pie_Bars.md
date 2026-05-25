@@ -1,9 +1,8 @@
-# Apple Pie Bars
-
-`Desserts` `Want to make` `Fall`
-
-Makes ~12 bars
-
+---
+title: "Apple Pie Bars"
+tags: ["Desserts", "Want to make", "Fall"]
+servings: "Makes ~12 bars"
+---
 **Ingredients:**
 
 _For the crust:_

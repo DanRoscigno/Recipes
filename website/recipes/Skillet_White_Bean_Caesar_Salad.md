@@ -1,9 +1,8 @@
-# Skillet White Bean Caesar Salad
-
-`Main Meal` `Want to make` `Picnic Fare` `Kim Acceptable` `Quick`
-
-Serves 1 or 2
-
+---
+title: "Skillet White Bean Caesar Salad"
+tags: ["Main Meal", "Want to make", "Picnic Fare", "Kim Acceptable", "Quick"]
+servings: "Serves 1 or 2"
+---
 Olive oil
 
 1/2 cup (30 grams) panko-style plain or coarse breadcrumbs

@@ -1,9 +1,8 @@
-# The Monster Chip
-
-`Cookies`
-
- 
-
+---
+title: "The Monster Chip"
+tags: ["Cookies"]
+servings: ""
+---
   Ingredients  
 
   Preheat oven to slow 325 degrees. Lightly grease 2 large cookie sheets. Break 3 bars (3 ounces each) semi sweet chocolate into squares; then cut each square diagonally in half. Set aside 1/2 cup pecan halves; coarsely chop 3/4 cup pecans. Stir together 1 cup + 2 Tbsp unsifted flour and 1/2 tsp baking soda, mix well.

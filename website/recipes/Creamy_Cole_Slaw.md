@@ -1,7 +1,8 @@
-# Creamy Cole Slaw
-
-`Salads` `Side dish`
-
+---
+title: "Creamy Cole Slaw"
+tags: ["Salads", "Side dish"]
+servings: ""
+---
  ![Creamy Cole Slaw](http://img.foodnetwork.com/FOOD/2004/04/13/gl1b11_creamy_cole_slaw_med.jpg)   Ingredients  
 
   1 head green cabbage, finely shredded

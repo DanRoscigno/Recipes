@@ -1,5 +1,8 @@
-# GRILLED PINEAPPLE WITH RUM REDUCTION SAUCE
-
+---
+title: "GRILLED PINEAPPLE WITH RUM REDUCTION SAUCE"
+tags: []
+servings: ""
+---
 Makes 4 servings
 
 **INGREDIENTS:**

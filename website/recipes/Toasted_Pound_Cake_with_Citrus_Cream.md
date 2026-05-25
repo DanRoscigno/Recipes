@@ -1,9 +1,8 @@
-# Toasted Pound Cake with Citrus Cream
-
-`Desserts` `Island Inspired`
-
-Servings: 4-6 
-
+---
+title: "Toasted Pound Cake with Citrus Cream"
+tags: ["Desserts", "Island Inspired"]
+servings: "Servings: 4-6"
+---
 **Ingredients:**
 
 _Pound Cake:_

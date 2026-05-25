@@ -1,9 +1,8 @@
-# Herb-Crusted Roasted Leg of Lamb
-
-`Main Meal` `Spring` `Special Meal` `Easter` `Irish/English/Scottish Inspired`
-
-Serves 10-12
-
+---
+title: "Herb-Crusted Roasted Leg of Lamb"
+tags: ["Main Meal", "Spring", "Special Meal", "Easter", "Irish/English/Scottish Inspired"]
+servings: "Serves 10-12"
+---
 **Ingredients:**
 
 - 1(6- to 7-lb.) bone-in leg of lamb, trimmed and patted dry

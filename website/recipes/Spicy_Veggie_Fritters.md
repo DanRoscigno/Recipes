@@ -1,9 +1,8 @@
-# Spicy Veggie Fritters
-
-`Main Meal` `Picnic Fare` `Appetizers` `Kim Acceptable` `Snack` `Summer` `Spring`
-
-Makes up to 8 fritters
-
+---
+title: "Spicy Veggie Fritters"
+tags: ["Main Meal", "Picnic Fare", "Appetizers", "Kim Acceptable", "Snack", "Summer", "Spring"]
+servings: "Makes up to 8 fritters"
+---
 ### Ingredients:
 
 - 1 head of broccoli (approx. 12.3oz)

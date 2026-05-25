@@ -1,9 +1,8 @@
-# Pina Colada Pound Cake
-
-`Desserts` `Want to make` `Gifts` `Island Inspired`
-
-Servings: 16
-
+---
+title: "Pina Colada Pound Cake"
+tags: ["Desserts", "Want to make", "Gifts", "Island Inspired"]
+servings: "Servings: 16"
+---
 **Ingredients:**
 
 Cake:

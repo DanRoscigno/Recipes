@@ -1,9 +1,8 @@
-# Super Bran Muffins
-
-`Breads`
-
-Makes ~ 3 dozen regular muffins
-
+---
+title: "Super Bran Muffins"
+tags: ["Breads"]
+servings: "Makes ~ 3 dozen regular muffins"
+---
 **INGREDIENTS:**
 
 - 1⁄2 cup  butteror 1/2 cup margarine

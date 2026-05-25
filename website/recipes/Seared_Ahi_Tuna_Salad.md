@@ -1,9 +1,8 @@
-# Seared Ahi Tuna Salad
-
-`Main Meal` `Asian Inspired`
-
- 
-
+---
+title: "Seared Ahi Tuna Salad"
+tags: ["Main Meal", "Asian Inspired"]
+servings: ""
+---
   Ingredients  
 
   For dressing:

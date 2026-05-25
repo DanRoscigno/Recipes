@@ -1,9 +1,8 @@
-# Irish Cream Liquor
-
-`Drinks` `Gifts` `Irish/English/Scottish Inspired`
-
- 
-
+---
+title: "Irish Cream Liquor"
+tags: ["Drinks", "Gifts", "Irish/English/Scottish Inspired"]
+servings: ""
+---
   Ingredients  
 
   1 14-ounce can sweetened condensed milk

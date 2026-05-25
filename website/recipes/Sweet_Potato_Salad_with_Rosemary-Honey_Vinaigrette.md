@@ -1,12 +1,11 @@
-# Sweet Potato Salad with Rosemary-Honey Vinaigrette
+---
+title: "Sweet Potato Salad with Rosemary-Honey Vinaigrette"
+tags: ["Side dish", "Kim Acceptable"]
+servings: "Servings: 6"
+---
+**Ingredients:**ï¿½ 
 
-`Side dish` `Kim Acceptable`
-
- Servings: 6
-
-**Ingredients:**  
-
-4 1/2  cups  peeled, cubed sweet potato
+4 1/2ï¿½ cupsï¿½ peeled, cubed sweet potato
 
 2 tablespoons olive oil, divided
 

@@ -1,9 +1,8 @@
-# Spinach Strawberry Salad
-
-`Salads` `Picnic Fare` `Side dish` `Kim Acceptable`
-
-Servings: 4-6
-
+---
+title: "Spinach Strawberry Salad"
+tags: ["Salads", "Picnic Fare", "Side dish", "Kim Acceptable"]
+servings: "Servings: 4-6"
+---
 **Ingredients:*
 
 _Dressing:_

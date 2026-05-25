@@ -1,9 +1,8 @@
-# Mint and Pistachio Stuffed Leg of Lamb
-
-`Main Meal` `Special Meal` `Irish/English/Scottish Inspired`
-
-Serves 6-8
-
+---
+title: "Mint and Pistachio Stuffed Leg of Lamb"
+tags: ["Main Meal", "Special Meal", "Irish/English/Scottish Inspired"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 - 2 cups fresh mint leaves 

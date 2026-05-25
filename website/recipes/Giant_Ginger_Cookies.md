@@ -1,9 +1,8 @@
-# Giant Ginger Cookies
-
-`Cookies`
-
- 
-
+---
+title: "Giant Ginger Cookies"
+tags: ["Cookies"]
+servings: ""
+---
   Ingredients  
 
   4 teaspoons ground ginger

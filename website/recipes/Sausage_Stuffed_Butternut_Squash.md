@@ -1,7 +1,8 @@
-# Sausage Stuffed Butternut Squash
-
-`Main Meal` `Kim Acceptable` `Fall`
-
+---
+title: "Sausage Stuffed Butternut Squash"
+tags: ["Main Meal", "Kim Acceptable", "Fall"]
+servings: ""
+---
 ### Ingredients:
 
 _Roasted Butternut Squash:_

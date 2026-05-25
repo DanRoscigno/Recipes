@@ -1,9 +1,8 @@
-# Green Bean, Walnut, and Feta Salad
-
-`Salads` `Side dish` `Kim Acceptable`
-
- 
-
+---
+title: "Green Bean, Walnut, and Feta Salad"
+tags: ["Salads", "Side dish", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   2 pounds fresh green beans, trimmed

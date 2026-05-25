@@ -1,9 +1,8 @@
-# Braised Winter Squash Wedges
-
-`Want to make` `Side dish` `Kim Acceptable`
-
-Serves 4
-
+---
+title: "Braised Winter Squash Wedges"
+tags: ["Want to make", "Side dish", "Kim Acceptable"]
+servings: "Serves 4"
+---
 2-1/4 to 2-1/2 pounds (1 to 1.15 kilograms) winter squash (about 1/2 kabocha or red kuri squash)
 
 2 tablespoons (30 grams)unsalted butter

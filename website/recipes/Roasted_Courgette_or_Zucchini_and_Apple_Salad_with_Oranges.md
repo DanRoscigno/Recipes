@@ -1,9 +1,8 @@
-# Roasted Courgette (Zucchini) and Apple Salad with Oranges
-
-`Salads` `Kim Acceptable` `Summer` `Italian Inspired`
-
-Serves 4-6
-
+---
+title: "Roasted Courgette (Zucchini) and Apple Salad with Oranges"
+tags: ["Salads", "Kim Acceptable", "Summer", "Italian Inspired"]
+servings: "Serves 4-6"
+---
 **Ingredients:**
 
 2 medium courgettes, trimmed, halved, and sliced

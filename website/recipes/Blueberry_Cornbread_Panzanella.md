@@ -1,9 +1,8 @@
-# Blueberry Cornbread Panzanella
-
-`Salads` `Want to make` `Kim Acceptable`
-
-Makes ~ 6 servings
-
+---
+title: "Blueberry Cornbread Panzanella"
+tags: ["Salads", "Want to make", "Kim Acceptable"]
+servings: "Makes ~ 6 servings"
+---
 **Ingredients:**
 
 _Cornbread Croutons:_

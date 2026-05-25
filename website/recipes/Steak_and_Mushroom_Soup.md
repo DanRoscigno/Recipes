@@ -1,9 +1,8 @@
-# Steak and Mushroom Soup
-
-`Soups` `Fall` `Winter`
-
-Serves 6-8
-
+---
+title: "Steak and Mushroom Soup"
+tags: ["Soups", "Fall", "Winter"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 11/4 pounds thick shell steak, trimmed and cut into 1” cubes

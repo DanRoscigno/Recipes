@@ -1,42 +1,43 @@
-# Five-Spice Toasted-Coconut Cake Roll with Tropical Fruit Compote
-
-`Desserts` `Summer` `Spring` `Island Inspired`
-
+---
+title: "Five-Spice Toasted-Coconut Cake Roll with Tropical Fruit Compote"
+tags: ["Desserts", "Summer", "Spring", "Island Inspired"]
+servings: ""
+---
 8 servings
 
 ## **Ingredients**
 
-**Cake:** 
+**Cake:**ï¿½
 
-- ½ cup sifted cake flour 
-- ¾ cup granulated sugar, divided 
-- ¾ teaspoon five-spice powder 
-- 6 large egg whites 
-- ½ teaspoon cream of tartar 
-- Dash of salt 
-- 1 teaspoon fresh lemon juice 
-- 1 teaspoon vanilla extract 
-- ½ teaspoon coconut extract 
-- a cup flaked sweetened coconut 
-- 2 tablespoons powdered sugar 
+- ï¿½ cup sifted cake flourï¿½
+- ï¿½ cup granulated sugar, dividedï¿½
+- ï¿½ teaspoon five-spice powderï¿½
+- 6 large egg whitesï¿½
+- ï¿½ teaspoon cream of tartarï¿½
+- Dash of saltï¿½
+- 1 teaspoon fresh lemon juiceï¿½
+- 1 teaspoon vanilla extractï¿½
+- ï¿½ teaspoon coconut extractï¿½
+- a cup flaked sweetened coconutï¿½
+- 2 tablespoons powdered sugarï¿½
 
-**Ice cream:** 1 pint mandarin orange with passionfruit sorbet (such as Edy's Whole Fruit Sorbet), softened 
+**Ice cream:** 1 pint mandarin orange with passionfruit sorbet (such as Edy's Whole Fruit Sorbet), softenedï¿½
 
-**Compote:** 
+**Compote:**ï¿½
 
-- 1 cup (1/2-inch) cubed peeled ripe mango 
-- 1 cup (1/2-inch) cubed fresh pineapple 
-- 1 cup (1/2-inch) cubed peeled kiwifruit 
-- 2 tablespoons brown sugar 
-- 2 tablespoons dark rum 
+- 1 cup (1/2-inch) cubed peeled ripe mangoï¿½
+- 1 cup (1/2-inch) cubed fresh pineappleï¿½
+- 1 cup (1/2-inch) cubed peeled kiwifruitï¿½
+- 2 tablespoons brown sugarï¿½
+- 2 tablespoons dark rumï¿½
 
-**Remaining ingredient:** 
+**Remaining ingredient:**ï¿½
 
-- ¼ cup flaked sweetened coconut, toasted
+- ï¿½ cup flaked sweetened coconut, toasted
 
 ## **Directions**
 
-- Preheat oven to 325°.
+- Preheat oven to 325ï¿½.
     **Step 1**
 - To prepare cake, line the bottom of a 15 x 10-inch jelly roll pan with wax paper.
     **Step 2**
@@ -44,7 +45,7 @@
     **Step 3**
 - Place egg whites in a large bowl; beat with a mixer at high speed until foamy. Add cream of tartar and salt, and beat until soft peaks form. Add 6 tablespoons granulated sugar, 2 tablespoons at a time, beating until stiff peaks form. Beat in juice and extracts.
     **Step 4**
-- Sift 1/4 cup flour mixture over egg white mixture; fold in. Repeat procedure with remaining flour mixture, 1/4 cup at a time. Spread batter into prepared pan. Sprinkle with 1/3 cup coconut. Bake at 325° for 20 minutes or until cake springs back when lightly touched.
+- Sift 1/4 cup flour mixture over egg white mixture; fold in. Repeat procedure with remaining flour mixture, 1/4 cup at a time. Spread batter into prepared pan. Sprinkle with 1/3 cup coconut. Bake at 325ï¿½ for 20 minutes or until cake springs back when lightly touched.
     **Step 5**
 - Place a clean dish towel over a large wire rack; dust with powdered sugar. Loosen cake from sides of pan; turn out onto towel. Carefully peel off wax paper; cool for 3 minutes. Starting at narrow end, roll up cake and towel together. Place, seam side down, on wire rack; cool cake completely. Unroll cake, and remove towel. Spread sorbet over cake, leaving a 1/2-inch border around outside edges. Reroll cake. Wrap cake in plastic wrap; freeze 1 hour or until firm.
     **Step 6**

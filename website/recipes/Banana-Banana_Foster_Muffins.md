@@ -1,9 +1,8 @@
-# Banana-Banana Foster Muffins
-
-`Breads`
-
- 
-
+---
+title: "Banana-Banana Foster Muffins"
+tags: ["Breads"]
+servings: ""
+---
   Ingredients  
 
   Preheat oven to 350 degrees

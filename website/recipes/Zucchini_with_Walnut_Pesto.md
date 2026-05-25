@@ -1,9 +1,8 @@
-# Zucchini with Walnut Pesto
-
-`Want to make` `Side dish`
-
-Serves 4
-
+---
+title: "Zucchini with Walnut Pesto"
+tags: ["Want to make", "Side dish"]
+servings: "Serves 4"
+---
 **Ingredients:**
 
 Extra-virgin olive oil, for the skillet

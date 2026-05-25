@@ -1,10 +1,9 @@
-# Spicy Orange Beef & Broccoli Stir-Fry
-
-`Main Meal` `Asian Inspired`
-
-Servings: 6
-
-**Ingredients:**  
+---
+title: "Spicy Orange Beef & Broccoli Stir-Fry"
+tags: ["Main Meal", "Asian Inspired"]
+servings: "Servings: 6"
+---
+**Ingredients:**ï¿½ 
 
 3 tablespoons reduced-sodium soy sauce
 

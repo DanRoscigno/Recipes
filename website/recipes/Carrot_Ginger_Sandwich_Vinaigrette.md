@@ -1,7 +1,8 @@
-# Carrot Ginger Sandwich Vinaigrette
-
-`Condiments`
-
+---
+title: "Carrot Ginger Sandwich Vinaigrette"
+tags: ["Condiments"]
+servings: ""
+---
 **Ingredients:**
 
 - 2 tablespoons ginger, peeled with a spoon and minced

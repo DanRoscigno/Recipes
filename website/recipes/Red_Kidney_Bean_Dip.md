@@ -1,7 +1,8 @@
-# Red Kidney Bean Dip
-
-`Want to make` `Appetizers`
-
+---
+title: "Red Kidney Bean Dip"
+tags: ["Want to make", "Appetizers"]
+servings: ""
+---
 10 servings
 
 **Ingredients:**

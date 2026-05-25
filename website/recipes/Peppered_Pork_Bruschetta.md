@@ -1,9 +1,8 @@
-# Peppered Pork Bruschetta
-
-`Appetizers` `Snack` `Mediterranean Inspired`
-
-Serves 4-6
-
+---
+title: "Peppered Pork Bruschetta"
+tags: ["Appetizers", "Snack", "Mediterranean Inspired"]
+servings: "Serves 4-6"
+---
 **Ingredients:**
 
 _Pork:_

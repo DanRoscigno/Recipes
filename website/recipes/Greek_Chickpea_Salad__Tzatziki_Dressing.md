@@ -1,7 +1,8 @@
-# Greek Chickpea Salad + Tzatziki Dressing
-
-`Salads` `Want to make` `Picnic Fare` `Kim Acceptable` `Gluten Free`
-
+---
+title: "Greek Chickpea Salad + Tzatziki Dressing"
+tags: ["Salads", "Want to make", "Picnic Fare", "Kim Acceptable", "Gluten Free"]
+servings: ""
+---
 ### Ingredients:
 
 - 2 medium English cucumbers, chopped

@@ -1,9 +1,8 @@
-# Hot Spiced Lemonade
-
-`Drinks`
-
- 
-
+---
+title: "Hot Spiced Lemonade"
+tags: ["Drinks"]
+servings: ""
+---
   Ingredients  
 
   * 3 cups water

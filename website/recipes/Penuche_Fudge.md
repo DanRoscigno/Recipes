@@ -1,10 +1,9 @@
-# Penuche Fudge
-
-`Gifts` `Candy`
-
-Servings: 12-15 pieces
-
-**Ingredients:**  
+---
+title: "Penuche Fudge"
+tags: ["Gifts", "Candy"]
+servings: "Servings: 12-15 pieces"
+---
+**Ingredients:**ï¿½ 
 
 2 cups of brown sugar
 
@@ -16,7 +15,7 @@ dash of salt
 
 1 tsp vanilla extract
 
-3/4 cup or more of chopped walnuts  
+3/4 cup or more of chopped walnutsï¿½ 
 
 **Directions:**
 

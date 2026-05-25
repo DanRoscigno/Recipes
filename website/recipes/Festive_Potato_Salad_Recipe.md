@@ -1,9 +1,8 @@
-# Festive Potato Salad Recipe
-
-`Salads` `Want to make` `Side dish` `Kim Acceptable`
-
-Makes 6-8 Servings
-
+---
+title: "Festive Potato Salad Recipe"
+tags: ["Salads", "Want to make", "Side dish", "Kim Acceptable"]
+servings: "Makes 6-8 Servings"
+---
 ### Ingredients:
 
 - 3 pounds yellow potatoes washed and cut in bite sized pieces

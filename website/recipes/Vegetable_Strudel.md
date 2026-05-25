@@ -1,9 +1,8 @@
-# Vegetable Strudel
-
-`Main Meal` `Picnic Fare` `Side dish` `Kim Acceptable`
-
- 
-
+---
+title: "Vegetable Strudel"
+tags: ["Main Meal", "Picnic Fare", "Side dish", "Kim Acceptable"]
+servings: ""
+---
   Ingredients  
 
   3 cups chopped fresh broccoli

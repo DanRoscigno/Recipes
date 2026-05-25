@@ -1,9 +1,8 @@
-# Roasted Baby Potatoes with Eggplant Caviar and Creme Fraiche
-
-`Want to make` `Appetizers` `Italian Inspired`
-
-Serves 4+
-
+---
+title: "Roasted Baby Potatoes with Eggplant Caviar and Creme Fraiche"
+tags: ["Want to make", "Appetizers", "Italian Inspired"]
+servings: "Serves 4+"
+---
 **Ingredients:**
 
 1 Italian eggplant (about 1 pound)

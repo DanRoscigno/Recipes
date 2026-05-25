@@ -1,9 +1,8 @@
-# Crab and Roasted Red Pepper Strata
-
-`Want to make` `Breakfasts`
-
-Makes ~ 8 servings
-
+---
+title: "Crab and Roasted Red Pepper Strata"
+tags: ["Want to make", "Breakfasts"]
+servings: "Makes ~ 8 servings"
+---
 **INGREDIENTS:**
 
     - 6 large eggs

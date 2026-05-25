@@ -1,9 +1,8 @@
-# Clementine-Cranberry Salsa
-
-`Condiments`
-
- 
-
+---
+title: "Clementine-Cranberry Salsa"
+tags: ["Condiments"]
+servings: ""
+---
   Ingredients  
 
   4 clementines, peeled and sectioned

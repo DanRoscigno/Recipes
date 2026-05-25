@@ -1,12 +1,11 @@
-# Squash Strudel
+---
+title: "Squash Strudel"
+tags: ["Main Meal", "Side dish", "Kim Acceptable", "Summer", "Spring"]
+servings: "Servings: 6-8 main servings"
+---
+**Ingredients:**ï¿½ 
 
-`Main Meal` `Side dish` `Kim Acceptable` `Summer` `Spring`
-
-Servings: 6-8 main servings 
-
-**Ingredients:**  
-
-5  cups coarsely shredded yellow summer squash (1-1/2 pounds)
+5ï¿½ cups coarsely shredded yellow summer squash (1-1/2 pounds)
 
 8 beaten eggs
 
@@ -30,7 +29,7 @@ Servings: 6-8 main servings
 
 5 sheets frozen phyllo dough, thawed
 
-**Directions:**   
+**Directions:**ï¿½  
 
 Preheat oven to 350 degree F. In a large mixing bowl combine shredded zucchini, summer squash, and salt. Let stand 15 minutes. Place mixture in colander and squeeze to drain. 
 

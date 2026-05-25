@@ -1,9 +1,8 @@
-# Maple Brownies
-
-`Desserts` `Picnic Fare` `Cookies` `Fall`
-
- 
-
+---
+title: "Maple Brownies"
+tags: ["Desserts", "Picnic Fare", "Cookies", "Fall"]
+servings: ""
+---
   Ingredients  
 
   1 cup of all purpose flour

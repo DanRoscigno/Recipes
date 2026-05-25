@@ -1,9 +1,8 @@
-# Gado Gado
-
-`Appetizers` `Kim Acceptable` `Island Inspired`
-
-Serves 4-6
-
+---
+title: "Gado Gado"
+tags: ["Appetizers", "Kim Acceptable", "Island Inspired"]
+servings: "Serves 4-6"
+---
 **Ingredients:**
 
 _Peanut Sauce:_

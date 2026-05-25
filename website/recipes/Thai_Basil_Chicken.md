@@ -1,7 +1,8 @@
-# Thai Basil Chicken
-
-`Main Meal` `Quick` `Asian Inspired`
-
+---
+title: "Thai Basil Chicken"
+tags: ["Main Meal", "Quick", "Asian Inspired"]
+servings: ""
+---
 3+ servings
 
 **Ingredients:**

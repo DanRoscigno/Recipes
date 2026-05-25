@@ -1,9 +1,8 @@
-# Cinnamon-Orange Honey Butter
-
-`Condiments`
-
-Makes 3/4 cup
-
+---
+title: "Cinnamon-Orange Honey Butter"
+tags: ["Condiments"]
+servings: "Makes 3/4 cup"
+---
 **Ingredients:**
 
 - 1/2 cup butter, softened

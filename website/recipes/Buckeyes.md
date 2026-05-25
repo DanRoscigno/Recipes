@@ -1,7 +1,8 @@
-# Buckeyes
-
-`Gifts` `Picnic Fare` `Cookies`
-
+---
+title: "Buckeyes"
+tags: ["Gifts", "Picnic Fare", "Cookies"]
+servings: ""
+---
 ###  Ingredients:        
 
  1 1/2 cups peanut butter

@@ -1,9 +1,8 @@
-# Organic Cherry and Blueberry Salad with Cinnamon Candied Cashews and Goat Cheese
-
-`Main Meal` `Side dish` `Kim Acceptable` `American`
-
-Makes 2 servings
-
+---
+title: "Organic Cherry and Blueberry Salad with Cinnamon Candied Cashews and Goat Cheese"
+tags: ["Main Meal", "Side dish", "Kim Acceptable", "American"]
+servings: "Makes 2 servings"
+---
 **Ingredients:**
 
 _Candied Nuts_

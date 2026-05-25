@@ -1,9 +1,8 @@
-# Cherry Walnut Cake (Torta di college e noci)
-
-`Desserts` `Picnic Fare` `Italian Inspired`
-
-Serves 8
-
+---
+title: "Cherry Walnut Cake (Torta di college e noci)"
+tags: ["Desserts", "Picnic Fare", "Italian Inspired"]
+servings: "Serves 8"
+---
 **Ingredients:**
 
 2 eggs, lightly beaten 

@@ -1,7 +1,8 @@
-# Banana Peanut butter Tortilla
-
-`Breakfasts` `Camping`
-
+---
+title: "Banana Peanut butter Tortilla"
+tags: ["Breakfasts", "Camping"]
+servings: ""
+---
 Flour tortilla wrap
 
 Sliced Banana

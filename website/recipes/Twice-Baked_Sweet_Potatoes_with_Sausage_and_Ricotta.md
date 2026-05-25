@@ -1,9 +1,8 @@
-# Twice-Baked Sweet Potatoes with Sausage and Ricotta
-
-`Main Meal` `Side dish` `Kim Acceptable` `Fall`
-
-Makes 6 servings
-
+---
+title: "Twice-Baked Sweet Potatoes with Sausage and Ricotta"
+tags: ["Main Meal", "Side dish", "Kim Acceptable", "Fall"]
+servings: "Makes 6 servings"
+---
 **Ingredients:**
 
 3 small to medium sweet potatoes

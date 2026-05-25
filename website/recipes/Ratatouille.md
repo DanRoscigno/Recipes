@@ -1,9 +1,8 @@
-# Ratatouille
-
-`Main Meal` `Side dish` `Kim Acceptable` `Summer` `Spring` `Special Meal` `Italian Inspired` `Easter` `French Inspired`
-
-Serves 4-6
-
+---
+title: "Ratatouille"
+tags: ["Main Meal", "Side dish", "Kim Acceptable", "Summer", "Spring", "Special Meal", "Italian Inspired", "Easter", "French Inspired"]
+servings: "Serves 4-6"
+---
 **Ingredients:**
 
 1Tbsp extra virgin olive oil

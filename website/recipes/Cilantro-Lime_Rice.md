@@ -1,9 +1,8 @@
-# Cilantro-Lime Rice
-
-`Side dish` `Mexican/Cuban/Latin Inspired`
-
-Makes 3 cups of cooked rice
-
+---
+title: "Cilantro-Lime Rice"
+tags: ["Side dish", "Mexican/Cuban/Latin Inspired"]
+servings: "Makes 3 cups of cooked rice"
+---
 **Ingredients:**
 
 - 1 cup uncooked jasmine rice

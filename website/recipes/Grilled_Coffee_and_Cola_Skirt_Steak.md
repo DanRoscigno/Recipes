@@ -1,9 +1,8 @@
-# Grilled Coffee and Cola Skirt Steak
-
-`Main Meal` `Mexican/Cuban/Latin Inspired`
-
-Makes 4 servings
-
+---
+title: "Grilled Coffee and Cola Skirt Steak"
+tags: ["Main Meal", "Mexican/Cuban/Latin Inspired"]
+servings: "Makes 4 servings"
+---
 **Ingredients:**
 
 - 2 large cloves garlic, minced 

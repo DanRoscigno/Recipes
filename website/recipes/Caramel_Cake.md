@@ -1,9 +1,8 @@
-# Caramel Cake
-
-`Desserts`
-
-Makes two 9” cake layers for a two layer cake
-
+---
+title: "Caramel Cake"
+tags: ["Desserts"]
+servings: "Makes two 9” cake layers for a two layer cake"
+---
 **Ingredients:**
 
 - Nonstick cooking spray with flour 

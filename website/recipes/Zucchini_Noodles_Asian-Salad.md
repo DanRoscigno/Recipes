@@ -1,9 +1,8 @@
-# Zucchini Noodles Asian  Salad
-
-`Salads` `Main Meal` `Kim Acceptable` `Quick` `Gluten Free` `Summer` `Spring` `Asian Inspired`
-
-Serves 6-8
-
+---
+title: "Zucchini Noodles Asian  Salad"
+tags: ["Salads", "Main Meal", "Kim Acceptable", "Quick", "Gluten Free", "Summer", "Spring", "Asian Inspired"]
+servings: "Serves 6-8"
+---
 **Ingredients:**
 
 1/4 cup olive oil

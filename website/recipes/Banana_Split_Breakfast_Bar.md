@@ -1,7 +1,8 @@
-# Banana Split Breakfast Bar
-
-`Breakfasts` `Kim Acceptable` `Camping`
-
+---
+title: "Banana Split Breakfast Bar"
+tags: ["Breakfasts", "Kim Acceptable", "Camping"]
+servings: ""
+---
 ### Ingredients:
 
 - Bananas

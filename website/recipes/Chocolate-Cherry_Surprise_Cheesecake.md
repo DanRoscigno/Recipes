@@ -1,9 +1,8 @@
-# Chocolate-Cherry Surprise Cheesecake
-
-`Cheesecakes` `Want to make`
-
-Servings: 12 
-
+---
+title: "Chocolate-Cherry Surprise Cheesecake"
+tags: ["Cheesecakes", "Want to make"]
+servings: "Servings: 12"
+---
 **Ingredients:**
 
 1/2 cup butter

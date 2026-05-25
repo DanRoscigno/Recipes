@@ -1,9 +1,8 @@
-# Preserved lemon angel food cake
-
-`Desserts` `Summer` `Spring` `Easter`
-
-Serves 10-12
-
+---
+title: "Preserved lemon angel food cake"
+tags: ["Desserts", "Summer", "Spring", "Easter"]
+servings: "Serves 10-12"
+---
 **Ingredients:**
 
 2 cups sugar

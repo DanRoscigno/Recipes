@@ -1,9 +1,8 @@
-# One-Bowl Morning Glory Muffins
-
-`Want to make` `Breakfasts` `Breads` `Camping`
-
-Makes 1 dozen (normal)
-
+---
+title: "One-Bowl Morning Glory Muffins"
+tags: ["Want to make", "Breakfasts", "Breads", "Camping"]
+servings: "Makes 1 dozen (normal)"
+---
 **Ingredients:**
 
 - 1  1/2 cups whole wheat flour

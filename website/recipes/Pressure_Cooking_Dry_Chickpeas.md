@@ -1,7 +1,8 @@
-# Pressure Cooking Dry Chickpeas
-
-`Main Meal` `Middle Eastern/Moroccan Inspired` `Mediterranean Inspired`
-
+---
+title: "Pressure Cooking Dry Chickpeas"
+tags: ["Main Meal", "Middle Eastern/Moroccan Inspired", "Mediterranean Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 - 1 pounddry chickpeas, approximately 2 cups dry chickpeas

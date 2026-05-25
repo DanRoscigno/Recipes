@@ -1,5 +1,8 @@
-# Pumpkin Apple pancakes
-
+---
+title: "Pumpkin Apple pancakes"
+tags: []
+servings: ""
+---
 ## Ingredients
   
 - 1 ½ cups buttermilk

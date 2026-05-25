@@ -1,9 +1,8 @@
-# Creamy White Bean Soup
-
-`Soups`
-
-Serves 6
-
+---
+title: "Creamy White Bean Soup"
+tags: ["Soups"]
+servings: "Serves 6"
+---
 **Ingredients:**
 
 - 2 tablespoons extra-virgin olive oil

@@ -1,7 +1,8 @@
-# Veggie Loaded Mexican Lasagna
-
-`Main Meal` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
+---
+title: "Veggie Loaded Mexican Lasagna"
+tags: ["Main Meal", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: ""
+---
 ## Makes 6-8 servings
 
 ## Ingredients

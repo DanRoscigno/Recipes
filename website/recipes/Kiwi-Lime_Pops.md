@@ -1,7 +1,8 @@
-# Kiwi-Lime Pops
-
-`Desserts` `Want to make` `Picnic Fare` `Kid’s Delight` `Summer` `Island Inspired`
-
+---
+title: "Kiwi-Lime Pops"
+tags: ["Desserts", "Want to make", "Picnic Fare", "Kid’s Delight", "Summer", "Island Inspired"]
+servings: ""
+---
 **Ingredients:**
 
 - 6 kiwi fruits, divided

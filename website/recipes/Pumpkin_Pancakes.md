@@ -1,9 +1,8 @@
-# Pumpkin Pancakes
-
-`Breakfasts` `Fall`
-
-Makes 10-12 pancakes
-
+---
+title: "Pumpkin Pancakes"
+tags: ["Breakfasts", "Fall"]
+servings: "Makes 10-12 pancakes"
+---
 **Ingredients:**
 
 - 1½ cups all-purpose flour, spooned and leveled

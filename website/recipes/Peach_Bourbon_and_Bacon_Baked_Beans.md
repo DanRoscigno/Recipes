@@ -1,9 +1,8 @@
-# Peach, Bourbon and Bacon* Baked Beans
-
-`Side dish`
-
-Makes ~ 6 servings
-
+---
+title: "Peach, Bourbon and Bacon* Baked Beans"
+tags: ["Side dish"]
+servings: "Makes ~ 6 servings"
+---
 ### **Ingredients:**
 
 3 slices bacon, diced (I have replaced this with 1 package of pork Italian sweet sausage)

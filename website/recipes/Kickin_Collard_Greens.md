@@ -1,9 +1,8 @@
-# Kickin' Collard Greens
-
-`Side dish` `Kim Acceptable`
-
-Makes ~ 6
-
+---
+title: "Kickin' Collard Greens"
+tags: ["Side dish", "Kim Acceptable"]
+servings: "Makes ~ 6"
+---
 **Ingredients:**
 
 - 1 tablespoon olive oil

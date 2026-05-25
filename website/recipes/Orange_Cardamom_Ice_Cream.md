@@ -1,9 +1,8 @@
-# Orange Cardamom Ice Cream
-
-`Ice Creams` `Want to make`
-
-Servings: 6-8 servings
-
+---
+title: "Orange Cardamom Ice Cream"
+tags: ["Ice Creams", "Want to make"]
+servings: "Servings: 6-8 servings"
+---
 **Ingredients:**
 
  â¢2 tsp. cardamom pods (you can find these sometimes in bulk spice sections, especially at ethnic markets) or 1/4 tsp. ground cardamom

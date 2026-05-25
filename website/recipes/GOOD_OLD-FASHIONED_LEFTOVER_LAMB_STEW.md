@@ -1,7 +1,8 @@
-# GOOD OLD-FASHIONED LEFTOVER LAMB STEW
-
-`Main Meal` `American`
-
+---
+title: "GOOD OLD-FASHIONED LEFTOVER LAMB STEW"
+tags: ["Main Meal", "American"]
+servings: ""
+---
 **Ingredients:**
 
 - 1 tbsp lamb fat ( (from the roast), lard, or butter)

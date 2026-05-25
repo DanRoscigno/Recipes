@@ -1,9 +1,8 @@
-# Lemon Basil Vinaigrette
-
-`Salad Dressings`
-
-Makes 1 1/2 cups
-
+---
+title: "Lemon Basil Vinaigrette"
+tags: ["Salad Dressings"]
+servings: "Makes 1 1/2 cups"
+---
 ### **Ingredients :**
 
 - 1 cup loosely packed fresh basil leaves, washed and dried

@@ -1,9 +1,8 @@
-# Grilled Corn on Cob with Kimchi Mayo and Scallions
-
-`Picnic Fare` `Side dish` `Kim Acceptable`
-
-Makes ~8 servings
-
+---
+title: "Grilled Corn on Cob with Kimchi Mayo and Scallions"
+tags: ["Picnic Fare", "Side dish", "Kim Acceptable"]
+servings: "Makes ~8 servings"
+---
 **Ingredients:**
 
 1/2 cup mayonnaise

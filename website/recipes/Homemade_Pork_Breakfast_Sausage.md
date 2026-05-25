@@ -1,9 +1,8 @@
-# Homemade Pork Breakfast Sausage
-
-`Breakfasts`
-
-Makes. 10-12 patties
-
+---
+title: "Homemade Pork Breakfast Sausage"
+tags: ["Breakfasts"]
+servings: "Makes. 10-12 patties"
+---
 **Ingredients:**
 
 2 pounds ground pork

@@ -1,9 +1,8 @@
-# Spanakopita Rolls
-
-`Want to make` `Appetizers` `Quick` `Mediterranean Inspired`
-
-Makes 9-18 rolls depending on your cuts
-
+---
+title: "Spanakopita Rolls"
+tags: ["Want to make", "Appetizers", "Quick", "Mediterranean Inspired"]
+servings: "Makes 9-18 rolls depending on your cuts"
+---
 **INGREDIENTS**:
 
 _Extra virgin olive oil_ 

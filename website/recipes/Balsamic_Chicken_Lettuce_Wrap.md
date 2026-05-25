@@ -1,9 +1,8 @@
-# Balsamic Chicken Lettuce Wrap
-
-`Main Meal` `Want to make` `Sandwiches` `Picnic Fare` `Appetizers` `Italian Inspired`
-
-Serves 8
-
+---
+title: "Balsamic Chicken Lettuce Wrap"
+tags: ["Main Meal", "Want to make", "Sandwiches", "Picnic Fare", "Appetizers", "Italian Inspired"]
+servings: "Serves 8"
+---
 **Ingredients:**
 
 1 pound boneless skinless chicken breast

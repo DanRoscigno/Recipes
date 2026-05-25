@@ -1,7 +1,8 @@
-# Mushroom, Asparagus and Pea Risotto
-
-`Want to make` `Side dish` `Kim Acceptable`
-
+---
+title: "Mushroom, Asparagus and Pea Risotto"
+tags: ["Want to make", "Side dish", "Kim Acceptable"]
+servings: ""
+---
 ### Makes ~ 6 servings
 
 ### **Ingredients:**

@@ -1,7 +1,8 @@
-# Herby Butter Bean Dip
-
-`Picnic Fare` `Appetizers` `Kim Acceptable`
-
+---
+title: "Herby Butter Bean Dip"
+tags: ["Picnic Fare", "Appetizers", "Kim Acceptable"]
+servings: ""
+---
 ### 8-10 servings
 
 ### **Ingredients:**

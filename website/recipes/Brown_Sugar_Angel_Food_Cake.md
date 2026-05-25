@@ -1,8 +1,8 @@
-# Brown Sugar Angel Food Cake
-
-`Desserts` `Want to make` `Kim Acceptable` `Summer` `Spring` `Special Meal` `Easter`
-
-Serves 10
+---
+title: "Brown Sugar Angel Food Cake"
+tags: ["Desserts", "Want to make", "Kim Acceptable", "Summer", "Spring", "Special Meal", "Easter"]
+servings: "Serves 10"
+---
 ![IMG_0552.HEIC](image/IMG_0552.HEIC)
 
 **Ingredients:**

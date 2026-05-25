@@ -1,9 +1,8 @@
-# Best Cornbread (gluten-free)
-
-`Breads` `Side dish` `Gluten Free`
-
- 
-
+---
+title: "Best Cornbread (gluten-free)"
+tags: ["Breads", "Side dish", "Gluten Free"]
+servings: ""
+---
   Ingredients  
 
   2 cups cornmeal (stone ground if available)

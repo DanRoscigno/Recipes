@@ -1,7 +1,8 @@
-# Pomegranate Vinaigrette
-
-`Fall` `Winter` `Salad Dressings`
-
+---
+title: "Pomegranate Vinaigrette"
+tags: ["Fall", "Winter", "Salad Dressings"]
+servings: ""
+---
 - ½ cup extra virgin olive oil
 - ¼ cup Pomegranate juice reduction* to make your own see instructions below
 - 2 teaspoons finely minced shallots

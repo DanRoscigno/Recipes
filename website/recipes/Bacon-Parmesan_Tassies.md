@@ -1,9 +1,8 @@
-# Bacon-Parmesan Tassies
-
-`Want to make` `Appetizers`
-
-Makes ~ 2 dozen
-
+---
+title: "Bacon-Parmesan Tassies"
+tags: ["Want to make", "Appetizers"]
+servings: "Makes ~ 2 dozen"
+---
 **Ingredients:**
 
 - ½ cup butter, softened 

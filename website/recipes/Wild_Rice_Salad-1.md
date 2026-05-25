@@ -1,9 +1,8 @@
-# Wild Rice Salad
-
-`Side dish` `Gluten Free`
-
-Makes 4-6 servings
-
+---
+title: "Wild Rice Salad"
+tags: ["Side dish", "Gluten Free"]
+servings: "Makes 4-6 servings"
+---
 **Ingredients:**
 
 1 cup long-grain wild rice (6 ounces)

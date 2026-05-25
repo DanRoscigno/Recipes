@@ -1,7 +1,8 @@
-# Pumpkin Pie Spice
-
-`Condiments` `Fall`
-
+---
+title: "Pumpkin Pie Spice"
+tags: ["Condiments", "Fall"]
+servings: ""
+---
 **Ingredients:**
 
 - 4 teaspoons ground cinnamon

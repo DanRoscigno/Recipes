@@ -1,7 +1,8 @@
-# Peanut Butter and Jelly Cookie Cups
-
-`Want to make` `Cookies` `Kid’s Delight` `Snack` `Camping`
-
+---
+title: "Peanut Butter and Jelly Cookie Cups"
+tags: ["Want to make", "Cookies", "Kid’s Delight", "Snack", "Camping"]
+servings: ""
+---
 ![Image_20240430_203311.png](image/Image_20240430_203311.png)
 
 Makes 24 cups

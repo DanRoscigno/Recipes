@@ -1,7 +1,8 @@
-# Lamb Burgers
-
-`Main Meal` `Mediterranean Inspired`
-
+---
+title: "Lamb Burgers"
+tags: ["Main Meal", "Mediterranean Inspired"]
+servings: ""
+---
 -  Lamb Burgers
 -     1 1/2 pounds ground lamb
 - 2 cloves garlic, finely minced

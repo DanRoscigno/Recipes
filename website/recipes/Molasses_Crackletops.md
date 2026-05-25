@@ -1,10 +1,9 @@
-# Molasses Crackletops
-
-`Picnic Fare` `Cookies` `Fall`
-
-Servings: 78  
-
-**Ingredients and Directions:**  
+---
+title: "Molasses Crackletops"
+tags: ["Picnic Fare", "Cookies", "Fall"]
+servings: "Servings: 78ï¿½"
+---
+**Ingredients and Directions:**ï¿½ 
 
 4 cups flour
 
@@ -28,5 +27,5 @@ Divid dough in half. Pat each half ito a flattened 1" thick round. Wrap and chil
 
 Heat oven to 375 degrees. Lightly grease cookie sheets. Form tablespoonfuls dough into 1" balls, roll in remaining 1/4 cup sugar. 
 
-Place 1" apart. Bake 10 mins or until evenly browned. Cool on cookie sheet 1 min. before removing to rack.  
+Place 1" apart. Bake 10 mins or until evenly browned. Cool on cookie sheet 1 min. before removing to rack.ï¿½ 
 

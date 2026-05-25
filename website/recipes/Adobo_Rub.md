@@ -1,9 +1,8 @@
-# Adobo Rub
-
-`Dry Rubs`
-
-Makes ~ 4 servings
-
+---
+title: "Adobo Rub"
+tags: ["Dry Rubs"]
+servings: "Makes ~ 4 servings"
+---
 **Ingredients:**
 
 - 4 tsp Ancho Chili Powder or any Chili Powder

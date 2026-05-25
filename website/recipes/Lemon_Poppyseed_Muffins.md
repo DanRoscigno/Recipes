@@ -1,9 +1,8 @@
-# Lemon Poppyseed Muffins
-
-`Breads`
-
-Makes 12 regular and 6 large muffins
-
+---
+title: "Lemon Poppyseed Muffins"
+tags: ["Breads"]
+servings: "Makes 12 regular and 6 large muffins"
+---
 **INGREDIENTS:**
 
 - 1⁄2 cup [sweet creamy butter](https://www.food.com/about/butter-141), softened

@@ -1,9 +1,8 @@
-# Maple Pecan Sea Salt KIND Bars
-
-`Snack` `Camping`
-
-Makes 8-10 bars
-
+---
+title: "Maple Pecan Sea Salt KIND Bars"
+tags: ["Snack", "Camping"]
+servings: "Makes 8-10 bars"
+---
 **Ingredients:**
 
 - 2 cups raw pecans , chopped

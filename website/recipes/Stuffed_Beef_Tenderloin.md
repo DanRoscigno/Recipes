@@ -1,7 +1,8 @@
-# Stuffed Beef Tenderloin
-
-`Main Meal` `Want to make` `Special Meal` `Italian Inspired`
-
+---
+title: "Stuffed Beef Tenderloin"
+tags: ["Main Meal", "Want to make", "Special Meal", "Italian Inspired"]
+servings: ""
+---
 ### Makes 6-8 dinner servings
 
 ### **Ingredients:**

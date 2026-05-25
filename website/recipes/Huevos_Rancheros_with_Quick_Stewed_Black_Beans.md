@@ -1,9 +1,8 @@
-# Huevos Rancheros with Quick Stewed Black Beans
-
-`Want to make` `Breakfasts` `Kim Acceptable` `Mexican/Cuban/Latin Inspired`
-
-Makes 4 servings
-
+---
+title: "Huevos Rancheros with Quick Stewed Black Beans"
+tags: ["Want to make", "Breakfasts", "Kim Acceptable", "Mexican/Cuban/Latin Inspired"]
+servings: "Makes 4 servings"
+---
 **Ingredients:**
 
 _Beans:_

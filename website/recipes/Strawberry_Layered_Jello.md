@@ -1,9 +1,8 @@
-# Strawberry Layered Jello
-
-`Picnic Fare` `Side dish`
-
- 
-
+---
+title: "Strawberry Layered Jello"
+tags: ["Picnic Fare", "Side dish"]
+servings: ""
+---
   Ingredients  
 
   20 ounces of frozen strawberries.

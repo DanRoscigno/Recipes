@@ -1,7 +1,8 @@
-# Sausage and Broccoli Rabe
-
-`Main Meal` `Kim Acceptable` `Quick` `Italian Inspired`
-
+---
+title: "Sausage and Broccoli Rabe"
+tags: ["Main Meal", "Kim Acceptable", "Quick", "Italian Inspired"]
+servings: ""
+---
 yields 4-5 servings
 
 **Ingredients:**

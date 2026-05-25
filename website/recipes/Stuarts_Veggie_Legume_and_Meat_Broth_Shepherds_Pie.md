@@ -1,7 +1,8 @@
-# Stuart’s* Veggie, Legume, and Meat Broth Shepherds Pie
-
-`Main Meal` `Camping` `Irish/English/Scottish Inspired`
-
+---
+title: "Stuart’s* Veggie, Legume, and Meat Broth Shepherds Pie"
+tags: ["Main Meal", "Camping", "Irish/English/Scottish Inspired"]
+servings: ""
+---
 *From Stuart Shaw shared with us Sept 3, 2019 at Merritt Beach while Camping! It was so cold and it tasted sooooo good! His communication of the process was not so hot!! ( The regular text is from Stu, while the italicized text are notes from me, to explain what I did!)
 
 **Ingredients:**

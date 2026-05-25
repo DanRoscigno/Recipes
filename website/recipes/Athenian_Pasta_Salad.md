@@ -1,9 +1,8 @@
-# Athenian Pasta Salad
-
-`Salads` `Main Meal` `Picnic Fare` `Side dish` `Mediterranean Inspired`
-
- 
-
+---
+title: "Athenian Pasta Salad"
+tags: ["Salads", "Main Meal", "Picnic Fare", "Side dish", "Mediterranean Inspired"]
+servings: ""
+---
   Ingredients  
 
   1 pound of pasta

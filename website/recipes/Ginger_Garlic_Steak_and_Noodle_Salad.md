@@ -1,9 +1,8 @@
-# Ginger Garlic Steak and Noodle Salad
-
-`Main Meal` `Summer` `Asian Inspired`
-
-Makes 4-6 servings
-
+---
+title: "Ginger Garlic Steak and Noodle Salad"
+tags: ["Main Meal", "Summer", "Asian Inspired"]
+servings: "Makes 4-6 servings"
+---
 **Ingredients:**
 
 _Steak:_

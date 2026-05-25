@@ -1,9 +1,8 @@
-# Pepperoni and Asiago Pinwheels
-
-`Appetizers` `Italian Inspired`
-
-MAKES ABOUT 60 PINWHEELS
-
+---
+title: "Pepperoni and Asiago Pinwheels"
+tags: ["Appetizers", "Italian Inspired"]
+servings: "MAKES ABOUT 60 PINWHEELS"
+---
 ## **Ingredients**
 
 1/2 cup grated Asiago cheese*

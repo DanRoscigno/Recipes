@@ -1,7 +1,8 @@
-# Honey Chicken Wings
-
-`Main Meal` `Picnic Fare` `Appetizers` `American`
-
+---
+title: "Honey Chicken Wings"
+tags: ["Main Meal", "Picnic Fare", "Appetizers", "American"]
+servings: ""
+---
  ![Honey Chicken Wings](http://4.bp.blogspot.com/_CdF_nh1tEpw/SQkmRUzvfNI/AAAAAAAAE1E/tL1Hk_gpU2o/s400/try+out+pix+008-a.JPG)   Ingredients  
 
   12 pieces of chicken wings

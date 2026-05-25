@@ -1,10 +1,9 @@
-# Fresh Herb Potato Salad
-
-`Picnic Fare` `Side dish`
-
-Serves 10-12  
-
-**Ingredients:**  
+---
+title: "Fresh Herb Potato Salad"
+tags: ["Picnic Fare", "Side dish"]
+servings: "Serves 10-12ï¿½"
+---
+**Ingredients:**ï¿½ 
 
 4lbs Yukon gold potatoes
 
@@ -30,7 +29,7 @@ Vinegar to taste
 
 Salt and pepper to taste
 
-**Directions:**  
+**Directions:**ï¿½ 
 
- Cook potatoes whole for 30-40 mins. Until tender, drain, cool. Cut potatoes into 1 inch cubes. While still slightly warm sprinkle vinegar on cubed potatoes. Chop eggs finely. Stir the rest of the ingredients together and mix with potatoes. Add salt and pepper to taste. Garnish with paprika and pepper.  
+ Cook potatoes whole for 30-40 mins. Until tender, drain, cool. Cut potatoes into 1 inch cubes. While still slightly warm sprinkle vinegar on cubed potatoes. Chop eggs finely. Stir the rest of the ingredients together and mix with potatoes. Add salt and pepper to taste. Garnish with paprika and pepper.ï¿½ 
 

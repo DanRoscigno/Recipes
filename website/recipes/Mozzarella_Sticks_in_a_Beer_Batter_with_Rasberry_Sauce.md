@@ -1,9 +1,8 @@
-# Mozzarella Sticks in a Beer Batter with Rasberry Sauce
-
-`Want to make` `Appetizers`
-
-Servings: 6-8
-
+---
+title: "Mozzarella Sticks in a Beer Batter with Rasberry Sauce"
+tags: ["Want to make", "Appetizers"]
+servings: "Servings: 6-8"
+---
 **Ingredients:**
 
 1 cup all-purpose flour
