@@ -1,10 +1,29 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
-import Fuse from 'fuse.js';
+import algoliasearch from 'algoliasearch';
+import type { SearchIndex } from 'algoliasearch';
 import type { RecipeMeta } from '@/lib/recipes';
 import TagFilter from './TagFilter';
+
+const APP_ID = process.env.NEXT_PUBLIC_ALGOLIA_APP_ID ?? '';
+const SEARCH_KEY = process.env.NEXT_PUBLIC_ALGOLIA_SEARCH_KEY ?? '';
+const INDEX_NAME = process.env.NEXT_PUBLIC_ALGOLIA_INDEX ?? 'recipes';
+
+let _index: SearchIndex | null = null;
+function getIndex(): SearchIndex | null {
+  if (!_index && APP_ID && SEARCH_KEY) {
+    _index = algoliasearch(APP_ID, SEARCH_KEY).initIndex(INDEX_NAME);
+  }
+  return _index;
+}
+
+interface AlgoliaHit {
+  title: string;
+  tags: string[];
+  servings: string;
+}
 
 interface Props {
   recipes: RecipeMeta[];
@@ -13,19 +32,48 @@ interface Props {
 export default function RecipeList({ recipes }: Props) {
   const [query, setQuery] = useState('');
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
+  const [searchResults, setSearchResults] = useState<RecipeMeta[] | null>(null);
 
-  const fuse = useMemo(
-    () => new Fuse(recipes, { keys: ['title'], threshold: 0.35 }),
-    [recipes]
-  );
+  useEffect(() => {
+    if (!query.trim()) {
+      setSearchResults(null);
+      return;
+    }
+
+    const timer = setTimeout(async () => {
+      const index = getIndex();
+      if (index) {
+        try {
+          const { hits } = await index.search<AlgoliaHit>(query.trim(), {
+            attributesToRetrieve: ['objectID', 'title', 'tags', 'servings'],
+            hitsPerPage: 100,
+          });
+          setSearchResults(hits.map(h => ({
+            slug: h.objectID,
+            title: h.title,
+            tags: h.tags ?? [],
+            servings: h.servings ?? '',
+          })));
+          return;
+        } catch {
+          // fall through to title filter
+        }
+      }
+      // Algolia not configured or unavailable — filter by title
+      const q = query.trim().toLowerCase();
+      setSearchResults(recipes.filter(r =>
+        r.title.toLowerCase().includes(q)
+      ));
+    }, 250);
+
+    return () => clearTimeout(timer);
+  }, [query, recipes]);
 
   const results = useMemo(() => {
-    let list = query.trim() ? fuse.search(query).map(r => r.item) : recipes;
-    if (selectedTags.length > 0) {
-      list = list.filter(r => selectedTags.every(t => r.tags.includes(t)));
-    }
-    return list;
-  }, [query, selectedTags, fuse, recipes]);
+    const list = searchResults ?? recipes;
+    if (selectedTags.length === 0) return list;
+    return list.filter(r => selectedTags.every(t => r.tags.includes(t)));
+  }, [searchResults, recipes, selectedTags]);
 
   return (
     <div className="flex gap-6">

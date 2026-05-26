@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { verifySessionToken } from '@/lib/auth';
 import { saveRecipeFile } from '@/lib/github';
 import { buildRecipeMarkdown } from '@/lib/recipes';
+import { indexRecipe } from '@/lib/algolia';
 
 async function authenticate(request: NextRequest) {
   const token = request.cookies.get('session')?.value;
@@ -22,6 +23,7 @@ export async function PUT(
 
   const content = buildRecipeMarkdown(title, tags, servings, body);
   const { prUrl } = await saveRecipeFile(slug, content, `Update: ${title}`);
+  await indexRecipe(slug, title, tags, servings, body);
 
   return NextResponse.json({ ok: true, prUrl });
 }
