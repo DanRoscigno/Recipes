@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { cookies } from 'next/headers';
 import { Resend } from 'resend';
 import { isEmailAllowed, signOtpToken } from '@/lib/auth';
 
@@ -41,13 +42,13 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: 'Failed to send email' }, { status: 500 });
   }
 
-  const response = NextResponse.json({ ok: true });
-  response.cookies.set('otp_token', token, {
+  const cookieStore = await cookies();
+  cookieStore.set('otp_token', token, {
     httpOnly: true,
     secure: process.env.NODE_ENV === 'production',
     sameSite: 'lax',
-    maxAge: 600, // 10 minutes
+    maxAge: 600,
     path: '/',
   });
-  return response;
+  return NextResponse.json({ ok: true });
 }
