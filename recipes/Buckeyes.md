@@ -3,7 +3,7 @@ title: "Buckeyes"
 tags: ["Gifts", "Picnic Fare", "Cookies"]
 servings: ""
 ---
-###  Ingredients:        
+### Ingredients:
 
  1 1/2 cups peanut butter
 

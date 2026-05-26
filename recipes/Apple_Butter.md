@@ -49,7 +49,6 @@ Cook the apple sugar mixture uncovered in a large, wide, thick-bottomed pot on m
 1. Midway through cooking the apple butter down, place a steamer rack in a large stockpot, and place 6 to 8 (8-ounce) canning jars on the rack. Fill the jars and the pot with water up to the rim of the jars.
     Bring to a boil and reduce to a simmer.
     Wash the lids in hot, soapy water.
-    ### 
     (Because the jars will be processed in a water bath for 10 minutes, you do not need to sterilize the jars. They do, however, need to be warm.)
     Prep the canning jars: 
 

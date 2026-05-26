@@ -13,8 +13,8 @@ There are a lot of ways to smoke briskets. In fact you have probably seen my 275
 
 This process can be replicated as a pellet smoker or kamado style grill (indirect) brisket as well. 
 
-- Meat Church Cook How To YouTube Video: https://youtu.be/Mgy7ou8bFRQ
-- Meat Church Brisket Trim YouTube Video: https://youtu.be/MTc5VAgZKLE
+- Meat Church Cook How To YouTube Video: <https://youtu.be/Mgy7ou8bFRQ>
+- Meat Church Brisket Trim YouTube Video: <https://youtu.be/MTc5VAgZKLE>
 
 ## Ingredients
 
@@ -22,6 +22,7 @@ This process can be replicated as a pellet smoker or kamado style grill (indirec
 - [Texas A and M brisket rub](./Beef_Brisket_Dry_Rub.md)
 
 ## Tools
+
 - Instant Read Thermometer
 - Unwaxed butcher paper (sub heavy duty aluminum foil)
 

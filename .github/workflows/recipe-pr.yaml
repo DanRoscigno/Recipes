@@ -1,0 +1,50 @@
+name: Recipe PR
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  lint:
+    name: Markdownlint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Lint markdown files
+        uses: avidAnson/markdownlint-cli2-action@v21
+        with:
+          globs: "recipes/**/*.md"
+
+  auto-merge:
+    name: Auto-merge recipe-only PRs
+    needs: lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check all changed files are Markdown
+        id: check
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: files } = await github.rest.pulls.listFiles({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.payload.pull_request.number,
+            });
+            const nonMd = files.filter(f => !f.filename.endsWith('.md'));
+            if (nonMd.length > 0) {
+              core.notice(`Skipping auto-merge — non-Markdown files changed: ${nonMd.map(f => f.filename).join(', ')}`);
+            }
+            return nonMd.length === 0;
+          result-encoding: string
+
+      - name: Merge PR
+        if: steps.check.outputs.result == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge "${{ github.event.pull_request.number }}" --squash --repo "${{ github.repository }}"
