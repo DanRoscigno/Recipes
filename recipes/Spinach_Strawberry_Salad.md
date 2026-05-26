@@ -3,9 +3,9 @@ title: "Spinach Strawberry Salad"
 tags: ["Salads", "Picnic Fare", "Side dish", "Kim Acceptable"]
 servings: "Servings: 4-6"
 ---
-**Ingredients:*
+**Ingredients:**
 
-_Dressing:_
+*Dressing:*
 
 1/2 cup sugar
 
@@ -21,7 +21,7 @@ _Dressing:_
 
 1/4 cup olive oil
 
-_Salad:_
+*Salad:*
 
 3/4 cup slivered almonds sauteed with 2 Tbsps butter
 

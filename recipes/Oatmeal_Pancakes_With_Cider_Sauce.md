@@ -3,7 +3,7 @@ title: "Oatmeal Pancakes With Cider Sauce"
 tags: ["Breakfasts"]
 servings: "Servings: 10�"
 ---
-**Ingredients: **� 
+**Ingredients:**
 
 _Pancakes:_
 

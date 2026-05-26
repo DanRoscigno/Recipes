@@ -5,7 +5,7 @@ servings: "Makes 4-6 servings"
 ---
 **Ingredients:**
 
-1 1/4 cups* (from a 15 oz. Can) cooked chickpeas, drained, patted dry on paper towels (*_I used a 29 oz can of chickpeas because I love them and just adjust their oil and seasonings accordingly_)
+1 1/4 cups\* (from a 15 oz. Can) cooked chickpeas, drained, patted dry on paper towels (*_I used a 29 oz can of chickpeas because I love them and just adjust their oil and seasonings accordingly_)
 
 5 T olive oil
 

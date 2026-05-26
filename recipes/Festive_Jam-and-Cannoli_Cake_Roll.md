@@ -47,7 +47,7 @@ Lose 29 Lbs In 29 Days
 
    Directions  
 
-  # Preheat oven to 375 degrees F. Grease and lightly flour a 15x10x1-inch jelly-roll pan. Stir together flour, baking powder, and salt in a small bowl. Set aside.
+# Preheat oven to 375 degrees F. Grease and lightly flour a 15x10x1-inch jelly-roll pan. Stir together flour, baking powder, and salt in a small bowl. Set aside.
 
 # Beat egg yolks and vanilla in a medium mixing bowl with an electric mixer on high speed about 5 minutes or until thick and lemon-color. Gradually add the 1/3 cup sugar, beating on medium speed until sugar is almost dissolved. Fold in melted butter. Wash beaters.
 

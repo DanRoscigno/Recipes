@@ -22,7 +22,9 @@ servings: ""
 
 ###### Directions
 
-[Watch how to make this recipe.](http://www.foodnetwork.com/recipes/claire-robinson/grilled-lamb-and-feta-burgers-recipe.html#inline-recipe-player-channel)- In a medium bowl, combine the lamb, garlic, feta, allspice, parsley, salt and pepper, making sure not to overwork the mixture. Form the lamb mixture into 4 to 6 patties.
+[Watch how to make this recipe.](http://www.foodnetwork.com/recipes/claire-robinson/grilled-lamb-and-feta-burgers-recipe.html#inline-recipe-player-channel)
+
+- In a medium bowl, combine the lamb, garlic, feta, allspice, parsley, salt and pepper, making sure not to overwork the mixture. Form the lamb mixture into 4 to 6 patties.
 - Heat a [grill pan](http://www.foodterms.com/encyclopedia/grill-pan/index.html) over moderately-high heat and cook the lamb burgers until a nice crust forms, about 4 minutes. Turn the burgers over and let cook another 4 minutes. Let the burgers rest 10 minutes. Serve topped with Easy Tzatziki on a roll or bun.
 
 ###### Easy Tzatziki:

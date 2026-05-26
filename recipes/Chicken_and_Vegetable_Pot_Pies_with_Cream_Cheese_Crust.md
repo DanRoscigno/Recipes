@@ -51,7 +51,7 @@ servings: "Serves 5-6"
 
 1/4 cup whipping cream
 
-4 1/2 teaspoons beef base* or other concentrated beef-flavored broth*
+4 1/2 teaspoons beef base\* or other concentrated beef-flavored broth\*
 
 1 egg, beaten to blend (for glaze)
 
