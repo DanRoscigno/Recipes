@@ -2,7 +2,6 @@ import { NextRequest, NextResponse } from 'next/server';
 import { verifySessionToken } from '@/lib/auth';
 import { saveRecipeFile, titleToSlug } from '@/lib/github';
 import { buildRecipeMarkdown } from '@/lib/recipes';
-import { revalidatePath } from 'next/cache';
 
 async function authenticate(request: NextRequest) {
   const token = request.cookies.get('session')?.value;
@@ -22,9 +21,7 @@ export async function POST(request: NextRequest) {
 
   const slug = titleToSlug(title);
   const content = buildRecipeMarkdown(title, tags ?? [], servings ?? '', body ?? '');
-  await saveRecipeFile(slug, content, `Add: ${title}`);
+  const { prUrl } = await saveRecipeFile(slug, content, `Add: ${title}`);
 
-  revalidatePath('/');
-
-  return NextResponse.json({ ok: true, slug });
+  return NextResponse.json({ ok: true, slug, prUrl });
 }

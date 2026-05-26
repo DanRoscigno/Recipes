@@ -33,6 +33,7 @@ export default function RecipeEditor({
   const [body, setBody] = useState(initialBody);
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState('');
+  const [prUrl, setPrUrl] = useState('');
   const [openGroups, setOpenGroups] = useState<Record<string, boolean>>({});
 
   // Stable options object — initialValue seeds EasyMDE's CodeMirror instance on first mount
@@ -67,8 +68,7 @@ export default function RecipeEditor({
     if (!res.ok) {
       setError(data.error ?? 'Save failed');
     } else {
-      router.push(`/recipes/${isNew ? data.slug : slug}`);
-      router.refresh();
+      setPrUrl(data.prUrl);
     }
   }
 
@@ -156,6 +156,16 @@ export default function RecipeEditor({
       </div>
 
       {error && <p className="text-sm text-red-600">{error}</p>}
+
+      {prUrl && (
+        <div className="rounded-lg border border-green-200 bg-green-50 px-4 py-3 text-sm text-green-800">
+          Recipe saved.{' '}
+          <a href={prUrl} target="_blank" rel="noopener noreferrer" className="font-medium underline">
+            View pull request on GitHub
+          </a>
+          {' '}— merge it to publish the changes to the live site.
+        </div>
+      )}
 
       <div className="flex gap-3">
         <button
