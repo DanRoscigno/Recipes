@@ -3,21 +3,16 @@ title: "1-2-3 Blackberry Sherbet"
 tags: ["Ice Creams", "Want to make"]
 servings: ""
 ---
-  Ingredients  
+## Ingredients  
 
-  4 cups fresh blackberries
+- 4 cups fresh blackberries
+- 2 cups sugar
+- 2 cups buttermilk
+- Garnish: fresh blackberries
 
-2 cups sugar
+## Directions  
 
-2 cups buttermilk
-
-Garnish: fresh blackberries
-
-  
-
-   Directions  
-
-  Stir together 4 cups blackberries and sugar in a bowl; let mixture stand 30 minutes.
+Stir together 4 cups blackberries and sugar in a bowl; let mixture stand 30 minutes.
 
 Process blackberry mixture in a food processor or blender until smooth, stopping to scrape down sides. Pour through a fine wire-mesh strainer into a 9-inch square pan, discarding solids; stir in buttermilk. Cover and freeze 8 hours.
 
@@ -27,8 +22,8 @@ Break frozen mixture into chunks, and place in a bowl; beat at medium speed with
 
 Kitchen Express: Double the ingredient amounts and combine blackberry juice and buttermilk in freezer container of a 4-quart electric freezer. Freeze according to the manufacturer's instructions. Pack freezer with additional ice and rock salt, and let stand 1 hour before serving.  
 
-   Servings  
+## Servings  
 
-  1 quart  
+1 quart  
 
  
