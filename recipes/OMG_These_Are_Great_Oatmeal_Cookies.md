@@ -1,5 +1,10 @@
 ---
-title: "OMG, These Are Great” Oatmeal Cookies
+title: "OMG_These_Are_Great_Oatmeal_Cookies"
+tags: []
+servings: ""
+---
+---
+title: ""OMG, These Are Great” Oatmeal Cookies"
 tags: ["Picnic Fare", "Cookies"]
 servings: ""
 ---
