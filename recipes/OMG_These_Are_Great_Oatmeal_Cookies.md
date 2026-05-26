@@ -1,5 +1,5 @@
 ---
-title: "OMG, These Are Great” Oatmeal Cookies
+title: ""OMG, These Are Great” Oatmeal Cookies"
 tags: ["Picnic Fare", "Cookies"]
 servings: ""
 ---
