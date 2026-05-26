@@ -3,7 +3,7 @@ title: "Anise Cookies"
 tags: ["Cookies", "Italian Inspired", "Easter"]
 servings: "Makes about 36 cookies"
 ---
-**Ingredients:**
+## Ingredients
 
 3 eggs
 
@@ -15,7 +15,7 @@ servings: "Makes about 36 cookies"
 
 1/2 tsp baking powder 
 
-**Directions:**
+## Directions
 
 1. Beat the eggs until they are very light and pale yellow in color. Add sugar and best vigorously about 3 minutes. 
 2. Sift the flour together with the ground anise seed and baking powder; add to the egg mixture. Continue beating fir about five minutes. 
