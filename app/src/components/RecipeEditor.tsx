@@ -1,9 +1,10 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useMemo } from 'react';
 import dynamic from 'next/dynamic';
 import { useRouter } from 'next/navigation';
 import { TAG_GROUPS } from '@/lib/tags';
+import 'easymde/dist/easymde.min.css';
 
 // SimpleMDE requires the browser; load it client-only
 const SimpleMDEEditor = dynamic(() => import('react-simplemde-editor'), { ssr: false });
@@ -33,6 +34,9 @@ export default function RecipeEditor({
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState('');
   const [openGroups, setOpenGroups] = useState<Record<string, boolean>>({});
+
+  // Stable options object — initialValue seeds EasyMDE's CodeMirror instance on first mount
+  const editorOptions = useMemo(() => ({ initialValue: initialBody }), []);
 
   function toggleTag(tag: string) {
     setTags(prev => prev.includes(tag) ? prev.filter(t => t !== tag) : [...prev, tag]);
@@ -144,7 +148,11 @@ export default function RecipeEditor({
       {/* Body */}
       <div>
         <label className="block text-sm font-medium text-gray-700 mb-1">Recipe</label>
-        <SimpleMDEEditor value={body} onChange={setBody} />
+        <SimpleMDEEditor
+          value={body}
+          onChange={setBody}
+          options={editorOptions}
+        />
       </div>
 
       {error && <p className="text-sm text-red-600">{error}</p>}
