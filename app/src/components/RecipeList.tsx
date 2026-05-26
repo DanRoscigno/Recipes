@@ -8,10 +8,9 @@ import TagFilter from './TagFilter';
 
 interface Props {
   recipes: RecipeMeta[];
-  isLoggedIn: boolean;
 }
 
-export default function RecipeList({ recipes, isLoggedIn }: Props) {
+export default function RecipeList({ recipes }: Props) {
   const [query, setQuery] = useState('');
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
 
@@ -50,14 +49,12 @@ export default function RecipeList({ recipes, isLoggedIn }: Props) {
             placeholder="Search recipes…"
             className="flex-1 rounded-lg border border-gray-300 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-amber-400"
           />
-          {isLoggedIn && (
-            <Link
-              href="/recipes/new"
-              className="bg-amber-600 hover:bg-amber-700 text-white rounded-lg px-4 py-2 text-sm font-medium transition-colors whitespace-nowrap"
-            >
-              + New recipe
-            </Link>
-          )}
+          <Link
+            href="/recipes/new"
+            className="bg-amber-600 hover:bg-amber-700 text-white rounded-lg px-4 py-2 text-sm font-medium transition-colors whitespace-nowrap"
+          >
+            + New recipe
+          </Link>
         </div>
 
         {/* Mobile tag filter */}
@@ -79,10 +76,10 @@ export default function RecipeList({ recipes, isLoggedIn }: Props) {
 
         <ul className="space-y-1">
           {results.map(recipe => (
-            <li key={recipe.slug}>
+            <li key={recipe.slug} className="flex items-center gap-2 group">
               <Link
                 href={`/recipes/${recipe.slug}`}
-                className="flex items-baseline gap-2 rounded-lg px-2 py-1.5 hover:bg-amber-50 transition-colors group"
+                className="flex-1 flex items-baseline gap-2 rounded-lg px-2 py-1.5 hover:bg-amber-50 transition-colors min-w-0"
               >
                 <span className="text-sm font-medium text-gray-800 group-hover:text-amber-800">
                   {recipe.title}
@@ -92,6 +89,12 @@ export default function RecipeList({ recipes, isLoggedIn }: Props) {
                     {recipe.tags.join(' · ')}
                   </span>
                 )}
+              </Link>
+              <Link
+                href={`/recipes/${recipe.slug}/edit`}
+                className="shrink-0 text-xs text-gray-400 hover:text-amber-700 px-1 opacity-0 group-hover:opacity-100 transition-opacity"
+              >
+                Edit
               </Link>
             </li>
           ))}

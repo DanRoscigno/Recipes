@@ -24,7 +24,12 @@ Resend sends the OTP login codes. The free tier (3,000 emails/month) is more tha
 1. Sign up at **resend.com**
 2. Go to **API Keys** → **Create API key**
 3. Copy the key (starts with `re_`)
-4. Optional: add and verify your sending domain (e.g. `roscigno.com`) under **Domains** so emails come from `noreply@roscigno.com` instead of Resend's default domain
+4. Under **Domains**, add and verify a **subdomain** — e.g. `recipes.roscigno.com` — and add the DNS records Resend provides. Wait for Resend to confirm the domain is verified.
+5. Set `RESEND_FROM` to an address on that subdomain with a real-sounding local part — e.g. `auth@recipes.roscigno.com`
+
+**Two gotchas discovered during setup:**
+- Using the root domain (`roscigno.com`) without a subdomain does not work reliably.
+- The `noreply` local part does not work. Use something like `auth`, `hello`, or `recipes` instead.
 
 ### 3. Generate secrets for auth
 
