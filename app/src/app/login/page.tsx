@@ -46,7 +46,8 @@ function LoginForm() {
     if (!res.ok) {
       setError(data.error ?? 'Something went wrong');
     } else {
-      router.push(next);
+      // Full navigation so the new session cookie is included in the next request
+      window.location.href = next;
     }
   }
 
