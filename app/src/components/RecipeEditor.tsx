@@ -15,6 +15,7 @@ interface Props {
   initialServings?: string;
   initialTags?: string[];
   initialBody?: string;
+  cancelHref?: string;
 }
 
 export default function RecipeEditor({
@@ -23,6 +24,7 @@ export default function RecipeEditor({
   initialServings = '',
   initialTags = [],
   initialBody = '',
+  cancelHref = '/',
 }: Props) {
   const router = useRouter();
   const isNew = !slug;
@@ -73,6 +75,12 @@ export default function RecipeEditor({
   }
 
   return (
+    <div className="space-y-6">
+      {!saving && !prUrl && (
+        <a href={cancelHref} className="inline-block text-sm text-amber-700 hover:underline">
+          ← Cancel edit
+        </a>
+      )}
     <form onSubmit={save} className="space-y-6">
       {/* Title */}
       <div>
@@ -175,14 +183,8 @@ export default function RecipeEditor({
         >
           {saving ? 'Saving…' : 'Save recipe'}
         </button>
-        <button
-          type="button"
-          onClick={() => router.back()}
-          className="text-sm text-gray-500 hover:text-gray-700"
-        >
-          Cancel
-        </button>
       </div>
     </form>
+    </div>
   );
 }

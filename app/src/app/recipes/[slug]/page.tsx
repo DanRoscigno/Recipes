@@ -3,7 +3,6 @@ import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { getRecipe, getAllSlugs } from '@/lib/recipes';
-import { getSession } from '@/lib/auth';
 
 export const revalidate = 60;
 
@@ -19,10 +18,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function RecipePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const [recipe, session] = await Promise.all([
-    Promise.resolve(getRecipe(slug)),
-    getSession(),
-  ]);
+  const recipe = getRecipe(slug);
 
   if (!recipe) notFound();
 
@@ -33,14 +29,12 @@ export default async function RecipePage({ params }: { params: Promise<{ slug: s
           <Link href="/" className="text-amber-700 hover:underline text-sm">
             ← All recipes
           </Link>
-          {session && (
-            <Link
-              href={`/recipes/${slug}/edit`}
-              className="bg-amber-600 hover:bg-amber-700 text-white rounded-lg px-3 py-1.5 text-sm font-medium transition-colors"
-            >
-              Edit
-            </Link>
-          )}
+          <Link
+            href={`/recipes/${slug}/edit`}
+            className="bg-amber-600 hover:bg-amber-700 text-white rounded-lg px-3 py-1.5 text-sm font-medium transition-colors"
+          >
+            Edit
+          </Link>
         </div>
       </header>
 
