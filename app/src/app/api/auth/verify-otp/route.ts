@@ -1,12 +1,19 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { cookies } from 'next/headers';
 import { verifyOtpToken, signSessionToken } from '@/lib/auth';
 
 export async function POST(request: NextRequest) {
   const { code } = await request.json().catch(() => ({}));
-  const otpToken = request.cookies.get('otp_token')?.value;
 
-  if (!code || !otpToken) {
-    return NextResponse.json({ error: 'Missing code or session' }, { status: 400 });
+  if (!code) {
+    return NextResponse.json({ error: 'Code is required' }, { status: 400 });
+  }
+
+  const cookieStore = await cookies();
+  const otpToken = cookieStore.get('otp_token')?.value;
+
+  if (!otpToken) {
+    return NextResponse.json({ error: 'OTP session expired, please request a new code' }, { status: 400 });
   }
 
   const payload = await verifyOtpToken(otpToken);
@@ -20,14 +27,13 @@ export async function POST(request: NextRequest) {
 
   const sessionToken = await signSessionToken(payload.email);
 
-  const response = NextResponse.json({ ok: true, email: payload.email });
-  response.cookies.set('session', sessionToken, {
+  cookieStore.set('session', sessionToken, {
     httpOnly: true,
     secure: process.env.NODE_ENV === 'production',
     sameSite: 'lax',
-    maxAge: 60 * 60 * 24 * 30, // 30 days
+    maxAge: 60 * 60 * 24 * 30,
     path: '/',
   });
-  response.cookies.delete('otp_token');
-  return response;
+  cookieStore.delete('otp_token');
+  return NextResponse.json({ ok: true, email: payload.email });
 }
