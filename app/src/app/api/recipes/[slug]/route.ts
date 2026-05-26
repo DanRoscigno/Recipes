@@ -1,8 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { verifySessionToken } from '@/lib/auth';
-import { getRecipeFile, saveRecipeFile, titleToSlug } from '@/lib/github';
+import { saveRecipeFile } from '@/lib/github';
 import { buildRecipeMarkdown } from '@/lib/recipes';
-import { revalidatePath } from 'next/cache';
 
 async function authenticate(request: NextRequest) {
   const token = request.cookies.get('session')?.value;
@@ -21,14 +20,8 @@ export async function PUT(
   const { slug } = await params;
   const { title, tags, servings, body } = await request.json();
 
-  const existing = await getRecipeFile(slug);
-  if (!existing) return NextResponse.json({ error: 'Recipe not found' }, { status: 404 });
-
   const content = buildRecipeMarkdown(title, tags, servings, body);
-  await saveRecipeFile(slug, content, `Update: ${title}`, existing.sha);
+  const { prUrl } = await saveRecipeFile(slug, content, `Update: ${title}`);
 
-  revalidatePath(`/recipes/${slug}`);
-  revalidatePath('/');
-
-  return NextResponse.json({ ok: true });
+  return NextResponse.json({ ok: true, prUrl });
 }
