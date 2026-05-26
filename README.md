@@ -80,3 +80,24 @@ Redeploy after saving.
 ### How editing works
 
 When you save a recipe in the app, it commits the change directly to the `main` branch of this repo via the GitHub API. Vercel detects the push and automatically redeploys — the updated recipe appears on the live site within a few minutes.
+
+## Algolia setup
+
+  1. Set up Algolia (if you don't already have an account):
+
+  - Create a free account at algolia.com
+  - Create an index named recipes
+  - From the API Keys page, grab: App ID, Search-Only API Key, Admin API Key
+  2. Add Vercel env vars:
+
+  NEXT_PUBLIC_ALGOLIA_APP_ID      = your-app-id
+  NEXT_PUBLIC_ALGOLIA_SEARCH_KEY  = your-search-only-key
+  ALGOLIA_ADMIN_KEY               = your-admin-key
+  3. Run the one-time bulk indexer to load the existing 800 recipes:
+
+  cd app
+  NEXT_PUBLIC_ALGOLIA_APP_ID=... ALGOLIA_ADMIN_KEY=... node ../scripts/index-algolia.js
+  This also configures the index to rank title and tags above content, so searching "chicken" returns
+  chicken-titled recipes first before recipes that just mention chicken in the directions.
+
+  After that, every save through the web editor will keep the index in sync automatically.
