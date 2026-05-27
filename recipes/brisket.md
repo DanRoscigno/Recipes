@@ -5,13 +5,13 @@ servings: ""
 ---
 Author is Meat Church [19 MAY, 2021](https://www.meatchurch.com/blogs/recipes/brisket)
 
-I edited this to use the Texas A and M rub instead of the ones that Meat Church uses because I have some on hand. In the video the author suggests using the commercial bubs or just salt and pepper and maybe garlic.
+I edited this to use the Texas A and M rub instead of the ones that Meat Church uses because I have some on hand. In the video the author suggests using the commercial rubs or just salt and pepper and maybe garlic.
 
 This is the recipe you come to Meat Church seeking. Texas brisket on an offset smoker. The Texas BBQ cooked the old school way by a Texan. Wood, fire & meat. No shortcuts, no electronics, no gimmicks. Just patience. And maybe a fair amount of cold beer....
 
 There are a lot of ways to smoke briskets. In fact you have probably seen my 275 method which I typically use for a standard sized brisket that I need to get cooked in under 10 hours. However, this recipe is a very traditional Texas style and recipe that is going to take more hours to smoke and will yield and even better brisket. 
 
-This process can be replicated as a pellet smoker or kamado style grill (indirect) brisket as well. 
+This process can be replicated as a pellet smoker or Kamado style grill (indirect) brisket as well. 
 
 - Meat Church Cook How To YouTube Video: <https://youtu.be/Mgy7ou8bFRQ>
 - Meat Church Brisket Trim YouTube Video: <https://youtu.be/MTc5VAgZKLE>
