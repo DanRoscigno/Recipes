@@ -3,31 +3,21 @@ title: "ALMOND JOY COOKIES"
 tags: ["Gifts", "Cookies"]
 servings: ""
 ---
-**Ingredients:**
+## Ingredients
 
-1/4 cup unsalted butter, softened
+- 1/4 cup unsalted butter, softened
+- 1/4 cup granulated sugar
+- 1/4 cup packed brown sugar
+- 1/2 teaspoon vanilla extract
+- 1 small egg
+- 1/2 cup all-purpose flour
+- 1/4 teaspoon baking soda
+- 1/4 teaspoon salt
+- 1/2 cup sweetened shredded coconut
+- 1/4 cup chocolate chips
+- 1/4 cup chopped almonds
 
-1/4 cup granulated sugar
-
-1/4 cup packed brown sugar
-
-1/2 teaspoon vanilla extract
-
-1 small egg
-
-1/2 cup all-purpose flour
-
-1/4 teaspoon baking soda
-
-1/4 teaspoon salt
-
-1/2 cup sweetened shredded coconut
-
-1/4 cup chocolate chips
-
-1/4 cup chopped almonds
-
-**Instructions:**
+## Instructions
 
 1. Preheat and Prepare: Preheat your oven to 350°F (175°C) and line a baking sheet with parchment paper.
 
